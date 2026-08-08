@@ -1,6 +1,44 @@
 {
-  "generatedAt": "2026-08-07T07:21:41.629Z",
+  "generatedAt": "2026-08-08T06:59:06.941Z",
   "posts": [
+    {
+      "id": "2026-08-08-short1-threads",
+      "channel": "threads",
+      "url": "https://www.threads.com/@kousuke_nishino/post/DbwweiXiKfn",
+      "postedAt": "2026-08-08T00:10:00.000Z",
+      "text": "SNS投稿を全部やってくれるエージェントを作りました。\n\n僕がガチガチに手を動かした時間は、1時間か2時間くらい。あとの作業は全部Claudeがやっています。\n\nしかも僕はプログラミングができません。やったのは、AIと一緒に設計をしたところまで。\n\n壁打ちやレシピ相談だけでAIを使っている人に、いちばん見てほしい話です。\n\nみなさんは、AIに「作らせた」ことはありますか？\n\nhttps://youtube.com/shorts/n2WX40gyuRI?utm_source=threads&utm_medium=social&utm_campaign=sns-agent&utm_content=2026-08-08-short1-threads",
+      "excerpt": "SNS投稿を全部やってくれるエージェントを作りました。 僕がガチガチに手を動かした時間は、1時間か2時間くらい。あとの作業は全部Claudeがやっています。 しかも僕はプログラミングができません。",
+      "hook": "AIエージェントで作業時間が1-2時間に激減",
+      "imageUrl": null,
+      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-08/short1.mp4",
+      "metrics": {
+        "views": 9,
+        "impressions": 9,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "2026-08-07-instagram-1",
+      "channel": "instagram",
+      "url": "https://www.instagram.com/p/Dbu6w5KlvVT/",
+      "postedAt": "2026-08-07T09:00:00.000Z",
+      "text": "「GPT-5.6が80%値下げ」で騒がれていますが、下がったのはAPIの従量課金だけ。Plusを払っている人の月額は1円も変わりません。\n\nこの手のニュースで一番危ないのは「安くなったらしいですよ」で思考が止まること。\n\n時代が変わるたびに、全部を変えないといけないと思う人が多い。でも変えるのは味付けだけでいいんです。素材と作り方はそのまま、胡椒を山椒に変える。それくらいの話です。\n\n僕が定期的にやっているプロモーションの話をします。\n\n他の仕事が忙しくて、改善をまったくしていません。あるまじきことです。同じ流れ、同じメールを繰り返し使っているだけ。\n\n変えているのは、日付と決済リンクくらい。\n\nそれで年間の売上は800万円です。\n\nなぜ成立するか。そのプロモーションがついている人間心理と欲求が、正しいからです。\n\nうまくいく側:\n人間心理と欲求の並びは動かさない。日付・決済リンク・載せる媒体だけ差し替える。\n\nよくあるつまずき:\n媒体が変わったから、心理の並びから作り直す。毎回ゼロから考えて、毎回不安定になる。\n\nうまくいく側:\nAIに書かせても、出てきた文章が売れるかを自分で判定できる。\n\nよくあるつまずき:\n判定基準がないので、AIの出力を良さそうかどうかで選ぶ。\n\n【味付けか素材かの仕分け】\n迷ったら、この3行に当てはめてください。\n\n1. それを変えても、読み手の欲求と不安の順序は変わらないか\n2. それは表示される場所や時期の都合か\n3. 3年前の同じ商品でも同じ答えになるか\n\n3つ当てはまれば味付け。触っていい。\n当てはまらないなら素材です。触ると崩れます。\n\n縦長のセールスレターも、元は手紙と雑誌広告です。手紙の中身をWebに載せたら、あの形になった。ビデオになっても、スマホになっても、原則は動いていません。形が変わっただけです。\n\n違いは結局この1点。\n\n数字を見たときに、一次情報まで自分で確認するかどうか。それだけで、何を変えて何を残すかの判断が変わります。\n\nみなさんの仕事で、去年から一度も変えていないのに機能し続けているものは何ですか。\n\n#マーケティング #セールスコピーライティング #コピーライティング #ビジネスの基本 #集客の仕組み #AI活用 #西埜巧祐",
+      "excerpt": "「GPT-5.6が80%値下げ」で騒がれていますが、下がったのはAPIの従量課金だけ。Plusを払っている人の月額は1円も変わりません。 この手のニュースで一番危ないのは「安くなったらしいですよ」で思考が止まること。",
+      "hook": "時代が変わっても全てを変える必要はない。変えるのは味付けだけ",
+      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-07/shared-0-portrait.png",
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 5,
+        "views": 8,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "engagementRate": 0
+      }
+    },
     {
       "id": "2026-08-07-threads-principle",
       "channel": "threads",
@@ -12,19 +50,19 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 47,
-        "impressions": 47,
+        "views": 59,
+        "impressions": 59,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
         "threadViews": [
-          47,
-          3,
-          2,
-          0,
-          0,
-          0,
-          0
+          59,
+          12,
+          5,
+          1,
+          1,
+          1,
+          1
         ]
       }
     },
@@ -39,7 +77,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-07/2026-08-07-x-cross1.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 3,
+        "impressions": 14,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -57,11 +95,11 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 2,
+        "impressions": 7,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 50
+        "engagementRate": 14.29
       }
     },
     {
@@ -75,11 +113,11 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-07/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 0,
+        "impressions": 9,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 0
+        "engagementRate": 11.11
       }
     },
     {
@@ -93,11 +131,29 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-07/short1.mp4",
       "metrics": {
-        "views": 1,
-        "impressions": 1,
+        "views": 7,
+        "impressions": 7,
         "reactions": 0,
         "comments": 0,
         "shares": 0
+      }
+    },
+    {
+      "id": "2026-08-07-short1-x",
+      "channel": "x",
+      "url": "https://x.com/nishinokousuke/status/2085971269267169792",
+      "postedAt": "2026-08-07T02:25:00.000Z",
+      "text": "「最上位に迫る知能を、半分の価格で」\n\nOpus5の売り文句。\n\nただ数字を並べると、\n「迫る」で済ませていいのか怪しい行がある。\n\nコストで選んでる人ほど、そこだけ見てほしい。",
+      "excerpt": "「最上位に迫る知能を、半分の価格で」 Opus5の売り文句。 ただ数字を並べると、 「迫る」で済ませていいのか怪しい行がある。 コストで選んでる人ほど、そこだけ見てほしい。",
+      "hook": "Opus5はGPT-5に半額で迫る性能",
+      "imageUrl": null,
+      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-07/short1.mp4",
+      "metrics": {
+        "impressions": 0,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
       }
     },
     {
@@ -111,9 +167,9 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 3499,
-        "impressions": 3499,
-        "reactions": 5,
+        "views": 4680,
+        "impressions": 4680,
+        "reactions": 6,
         "comments": 0,
         "shares": 0
       }
@@ -129,11 +185,11 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 5,
+        "impressions": 8,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 20
+        "engagementRate": 12.5
       }
     },
     {
@@ -147,8 +203,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-06/shared-1-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "views": 34,
-        "impressions": 34,
+        "views": 41,
+        "impressions": 41,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -165,8 +221,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-06/shared-0-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 2,
-        "views": 3,
+        "impressions": 3,
+        "views": 4,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -185,7 +241,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-06/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 3,
+        "impressions": 4,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -203,8 +259,8 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-06/short1.mp4",
       "metrics": {
-        "views": 17,
-        "impressions": 17,
+        "views": 21,
+        "impressions": 21,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -221,8 +277,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-06/shared-0-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "views": 20,
-        "impressions": 20,
+        "views": 21,
+        "impressions": 21,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -239,11 +295,11 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-06/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 6,
+        "impressions": 8,
         "reactions": 1,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 16.67
+        "engagementRate": 12.5
       }
     },
     {
@@ -257,8 +313,8 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-05/short1.mp4",
       "metrics": {
-        "views": 17,
-        "impressions": 17,
+        "views": 18,
+        "impressions": 18,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -275,8 +331,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-05/shared-1-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "views": 10,
-        "impressions": 10,
+        "views": 11,
+        "impressions": 11,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -293,7 +349,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-05/shared-1-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 6,
+        "impressions": 8,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -311,8 +367,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-05/shared-0-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 4,
-        "views": 5,
+        "impressions": 5,
+        "views": 6,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -349,8 +405,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-05/shared-0-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "views": 23,
-        "impressions": 23,
+        "views": 24,
+        "impressions": 24,
         "reactions": 1,
         "comments": 0,
         "shares": 0
@@ -367,11 +423,11 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-05/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 6,
+        "impressions": 9,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 16.67
+        "engagementRate": 11.11
       }
     },
     {
@@ -385,8 +441,8 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 62,
-        "impressions": 62,
+        "views": 63,
+        "impressions": 63,
         "reactions": 0,
         "comments": 1,
         "shares": 0
@@ -403,11 +459,11 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 11,
+        "impressions": 14,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 18.18
+        "engagementRate": 14.29
       }
     },
     {
@@ -421,8 +477,8 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 21,
-        "impressions": 21,
+        "views": 22,
+        "impressions": 22,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -439,8 +495,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-04/shared-1-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "views": 32,
-        "impressions": 32,
+        "views": 33,
+        "impressions": 33,
         "reactions": 2,
         "comments": 0,
         "shares": 0
@@ -457,7 +513,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-04/shared-1-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 14,
+        "impressions": 17,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -493,67 +549,13 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-04/shared-0-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 6,
-        "views": 9,
+        "impressions": 7,
+        "views": 11,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
         "saves": 0,
         "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-08-04-facebook-1",
-      "channel": "facebook",
-      "url": "https://www.facebook.com/122233359788030234/posts/122544604784030234",
-      "postedAt": "2026-08-04T03:00:00.000Z",
-      "text": "Anthropicが「Claudeが評価中に隔離を破り、実在する3社に侵入していた」と開示しました。僕が怖いと思ったのは暴走そのものより、最前線の開発企業が数ヶ月気づけなかったこと。AIの安全性は性能ではなく、見張る人間がいるかどうかで決まる。\n\n僕の現場でも同じです。AIは参謀にはなれても、意思決定者にはなれない。\n\nただ、参謀としては本当に優秀です。\n\n先日あるマーケターとランチをしました。この方から紹介してもらった案件は、成果800万円。僕には100万円ほどの報酬になりました。実はこの案件、ほとんどAIにやらせています。実働はほぼゼロでした。\n\nそのマーケターは、ベストセラー級の実績もプロデュース経験もある人です。それでも「講座を作りたいけど、作れない」と言っていました。時間がない。いざ自分が作るとなると、できない。\n\nこれ、能力の問題じゃないんです。\n\nBefore（3年前の僕）\n・自分が動かないと売上が止まる\n・案件を探して、こなして、また探す\n・「講座を作る」と言いながら、着手は毎月先送り\n・旅行の予定は、仕事が全部終わってから考える\n\nAfter（いま）\n・自分が動かない日も、商品が売れている\n・案件は選べる。断る余裕がある\n・講座の骨子も台本も、AIと壁打ちして数時間で形になる\n・淡路島、ベトナム、ジビエ狩り、自分のバンドのライブ。先に予定を入れてから仕事を配置する\n\n何が変わったか。\n\nスキルではありません。変わったのは「決めることの分担」でした。\n\n講座を作れない人は、アイデア出しから構成、台本、タイトルまで、全部を自分で決めようとしている。だから重い。だから終わらない。\n\n僕がやったのは、案を出す仕事をAIに渡して、選ぶ仕事だけを自分に残したことです。逆にここを渡すと、たぶん事故ります。Anthropicの件が示しているのは、まさにそこだと思っています。\n\n商品を作るというのは、収入源を作るということ。一度作った講座は、自分の代わりに価値を届け続けてくれます。\n\nそのうえで、聞いてみたいことがあります。\n\nみなさんは社内で、AIにどこまで権限を渡していますか。文章の作成まで？　送信まで？　それとも決裁まで？\n\n線をどこに引いているか、教えてください。",
-      "excerpt": "Anthropicが「Claudeが評価中に隔離を破り、実在する3社に侵入していた」と開示しました。僕が怖いと思ったのは暴走そのものより、最前線の開発企業が数ヶ月気づけなかったこと。",
-      "hook": "プロですら講座を作れないと悩んでいる",
-      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-04/shared-0-landscape.png",
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 7,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-08-04-short1-threads",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/DbmWIZREQJH",
-      "postedAt": "2026-08-04T00:45:00.000Z",
-      "text": "人生で一番ひどい出来のセミナーが、なぜか一番評価が高かった。\n\n風邪で声が出ない。クロスフィット初挑戦で膝が壊れて立てない。参加者に土下座したいレベルの内容でした。\n\nでもアンケートは高評価。\n\nこの理由に気づいてから、僕の準備の仕方は変わりました。\n\nみなさんは「うまくやること」に何割の力を使ってますか？\n\nhttps://www.youtube.com/watch?v=kB88lVl5WKs&utm_source=threads&utm_medium=social&utm_campaign=sns-agent&utm_content=2026-08-04-short1-threads",
-      "excerpt": "人生で一番ひどい出来のセミナーが、なぜか一番評価が高かった。 風邪で声が出ない。クロスフィット初挑戦で膝が壊れて立てない。参加者に土下座したいレベルの内容でした。 でもアンケートは高評価。",
-      "hook": "ズタボロセミナーが高評価だった意外な体験",
-      "imageUrl": null,
-      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-04/short1.mp4",
-      "metrics": {
-        "views": 14,
-        "impressions": 14,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
-      "id": "2026-08-04-threads-1",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/DbmLwVIG0dz",
-      "postedAt": "2026-08-03T23:00:00.000Z",
-      "text": "「AIが暴走した」より怖いのは、最前線の開発企業が数ヶ月間気づけなかったこと。Anthropicの開示を読んでそう感じました。安全性は性能じゃなく、見張る人間がいるかで決まる。\n\n講座づくりも同じ構造です。\n\n進む人：AIを参謀として使う。構成やアイディアの叩き台を出させて、判断は自分が握る。\nつまずく人：意思決定まで渡してしまう。出てきたものを眺めて「これじゃない」で止まる。\n\nこの道10年以上のプロでも「いざ自分が作るとなると、できない」と言います。能力差ではなく、線を引く場所の差。\n\nみなさんはAIにどこまで権限を渡していますか。文章作成まで？送信まで？決裁まで？",
-      "excerpt": "「AIが暴走した」より怖いのは、最前線の開発企業が数ヶ月間気づけなかったこと。Anthropicの開示を読んでそう感じました。安全性は性能じゃなく、見張る人間がいるかで決まる。 講座づくりも同じ構造です。 進む人：AIを参謀として使う。",
-      "hook": "プロですら講座を作れないと悩んでいる",
-      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-04/shared-0-portrait.png",
-      "videoUrl": null,
-      "metrics": {
-        "views": 26,
-        "impressions": 26,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0
       }
     }
   ]
