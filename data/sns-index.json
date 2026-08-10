@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T07:48:10.593Z",
+  "generatedAt": "2026-08-10T08:03:16.840Z",
   "posts": [
     {
       "id": "2026-08-10-threads-principle",
@@ -12,13 +12,13 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 124,
-        "impressions": 124,
+        "views": 125,
+        "impressions": 125,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
         "threadViews": [
-          124,
+          125,
           5,
           4,
           5,
