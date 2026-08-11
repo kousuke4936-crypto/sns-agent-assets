@@ -1,6 +1,134 @@
 {
-  "generatedAt": "2026-08-10T08:03:16.840Z",
+  "generatedAt": "2026-08-11T07:13:24.806Z",
   "posts": [
+    {
+      "id": "2026-08-11-facebook-1",
+      "channel": "facebook",
+      "url": "https://www.facebook.com/122233359788030234/posts/122545496438030234",
+      "postedAt": "2026-08-11T03:00:00.000Z",
+      "text": "「無料で学んだ人あるある」を書きます。僕も全部やってきました。\n\n・YouTubeで「いい話だった」とメモを取る\n・ブックマークして、二度と開かない\n・同じテーマの動画を、違う人で3本見る\n・「知ってる」が増えるのに、やったことは増えない\n・見終わってベッドでゴロン。翌朝、内容を思い出せない\n\nこれ、笑い話にしたいんですけど、僕の20代はほぼこれでした。\n\nChatGPTのo3が来年の8月26日でChatGPTから提供終了する、というニュースを見て、同じ構造だなと思ったんです。無料で流れてくるものは、自分の都合とは関係なく消える。頼りきっていたことに、消える日が来て初めて気づく。\n\nで、僕が変わったきっかけは、お金を払ったことでした。\n\n会社員時代、初めてボーナスが入った日。上司に「このお金で、何を学びますか」と聞いたんです。「俺ならビジネススクールに行くかな」と言われて、僕はそれを真っ先に実行しました。人生でもかなり大きな投資でした。でも、そこで学んだことは今でも活きています。\n\n無料で3本見たときと、払って1回受けたときの差は、内容ではありません。真剣さです。払うと、元を取ろうとして手が動く。それだけです。\n\nなので僕は、自分の中にひとつルールを置いています。\n\n**同じテーマを無料で3回見て、まだ一度も実行していないなら、そのテーマは有料に切り替える。**\n\n3回見てやっていないなら、情報が足りないんじゃなくて、真剣さが足りない。お金を払わないと、人は真剣になれません。結局、ここに尽きると思います。\n\n今これを書いているのも、シェアラウンジです。出張が毎月あるので、そういう時はお金を払ってラウンジを借りたり、ホテルのクラブラウンジで書いたりします。昔3、4万で泊まれたホテルが10万を超える時代なので、正直きついです。家でも書けます。\n\nでも、払うと書くんですよ。無料の場所だと、コーヒー飲んで終わります。\n\n趣味のベースも同じで、お金を払って習っているから練習するし、成長も実感できる。無料の教則動画だけだったら、たぶん半年前に触らなくなっていました。\n\n投資を渋っている間は、何も得られない。得ているのは「いいこと学べたな」という気分だけです。気分は資産になりません。\n\nみなさんに聞きたいのは、金額ではなくて基準のほうです。\n\n無料と有料の線を、どこで引いていますか。\n僕は「3回見て動いていないなら払う」ですが、他の引き方があれば知りたいです。",
+      "excerpt": "「無料で学んだ人あるある」を書きます。僕も全部やってきました。 ・YouTubeで「いい話だった」とメモを取る ・ブックマークして、二度と開かない ・同じテーマの動画を、違う人で3本見る ・「知ってる」が増えるのに、やったことは増えない ・…",
+      "hook": "お金を払わないと人は真剣になれない",
+      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-11/shared-0-landscape.png",
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 0,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-08-11-short1-threads",
+      "channel": "threads",
+      "url": "https://www.threads.com/@kousuke_nishino/post/Db4T5XWAa3M",
+      "postedAt": "2026-08-11T00:11:00.000Z",
+      "text": "歯医者さんのコンサル。蓄電池の販売。やったことないジャンルの仕事って、普通に来るんですよ。\n\n知識で解ける問題じゃなくて、まったく新しい場の問題をどう解くか。そこのスコアが1.5%から30.2%まで動いた。\n\n未経験の業界に入るときの怖さが、少し変わる数字だと思っています。\n\nみなさんは今、どのジャンルで「分からないまま」始めていますか。",
+      "excerpt": "歯医者さんのコンサル。蓄電池の販売。やったことないジャンルの仕事って、普通に来るんですよ。 知識で解ける問題じゃなくて、まったく新しい場の問題をどう解くか。そこのスコアが1.5%から30.2%まで動いた。",
+      "hook": "未経験ジャンルの問題解決能力が激変",
+      "imageUrl": null,
+      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-11/short1.mp4",
+      "metrics": {
+        "views": 7,
+        "impressions": 7,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "2026-08-11-threads-1",
+      "channel": "threads",
+      "url": "https://www.threads.com/@kousuke_nishino/post/Db4NKaCIO7a",
+      "postedAt": "2026-08-10T23:00:00.000Z",
+      "text": "o3がChatGPTから消える。本当に困るのは「あのモデル1本で回してた人」だけです。\n\n無料の範囲だけでAIを使っている人のチェック項目。\n\n・出力をそのまま資料に貼っている → 同じ質問を別のモデルにも投げて突き合わせる\n\n・使うモデルが1つしかない → 有料で2つ持って、用途で分ける\n\n・プロンプトと出力を残していない → 手元に保存して、消えても再現できるようにする\n\n・学びはYouTubeで足りていると思っている → 払って学んだものを1つ持つ\n\n1つでも当てはまったら、今日は1項目だけ直せばいい。\n\nお金を払わないと、人は真剣になれない。無料で拾った情報は「いいこと学べたな」で、ベッドでゴロンで終わります。\n\nあなたの仕事で、外部の都合で止まったら困る「1本」はどれですか？",
+      "excerpt": "o3がChatGPTから消える。本当に困るのは「あのモデル1本で回してた人」だけです。 無料の範囲だけでAIを使っている人のチェック項目。 ・出力をそのまま資料に貼っている → 同じ質問を別のモデルにも投げて突き合わせる ・使うモデルが1つ…",
+      "hook": "お金を払わないと人は真剣になれない",
+      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-11/shared-0-portrait.png",
+      "videoUrl": null,
+      "metrics": {
+        "views": 1,
+        "impressions": 1,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "2026-08-11-x-1",
+      "channel": "x",
+      "url": "https://x.com/nishinokousuke/status/2086943210178301954",
+      "postedAt": "2026-08-10T22:30:00.000Z",
+      "text": "ChatGPTのo3が8月26日で終了。\n\n無料のAI1本で判断していた人ほど、これが効く。\n\n僕のルールは1つ。\n集める情報は無料でいい。\n決める情報にだけ、金を払う。\n\n出張先でラウンジ代を払うのも同じ理由。\n払った額の分だけ、真剣になる。\n\n無料で得た情報は、だいたい実行されない。",
+      "excerpt": "ChatGPTのo3が8月26日で終了。 無料のAI1本で判断していた人ほど、これが効く。 僕のルールは1つ。 集める情報は無料でいい。 決める情報にだけ、金を払う。 出張先でラウンジ代を払うのも同じ理由。 払った額の分だけ、真剣になる。",
+      "hook": "お金を払わないと人は真剣になれない",
+      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-11/shared-0-landscape.png",
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 3,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 33.33
+      }
+    },
+    {
+      "id": "2026-08-10-threads-2",
+      "channel": "threads",
+      "url": "https://www.threads.com/@kousuke_nishino/post/Db24jVMICQr",
+      "postedAt": "2026-08-10T11:00:00.000Z",
+      "text": "LPを見る前に「これ、うまくいってないな」と思ったことがあります。\n\n根拠は一点だけ。ペルソナが「既存客の中の、ある一部の層」から作られていたことです。その層が世の中に何人いるのか、誰も数えていなかった。\n\n僕が最初に見るのは2つです。\n・そのペルソナと同じ人が、市場に何人いると見積もったのか\n・その人が直近で何に困って検索したか、書かれているか\n\nどちらも空欄なら、実在の人を見ていません。\n\nその会社は月100万円以上の広告費を、10ヶ月そのまま流し続けていました。プロセスは教科書通りだったんです。\n\n聞きたいのは、ペルソナ資料を作ったことがある人。\n\nその人が市場に何人いるか、数えましたか？",
+      "excerpt": "LPを見る前に「これ、うまくいってないな」と思ったことがあります。 根拠は一点だけ。ペルソナが「既存客の中の、ある一部の層」から作られていたことです。その層が世の中に何人いるのか、誰も数えていなかった。 僕が最初に見るのは2つです。",
+      "hook": "存在しないペルソナを狙い月100万円の広告費を垂れ流した会社",
+      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-10/shared-1-portrait.png",
+      "videoUrl": null,
+      "metrics": {
+        "views": 11,
+        "impressions": 11,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "2026-08-10-x-2",
+      "channel": "x",
+      "url": "https://x.com/nishinokousuke/status/2086762082880393647",
+      "postedAt": "2026-08-10T10:30:00.000Z",
+      "text": "存在しないペルソナに、月100万円を10ヶ月。\n\nリサーチしてペルソナを立て、LPを作る。プロセスは正しい。\n\nでも、その層が実在するかは誰も確かめていなかった。\n\n知っているだけだと、プロセスの正しさで安心してしまう。\n\nあなたのペルソナ、実際に会って話したことはありますか。",
+      "excerpt": "存在しないペルソナに、月100万円を10ヶ月。 リサーチしてペルソナを立て、LPを作る。プロセスは正しい。 でも、その層が実在するかは誰も確かめていなかった。 知っているだけだと、プロセスの正しさで安心してしまう。",
+      "hook": "存在しないペルソナを狙い月100万円の広告費を垂れ流した会社",
+      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-10/shared-1-landscape.png",
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 8,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-08-10-instagram-1",
+      "channel": "instagram",
+      "url": "https://www.instagram.com/p/Db2pIfZIKHm/",
+      "postedAt": "2026-08-10T09:00:00.000Z",
+      "text": "「専門家が言っていたので、このLPにしました」\n毎月100万円以上の広告費を、10ヶ月そのまま垂れ流した会社の話です。\n\n何が起きていたか。\n\n【Before】\n・代理店がリサーチしてペルソナを1人に決めた\n・ペルソナに響くLPを作った\n・プロセスが正しいので疑わなかった\n・獲得数が落ちても回し続けた\n\n【After】\n・そのペルソナが実在するか先に確認した\n・実在する客の言葉でLPを書き直した\n・制作物が生む結果から逆算するようにした\n・数字が落ちたらペルソナ側を疑うようにした\n\nこの「実在するか確認する」を、手順に開きます。\n\n①過去12ヶ月の受注リストを開いて、そのペルソナに当てはまる人が何件いるか数える。0件なら、その人物は架空です。\n\n②実在したなら、その人が申込前に送ってきた相談文・問い合わせ文を、そのまま3つ引っ張る。要約しない。書いた通りの言葉を使う。\n\n③LPのCVRが基準を下回る月が2ヶ月続いたら、コピーではなくペルソナ側を疑う。文言の微調整に入るのは、その確認のあとです。\n\n僕はこの会社の話を聞いたとき、LPを見る前に「うまくいっていないだろうな」と思いました。\n\nプロセスが正しいことと、その先に出てくる制作物が正しいことは、別の話だからです。\n\n「リサーチして、ペルソナを作り、LPを作る」\nこのプロセス自体は正しい。だから、知っているだけの状態では、問題点が見えません。\n\nできる状態になると、そのプロセスから何が出てくるかまで、先に見えます。\n\n誰かがやっていることを、そのままやることは戦略ではありません。\n\n今のあなたのペルソナ、過去12ヶ月の受注リストに何件いましたか。\n\n#マーケティング #webマーケティング #広告運用 #lp制作 #ペルソナ設計 #集客 #中小企業経営 #経営者と繋がりたい #マーケティング戦略",
+      "excerpt": "「専門家が言っていたので、このLPにしました」 毎月100万円以上の広告費を、10ヶ月そのまま垂れ流した会社の話です。 何が起きていたか。 【Before】 ・代理店がリサーチしてペルソナを1人に決めた ・ペルソナに響くLPを作った ・プロ…",
+      "hook": "誰かの真似をそのままやることは戦略じゃない",
+      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-10/shared-0-portrait.png",
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 4,
+        "views": 4,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "engagementRate": 0
+      }
+    },
     {
       "id": "2026-08-10-threads-principle",
       "channel": "threads",
@@ -12,19 +140,19 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 125,
-        "impressions": 125,
+        "views": 138,
+        "impressions": 138,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
         "threadViews": [
-          125,
+          138,
+          7,
+          6,
+          7,
           5,
           4,
-          5,
-          4,
-          3,
-          2
+          3
         ]
       }
     },
@@ -39,11 +167,11 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 0,
+        "impressions": 22,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 0
+        "engagementRate": 4.55
       }
     },
     {
@@ -57,7 +185,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-10/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 0,
+        "impressions": 5,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -75,8 +203,8 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-10/short1.mp4",
       "metrics": {
-        "views": 39,
-        "impressions": 39,
+        "views": 40,
+        "impressions": 40,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -93,8 +221,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-10/shared-0-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "views": 31,
-        "impressions": 31,
+        "views": 32,
+        "impressions": 32,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -111,7 +239,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-10/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 2,
+        "impressions": 12,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -129,8 +257,8 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 14,
-        "impressions": 14,
+        "views": 15,
+        "impressions": 15,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -147,11 +275,11 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 3,
+        "impressions": 5,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 33.33
+        "engagementRate": 20
       }
     },
     {
@@ -165,8 +293,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-09/shared-1-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "views": 26,
-        "impressions": 26,
+        "views": 27,
+        "impressions": 27,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -219,8 +347,8 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-09/short1.mp4",
       "metrics": {
-        "views": 21,
-        "impressions": 21,
+        "views": 22,
+        "impressions": 22,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -237,8 +365,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-09/shared-0-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "views": 9,
-        "impressions": 9,
+        "views": 10,
+        "impressions": 10,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -273,8 +401,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-08/shared-1-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "views": 21,
-        "impressions": 21,
+        "views": 22,
+        "impressions": 22,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -309,8 +437,8 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-08/short1.mp4",
       "metrics": {
-        "views": 13,
-        "impressions": 13,
+        "views": 14,
+        "impressions": 14,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -327,8 +455,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-07/shared-0-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 5,
-        "views": 8,
+        "impressions": 6,
+        "views": 9,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -347,14 +475,14 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 63,
-        "impressions": 63,
+        "views": 64,
+        "impressions": 64,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
         "threadViews": [
-          63,
-          15,
+          64,
+          16,
           5,
           1,
           1,
@@ -392,11 +520,11 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 9,
+        "impressions": 10,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 11.11
+        "engagementRate": 10
       }
     },
     {
@@ -428,136 +556,8 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-07/short1.mp4",
       "metrics": {
-        "views": 9,
-        "impressions": 9,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
-      "id": "2026-08-07-short1-x",
-      "channel": "x",
-      "url": "https://x.com/nishinokousuke/status/2085971269267169792",
-      "postedAt": "2026-08-07T02:25:00.000Z",
-      "text": "「最上位に迫る知能を、半分の価格で」\n\nOpus5の売り文句。\n\nただ数字を並べると、\n「迫る」で済ませていいのか怪しい行がある。\n\nコストで選んでる人ほど、そこだけ見てほしい。",
-      "excerpt": "「最上位に迫る知能を、半分の価格で」 Opus5の売り文句。 ただ数字を並べると、 「迫る」で済ませていいのか怪しい行がある。 コストで選んでる人ほど、そこだけ見てほしい。",
-      "hook": "Opus5はGPT-5に半額で迫る性能",
-      "imageUrl": null,
-      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-07/short1.mp4",
-      "metrics": {
-        "impressions": 11,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-08-06-threads-thread",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/DbszrMLExE1",
-      "postedAt": "2026-08-06T12:30:00.000Z",
-      "text": "ベースの個別レッスンを更新するとき、僕は「弾ける曲を増やす」を目標にしようとしていた。先生に相談したら、まったく違う答えが返ってきた。この差が、成果の差そのものだった。",
-      "excerpt": "ベースの個別レッスンを更新するとき、僕は「弾ける曲を増やす」を目標にしようとしていた。先生に相談したら、まったく違う答えが返ってきた。この差が、成果の差そのものだった。",
-      "hook": "自分に合う方法と成功する方法は違う",
-      "imageUrl": null,
-      "videoUrl": null,
-      "metrics": {
-        "views": 4686,
-        "impressions": 4686,
-        "reactions": 6,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
-      "id": "2026-08-06-x-thread",
-      "channel": "x",
-      "url": "https://x.com/nishinokousuke/status/2085335175634862496",
-      "postedAt": "2026-08-06T12:00:00.000Z",
-      "text": "ベースの個別レッスンの更新に50万円。何を目標にすべきか先生に聞いたら、返ってきた答えは僕の想定とまるで違った。「ほへ？」としか言えなかった。その一言で、自分に合う方法と成功する方法は別物だと分かった。",
-      "excerpt": "ベースの個別レッスンの更新に50万円。何を目標にすべきか先生に聞いたら、返ってきた答えは僕の想定とまるで違った。「ほへ？」としか言えなかった。その一言で、自分に合う方法と成功する方法は別物だと分かった。",
-      "hook": "自分に合う方法と成功する方法は違う",
-      "imageUrl": null,
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 9,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 11.11
-      }
-    },
-    {
-      "id": "2026-08-06-threads-2",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/Dbsnc0NoCtR",
-      "postedAt": "2026-08-06T11:00:00.000Z",
-      "text": "「ノウハウコレクターだから成功できない」、あれ逆でした。\n\n僕が会わせてもらってきた大富豪は、例外なく信じられない量の情報を持っています。法律、心理、節税、他国の価値観の違いまで。話すたびに勉強不足を反省します。\n\n差がついたのは、仕入れる量ではなく出し方でした。僕のお客さんは新しい知識をひとつも足さず、手持ちのノウハウを講座にまとめただけで過去最高売上を更新しています。\n\nみなさんが学んだのに、まだ商品の形にしていないものは何ですか？",
-      "excerpt": "「ノウハウコレクターだから成功できない」、あれ逆でした。 僕が会わせてもらってきた大富豪は、例外なく信じられない量の情報を持っています。法律、心理、節税、他国の価値観の違いまで。話すたびに勉強不足を反省します。",
-      "hook": "大富豪ほど信じられないほど情報と知識を持っている",
-      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-06/shared-1-portrait.png",
-      "videoUrl": null,
-      "metrics": {
-        "views": 43,
-        "impressions": 43,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
-      "id": "2026-08-06-instagram-1",
-      "channel": "instagram",
-      "url": "https://www.instagram.com/p/DbsV7paIEis/",
-      "postedAt": "2026-08-06T09:00:00.000Z",
-      "text": "「ノウハウコレクターだから成功できない」\nこれ、僕は間違いだと思っている。\n\n僕がコンサルで見てきた、ある方の話です。\n仮に田中さんとします。\n\nBefore\n・あるジャンルのプロフェッショナル\n・単価は比較的高い\n・持っているノウハウは十分\n・「講座にして売った方がいい」と言われて、できないと思っていた\n・売上は、そのときの過去最高が天井\n\nAfter\n・あるジャンルのプロフェッショナル（同じ）\n・単価も同じ\n・持っているノウハウも同じ\n・乗り気ではないまま、重い腰を上げてやってみた\n・その講座の売上だけで、過去最高を更新した\n\n新しい知識を仕入れたわけじゃない。\n\n変わったのはスキルじゃなくて、行動したかどうか、その一点だけでした。\n\n\n僕は仕事柄、大富豪と呼ばれる人たちに会わせてもらいます。\n法律、心理、業界知識、マーケティング、投資、資産形成、節税、他業界の人脈、他国の価値観の違いまで。\n\n話すたびに「もっと勉強しないとな」と反省します。\n\nうまくいっている人ほど、知識も情報も持っている。\n不動産会社で一番情報を持っているのは、窓口の社員さんより社長さんです。\n\nつまり、集めることが問題なんじゃない。\n\n集めたものが、正しい使い方で、正しい行動につながっているか。\nそこだけが違いを作っています。\n\nだからノウハウコレクターであることに引け目を感じなくていい。\n知識も情報も持たない人が、どうやって成功するのか、僕は逆に知りたいくらいです。\n\n\nひとつ聞きたいことがあります。\n\nあなたが学んだのに、まだ一度も試していないノウハウを、ひとつだけ挙げるとしたら何ですか。\n\n書き出した瞬間に、それが今週やることになります。\n\nー西埜巧祐\n\n#ノウハウコレクター #マーケティング #コンテンツ販売 #経営者 #個人事業主 #行動力 #ビジネスの学び #西埜巧祐",
-      "excerpt": "「ノウハウコレクターだから成功できない」 これ、僕は間違いだと思っている。 僕がコンサルで見てきた、ある方の話です。 仮に田中さんとします。 Before ・あるジャンルのプロフェッショナル ・単価は比較的高い ・持っているノウハウは十分 …",
-      "hook": "ノウハウコレクターになってもいい、と言われたらどう思う？",
-      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-06/shared-0-portrait.png",
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 3,
-        "views": 4,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "saves": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-08-06-facebook-1",
-      "channel": "facebook",
-      "url": "https://www.facebook.com/122233359788030234/posts/122544848498030234",
-      "postedAt": "2026-08-06T03:00:00.000Z",
-      "text": "ノウハウコレクターとは、要するに「在庫を抱えたまま棚に並べていない店」である。\n\n商品はある。むしろ他店より多い。ただ、客が手に取れる場所に一つも置いていない。\n\n「ノウハウコレクターだから成功しない」と言われますが、僕はこれは順番が逆だと思っています。\n\n成功している人ほど、知識と情報を大量に持っています。不動産会社で、窓口の社員さんと社長さんを比べてみてください。知識も情報も、量と質の両方で社長さんが上です。「その会社で一番情報を持っているのは社長だ」と言われるくらいに。\n\n僕は仕事柄、多くの大富豪と会わせてもらいます。話していて不思議になります。法律、心理、業界知識、マーケティング。投資、資産形成、節税、他業界の人脈、政財界のつながり。さらに他国のビジネス状況や価値観、法律の違いまで。\n\nあの人たちは、立派なノウハウコレクターです。毎回、僕はもっと勉強しないとなと反省して帰ります。\n\nだから、集めていること自体に引け目を感じる必要はありません。集めていない人がどうやってうまくいくのか、僕は逆に知りたい。\n\nでは何が違いを生むのか。\n\nお客さんの話をします。仮に田中さんとします。あるジャンルのプロで、比較的高い単価で契約を取っていた方でした。コンサルで僕はこう言いました。\n\n「田中さんはそのジャンルのプロだから、ノウハウをまとめて講座にして売った方がいいよ」\n\n返ってきたのは「そうなんですけど、できないと思うんですよね」でした。相当、乗り気ではありませんでした。\n\nそれでも重い腰を上げて形にしたら、売れました。しかも、その講座の売上だけで、過去最高の売上を更新してしまった。\n\n田中さんは、新しい知識を仕入れていません。棚の奥にあったものを一つ、店先に出しただけです。\n\nここが違いです。集めた量ではなく、棚から出したかどうか。\n\nただ「行動が大事だよね」で行動できた人を、僕は見たことがありません。僕自身、最近太ってきたので筋トレしたいなと思っていますが、できた試しがない。だから、出すものを選ぶ基準を決めておく方が早いです。\n\n棚から一つ取り出すときの基準を、僕は3つに絞っています。\n\n①すでに誰かに口で説明したことがある（説明できるなら、言語化は半分終わっています）\n②その領域でお金をもらった経験がある（自分の自信より、他人が払った事実を信じる）\n③1週間以内に形にできる粒度（それより大きいものは、棚から出る前に力尽きます）\n\n3つ全部を満たすものだけを出す。満たさないものは棚に戻す。それだけで、在庫は資産に変わり始めます。\n\n持っている知識の中で、この3つを全部満たすものを1つだけ挙げるとしたら、何になりますか。",
-      "excerpt": "ノウハウコレクターとは、要するに「在庫を抱えたまま棚に並べていない店」である。 商品はある。むしろ他店より多い。ただ、客が手に取れる場所に一つも置いていない。",
-      "hook": "ノウハウコレクターになってもいい、と言われたらどう思う？",
-      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-06/shared-0-landscape.png",
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 6,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-08-06-short1-threads",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/Dbrw7RPDkTT",
-      "postedAt": "2026-08-06T00:36:00.000Z",
-      "text": "プロンプトがうまくいかないとき、指示を足していませんか。\n\nOpus5に関しては、逆でした。公式ドキュメントに「指示を減らすほど良くなる」と書いてある。\n\n放っておくと、言わなくても自分で検証して、丁寧に報告して、手厚く書きすぎる。その分だけ使用量が増えていく。\n\n足すクセがある人ほど、動画の後半が刺さると思います。\n\nみなさんのプロンプト、いま何行ありますか。\n\nhttps://youtube.com/shorts/aQ4k9AwJ6xs?utm_source=threads&utm_medium=social&utm_campaign=sns-agent&utm_content=2026-08-06-short1-threads",
-      "excerpt": "プロンプトがうまくいかないとき、指示を足していませんか。 Opus5に関しては、逆でした。公式ドキュメントに「指示を減らすほど良くなる」と書いてある。 放っておくと、言わなくても自分で検証して、丁寧に報告して、手厚く書きすぎる。",
-      "hook": "Opus5は指示を減らすほど賢くなる",
-      "imageUrl": null,
-      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-06/short1.mp4",
-      "metrics": {
-        "views": 22,
-        "impressions": 22,
+        "views": 10,
+        "impressions": 10,
         "reactions": 0,
         "comments": 0,
         "shares": 0
