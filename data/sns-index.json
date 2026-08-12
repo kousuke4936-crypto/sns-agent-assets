@@ -1,6 +1,208 @@
 {
-  "generatedAt": "2026-08-11T07:13:24.806Z",
+  "generatedAt": "2026-08-12T07:38:14.066Z",
   "posts": [
+    {
+      "id": "2026-08-12-facebook-1",
+      "channel": "facebook",
+      "url": "https://www.facebook.com/122233359788030234/posts/122545624514030234",
+      "postedAt": "2026-08-12T03:00:00.000Z",
+      "text": "2年以上赤字が続いた事業を、僕は畳まなかった。\n\nその事業が、のちに大きな収益の柱になりました。もし短期のリターンだけで見ていたら、間違いなく切っていたと思う。\n\n一方で、僕はかなり細かい人間です。\n\n今年やって良かったのは交通費の削減。ダイナースカードを作って、移動を飛行機に変えただけ。マイルなどを含めると、今までの経費を15%〜50%以上削れる試算になりました。\n\n経営者は意外にがめつい。\n\n毎回シャンパンを入れて全部払う人もいるし、一円単位で割り勘する人、別の店の明細を見て「これ、何のお金ですか？」と問いただす人もいる。どちらも一長一短です。\n\nがめつさの良い点は、投資に対するリターンが極めて明確になること。この投資でこのリターンは素晴らしい、と実感できる。これは本当に良いことです。\n\n悪い点は、投資への感度が下がること。\n\n違いは時間軸だけなんです。すぐ得られるリターンに注目する人は、だいたい30日〜60日で判断する。でもビジネスには、プラスになるまで3〜5年かかる投資がある。\n\nだから僕は、投資を3つに分けて考えるようにしています。\n\n・30日〜60日で数字が動くもの（経費、仕入れ、細かい支出）→ がめつく削っていい\n・成果まで3年以上かかるもの（人、事業）→ 短期の数字で判断しない。人は戦力化まで3年かかるし、0から育てた人のほうが長く働いてくれる\n・そもそも数値で測れないもの（オフィスのような場）→ 「無くしたら何が壊れるか」で判断する\n\n経費削減は短期では効きます。でも会社の力がつくのは、投資したところだけ。\n\n短期の目線ばかりだと、必要な投資に目が向かなくなる。それで成長軌道に乗れない会社を、いくつも見てきました。\n\nひとつ聞きたいです。\n\nいま抱えている「まだリターンが見えていない投資」を1つだけ挙げるとしたら、何ですか。人か、場所か、事業か。\n\nPs. 細かさが災いして、マイルやプレミアムポイントの計算をするようになってしまいました。これはあまり良くない。\n\nー西埜巧祐",
+      "excerpt": "2年以上赤字が続いた事業を、僕は畳まなかった。 その事業が、のちに大きな収益の柱になりました。もし短期のリターンだけで見ていたら、間違いなく切っていたと思う。 一方で、僕はかなり細かい人間です。 今年やって良かったのは交通費の削減。",
+      "hook": "経営者は意外にがめつい？投資リターンが明確になる利点とは",
+      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-12/shared-0-landscape.png",
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 0,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-08-12-short1-threads",
+      "channel": "threads",
+      "url": "https://www.threads.com/@kousuke_nishino/post/Db7Ho6xj0xm",
+      "postedAt": "2026-08-12T00:15:00.000Z",
+      "text": "僕はプログラミングが書けません。\n\nそれでも広告と決済のデータを集計するスプレッドシートは動いているし、今は自分のコンテンツをSNSで拡散してくれるエージェントを組んでいます。\n\n書けないままでも作れる。その工程を動画で全部出しました。\n\n作れるものが増えると、逆に「何を自動化しないか」で悩み始めます。みなさんが手放したくない作業って何ですか。",
+      "excerpt": "僕はプログラミングが書けません。 それでも広告と決済のデータを集計するスプレッドシートは動いているし、今は自分のコンテンツをSNSで拡散してくれるエージェントを組んでいます。 書けないままでも作れる。その工程を動画で全部出しました。",
+      "hook": "Opus5でプログラミング不要の自動化構築",
+      "imageUrl": null,
+      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-12/short1.mp4",
+      "metrics": {
+        "views": 5,
+        "impressions": 5,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "2026-08-12-threads-1",
+      "channel": "threads",
+      "url": "https://www.threads.com/@kousuke_nishino/post/Db6vcENAVfq",
+      "postedAt": "2026-08-11T23:00:00.000Z",
+      "text": "カードを1枚作っただけで、交通費が15〜50%削れました。うれしかったです。でもこの計算力は、投資を止める側にも回る。\n\n僕の振り分け基準はこれだけです。\n\n30〜60日で判断していい費目：交通費、移動、通信などの経費\n3〜5年で判断する費目：人、オフィス、事業\n\n人は戦力化まで3年かかることがある。僕が持っていた事業は2年以上赤字で、その後に収益の柱になりました。30〜60日の目で見ていたら、確実に切っていた。\n\n経費削減が得意な人ほど、長期の投資に鈍くなる。ここが怖いところです。\n\nいま30〜60日の目で判断しかけている費目、ひとつ挙げるとしたら何ですか？",
+      "excerpt": "カードを1枚作っただけで、交通費が15〜50%削れました。うれしかったです。でもこの計算力は、投資を止める側にも回る。 僕の振り分け基準はこれだけです。",
+      "hook": "経営者は意外にがめつい？投資リターンが明確になる利点とは",
+      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-12/shared-0-portrait.png",
+      "videoUrl": null,
+      "metrics": {
+        "views": 7,
+        "impressions": 7,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "2026-08-12-x-1",
+      "channel": "x",
+      "url": "https://x.com/nishinokousuke/status/2087305605304270952",
+      "postedAt": "2026-08-11T22:30:00.000Z",
+      "text": "2年以上赤字だった事業を、僕は何度も「切るべきだ」と計算していた。\n\n疑ったのは投資額。違った。\n\n僕の時間軸が30日しかなかっただけ。\n\nその事業は今、収益の柱。\n\n今は、数字がすぐ出ない投資にも枠を取っている。\n\n切らずに残してよかった投資、ありますか。",
+      "excerpt": "2年以上赤字だった事業を、僕は何度も「切るべきだ」と計算していた。 疑ったのは投資額。違った。 僕の時間軸が30日しかなかっただけ。 その事業は今、収益の柱。 今は、数字がすぐ出ない投資にも枠を取っている。",
+      "hook": "経営者は意外にがめつい？投資リターンが明確になる利点とは",
+      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-12/shared-0-landscape.png",
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 4,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-08-11-threads-thread",
+      "channel": "threads",
+      "url": "https://www.threads.com/@kousuke_nishino/post/Db5z5XZiceW",
+      "postedAt": "2026-08-11T12:30:00.000Z",
+      "text": "これまで数え切れないほどの会社の数字を見てきました。その中で、数字の分析をちゃんとやっている会社は0でした。\n\n0社です。コンサルやセールスコピーライターも含めて、ひとりもいませんでした。\n\n先日、あるクライアントの数字を細かく見ていったら、7年間ずっと見落とされていたものが出てきました。広告費とリソースを、どれだけ損していたか。\n\n何をしたかというと、特別なことは一つもしていません。",
+      "excerpt": "これまで数え切れないほどの会社の数字を見てきました。その中で、数字の分析をちゃんとやっている会社は0でした。 0社です。コンサルやセールスコピーライターも含めて、ひとりもいませんでした。",
+      "hook": "ちゃんと数字分析している会社は0だった",
+      "imageUrl": null,
+      "videoUrl": null,
+      "metrics": {
+        "views": 223,
+        "impressions": 223,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "2026-08-11-instagram-cross2",
+      "channel": "instagram",
+      "url": "https://www.instagram.com/p/Db5ihuKIMek/",
+      "postedAt": "2026-08-11T12:00:00.000Z",
+      "text": "自分に合う方法と、成功する方法は、別物だった。\n\nベースのレッスンを更新するときに、それを思い知った。\n\n\n僕が用意していた目標はこうだった。\n\n・「弾ける曲を増やす」\n・今できることの延長で考える\n・目標は自分で決める\n\n\n先生に相談したら、まったく違う答えが返ってきた。\n\n・僕が挙げた目標ではない\n・今できることの外側から考える\n・目標は、できる人が決める\n\n\n順番に並べてみると、ズレていたのは能力じゃなかった。\n\n「何を目標にするか」を決める人が、間違っていた。\n\n\n自分で決めた目標は、いつも自分に合っている。\n\nやりやすいし、進んでいる感じもする。\n\nただ、それは「今の自分が思いつく範囲」でしかない。\n\n\n先生は、僕が思いつかない場所を指す。\n\nだから最初は違和感がある。合ってない気がする。\n\nその違和感が、成果の差そのものだった。\n\n\nこれは音楽の話に見えて、仕事でも同じことが起きている。\n\n自己流でうまくいかないとき、努力が足りないんじゃない。\n\n目標を自分で決めてしまっているだけのことが多い。\n\n\n変わったのはスキルじゃなくて、目標を誰が決めるか、だった。\n\n\n今追いかけている目標、自分で決めましたか。\nそれとも、その道でうまくいっている人に決めてもらいましたか。\n\n\n#目標設定 #自己流 #学び方 #ベース #レッスン #成長 #マーケティング #仕事の考え方 #西埜巧祐",
+      "excerpt": "自分に合う方法と、成功する方法は、別物だった。 ベースのレッスンを更新するときに、それを思い知った。 僕が用意していた目標はこうだった。 ・「弾ける曲を増やす」 ・今できることの延長で考える ・目標は自分で決める 先生に相談したら、まったく…",
+      "hook": "自分に合う方法と成功する方法は違う",
+      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-11/2026-08-11-instagram-cross2.png",
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 2,
+        "views": 3,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-08-11-x-thread",
+      "channel": "x",
+      "url": "https://x.com/nishinokousuke/status/2087147195065684150",
+      "postedAt": "2026-08-11T12:00:00.000Z",
+      "text": "僕がこれまで見てきた会社で、数字をちゃんと分析していた会社は0だった。コンサルもセールスコピーライターも例外なく0。能力の話ではないし、意識が低いわけでもない。理由は、別のところにある。",
+      "excerpt": "僕がこれまで見てきた会社で、数字をちゃんと分析していた会社は0だった。コンサルもセールスコピーライターも例外なく0。能力の話ではないし、意識が低いわけでもない。理由は、別のところにある。",
+      "hook": "ちゃんと数字分析している会社は0だった",
+      "imageUrl": null,
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 3,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 33.33
+      }
+    },
+    {
+      "id": "2026-08-11-threads-2",
+      "channel": "threads",
+      "url": "https://www.threads.com/@kousuke_nishino/post/Db5cL2JjIYU",
+      "postedAt": "2026-08-11T11:00:00.000Z",
+      "text": "o3が2026年8月26日にChatGPTから消える。困るのは、AIの出力をそのまま判断材料にしていた人だけです。\n\n先日、若くして成功した経営者と話して腹に落ちたことがあります。お金持ちは無料の情報を取らない。YouTubeを見て投資の判断をしない。\n\n決める人：無料の情報は「参考」、判断は払って得た情報で下す\nよくあるつまずき：無料の情報で判断まで済ませて、ベッドでゴロン\n\n僕の線引きはこれだけです。無料は参考、有料は判断。AIも同じで、1本に絞らず複数に聞いて、あくまで参考として扱う。柱が1つだと、外部の都合で止まります。\n\n直近の一番大きな判断、その材料は無料で手に入れたものでしたか？",
+      "excerpt": "o3が2026年8月26日にChatGPTから消える。困るのは、AIの出力をそのまま判断材料にしていた人だけです。 先日、若くして成功した経営者と話して腹に落ちたことがあります。お金持ちは無料の情報を取らない。",
+      "hook": "お金持ちは無料の情報を取らない",
+      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-11/shared-1-portrait.png",
+      "videoUrl": null,
+      "metrics": {
+        "views": 11,
+        "impressions": 11,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "2026-08-11-x-2",
+      "channel": "x",
+      "url": "https://x.com/nishinokousuke/status/2087124405298077948",
+      "postedAt": "2026-08-11T10:30:00.000Z",
+      "text": "o3が消えると聞いて焦った人へ。\n\n無料の情報とは、要するに下調べのこと。判断材料ではない。\n\n僕はAIを常に2本並走させ、答えが割れた一点だけ、お金を払った情報で確かめる。\n\n柱が1本だと、外部の都合で止まる。\n\n判断だけは、払った情報でする。",
+      "excerpt": "o3が消えると聞いて焦った人へ。 無料の情報とは、要するに下調べのこと。判断材料ではない。 僕はAIを常に2本並走させ、答えが割れた一点だけ、お金を払った情報で確かめる。 柱が1本だと、外部の都合で止まる。 判断だけは、払った情報でする。",
+      "hook": "お金持ちは無料の情報を取らない",
+      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-11/shared-1-landscape.png",
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 2,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-08-11-facebook-cross1",
+      "channel": "facebook",
+      "url": "https://www.facebook.com/122233359788030234/posts/122545532534030234",
+      "postedAt": "2026-08-11T10:00:00.000Z",
+      "text": "自分に合う方法と、成果が出る方法は、たいてい別物だった。\n\nベースの個別レッスンの目標を更新するとき、僕は「弾ける曲を増やす」と書こうとしていた。理由はシンプルで、そのほうが楽しいから。新しい曲に手をつけている時間がいちばん気持ちいい。だから自然とそこに寄せていた。\n\n先生に相談したら、まったく違う答えが返ってきた。\n\n「曲を増やすより、いま弾いている1曲を、テンポを落として最後まで止まらずに通せるようにしましょう」\n\n聞いた瞬間、正直テンションが下がった。地味だし、新しい刺激がない。同じ曲を何度もさらう時間は、僕がいちばん避けていた時間だった。\n\nでもやってみると、はっきり分かった。曲数を増やしていた時期、僕はずっと「途中までなら弾ける曲」を量産していた。手が止まる場所は毎回同じ。そこを通り過ぎるたびに、少しずつごまかす癖がついていた。ゆっくり通すと、その癖が全部見える。見えたものだけが直る。\n\nこの差は、才能でも練習量でもなかった。目標の置き方だけの差だった。\n\nそして厄介なのは、自分で立てた計画は、ほぼ必ず「自分に合う方法」に寄るということ。楽しいほう、得意なほう、成果が見えやすいほうを選ぶ。悪気はない。ただ、選んでいる基準が「やりやすさ」になっている。\n\nだから僕は、計画を立て終わったあとに1つだけ自分に聞くようにした。\n\n「この計画の中で、いちばん気が重い項目はどれか」\n\nそれが1つも出てこない計画は、たぶん成果につながらない。全部やりたいことで埋まっているなら、それは計画ではなく好みの一覧になっている。逆に、気が重い項目が1つあって、しかもそれが避け続けてきたものなら、そこが伸びしろだと考えていい。\n\nもう1つ、実務でそのまま使える形にするとこうなる。\n\n目標を「増やす」の言葉で書いたら、いちど「通す」の言葉に書き換えてみる。\n\n弾ける曲を増やす → 1曲を止まらずに通す。\n提案数を増やす → 1つの提案を、最初から最後まで一度も詰まらずに話しきる。\n施策を増やす → いま動いている1本を、抜けなく最後まで回す。\n\n増やすのは足し算だから気分がいい。通すのは、できていない場所が全部見えるから気分が悪い。でも上手くなるのは後者だった。\n\nちなみに僕は今も、新しい曲に手を出したくなる。この癖は消えていない。消えないまま、目標の欄だけは先生の言葉に合わせている。\n\nみなさんがいま立てている計画の中で、いちばん気が重い項目はどれですか。それが1つも見つからないとしたら、たぶん書き直しどきです。",
+      "excerpt": "自分に合う方法と、成果が出る方法は、たいてい別物だった。 ベースの個別レッスンの目標を更新するとき、僕は「弾ける曲を増やす」と書こうとしていた。理由はシンプルで、そのほうが楽しいから。新しい曲に手をつけている時間がいちばん気持ちいい。",
+      "hook": "自分に合う方法と成功する方法は違う",
+      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-11/2026-08-11-facebook-cross1.png",
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 0,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-08-11-instagram-1",
+      "channel": "instagram",
+      "url": "https://www.instagram.com/p/Db5OZZ4ltJM/",
+      "postedAt": "2026-08-11T09:00:00.000Z",
+      "text": "「無料で全部学べる時代に、お金を払うのは損」\n\nこれ、半分は正しくて、半分は間違っています。\n\nChatGPTのo3が8月26日でChatGPTから提供終了になる、という話が流れていました。90日の移行期間を経ての終了で、APIは変更なし。\n\nでも僕がここで気になったのは、終了そのものじゃなくて、「え、僕が使ってたのそれ？」と焦る人が出ていることでした。\n\n業務がモデル1本に乗っかっていたことが、外から強制的にバレる。\n1は最悪の数字です。集客も収入もツールも、柱が1つだと外の都合で止まります。\n\nここから本題。\n\n正しい部分。\n無料の情報でも、知識そのものは手に入ります。それは事実です。AIも無料の情報も、参考として使うなら強い。\n\n間違っている部分。\n無料だと、真剣にならない。\n\n僕は毎月出張があります。そういう時は、お金を払ってシェアラウンジを借りたり、高いホテルのクラブラウンジで書いたりします。ホテル代も昔とは比べものにならない金額になっています。\n\n家でも仕事はできます。それでも払う。\nお金を払った方が、真剣になるからです。\n\n趣味のベースも、お金を払って学んでいます。だから練習しますし、成長も実感できます。\n\n会社員時代、初めてボーナスが入った日に、僕は上司に聞きました。\n「このお金で、何を学びますか？」\n「俺なら、ビジネススクールに行くかな」\n\n真っ先に実行しました。人生でもかなり大きな投資でしたが、そこで学んだことは今でも活きています。\n\n先日、若くして成功した経営者と話して、同じ話になりました。\nお金持ちは、無料の情報で判断をしない。YouTubeを見て投資の判断をしない。\n\nラッキーパンチはあるかもしれません。でもそれは後付けの話で、大事な判断は、お金を払って得た情報でしている。\n\nビジネスも投資の連続です。広告費も、パソコンも、新しい時代に対応するための学びも、外部の力を借りることも。\n渋っていたら、何も得られません。\n\nInstagramを見て「いいこと学べたな」で、ベッドでゴロン。何も変わりません。\n\n正確に言うと、こうなります。\n投資の意味は、知識を買うことじゃない。真剣になる自分を買うことです。\n\nAIの出力を鵜呑みにする使い方から、複数を参考として使い分ける使い方へ。そのために何を学ぶか決めるのが、この期限の使い道だと考えています。\n\n直近1年で、お金を払って学んだものを1つ挙げるとしたら、何ですか。\n\n西埜巧祐\n\n#マーケティング #セールスコピーライティング #自己投資 #経営者の学び #AI活用 #ChatGPT #個人事業主 #学び直し",
+      "excerpt": "「無料で全部学べる時代に、お金を払うのは損」 これ、半分は正しくて、半分は間違っています。 ChatGPTのo3が8月26日でChatGPTから提供終了になる、という話が流れていました。90日の移行期間を経ての終了で、APIは変更なし。",
+      "hook": "お金を払わないと人は真剣になれない",
+      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-11/shared-0-portrait.png",
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 6,
+        "views": 14,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "engagementRate": 0
+      }
+    },
     {
       "id": "2026-08-11-facebook-1",
       "channel": "facebook",
@@ -12,7 +214,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-11/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 0,
+        "impressions": 2,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -66,11 +268,11 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-11/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 3,
+        "impressions": 7,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 33.33
+        "engagementRate": 14.29
       }
     },
     {
@@ -102,7 +304,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-10/shared-1-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 8,
+        "impressions": 9,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -120,8 +322,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-10/shared-0-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 4,
-        "views": 4,
+        "impressions": 6,
+        "views": 6,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -167,11 +369,11 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 22,
+        "impressions": 24,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 4.55
+        "engagementRate": 4.17
       }
     },
     {
@@ -185,7 +387,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-10/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 5,
+        "impressions": 6,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -221,8 +423,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-10/shared-0-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "views": 32,
-        "impressions": 32,
+        "views": 33,
+        "impressions": 33,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -349,215 +551,6 @@
       "metrics": {
         "views": 22,
         "impressions": 22,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
-      "id": "2026-08-09-threads-1",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/DbzD6FTmN8L",
-      "postedAt": "2026-08-08T23:00:00.000Z",
-      "text": "「AIで調べたらだいたいわかるじゃないですか。人っているんですかね？」\n\nクライアントから言われた言葉です。\n\nでも先日、僕のコンサル契約は延長になりました。年間400万円ほどの売上につながる契約です。\n\n情報を持っていることで戦えるのは、もって1年だと感じています。検索でもAIでも出てくるので。\n\n評価されたのは別の点でした。クライアント自身では思いつけない目標を、こちら側から提案できたこと。引き出すのではなく、提案する。\n\n派手さはないです。クライアントを理解し続けた結果、自ずと見えてくるだけ。\n\nこの「提案の作り方」は、メルマガでしか書いていません。\n\nhttps://kousukenishino.com/lp/ac/ai-agent/life/seminar-optin-a.html?utm_source=threads&utm_medium=social&utm_campaign=sns-agent&utm_content=2026-08-09-threads-1",
-      "excerpt": "「AIで調べたらだいたいわかるじゃないですか。人っているんですかね？」 クライアントから言われた言葉です。 でも先日、僕のコンサル契約は延長になりました。年間400万円ほどの売上につながる契約です。",
-      "hook": "「AIで調べたら人いらない」に響く反論",
-      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-09/shared-0-portrait.png",
-      "videoUrl": null,
-      "metrics": {
-        "views": 10,
-        "impressions": 10,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
-      "id": "2026-08-09-x-1",
-      "channel": "x",
-      "url": "https://x.com/nishinokousuke/status/2086218415736308197",
-      "postedAt": "2026-08-08T22:30:00.000Z",
-      "text": "「AIで調べたらわかるし、人っていりますか？」\n\nクライアントに言われた言葉。\n\n先日、その人との契約が延長になった。\n\n情報を渡していたからじゃない。\n\n本人が思いつけない目標を、こちらから提案したから。\n\n引き出すんじゃなく、提案する。\n\nここの話はメルマガにしか書いていません。",
-      "excerpt": "「AIで調べたらわかるし、人っていりますか？」 クライアントに言われた言葉。 先日、その人との契約が延長になった。 情報を渡していたからじゃない。 本人が思いつけない目標を、こちらから提案したから。 引き出すんじゃなく、提案する。",
-      "hook": "「AIで調べたら人いらない」に響く反論",
-      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-09/shared-0-landscape.png",
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 5,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-08-08-threads-2",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/Dbxt6v3FpIJ",
-      "postedAt": "2026-08-08T11:00:00.000Z",
-      "text": "1年半前、僕はChatGPTを人に勧めていませんでした。\n\n使ってみた上での判断です。\n\n東京から大阪に行きたいだけなのに、飛行機で石川に飛んでサンダーバードで向かうような回り道に見えた。\n\nAIを使うためにプロモーションをしている。売上が二の次になっていた。\n\n考えが変わったのは、緊急手術と入院です。\n\n痛みで思考ができない。集客も販売も止まる。そこで初めてChatGPTに頼りました。\n\n1日もかからず集客ができて、その時期の売上は84万円ほど。\n\n派手な裏技は使っていません。自分が動けない分を埋めただけです。\n\nこの話の全部と、実際の使い方はメルマガと勉強会でしか話していません。\n\nhttps://kousukenishino.com/lp/ac/ai-agent/life/seminar-optin-a.html?utm_source=threads&utm_medium=social&utm_campaign=sns-agent&utm_content=2026-08-08-threads-2",
-      "excerpt": "1年半前、僕はChatGPTを人に勧めていませんでした。 使ってみた上での判断です。 東京から大阪に行きたいだけなのに、飛行機で石川に飛んでサンダーバードで向かうような回り道に見えた。 AIを使うためにプロモーションをしている。",
-      "hook": "AIは手段の目的化。売上が二の次になっていた",
-      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-08/shared-1-portrait.png",
-      "videoUrl": null,
-      "metrics": {
-        "views": 22,
-        "impressions": 22,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
-      "id": "2026-08-08-x-2",
-      "channel": "x",
-      "url": "https://x.com/nishinokousuke/status/2086037233824358678",
-      "postedAt": "2026-08-08T10:30:00.000Z",
-      "text": "AIを使い始めた人あるある\n\n・プロンプト直しで1時間\n・出力を全部自分で書き直す\n・東京→大阪を石川経由で行ってる\n・売上の話がどこかへ消えてる\n\n僕もこれで一度AIをやめました。\n\n基準は1つ。20分で書けるものは自分で書く。それ以上かかる工程だけAIに渡す。",
-      "excerpt": "AIを使い始めた人あるある ・プロンプト直しで1時間 ・出力を全部自分で書き直す ・東京→大阪を石川経由で行ってる ・売上の話がどこかへ消えてる 僕もこれで一度AIをやめました。 基準は1つ。20分で書けるものは自分で書く。",
-      "hook": "AIは手段の目的化。売上が二の次になっていた",
-      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-08/shared-1-landscape.png",
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 48,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-08-08-short1-threads",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/DbwweiXiKfn",
-      "postedAt": "2026-08-08T00:10:00.000Z",
-      "text": "SNS投稿を全部やってくれるエージェントを作りました。\n\n僕がガチガチに手を動かした時間は、1時間か2時間くらい。あとの作業は全部Claudeがやっています。\n\nしかも僕はプログラミングができません。やったのは、AIと一緒に設計をしたところまで。\n\n壁打ちやレシピ相談だけでAIを使っている人に、いちばん見てほしい話です。\n\nみなさんは、AIに「作らせた」ことはありますか？\n\nhttps://youtube.com/shorts/n2WX40gyuRI?utm_source=threads&utm_medium=social&utm_campaign=sns-agent&utm_content=2026-08-08-short1-threads",
-      "excerpt": "SNS投稿を全部やってくれるエージェントを作りました。 僕がガチガチに手を動かした時間は、1時間か2時間くらい。あとの作業は全部Claudeがやっています。 しかも僕はプログラミングができません。",
-      "hook": "AIエージェントで作業時間が1-2時間に激減",
-      "imageUrl": null,
-      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-08/short1.mp4",
-      "metrics": {
-        "views": 14,
-        "impressions": 14,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
-      "id": "2026-08-07-instagram-1",
-      "channel": "instagram",
-      "url": "https://www.instagram.com/p/Dbu6w5KlvVT/",
-      "postedAt": "2026-08-07T09:00:00.000Z",
-      "text": "「GPT-5.6が80%値下げ」で騒がれていますが、下がったのはAPIの従量課金だけ。Plusを払っている人の月額は1円も変わりません。\n\nこの手のニュースで一番危ないのは「安くなったらしいですよ」で思考が止まること。\n\n時代が変わるたびに、全部を変えないといけないと思う人が多い。でも変えるのは味付けだけでいいんです。素材と作り方はそのまま、胡椒を山椒に変える。それくらいの話です。\n\n僕が定期的にやっているプロモーションの話をします。\n\n他の仕事が忙しくて、改善をまったくしていません。あるまじきことです。同じ流れ、同じメールを繰り返し使っているだけ。\n\n変えているのは、日付と決済リンクくらい。\n\nそれで年間の売上は800万円です。\n\nなぜ成立するか。そのプロモーションがついている人間心理と欲求が、正しいからです。\n\nうまくいく側:\n人間心理と欲求の並びは動かさない。日付・決済リンク・載せる媒体だけ差し替える。\n\nよくあるつまずき:\n媒体が変わったから、心理の並びから作り直す。毎回ゼロから考えて、毎回不安定になる。\n\nうまくいく側:\nAIに書かせても、出てきた文章が売れるかを自分で判定できる。\n\nよくあるつまずき:\n判定基準がないので、AIの出力を良さそうかどうかで選ぶ。\n\n【味付けか素材かの仕分け】\n迷ったら、この3行に当てはめてください。\n\n1. それを変えても、読み手の欲求と不安の順序は変わらないか\n2. それは表示される場所や時期の都合か\n3. 3年前の同じ商品でも同じ答えになるか\n\n3つ当てはまれば味付け。触っていい。\n当てはまらないなら素材です。触ると崩れます。\n\n縦長のセールスレターも、元は手紙と雑誌広告です。手紙の中身をWebに載せたら、あの形になった。ビデオになっても、スマホになっても、原則は動いていません。形が変わっただけです。\n\n違いは結局この1点。\n\n数字を見たときに、一次情報まで自分で確認するかどうか。それだけで、何を変えて何を残すかの判断が変わります。\n\nみなさんの仕事で、去年から一度も変えていないのに機能し続けているものは何ですか。\n\n#マーケティング #セールスコピーライティング #コピーライティング #ビジネスの基本 #集客の仕組み #AI活用 #西埜巧祐",
-      "excerpt": "「GPT-5.6が80%値下げ」で騒がれていますが、下がったのはAPIの従量課金だけ。Plusを払っている人の月額は1円も変わりません。 この手のニュースで一番危ないのは「安くなったらしいですよ」で思考が止まること。",
-      "hook": "時代が変わっても全てを変える必要はない。変えるのは味付けだけ",
-      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-07/shared-0-portrait.png",
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 6,
-        "views": 9,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "saves": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-08-07-threads-principle",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/Dbuh6pZlS5j",
-      "postedAt": "2026-08-07T04:00:00.000Z",
-      "text": "打ち手には住所がある。\n\n正しく聞こえる施策が、自分の事業では逆に効く。その理由を3つに分けました。\n\n僕は独立して早い段階に、クライアントと真っ向から対立して知りました。ほとんどの人は施策の良し悪しだけで決めています。\n\nチーム化、無料集客、値上げ。全部同じ構造です。\n\n判断の3ポイントはリプライに置いておきます。",
-      "excerpt": "打ち手には住所がある。 正しく聞こえる施策が、自分の事業では逆に効く。その理由を3つに分けました。 僕は独立して早い段階に、クライアントと真っ向から対立して知りました。ほとんどの人は施策の良し悪しだけで決めています。",
-      "hook": "「正しい打ち手」は文脈で決まる──成長アイディアを鵜呑みにしない",
-      "imageUrl": null,
-      "videoUrl": null,
-      "metrics": {
-        "views": 64,
-        "impressions": 64,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "threadViews": [
-          64,
-          16,
-          5,
-          1,
-          1,
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "id": "2026-08-07-x-cross1",
-      "channel": "x",
-      "url": "https://x.com/nishinokousuke/status/2085577679324016942",
-      "postedAt": "2026-08-07T03:30:00.000Z",
-      "text": "Opus 5で消すべき指示、4つ。\n\n・必ず検証して\n・間違いがないか確認して\n・ダブルチェックして\n・丁寧に報告して\n\n言わなくてもやるので、二重にかかって長くなるだけ。\n\n残すのは外部ツールを実行させるときだけ。\n\n足すより減らす。手持ちのプロンプト、どれが該当しました？",
-      "excerpt": "Opus 5で消すべき指示、4つ。 ・必ず検証して ・間違いがないか確認して ・ダブルチェックして ・丁寧に報告して 言わなくてもやるので、二重にかかって長くなるだけ。 残すのは外部ツールを実行させるときだけ。 足すより減らす。",
-      "hook": "「必ず検証して」の指示、Opus 5では逆効果になる",
-      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-07/2026-08-07-x-cross1.png",
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 15,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-08-07-x-principle",
-      "channel": "x",
-      "url": "https://x.com/nishinokousuke/status/2085587677336776909",
-      "postedAt": "2026-08-07T03:30:00.000Z",
-      "text": "「打ち手の身元確認」。\n\n思いついた成長アイディアを、そのまま試す人がほとんどです。先日の個別セッションでも、そうなりかけた方がいました。\n\n確認する順番は3つ。\n中身はリプライに置いておきます。",
-      "excerpt": "「打ち手の身元確認」。 思いついた成長アイディアを、そのまま試す人がほとんどです。先日の個別セッションでも、そうなりかけた方がいました。 確認する順番は3つ。 中身はリプライに置いておきます。",
-      "hook": "「正しい打ち手」は文脈で決まる──成長アイディアを鵜呑みにしない",
-      "imageUrl": null,
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 10,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 10
-      }
-    },
-    {
-      "id": "2026-08-07-facebook-1",
-      "channel": "facebook",
-      "url": "https://www.facebook.com/122233359788030234/posts/122544983636030234",
-      "postedAt": "2026-08-07T03:00:00.000Z",
-      "text": "「AIが安くなったから、やり方も変えないと」と言われています。\n\nでも、先週のGPT-5.6の値下げのニュースを見て思ったんです。\n\n下がったのはAPIの従量課金だけで、Plusなどの月額プランを払っている人のコストは1円も変わっていない。それなのに「ChatGPTが8割安くなったらしいですよ」と社内で言ってしまう。\n\nこれ、素材と味付けを取り違えた実例だなと。\n\n時代が変わるとき、一番多い間違いは「全部を変えないといけない」と思い込むことだと思っています。\n\n変えるのは味付けだけでいいんです。素材も作り方もそのまま、最後の調味料を胡椒から山椒に変える。それくらいの話。\n\n縦長のセールスレターも同じです。元は手紙や雑誌広告から始まって、それをWebページに載せた結果、今の形になった。ビデオになっても、スマホになっても、コロナで使う人が増えても、原則は変わっていない。形が変わっているだけです。\n\n僕自身、素材のほうを変えて失敗したことがあります。\n\n新しいチャネルが来たときに、「今までのやり方はもう古い」と思って、訴求そのものを組み替えた。ツールに合わせて、人がなぜそれを欲しがるのかという部分まで一緒に触ってしまった。当然、数字は落ちました。変えるべきだったのは見せ方だけだったのに。\n\n逆の話もあります。\n\n定期的にやっているプロモーションが1つあるんですが、これ、正直に言うと全く改善していません。他の仕事で忙しくて、手が回らない。あるまじきことです。\n\nそれで年間の売上は800万円。\n\n同じ構成、同じメールを繰り返し使っているだけです。変えているのは、日付と決済リンクくらいですよ。\n\nなぜこれで回るのか。そのプロモーションが乗っている人間心理と欲求が、正しいからです。素材が正しいから、味付けを触らなくても持つ。\n\nAIに書かせて成果を出す人がいるのも、同じ理由だと思っています。出てきた文章が「売れる」かどうかを判断できるから、任せられる。判断基準がない人がAIに任せると、速く量産できるだけです。\n\nだから、新しいものが出てきたときに自分に聞くのはこの一点でいいんじゃないかと。\n\nこれは味付けの話か、素材の話か。\n\n料金、ツール、チャネル、見せ方。ここは味付けです。人がなぜ欲しがるのか、なぜ今買うのか。ここが素材で、触ってはいけない場所。\n\n味付けを変えるべきときに素材をいじると、崩れます。僕がやった失敗はこれでした。\n\nみなさんが直近で「新しくしないと」と思って変えたものは、味付けと素材、どちらでしたか。",
-      "excerpt": "「AIが安くなったから、やり方も変えないと」と言われています。 でも、先週のGPT-5.6の値下げのニュースを見て思ったんです。 下がったのはAPIの従量課金だけで、Plusなどの月額プランを払っている人のコストは1円も変わっていない。",
-      "hook": "時代が変わっても全てを変える必要はない。変えるのは味付けだけ",
-      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-07/shared-0-landscape.png",
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 16,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 6.25
-      }
-    },
-    {
-      "id": "2026-08-07-short1-threads",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/DbuV8spGAav",
-      "postedAt": "2026-08-07T02:25:00.000Z",
-      "text": "「最上位に迫る知能を、半分の価格で」\n\nOpus5の売りは、ここに全部乗ってます。\n\nただ、公式は「最上位には及ばない」と書いてる。なのにベンチマークの数字を並べると、正直「本当に及んでない？」と思ってしまう。\n\nそのズレの部分を、実際の数字を見ながら話しました。\n\n毎日AIを使う人ほど、価格の欄を先に見ると思います。みなさんはモデル選び、性能と価格どっちを先に見ますか？\n\nhttps://youtube.com/shorts/2R9zQ1cFJTk?utm_source=threads&utm_medium=social&utm_campaign=sns-agent&utm_content=2026-08-07-short1-threads",
-      "excerpt": "「最上位に迫る知能を、半分の価格で」 Opus5の売りは、ここに全部乗ってます。 ただ、公式は「最上位には及ばない」と書いてる。なのにベンチマークの数字を並べると、正直「本当に及んでない？」と思ってしまう。",
-      "hook": "Opus5はGPT-5に半額で迫る性能",
-      "imageUrl": null,
-      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-07/short1.mp4",
-      "metrics": {
-        "views": 10,
-        "impressions": 10,
         "reactions": 0,
         "comments": 0,
         "shares": 0
