@@ -1,6 +1,152 @@
 {
-  "generatedAt": "2026-08-13T07:40:23.561Z",
+  "generatedAt": "2026-08-14T07:37:34.131Z",
   "posts": [
+    {
+      "id": "2026-08-14-short1-threads",
+      "channel": "threads",
+      "url": "https://www.threads.com/@kousuke_nishino/post/DcAQLnAHJ7a",
+      "postedAt": "2026-08-14T00:17:00.000Z",
+      "text": "「情報を追いかけてたら1週間終わってました」\n\n指導している人から、これを本当によく聞きます。\n\nAIの情報を浴びると、賢くなった感じはする。でも数字は何も変わっていない。\n\n関心の輪と、影響の輪。この線引きは才能じゃなくて訓練だと僕は考えています。\n\n動画では、その訓練の入り口を話しました。\n\n今日あなたが自分で動かせることは、何ですか？",
+      "excerpt": "「情報を追いかけてたら1週間終わってました」 指導している人から、これを本当によく聞きます。 AIの情報を浴びると、賢くなった感じはする。でも数字は何も変わっていない。 関心の輪と、影響の輪。",
+      "hook": "AI時代の情報洪水に飲まれず影響の輪に集中せよ",
+      "imageUrl": null,
+      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-14/short1.mp4",
+      "metrics": {
+        "views": 10,
+        "impressions": 10,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "2026-08-14-threads-1",
+      "channel": "threads",
+      "url": "https://www.threads.com/@kousuke_nishino/post/Db_3321H2Nw",
+      "postedAt": "2026-08-13T23:00:00.000Z",
+      "text": "最低賃金の目安55円引き上げ。47都道府県の一覧を見る前に、僕がやったのは自社のレビューでした。\n\n人件費が上がる前提で、次の半年に何を残すか。僕が使っている質問はこの2つだけです。\n\n・この半年でうまくいったことは何か\n・それをさらに伸ばすには何をするか\n\n課題より先に、うまくいったことを聞く。労力が一番少なく伸びるのはここだからです。\n\nそして次の半年でやることは3つまでに絞る。4つ目を書いた瞬間、僕はどれも動かなくなりました。\n\n成長は一直線ではありません。外した時に方向転換できるかどうかだけです。\n\nひとりで事業をやっている方に聞きたいのですが、レビューの頻度は毎月ですか、四半期ですか。",
+      "excerpt": "最低賃金の目安55円引き上げ。47都道府県の一覧を見る前に、僕がやったのは自社のレビューでした。 人件費が上がる前提で、次の半年に何を残すか。僕が使っている質問はこの2つだけです。",
+      "hook": "成長は一直線ではなくジグザグ。外した時に方向転換できるか",
+      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-14/shared-0-portrait.png",
+      "videoUrl": null,
+      "metrics": {
+        "views": 11,
+        "impressions": 11,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "2026-08-14-x-1",
+      "channel": "x",
+      "url": "https://x.com/nishinokousuke/status/2088030390409720211",
+      "postedAt": "2026-08-13T22:30:00.000Z",
+      "text": "最低賃金の目安が出て、47都道府県の一覧はもう溢れてる。\n\n僕がクライアントに聞くのは、これ。\n「この半年で外したのはどこか」\n\n成長は一直線じゃない。ジグザグです。\n大事なのは、外したと気づけるか。\n\nこの半年で切り捨てた施策、1つ挙げるなら何ですか？",
+      "excerpt": "最低賃金の目安が出て、47都道府県の一覧はもう溢れてる。 僕がクライアントに聞くのは、これ。 「この半年で外したのはどこか」 成長は一直線じゃない。ジグザグです。 大事なのは、外したと気づけるか。",
+      "hook": "成長は一直線ではなくジグザグ。外した時に方向転換できるか",
+      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-14/shared-0-landscape.png",
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 0,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-08-13-threads-thread",
+      "channel": "threads",
+      "url": "https://www.threads.com/@kousuke_nishino/post/Db-4XymkVVv",
+      "postedAt": "2026-08-13T12:30:00.000Z",
+      "text": "「クライアントに尽くせば仕事は取れる」と教わって、僕もそのとおりに動いた。\n\n聞かれる前に改善案を送る。深夜でも返信する。頼まれていない資料まで作る。\n\n感謝はされた。紹介するとも言われた。\n\nそれでも契約は増えなかった。\n\n尽くす量が足りなかったからではない。もっと単純なところが抜けていた。",
+      "excerpt": "「クライアントに尽くせば仕事は取れる」と教わって、僕もそのとおりに動いた。 聞かれる前に改善案を送る。深夜でも返信する。頼まれていない資料まで作る。 感謝はされた。紹介するとも言われた。 それでも契約は増えなかった。",
+      "hook": "クライアントに尽くしても仕事は取れない",
+      "imageUrl": null,
+      "videoUrl": null,
+      "metrics": {
+        "views": 31,
+        "impressions": 31,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "2026-08-13-x-thread",
+      "channel": "x",
+      "url": "https://x.com/nishinokousuke/status/2087872049217688054",
+      "postedAt": "2026-08-13T12:00:00.000Z",
+      "text": "「クライアントに尽くせば仕事は来る」と教わって、その通りにやった。前倒しで納品し、範囲外も引き受けた。感謝はされた。でも次の仕事は来なかった。理由は、尽くすのをやめた後に分かった。",
+      "excerpt": "「クライアントに尽くせば仕事は来る」と教わって、その通りにやった。前倒しで納品し、範囲外も引き受けた。感謝はされた。でも次の仕事は来なかった。理由は、尽くすのをやめた後に分かった。",
+      "hook": "クライアントに尽くしても仕事は取れない",
+      "imageUrl": null,
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 2,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 50
+      }
+    },
+    {
+      "id": "2026-08-13-threads-2",
+      "channel": "threads",
+      "url": "https://www.threads.com/@kousuke_nishino/post/Db-n2efHI9f",
+      "postedAt": "2026-08-13T11:00:00.000Z",
+      "text": "素人は味を見る。プロは間を見る。\n\n焼き鳥屋の店長に「飲食店で何を見るか」と聞いたら、こう返ってきました。一品目のお皿が下がって、次が出るまでの間。そこが居心地を決めると。\n\n停滞期を抜けるのに必要なのは、根性じゃなくてこの「見る場所」を知ることです。手順は2つ。\n\nSTEP1：うまくいっている人に、こう聞く。「どこを直せばいいですか」ではなく「あなたなら最初にどこを見ますか」。\n\nSTEP2：返ってきた場所を、次の1回で意識する。それだけ。\n\n調べても出てこないのは、答えではなく見る場所のほうです。\n\nみなさんが最近もらった「見る場所」のフィードバック、どんなものでしたか？",
+      "excerpt": "素人は味を見る。プロは間を見る。 焼き鳥屋の店長に「飲食店で何を見るか」と聞いたら、こう返ってきました。一品目のお皿が下がって、次が出るまでの間。そこが居心地を決めると。",
+      "hook": "成長には必ず停滞期がある",
+      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-13/shared-1-portrait.png",
+      "videoUrl": null,
+      "metrics": {
+        "views": 52,
+        "impressions": 52,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "2026-08-13-x-2",
+      "channel": "x",
+      "url": "https://x.com/nishinokousuke/status/2087849207856021943",
+      "postedAt": "2026-08-13T10:30:00.000Z",
+      "text": "「伸びない時期」は失敗じゃない。\n\n成長は必ず停滞してから、一気に跳ねる。\nテニスでも何度も味わいました。\n\n停滞か向いてないかの見分け方は一つ。\nプロにフィードバックをもらっているか。\n自己流の停滞だけは、伸びません。\n\n今の停滞、誰に見てもらってますか？",
+      "excerpt": "「伸びない時期」は失敗じゃない。 成長は必ず停滞してから、一気に跳ねる。 テニスでも何度も味わいました。 停滞か向いてないかの見分け方は一つ。 プロにフィードバックをもらっているか。 自己流の停滞だけは、伸びません。",
+      "hook": "成長には必ず停滞期がある",
+      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-13/shared-1-landscape.png",
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 6,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-08-13-instagram-1",
+      "channel": "instagram",
+      "url": "https://www.instagram.com/p/Db-Xh_TIKng/",
+      "postedAt": "2026-08-13T09:00:00.000Z",
+      "text": "「成長は、やった分だけ右肩上がりに積み上がっていく」\n\nこれ、半分は正しくて、半分は間違っています。\n\n正しいのは、やった分しか伸びないという部分。近道はありません。\n\n間違っているのは、伸び方です。\n成長には必ず停滞があって、そのあと一気に跳ねます。二次曲線です。\n\n自転車を思い出してください。\n最初はまったく乗れない。乗れない。乗れない。\nある日、突然乗れる。\n\n僕がコンサルティングを受けるとき、最初に必ず伝えていることがあります。\n「成果はあとあとになって出てきます。すぐ出るのは稀です」と。\n\nここで多くの人が撤退します。\n伸びていないと判断してしまうからです。\nでも実際は、まだ跳ねていないだけです。\n\n判断に使えるのは、この2つだけです。\n\n1. 同じことを、やめずに繰り返せているか\n2. その分野のプロから、フィードバックを受けているか\n\n2つ目が抜けると、停滞は本物の停滞になります。\n\n行きつけの焼き鳥屋の店長に、「良い飲食店を見分けるポイントは？」と聞いたことがあります。\n\n答えは「間を見る」でした。\n一品目のお皿が下げられて、二品目が出るまでの間。そこが居心地を決めるそうです。\n\n素人は、味と接客と内装しか見ていません。\nプロは、同じ景色の中で違うところを見ています。\n\nこれは検索しても出てきません。\nプロから教えてもらう以外に、気づく方法がないんです。\n\n正確に言うとこうなります。\n成長は、やった分だけ積み上がる。ただし積み上がっている間、外からは何も変わっていないように見える。\n\n壁を感じているなら、それは前進している証拠です。\n\n今いちばん伸び悩んでいる分野で、直近あなたにフィードバックをくれた人は誰ですか。\n\n#マーケティング #セールスコピー #成長曲線 #学び直し #継続する力 #フィードバック #独立起業 #仕事術 #西埜巧祐",
+      "excerpt": "「成長は、やった分だけ右肩上がりに積み上がっていく」 これ、半分は正しくて、半分は間違っています。 正しいのは、やった分しか伸びないという部分。近道はありません。 間違っているのは、伸び方です。",
+      "hook": "成果は二次曲線的にゆっくり出るもの",
+      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-13/shared-0-portrait.png",
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 2,
+        "views": 2,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "engagementRate": 0
+      }
+    },
     {
       "id": "2026-08-13-threads-thread-announce",
       "channel": "threads",
@@ -12,8 +158,8 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 109,
-        "impressions": 109,
+        "views": 124,
+        "impressions": 124,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -30,7 +176,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-13/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 0,
+        "impressions": 3,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -48,7 +194,7 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 0,
+        "impressions": 5,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -66,8 +212,8 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-13/short1.mp4",
       "metrics": {
-        "views": 12,
-        "impressions": 12,
+        "views": 14,
+        "impressions": 14,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -84,8 +230,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-13/shared-0-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "views": 56,
-        "impressions": 56,
+        "views": 59,
+        "impressions": 59,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -102,7 +248,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-13/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 3,
+        "impressions": 5,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -120,8 +266,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-12/shared-1-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "views": 36,
-        "impressions": 36,
+        "views": 38,
+        "impressions": 38,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -248,8 +394,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-11/2026-08-11-instagram-cross2.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 4,
-        "views": 7,
+        "impressions": 5,
+        "views": 8,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -286,8 +432,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-11/shared-1-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "views": 12,
-        "impressions": 12,
+        "views": 13,
+        "impressions": 13,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -304,7 +450,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-11/shared-1-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 7,
+        "impressions": 8,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -322,7 +468,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-11/2026-08-11-facebook-cross1.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 3,
+        "impressions": 4,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -360,7 +506,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-11/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 3,
+        "impressions": 4,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -398,161 +544,6 @@
       "metrics": {
         "views": 2,
         "impressions": 2,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
-      "id": "2026-08-11-x-1",
-      "channel": "x",
-      "url": "https://x.com/nishinokousuke/status/2086943210178301954",
-      "postedAt": "2026-08-10T22:30:00.000Z",
-      "text": "ChatGPTのo3が8月26日で終了。\n\n無料のAI1本で判断していた人ほど、これが効く。\n\n僕のルールは1つ。\n集める情報は無料でいい。\n決める情報にだけ、金を払う。\n\n出張先でラウンジ代を払うのも同じ理由。\n払った額の分だけ、真剣になる。\n\n無料で得た情報は、だいたい実行されない。",
-      "excerpt": "ChatGPTのo3が8月26日で終了。 無料のAI1本で判断していた人ほど、これが効く。 僕のルールは1つ。 集める情報は無料でいい。 決める情報にだけ、金を払う。 出張先でラウンジ代を払うのも同じ理由。 払った額の分だけ、真剣になる。",
-      "hook": "お金を払わないと人は真剣になれない",
-      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-11/shared-0-landscape.png",
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 9,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 11.11
-      }
-    },
-    {
-      "id": "2026-08-10-threads-2",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/Db24jVMICQr",
-      "postedAt": "2026-08-10T11:00:00.000Z",
-      "text": "LPを見る前に「これ、うまくいってないな」と思ったことがあります。\n\n根拠は一点だけ。ペルソナが「既存客の中の、ある一部の層」から作られていたことです。その層が世の中に何人いるのか、誰も数えていなかった。\n\n僕が最初に見るのは2つです。\n・そのペルソナと同じ人が、市場に何人いると見積もったのか\n・その人が直近で何に困って検索したか、書かれているか\n\nどちらも空欄なら、実在の人を見ていません。\n\nその会社は月100万円以上の広告費を、10ヶ月そのまま流し続けていました。プロセスは教科書通りだったんです。\n\n聞きたいのは、ペルソナ資料を作ったことがある人。\n\nその人が市場に何人いるか、数えましたか？",
-      "excerpt": "LPを見る前に「これ、うまくいってないな」と思ったことがあります。 根拠は一点だけ。ペルソナが「既存客の中の、ある一部の層」から作られていたことです。その層が世の中に何人いるのか、誰も数えていなかった。 僕が最初に見るのは2つです。",
-      "hook": "存在しないペルソナを狙い月100万円の広告費を垂れ流した会社",
-      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-10/shared-1-portrait.png",
-      "videoUrl": null,
-      "metrics": {
-        "views": 11,
-        "impressions": 11,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
-      "id": "2026-08-10-x-2",
-      "channel": "x",
-      "url": "https://x.com/nishinokousuke/status/2086762082880393647",
-      "postedAt": "2026-08-10T10:30:00.000Z",
-      "text": "存在しないペルソナに、月100万円を10ヶ月。\n\nリサーチしてペルソナを立て、LPを作る。プロセスは正しい。\n\nでも、その層が実在するかは誰も確かめていなかった。\n\n知っているだけだと、プロセスの正しさで安心してしまう。\n\nあなたのペルソナ、実際に会って話したことはありますか。",
-      "excerpt": "存在しないペルソナに、月100万円を10ヶ月。 リサーチしてペルソナを立て、LPを作る。プロセスは正しい。 でも、その層が実在するかは誰も確かめていなかった。 知っているだけだと、プロセスの正しさで安心してしまう。",
-      "hook": "存在しないペルソナを狙い月100万円の広告費を垂れ流した会社",
-      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-10/shared-1-landscape.png",
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 9,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-08-10-instagram-1",
-      "channel": "instagram",
-      "url": "https://www.instagram.com/p/Db2pIfZIKHm/",
-      "postedAt": "2026-08-10T09:00:00.000Z",
-      "text": "「専門家が言っていたので、このLPにしました」\n毎月100万円以上の広告費を、10ヶ月そのまま垂れ流した会社の話です。\n\n何が起きていたか。\n\n【Before】\n・代理店がリサーチしてペルソナを1人に決めた\n・ペルソナに響くLPを作った\n・プロセスが正しいので疑わなかった\n・獲得数が落ちても回し続けた\n\n【After】\n・そのペルソナが実在するか先に確認した\n・実在する客の言葉でLPを書き直した\n・制作物が生む結果から逆算するようにした\n・数字が落ちたらペルソナ側を疑うようにした\n\nこの「実在するか確認する」を、手順に開きます。\n\n①過去12ヶ月の受注リストを開いて、そのペルソナに当てはまる人が何件いるか数える。0件なら、その人物は架空です。\n\n②実在したなら、その人が申込前に送ってきた相談文・問い合わせ文を、そのまま3つ引っ張る。要約しない。書いた通りの言葉を使う。\n\n③LPのCVRが基準を下回る月が2ヶ月続いたら、コピーではなくペルソナ側を疑う。文言の微調整に入るのは、その確認のあとです。\n\n僕はこの会社の話を聞いたとき、LPを見る前に「うまくいっていないだろうな」と思いました。\n\nプロセスが正しいことと、その先に出てくる制作物が正しいことは、別の話だからです。\n\n「リサーチして、ペルソナを作り、LPを作る」\nこのプロセス自体は正しい。だから、知っているだけの状態では、問題点が見えません。\n\nできる状態になると、そのプロセスから何が出てくるかまで、先に見えます。\n\n誰かがやっていることを、そのままやることは戦略ではありません。\n\n今のあなたのペルソナ、過去12ヶ月の受注リストに何件いましたか。\n\n#マーケティング #webマーケティング #広告運用 #lp制作 #ペルソナ設計 #集客 #中小企業経営 #経営者と繋がりたい #マーケティング戦略",
-      "excerpt": "「専門家が言っていたので、このLPにしました」 毎月100万円以上の広告費を、10ヶ月そのまま垂れ流した会社の話です。 何が起きていたか。 【Before】 ・代理店がリサーチしてペルソナを1人に決めた ・ペルソナに響くLPを作った ・プロ…",
-      "hook": "誰かの真似をそのままやることは戦略じゃない",
-      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-10/shared-0-portrait.png",
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 7,
-        "views": 8,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "saves": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-08-10-threads-principle",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/Db2Igg7EWMf",
-      "postedAt": "2026-08-10T04:00:00.000Z",
-      "text": "「理由あと出し・体先行の法則」というものがある。\n\nベトナムに一人で行くと言ったとき、多くの人から「なんで行くんですか？」と聞かれた。理由はなかった。\n\nほとんどの人は逆をやる。理由が固まってから動こうとして、そのまま動かない。\n\n自分の書いたものを見返して、共通していた点を3つにまとめた。\n\n中身はリプライに置いておく。",
-      "excerpt": "「理由あと出し・体先行の法則」というものがある。 ベトナムに一人で行くと言ったとき、多くの人から「なんで行くんですか？」と聞かれた。理由はなかった。 ほとんどの人は逆をやる。理由が固まってから動こうとして、そのまま動かない。",
-      "hook": "思考は環境の産物──だから体を先に動かして環境を変える",
-      "imageUrl": null,
-      "videoUrl": null,
-      "metrics": {
-        "views": 138,
-        "impressions": 138,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "threadViews": [
-          138,
-          7,
-          6,
-          7,
-          5,
-          4,
-          3
-        ]
-      }
-    },
-    {
-      "id": "2026-08-10-x-principle",
-      "channel": "x",
-      "url": "https://x.com/nishinokousuke/status/2086669052391395466",
-      "postedAt": "2026-08-10T03:30:00.000Z",
-      "text": "「座標移動の法則」というものがあります。\n\nアイデアが出ない時、ほとんどの人はもっと考えようとします。僕も去年まで同じでした。\n\nでも順番が逆でした。\n\nポイントは3つ。リプライに置いておきます。",
-      "excerpt": "「座標移動の法則」というものがあります。 アイデアが出ない時、ほとんどの人はもっと考えようとします。僕も去年まで同じでした。 でも順番が逆でした。 ポイントは3つ。リプライに置いておきます。",
-      "hook": "思考は環境の産物──だから体を先に動かして環境を変える",
-      "imageUrl": null,
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 25,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 4
-      }
-    },
-    {
-      "id": "2026-08-10-facebook-1",
-      "channel": "facebook",
-      "url": "https://www.facebook.com/122233359788030234/posts/122545375820030234",
-      "postedAt": "2026-08-10T03:00:00.000Z",
-      "text": "「代理店さんが言っていたので、このLPにしました」\n「そのペルソナの人、実際に会ったことはありますか？」\n\n面談でよく起きるやりとりを、たとえばこういう会話として書いてみます。\n\n---\n\n「リサーチをして、お客さんの層からペルソナを1人決めました」\n\n「そのペルソナに向けてLPを作った、ということですね」\n\n「はい。1人に絞ったほうがうまくいくと聞いたので」\n\n「広告費は毎月いくら入れていましたか」\n\n「100万円以上です。10ヶ月ほど回しました」\n\n「獲得数は」\n\n「……下がりました。その後の販売も、うまくいかなくて」\n\n「そのペルソナに当てはまる人、この10ヶ月で何人来ましたか」\n\n「……」\n\n---\n\nこの会話で怖いのは、誰も手を抜いていないことです。\n\n代理店はリサーチをしました。データからある一部の層を見つけ、ペルソナに落とし、そのペルソナに響く言葉でLPを書きました。教科書どおりです。プロセスに穴はありません。\n\nそれでも赤字になりました。理由は単純で、そんな層が都合よく存在しなかったからです。\n\n僕はこの案件、LPを見る前から「うまくいっていないだろうな」と思っていました。プロセスの説明を聞いた時点で、そこから何が出てくるか、出てきたものが市場でどう扱われるかまで、だいたい見えてしまうからです。\n\nここが「知っている」と「できる」の境目だと思っています。\n\n知っているだけの状態だと、プロセスを見て正しいかどうかを判断します。リサーチ→ペルソナ→LP。合っている。だからうまくいくはずだ、と。\n\nできる状態になると、判断の対象が変わります。そのプロセスから生まれる制作物と、その制作物が市場に出たときの結果まで想像がつく。だから、手順が正しくても止められる。\n\n誰かがやっていることを、そのまま自分の会社に持ち込むこと。これは戦略ではありません。手順の輸入です。\n\n講師が言っていた。本に書いてあった。プロに任せた。どれも間違っていない情報です。ただ、その情報がどんな市場・どんな商品・どんな価格帯を前提にしていたかは、たいてい抜け落ちて伝わります。抜け落ちた部分を埋めるのが、自分の頭の仕事になります。\n\n昔は、マーケティングを知っていること自体が強みになりました。今は知識も情報も広く出回っていて、知っているだけの人がたくさんいます。強みが、普通になりました。\n\n間違ったマーケティングを、正しい手順で、10ヶ月続けられてしまう。これがいちばん危ないところだと思います。\n\n手順が正しいことは、結果を保証しません。\n\nひとつ聞いてみたいことがあります。\n\nいま自社でやっているマーケティングの中で、「なぜこの形なのか」を自分の言葉で説明できないものは、どれですか。\n\n1つ挙げるだけで、けっこう見えてきます。\n\nー西埜巧祐",
-      "excerpt": "「代理店さんが言っていたので、このLPにしました」 「そのペルソナの人、実際に会ったことはありますか？」 面談でよく起きるやりとりを、たとえばこういう会話として書いてみます。",
-      "hook": "誰かの真似をそのままやることは戦略じゃない",
-      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-10/shared-0-landscape.png",
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 7,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-08-10-short1-threads",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/Db13eWjknHn",
-      "postedAt": "2026-08-10T00:07:00.000Z",
-      "text": "会話を途中で止めなくても、モデルを切り替えられるようになっていました。\n\nここが今のChatGPTとの一番の違いだと感じたところです。\n\nこの質問は重いモデルで、こっちは軽いモデルで。同じチャットの中で使い分けられる。\n\n思考量の設定（エフォート）も選べるんですが、僕は基本デフォルトの高い方のままにしています。下げると体感でわかるくらい考えなくなるので。\n\n動画では実際に切り替えている画面を映しています。\n\nみなさんは、軽いモデルで済ませる作業ってどこまでですか？",
-      "excerpt": "会話を途中で止めなくても、モデルを切り替えられるようになっていました。 ここが今のChatGPTとの一番の違いだと感じたところです。 この質問は重いモデルで、こっちは軽いモデルで。同じチャットの中で使い分けられる。",
-      "hook": "作業中にモデルを切り替えられる新機能",
-      "imageUrl": null,
-      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-10/short1.mp4",
-      "metrics": {
-        "views": 40,
-        "impressions": 40,
         "reactions": 0,
         "comments": 0,
         "shares": 0
