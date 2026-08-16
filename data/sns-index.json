@@ -1,6 +1,98 @@
 {
-  "generatedAt": "2026-08-15T06:43:14.108Z",
+  "generatedAt": "2026-08-16T06:44:37.874Z",
   "posts": [
+    {
+      "id": "2026-08-19-x-principle-announce",
+      "channel": "x",
+      "url": "https://x.com/nishinokousuke/status/2088830631631348095",
+      "postedAt": "2026-08-16T03:30:00.000Z",
+      "text": "値下げ交渉されたとき、その場で「下げます」か「無理です」の二択しか出てこない人へ。\n\n僕が二択から抜けるまでにやったことを、8投稿の連続で順番に全部出します。\n\n8月19日(水)17:00。毎週水曜の法則パックです。\n\n流れてきてほしい人はフォローしておいてください。",
+      "excerpt": "値下げ交渉されたとき、その場で「下げます」か「無理です」の二択しか出てこない人へ。 僕が二択から抜けるまでにやったことを、8投稿の連続で順番に全部出します。 8月19日(水)17:00。毎週水曜の法則パックです。",
+      "hook": "「値札一枚交渉」",
+      "imageUrl": null,
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 0,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-08-16-short1-threads",
+      "channel": "threads",
+      "url": "https://www.threads.com/@kousuke_nishino/post/DcFQy1lkf4P",
+      "postedAt": "2026-08-15T23:57:00.000Z",
+      "text": "毎回メタ広告の管理画面を開いて、数字を手打ちしている人。\n\nあれ、1時間で終わりました。Facebook広告とGoogle広告の数字をスプレッドシートに流すところまで。\n\n前から作りたかったのに、認証まわりで挫折してた作業です。今回は今までで一番スムーズだった。\n\n動画では、その一歩手前までの画面をそのまま出しています。\n\nみなさんが今いちばんコピペしている数字は、どれですか？",
+      "excerpt": "毎回メタ広告の管理画面を開いて、数字を手打ちしている人。 あれ、1時間で終わりました。Facebook広告とGoogle広告の数字をスプレッドシートに流すところまで。 前から作りたかったのに、認証まわりで挫折してた作業です。",
+      "hook": "広告数値の自動集計が1時間で完成した実体験",
+      "imageUrl": null,
+      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-16/short1.mp4",
+      "metrics": {
+        "views": 23,
+        "impressions": 23,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "2026-08-15-threads-2",
+      "channel": "threads",
+      "url": "https://www.threads.com/@kousuke_nishino/post/DcDx8W-mzOv",
+      "postedAt": "2026-08-15T11:00:00.000Z",
+      "text": "生成AIを使っている人の割合、総務省のデータで9.1%。\n\n「いやいや、もっと多いでしょ」と僕も思いました。でもそれは、周りとYouTubeの見過ぎかもしれません。\n\n僕の周りは業界の専門家ばかり。新しいものをすぐ試す人たちです。その景色を「世の中」だと思ってしまう。\n\nで、大事なのはここから。\n\nChatGPTを使って満足で終わらせないこと。\n\n判断基準はひとつだけ置いています。毎週かならず発生する定型業務を書き出して、1件あたりの短縮分数×月の回数を出す。分数で言えないものは、まだ成果になっていません。\n\n文章作れた！わーい！ではなく、働く時間が減った。ここを見ます。\n\nあなたの定型業務で、いま一番「毎週やってるな」と思うものは何ですか。\n\nhttps://kousukenishino.com/lp/ac/ai-agent/life/seminar-optin-a.html?utm_source=threads&utm_medium=social&utm_campaign=sns-agent&utm_content=2026-08-15-threads-2",
+      "excerpt": "生成AIを使っている人の割合、総務省のデータで9.1%。 「いやいや、もっと多いでしょ」と僕も思いました。でもそれは、周りとYouTubeの見過ぎかもしれません。 僕の周りは業界の専門家ばかり。新しいものをすぐ試す人たちです。",
+      "hook": "「もっと多いのでは」は周りの見過ぎかも",
+      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-15/shared-1-portrait.png",
+      "videoUrl": null,
+      "metrics": {
+        "views": 47,
+        "impressions": 47,
+        "reactions": 1,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "2026-08-15-x-2",
+      "channel": "x",
+      "url": "https://x.com/nishinokousuke/status/2088573980525449679",
+      "postedAt": "2026-08-15T10:30:00.000Z",
+      "text": "生成AIを使っている人は9.1%。総務省の調査です。\n\n「もっと多いのでは」と僕も思いました。それは周りとYouTubeの見過ぎでした。\n\n測る場所は一点。同じ業務の作業時間を、先月と今月で比べる。\n\n減っていないなら、使ったつもりです。\n\n続きはメルマガで。",
+      "excerpt": "生成AIを使っている人は9.1%。総務省の調査です。 「もっと多いのでは」と僕も思いました。それは周りとYouTubeの見過ぎでした。 測る場所は一点。同じ業務の作業時間を、先月と今月で比べる。 減っていないなら、使ったつもりです。",
+      "hook": "「もっと多いのでは」は周りの見過ぎかも",
+      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-15/shared-1-landscape.png",
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 5,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-08-15-instagram-1",
+      "channel": "instagram",
+      "url": "https://www.instagram.com/p/DcDhENmFkBC/",
+      "postedAt": "2026-08-15T09:00:00.000Z",
+      "text": "生成AIを使っている人は、9.1%。\n残りの90.9%は、まだ使っていない。\n\n総務省のデータです。\n\n僕は最初、「いやいや、もっと多いでしょ」と思いました。\n\nでも冷静に考えて、納得しました。\n\n僕の周りは、業界の専門家やトップクラスの人ばかり。トレンドに敏感で、新しいものをすぐ試す人たちです。\n\nそういう人に囲まれていると、世の中の感覚を見誤ります。\n\n「もっと多いのでは」と感じた人は、周りかYouTubeを見すぎているのかもしれません。\n\nちなみに僕は、「〜〜リサーチ」「〜〜研究所の調査」の数字は話半分で受け取っています。\n\nメールで回答を集める調査だと、そもそも登録している時点でトレンドに詳しい人が中心になるからです。\n\nさて。\n\n世の中には80:20の法則があります。成果の80%は、20%の人が生み出す。\n\n9.1%という数字を見ると、似たものを感じませんか。\n\nだから僕は、こう予測しています。\n\n生成AIを使いこなす優秀な人が、もっと優秀になる。\n\nそしてもうひとつ。\n\nここを間違えると、使っても何も変わりません。\n\n「文章が作れた、面白い」で止まらないこと。\n\n僕たちはビジネスをしています。目指すのは、売上が伸びた、集客できた、働く時間が減った、です。\n\n9.1%のうちに慣れておけるのは、正直、救いだと思っています。\n\nこの先の話、つまり「使いこなす側」が具体的に何をしているのかは、メルマガでしか書いていません。\n\nプロフィールから登録できます。\n\n#生成AI #ChatGPT活用 #中小企業経営 #集客 #マーケティング #業務効率化 #経営者の学び #西埜巧祐",
+      "excerpt": "生成AIを使っている人は、9.1%。 残りの90.9%は、まだ使っていない。 総務省のデータです。 僕は最初、「いやいや、もっと多いでしょ」と思いました。 でも冷静に考えて、納得しました。 僕の周りは、業界の専門家やトップクラスの人ばかり。",
+      "hook": "生成AIを使う人はわずか9.1%という現実",
+      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-15/shared-0-portrait.png",
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 2,
+        "views": 8,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "engagementRate": 0
+      }
+    },
     {
       "id": "2026-08-15-facebook-1",
       "channel": "facebook",
@@ -12,7 +104,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-15/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 0,
+        "impressions": 4,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -30,8 +122,8 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-15/short1.mp4",
       "metrics": {
-        "views": 32,
-        "impressions": 32,
+        "views": 38,
+        "impressions": 38,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -48,8 +140,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-15/shared-0-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "views": 31,
-        "impressions": 31,
+        "views": 32,
+        "impressions": 32,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -66,7 +158,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-15/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 0,
+        "impressions": 5,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -84,8 +176,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-14/2026-08-14-instagram-cross2.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 3,
-        "views": 4,
+        "impressions": 4,
+        "views": 6,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -104,8 +196,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-14/shared-1-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "views": 41,
-        "impressions": 41,
+        "views": 42,
+        "impressions": 42,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -122,7 +214,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-14/shared-1-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 11,
+        "impressions": 13,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -140,8 +232,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-14/shared-0-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 3,
-        "views": 7,
+        "impressions": 5,
+        "views": 14,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -160,8 +252,8 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 7,
-        "impressions": 7,
+        "views": 8,
+        "impressions": 8,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -178,11 +270,11 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 6,
+        "impressions": 10,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 16.67
+        "engagementRate": 10
       }
     },
     {
@@ -196,8 +288,8 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-14/short1.mp4",
       "metrics": {
-        "views": 11,
-        "impressions": 11,
+        "views": 13,
+        "impressions": 13,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -214,8 +306,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-14/shared-0-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "views": 13,
-        "impressions": 13,
+        "views": 14,
+        "impressions": 14,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -232,7 +324,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-14/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 69,
+        "impressions": 72,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -250,8 +342,8 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 31,
-        "impressions": 31,
+        "views": 32,
+        "impressions": 32,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -268,11 +360,11 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 4,
+        "impressions": 5,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 25
+        "engagementRate": 20
       }
     },
     {
@@ -286,8 +378,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-13/shared-1-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "views": 52,
-        "impressions": 52,
+        "views": 53,
+        "impressions": 53,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -304,7 +396,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-13/shared-1-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 7,
+        "impressions": 8,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -322,8 +414,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-13/shared-0-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 3,
-        "views": 5,
+        "impressions": 5,
+        "views": 6,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -342,8 +434,8 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 124,
-        "impressions": 124,
+        "views": 125,
+        "impressions": 125,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -396,8 +488,8 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-13/short1.mp4",
       "metrics": {
-        "views": 14,
-        "impressions": 14,
+        "views": 15,
+        "impressions": 15,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -414,8 +506,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-13/shared-0-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "views": 59,
-        "impressions": 59,
+        "views": 62,
+        "impressions": 62,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -432,7 +524,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-13/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 5,
+        "impressions": 6,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -450,103 +542,11 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-12/shared-1-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "views": 38,
-        "impressions": 38,
+        "views": 41,
+        "impressions": 41,
         "reactions": 0,
         "comments": 0,
         "shares": 0
-      }
-    },
-    {
-      "id": "2026-08-12-instagram-1",
-      "channel": "instagram",
-      "url": "https://www.instagram.com/p/Db7y0FVIC_M/",
-      "postedAt": "2026-08-12T09:00:00.000Z",
-      "text": "交通費を15%〜50%削れた直後、僕の判断はいちばん危うくなっていた。\n\n30日〜60日で回収を見るか、3年〜5年で見るか。ここを間違えると、真っ先に切られる投資が3つあります。\n\n\n①人への投資\n\n戦力化まで3年かかることがある。だから「即戦力だけ」に寄る。でも0から育てた人のほうが、長く残ってくれる。\n\n\n②オフィスへの投資\n\n集まれる場所があることのメリットは、数字に出ない。出ないから、真っ先に削減候補に上がる。\n\n\n③事業への投資\n\n僕は2年以上、利益が出づらい事業を抱えていました。その事業が、のちに大きな収益の柱になりました。短期で切っていたら、今はない。\n\n\nがめつさ自体は悪くありません。\n投資に対するリターンが極めて明確になる。これは本当に強い武器です。\n\nただ、感度は確実に下がります。\n\n経費削減は数字が出る。会社の力は数字が出ない。だから先に削られる。\n\n\nこの3つを短期の物差しで測らないだけで、成長軌道から落ちる確率が変わります。\n\n\nちなみに僕は今、マイルとプレミアムポイントの計算をするようになりました。細かさが災いしています。\n\nみなさんが「回収まで3年かかる」と分かっていて続けている投資は、人・オフィス・事業のどれですか。\n\n#経営 #中小企業経営 #経費削減 #投資判断 #事業投資 #人材育成 #経営者の思考 #長期思考",
-      "excerpt": "交通費を15%〜50%削れた直後、僕の判断はいちばん危うくなっていた。 30日〜60日で回収を見るか、3年〜5年で見るか。ここを間違えると、真っ先に切られる投資が3つあります。 ①人への投資 戦力化まで3年かかることがある。",
-      "hook": "経営者は意外にがめつい？投資リターンが明確になる利点とは",
-      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-12/shared-0-portrait.png",
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 6,
-        "views": 16,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "saves": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-08-12-facebook-1",
-      "channel": "facebook",
-      "url": "https://www.facebook.com/122233359788030234/posts/122545624514030234",
-      "postedAt": "2026-08-12T03:00:00.000Z",
-      "text": "2年以上赤字が続いた事業を、僕は畳まなかった。\n\nその事業が、のちに大きな収益の柱になりました。もし短期のリターンだけで見ていたら、間違いなく切っていたと思う。\n\n一方で、僕はかなり細かい人間です。\n\n今年やって良かったのは交通費の削減。ダイナースカードを作って、移動を飛行機に変えただけ。マイルなどを含めると、今までの経費を15%〜50%以上削れる試算になりました。\n\n経営者は意外にがめつい。\n\n毎回シャンパンを入れて全部払う人もいるし、一円単位で割り勘する人、別の店の明細を見て「これ、何のお金ですか？」と問いただす人もいる。どちらも一長一短です。\n\nがめつさの良い点は、投資に対するリターンが極めて明確になること。この投資でこのリターンは素晴らしい、と実感できる。これは本当に良いことです。\n\n悪い点は、投資への感度が下がること。\n\n違いは時間軸だけなんです。すぐ得られるリターンに注目する人は、だいたい30日〜60日で判断する。でもビジネスには、プラスになるまで3〜5年かかる投資がある。\n\nだから僕は、投資を3つに分けて考えるようにしています。\n\n・30日〜60日で数字が動くもの（経費、仕入れ、細かい支出）→ がめつく削っていい\n・成果まで3年以上かかるもの（人、事業）→ 短期の数字で判断しない。人は戦力化まで3年かかるし、0から育てた人のほうが長く働いてくれる\n・そもそも数値で測れないもの（オフィスのような場）→ 「無くしたら何が壊れるか」で判断する\n\n経費削減は短期では効きます。でも会社の力がつくのは、投資したところだけ。\n\n短期の目線ばかりだと、必要な投資に目が向かなくなる。それで成長軌道に乗れない会社を、いくつも見てきました。\n\nひとつ聞きたいです。\n\nいま抱えている「まだリターンが見えていない投資」を1つだけ挙げるとしたら、何ですか。人か、場所か、事業か。\n\nPs. 細かさが災いして、マイルやプレミアムポイントの計算をするようになってしまいました。これはあまり良くない。\n\nー西埜巧祐",
-      "excerpt": "2年以上赤字が続いた事業を、僕は畳まなかった。 その事業が、のちに大きな収益の柱になりました。もし短期のリターンだけで見ていたら、間違いなく切っていたと思う。 一方で、僕はかなり細かい人間です。 今年やって良かったのは交通費の削減。",
-      "hook": "経営者は意外にがめつい？投資リターンが明確になる利点とは",
-      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-12/shared-0-landscape.png",
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 0,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-08-12-short1-threads",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/Db7Ho6xj0xm",
-      "postedAt": "2026-08-12T00:15:00.000Z",
-      "text": "僕はプログラミングが書けません。\n\nそれでも広告と決済のデータを集計するスプレッドシートは動いているし、今は自分のコンテンツをSNSで拡散してくれるエージェントを組んでいます。\n\n書けないままでも作れる。その工程を動画で全部出しました。\n\n作れるものが増えると、逆に「何を自動化しないか」で悩み始めます。みなさんが手放したくない作業って何ですか。",
-      "excerpt": "僕はプログラミングが書けません。 それでも広告と決済のデータを集計するスプレッドシートは動いているし、今は自分のコンテンツをSNSで拡散してくれるエージェントを組んでいます。 書けないままでも作れる。その工程を動画で全部出しました。",
-      "hook": "Opus5でプログラミング不要の自動化構築",
-      "imageUrl": null,
-      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-12/short1.mp4",
-      "metrics": {
-        "views": 6,
-        "impressions": 6,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
-      "id": "2026-08-12-threads-1",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/Db6vcENAVfq",
-      "postedAt": "2026-08-11T23:00:00.000Z",
-      "text": "カードを1枚作っただけで、交通費が15〜50%削れました。うれしかったです。でもこの計算力は、投資を止める側にも回る。\n\n僕の振り分け基準はこれだけです。\n\n30〜60日で判断していい費目：交通費、移動、通信などの経費\n3〜5年で判断する費目：人、オフィス、事業\n\n人は戦力化まで3年かかることがある。僕が持っていた事業は2年以上赤字で、その後に収益の柱になりました。30〜60日の目で見ていたら、確実に切っていた。\n\n経費削減が得意な人ほど、長期の投資に鈍くなる。ここが怖いところです。\n\nいま30〜60日の目で判断しかけている費目、ひとつ挙げるとしたら何ですか？",
-      "excerpt": "カードを1枚作っただけで、交通費が15〜50%削れました。うれしかったです。でもこの計算力は、投資を止める側にも回る。 僕の振り分け基準はこれだけです。",
-      "hook": "経営者は意外にがめつい？投資リターンが明確になる利点とは",
-      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-12/shared-0-portrait.png",
-      "videoUrl": null,
-      "metrics": {
-        "views": 11,
-        "impressions": 11,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
-      "id": "2026-08-12-x-1",
-      "channel": "x",
-      "url": "https://x.com/nishinokousuke/status/2087305605304270952",
-      "postedAt": "2026-08-11T22:30:00.000Z",
-      "text": "2年以上赤字だった事業を、僕は何度も「切るべきだ」と計算していた。\n\n疑ったのは投資額。違った。\n\n僕の時間軸が30日しかなかっただけ。\n\nその事業は今、収益の柱。\n\n今は、数字がすぐ出ない投資にも枠を取っている。\n\n切らずに残してよかった投資、ありますか。",
-      "excerpt": "2年以上赤字だった事業を、僕は何度も「切るべきだ」と計算していた。 疑ったのは投資額。違った。 僕の時間軸が30日しかなかっただけ。 その事業は今、収益の柱。 今は、数字がすぐ出ない投資にも枠を取っている。",
-      "hook": "経営者は意外にがめつい？投資リターンが明確になる利点とは",
-      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-12/shared-0-landscape.png",
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 5,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 0
       }
     }
   ]
