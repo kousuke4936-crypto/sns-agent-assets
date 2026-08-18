@@ -1,6 +1,80 @@
 {
-  "generatedAt": "2026-08-17T07:14:56.950Z",
+  "generatedAt": "2026-08-18T06:49:31.320Z",
   "posts": [
+    {
+      "id": "2026-08-18-short1-threads",
+      "channel": "threads",
+      "url": "https://www.threads.com/@kousuke_nishino/post/DcKZ4PMEXgS",
+      "postedAt": "2026-08-17T23:59:00.000Z",
+      "text": "開発会社に頼んだら230万円くらいだろうな、というソフトを、プログラム素人の僕が自分で作りました。\n\n決済ツールがいくつもあって、売上があちこちに分散して確認しづらい。その一点を解決するための集計ソフトです。\n\nChatGPTを「アイデアの壁打ち」と「メール文の下書き」で終わらせている人向けの動画。\n\nもし今、何か1つ自作できるとしたら、みなさんはどの手間を消しますか？",
+      "excerpt": "開発会社に頼んだら230万円くらいだろうな、というソフトを、プログラム素人の僕が自分で作りました。 決済ツールがいくつもあって、売上があちこちに分散して確認しづらい。その一点を解決するための集計ソフトです。",
+      "hook": "素人でも230万円級の開発をAIで自作できた",
+      "imageUrl": null,
+      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-18/short1.mp4",
+      "metrics": {
+        "views": 9,
+        "impressions": 9,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "2026-08-17-threads-2",
+      "channel": "threads",
+      "url": "https://www.threads.com/@kousuke_nishino/post/DcI4qcZlhav",
+      "postedAt": "2026-08-17T11:00:00.000Z",
+      "text": "「マインドが足りないんです」\n\nこう言う人の相談を聞くと、だいたいマインドは問題じゃない。\n\n仕事獲得は掛け算。ざっくり4つ。\n\n・認知（そもそも存在を知られているか）\n・提案（今月、何件出したか）\n・実績（見せられる形になっているか）\n・価格（相手が判断できる状態か）\n\nどれか一つがゼロなら、全部ゼロ。気合いでゼロは埋まりません。\n\n何回も日本一を取ったクライアントが言っていました。\n「うまくいかない人は自己流でやる。うまくいく人は成功する方法でやる」\n\nこの4つ、今どこがゼロですか。",
+      "excerpt": "「マインドが足りないんです」 こう言う人の相談を聞くと、だいたいマインドは問題じゃない。 仕事獲得は掛け算。ざっくり4つ。 ・認知（そもそも存在を知られているか） ・提案（今月、何件出したか） ・実績（見せられる形になっているか） ・価格（…",
+      "hook": "マインド一辺倒だと、取れる仕事も取れなくなる",
+      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-17/shared-1-portrait.png",
+      "videoUrl": null,
+      "metrics": {
+        "views": 15,
+        "impressions": 15,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "2026-08-17-x-2",
+      "channel": "x",
+      "url": "https://x.com/nishinokousuke/status/2089298722769322368",
+      "postedAt": "2026-08-17T10:30:00.000Z",
+      "text": "気合いはゼロを埋めない。\n\n仕事獲得は掛け算です。\n相手選び×提案の中身×伝え方×返信の速さ。\nどれか一つがゼロなら、答えはゼロ。\n\n「マインド！」一辺倒になると、取れる仕事も取れなくなる。\n\nあなたの掛け算、ゼロはどこですか。",
+      "excerpt": "気合いはゼロを埋めない。 仕事獲得は掛け算です。 相手選び×提案の中身×伝え方×返信の速さ。 どれか一つがゼロなら、答えはゼロ。 「マインド！」一辺倒になると、取れる仕事も取れなくなる。 あなたの掛け算、ゼロはどこですか。",
+      "hook": "マインド一辺倒だと、取れる仕事も取れなくなる",
+      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-17/shared-1-landscape.png",
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 5,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-08-17-instagram-1",
+      "channel": "instagram",
+      "url": "https://www.instagram.com/p/DcIqrOUlXSR/",
+      "postedAt": "2026-08-17T09:00:00.000Z",
+      "text": "「マインドが足りない」と思っている人ほど、\n止まっている原因はマインドじゃない。\n\n仕事獲得は掛け算です。\nどこかがゼロだと、気合いを入れても答えはゼロのまま。\n\nだから僕は、原因を探す順番をこうしています。\n\n\nSTEP1：うまくいかない場面を1つだけ書き出す\n「集客が弱い」ではなく、直近で実際に流れた1件を思い出して書く。抽象的に書くと、原因も抽象的にしか出てこない。\n\nSTEP2：その1件を要素に分解する\n誰に声をかけたか。何を提案したか。いくらで出したか。どう伝えたか。掛け算の項を並べる作業です。\n\nSTEP3：ゼロに近い項を探す\n全部を底上げしようとしない。一番低いところを1つだけ選ぶ。\n\nSTEP4：その項に対してだけ施策を打つ\nここで初めて手を動かす。マインドで解決できる範囲は、思っているより狭いです。\n\n\n勘所は、STEP1で「自分の感想」を書かないこと。\n起きた事実だけを置くと、原因は勝手に浮いてきます。\n\n何回も日本一を取らせてきたクライアントが言っていた言葉を、僕はいまでも覚えています。\n「うまくいかない人は、自己流でやる。うまくいく人は、成功する方法でやる」\n\nそして、聞かないとわからない問題は想像以上に多い。\n先日アンケートを取って、僕らがまだ見えていない問題があると気づかされました。自分の頭の中だけで原因分析をしていると、同じところをぐるぐる回ります。\n\nSTEP3で、あなたが一番ゼロに近いと思った項はどれでしたか？\n\n#起業 #仕事獲得 #個人事業主 #フリーランス #営業 #マーケティング #集客 #独立準備",
+      "excerpt": "「マインドが足りない」と思っている人ほど、 止まっている原因はマインドじゃない。 仕事獲得は掛け算です。 どこかがゼロだと、気合いを入れても答えはゼロのまま。 だから僕は、原因を探す順番をこうしています。",
+      "hook": "聞かないとわからない問題は、想像以上に多い",
+      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-17/shared-0-portrait.png",
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 3,
+        "views": 4,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "engagementRate": 0
+      }
+    },
     {
       "id": "2026-08-17-facebook-1",
       "channel": "facebook",
@@ -12,7 +86,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-17/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 0,
+        "impressions": 2,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -30,8 +104,8 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-17/short1.mp4",
       "metrics": {
-        "views": 10,
-        "impressions": 10,
+        "views": 13,
+        "impressions": 13,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -48,8 +122,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-17/shared-0-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "views": 22,
-        "impressions": 22,
+        "views": 23,
+        "impressions": 23,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -66,7 +140,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-17/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 0,
+        "impressions": 5,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -84,8 +158,8 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 4,
-        "impressions": 4,
+        "views": 5,
+        "impressions": 5,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -102,11 +176,11 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 2,
-        "reactions": 0,
+        "impressions": 8,
+        "reactions": 1,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 50
+        "engagementRate": 25
       }
     },
     {
@@ -138,8 +212,8 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-16/short1.mp4",
       "metrics": {
-        "views": 25,
-        "impressions": 25,
+        "views": 26,
+        "impressions": 26,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -156,8 +230,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-15/shared-1-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "views": 49,
-        "impressions": 49,
+        "views": 50,
+        "impressions": 50,
         "reactions": 1,
         "comments": 0,
         "shares": 0
@@ -174,7 +248,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-15/shared-1-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 7,
+        "impressions": 8,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -192,8 +266,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-15/shared-0-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 4,
-        "views": 11,
+        "impressions": 5,
+        "views": 12,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -230,8 +304,8 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-15/short1.mp4",
       "metrics": {
-        "views": 39,
-        "impressions": 39,
+        "views": 40,
+        "impressions": 40,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -248,8 +322,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-15/shared-0-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "views": 33,
-        "impressions": 33,
+        "views": 34,
+        "impressions": 34,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -266,7 +340,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-15/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 5,
+        "impressions": 6,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -360,8 +434,8 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 8,
-        "impressions": 8,
+        "views": 9,
+        "impressions": 9,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -473,80 +547,6 @@
         "comments": 0,
         "shares": 0,
         "engagementRate": 16.67
-      }
-    },
-    {
-      "id": "2026-08-13-threads-2",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/Db-n2efHI9f",
-      "postedAt": "2026-08-13T11:00:00.000Z",
-      "text": "素人は味を見る。プロは間を見る。\n\n焼き鳥屋の店長に「飲食店で何を見るか」と聞いたら、こう返ってきました。一品目のお皿が下がって、次が出るまでの間。そこが居心地を決めると。\n\n停滞期を抜けるのに必要なのは、根性じゃなくてこの「見る場所」を知ることです。手順は2つ。\n\nSTEP1：うまくいっている人に、こう聞く。「どこを直せばいいですか」ではなく「あなたなら最初にどこを見ますか」。\n\nSTEP2：返ってきた場所を、次の1回で意識する。それだけ。\n\n調べても出てこないのは、答えではなく見る場所のほうです。\n\nみなさんが最近もらった「見る場所」のフィードバック、どんなものでしたか？",
-      "excerpt": "素人は味を見る。プロは間を見る。 焼き鳥屋の店長に「飲食店で何を見るか」と聞いたら、こう返ってきました。一品目のお皿が下がって、次が出るまでの間。そこが居心地を決めると。",
-      "hook": "成長には必ず停滞期がある",
-      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-13/shared-1-portrait.png",
-      "videoUrl": null,
-      "metrics": {
-        "views": 53,
-        "impressions": 53,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
-      "id": "2026-08-13-x-2",
-      "channel": "x",
-      "url": "https://x.com/nishinokousuke/status/2087849207856021943",
-      "postedAt": "2026-08-13T10:30:00.000Z",
-      "text": "「伸びない時期」は失敗じゃない。\n\n成長は必ず停滞してから、一気に跳ねる。\nテニスでも何度も味わいました。\n\n停滞か向いてないかの見分け方は一つ。\nプロにフィードバックをもらっているか。\n自己流の停滞だけは、伸びません。\n\n今の停滞、誰に見てもらってますか？",
-      "excerpt": "「伸びない時期」は失敗じゃない。 成長は必ず停滞してから、一気に跳ねる。 テニスでも何度も味わいました。 停滞か向いてないかの見分け方は一つ。 プロにフィードバックをもらっているか。 自己流の停滞だけは、伸びません。",
-      "hook": "成長には必ず停滞期がある",
-      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-13/shared-1-landscape.png",
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 8,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-08-13-instagram-1",
-      "channel": "instagram",
-      "url": "https://www.instagram.com/p/Db-Xh_TIKng/",
-      "postedAt": "2026-08-13T09:00:00.000Z",
-      "text": "「成長は、やった分だけ右肩上がりに積み上がっていく」\n\nこれ、半分は正しくて、半分は間違っています。\n\n正しいのは、やった分しか伸びないという部分。近道はありません。\n\n間違っているのは、伸び方です。\n成長には必ず停滞があって、そのあと一気に跳ねます。二次曲線です。\n\n自転車を思い出してください。\n最初はまったく乗れない。乗れない。乗れない。\nある日、突然乗れる。\n\n僕がコンサルティングを受けるとき、最初に必ず伝えていることがあります。\n「成果はあとあとになって出てきます。すぐ出るのは稀です」と。\n\nここで多くの人が撤退します。\n伸びていないと判断してしまうからです。\nでも実際は、まだ跳ねていないだけです。\n\n判断に使えるのは、この2つだけです。\n\n1. 同じことを、やめずに繰り返せているか\n2. その分野のプロから、フィードバックを受けているか\n\n2つ目が抜けると、停滞は本物の停滞になります。\n\n行きつけの焼き鳥屋の店長に、「良い飲食店を見分けるポイントは？」と聞いたことがあります。\n\n答えは「間を見る」でした。\n一品目のお皿が下げられて、二品目が出るまでの間。そこが居心地を決めるそうです。\n\n素人は、味と接客と内装しか見ていません。\nプロは、同じ景色の中で違うところを見ています。\n\nこれは検索しても出てきません。\nプロから教えてもらう以外に、気づく方法がないんです。\n\n正確に言うとこうなります。\n成長は、やった分だけ積み上がる。ただし積み上がっている間、外からは何も変わっていないように見える。\n\n壁を感じているなら、それは前進している証拠です。\n\n今いちばん伸び悩んでいる分野で、直近あなたにフィードバックをくれた人は誰ですか。\n\n#マーケティング #セールスコピー #成長曲線 #学び直し #継続する力 #フィードバック #独立起業 #仕事術 #西埜巧祐",
-      "excerpt": "「成長は、やった分だけ右肩上がりに積み上がっていく」 これ、半分は正しくて、半分は間違っています。 正しいのは、やった分しか伸びないという部分。近道はありません。 間違っているのは、伸び方です。",
-      "hook": "成果は二次曲線的にゆっくり出るもの",
-      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-13/shared-0-portrait.png",
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 5,
-        "views": 6,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "saves": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-08-13-threads-thread-announce",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/Db9zHojjZXA",
-      "postedAt": "2026-08-13T03:30:00.000Z",
-      "text": "尽くしているのに契約が増えない、という話を21:30に出します。\n\n聞かれる前に改善案を送る。深夜でも返信する。頼まれていない資料まで作る。僕が実際にやっていたことです。感謝も紹介の約束ももらいました。それでも契約は増えなかった。\n\nなぜそうなったのかを、9投稿に分けて順番に全部出します。\n\n流れてきてほしい人はフォローしておいてください。",
-      "excerpt": "尽くしているのに契約が増えない、という話を21:30に出します。 聞かれる前に改善案を送る。深夜でも返信する。頼まれていない資料まで作る。僕が実際にやっていたことです。感謝も紹介の約束ももらいました。それでも契約は増えなかった。",
-      "hook": "クライアントに尽くしても仕事は取れない",
-      "imageUrl": null,
-      "videoUrl": null,
-      "metrics": {
-        "views": 125,
-        "impressions": 125,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0
       }
     }
   ]
