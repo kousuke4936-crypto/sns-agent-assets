@@ -1,6 +1,98 @@
 {
-  "generatedAt": "2026-08-18T06:49:31.320Z",
+  "generatedAt": "2026-08-19T06:50:30.529Z",
   "posts": [
+    {
+      "id": "2026-08-19-short1-threads",
+      "channel": "threads",
+      "url": "https://www.threads.com/@kousuke_nishino/post/DcM-w__CdAj",
+      "postedAt": "2026-08-18T23:58:00.000Z",
+      "text": "月3000円で、Geminiの利用枠とNotebookLM、それにドライブの容量まで全部付いてくる。\n\nチャットだけに払うのか、AI2つとストレージごと払うのか。同じ金額でここが分かれます。\n\nAIエージェントを組む前に、まず土台のツールをどこに寄せるか。ここを間違えると、後で全部やり直しになります。\n\n動画で、僕が実際に何を使い分けているか話しました。\n\nみなさんは今、AIに月いくら払っていますか？",
+      "excerpt": "月3000円で、Geminiの利用枠とNotebookLM、それにドライブの容量まで全部付いてくる。 チャットだけに払うのか、AI2つとストレージごと払うのか。同じ金額でここが分かれます。",
+      "hook": "月3000円でGemini・NotebookLM・容量が全部付く",
+      "imageUrl": null,
+      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-19/short1.mp4",
+      "metrics": {
+        "views": 16,
+        "impressions": 16,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "2026-08-18-threads-thread",
+      "channel": "threads",
+      "url": "https://www.threads.com/@kousuke_nishino/post/DcLpDxym4HJ",
+      "postedAt": "2026-08-18T12:30:00.000Z",
+      "text": "2019年の「老後2000万円問題」。あの数字、実は前提が1つ抜けている。\n\n抜けているものを入れて計算し直すと、必要額は2000万円ではなくなる。3461万円という数字が出てくる。\n\n何が抜けていたのか。",
+      "excerpt": "2019年の「老後2000万円問題」。あの数字、実は前提が1つ抜けている。 抜けているものを入れて計算し直すと、必要額は2000万円ではなくなる。3461万円という数字が出てくる。 何が抜けていたのか。",
+      "hook": "2000万円問題は実は3461万円問題だった",
+      "imageUrl": null,
+      "videoUrl": null,
+      "metrics": {
+        "views": 1410,
+        "impressions": 1410,
+        "reactions": 1,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "2026-08-18-instagram-cross2",
+      "channel": "instagram",
+      "url": "https://www.instagram.com/p/DcLkIrtkSzP/",
+      "postedAt": "2026-08-18T12:00:00.000Z",
+      "text": "「なんで行くんですか？」と聞かれて、答えられなかった。\nベトナムに一人で行くと決めたときの話。\n\n理由はなかった。日付だけ決めていた。\n\nBefore\n・先に理由を探す\n・理由が出ないから日付を決めない\n・その間、環境は何も変わらない\n\nAfter\n・先に日付を決める\n・理由はあとから出てくる\n・環境が変わったから思考が変わる\n\n順番を入れ替えるだけなので、僕は3つのルールに落として使っている。\n\n1. 行きたい理由を3分考えて出てこなければ、その日のうちに日付だけ確定させる。理由探しはそこで打ち切る。\n\n2. 押さえるのは最小額から。金額は小さくしていいが、日付は動かさない。\n\n3. 人に話すのは日付を決めたあと。先に話すと、だいたい相談が引き止め役になる。\n\n多くの人は逆をやる。理由が固まってから動こうとして、そのまま動かない。\n\n思考は環境の産物だから、頭の中で考えを変えようとしても変わらない。体を先に動かして、いる場所を変えるほうが早い。\n\n変わったのは意志の強さではなく、決める順番だった。\n\nいま、理由待ちで止まっているものを1つだけ挙げるとしたら、何ですか。\n\n#西埜巧祐 #行動力 #意思決定 #習慣化 #自己成長 #仕事術 #マインドセット #環境を変える",
+      "excerpt": "「なんで行くんですか？」と聞かれて、答えられなかった。 ベトナムに一人で行くと決めたときの話。 理由はなかった。日付だけ決めていた。 Before ・先に理由を探す ・理由が出ないから日付を決めない ・その間、環境は何も変わらない Afte…",
+      "hook": "思考は環境の産物──だから体を先に動かして環境を変える",
+      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-18/2026-08-18-instagram-cross2.png",
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 2,
+        "views": 5,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-08-18-x-thread",
+      "channel": "x",
+      "url": "https://x.com/nishinokousuke/status/2089683903623594245",
+      "postedAt": "2026-08-18T12:00:00.000Z",
+      "text": "2019年の「老後2000万円問題」。あの数字、いま計算し直すと3461万円になるという説があります。金融庁が計算を間違えたわけではありません。ただ、前提から1つだけ抜け落ちていたものがある。",
+      "excerpt": "2019年の「老後2000万円問題」。あの数字、いま計算し直すと3461万円になるという説があります。金融庁が計算を間違えたわけではありません。ただ、前提から1つだけ抜け落ちていたものがある。",
+      "hook": "2000万円問題は実は3461万円問題だった",
+      "imageUrl": null,
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 9,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 11.11
+      }
+    },
+    {
+      "id": "2026-08-18-facebook-cross1",
+      "channel": "facebook",
+      "url": "https://www.facebook.com/122233359788030234/posts/122546432186030234",
+      "postedAt": "2026-08-18T10:00:00.000Z",
+      "text": "これまで数え切れないほどの会社の数字を見てきましたが、数字の分析をちゃんとやっている会社は0でした。\n\n0社です。\n\nコンサルもセールスコピーライターも含めて、ひとりもいませんでした。\n\nこの話をすると「まさかそんなことはないでしょう」と言われます。僕も最初はそう思っていました。ダッシュボードを開けば数字は並んでいるし、月次でレポートも出ている。会議では「今月はCPAが上がりましたね」という会話が交わされている。\n\nでも、それは分析ではありません。数字を眺めているだけです。\n\n先日、あるクライアントの数字を細かく見ていきました。\n\n広告の管理画面、申込のデータ、その後の流れ。一つずつ、順番に並べていっただけです。\n\nそうしたら、7年間ずっと見落とされていたものが出てきました。\n\n7年です。\n\nその間、広告費とリソースをどれだけ損していたか。計算しながら、正直こちらのほうが言葉を失いました。担当者が無能だったわけでもありません。むしろ真面目に、毎月きちんとレポートを作っていた会社です。\n\nで、僕が何をしたか。\n\n特別なことは一つもしていません。\n\n新しいツールも入れていない。難しい統計も使っていない。ただ、数字を最後まで追いかけただけです。\n\nここが一番言いたいところで。\n\n多くの会社は、数字を「途中まで」しか見ていません。クリック数は見る。申込数も見る。そこで止まる。その先で何が起きているかを、誰も最後まで追っていない。\n\nなぜ止まるかというと、途中までの数字は管理画面が勝手に出してくれるからです。出てきたものを見る、という作業になる。自分で問いを立てて掘っていく作業とは、まったく別の行為です。\n\nだから「分析ツールを入れましょう」という話ではないんです。ツールは途中までの数字を、もっときれいに見せてくれるだけです。\n\n必要なのは、一本の線で最後まで並べること。\n\nこれをやると、だいたい何かが出てきます。7年分ではないにしても、必ず何かが引っかかる。僕がこれまで見てきた会社で、何も出てこなかったところはありません。\n\nそして、これは外部の人間じゃないとできない作業でもないです。社内の人がやったほうが早いことも多い。データを持っているのは社内なので。\n\nただ、社内だとやらない。理由は単純で、毎月のレポート作成に追われているからです。作る側になると、見る側の視点が消えます。\n\nもし今、月次のレポートを作っている人がいたら、一度だけ試してみてほしいことがあります。\n\nレポートのフォーマットを無視して、入口から最後の売上までを一枚に並べてみる。項目が揃わなくていい。抜けている数字があるなら、その抜けている場所こそが見るべきところです。\n\n僕がやっているのは、本当にそれだけです。\n\nひとつ聞きたいんですが、みなさんの会社のレポートは、どの数字で終わっていますか。クリックまでですか、申込までですか、それとも売上まで追えていますか。",
+      "excerpt": "これまで数え切れないほどの会社の数字を見てきましたが、数字の分析をちゃんとやっている会社は0でした。 0社です。 コンサルもセールスコピーライターも含めて、ひとりもいませんでした。",
+      "hook": "ちゃんと数字分析している会社は0だった",
+      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-18/2026-08-18-facebook-cross1.png",
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 4,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
     {
       "id": "2026-08-18-short1-threads",
       "channel": "threads",
@@ -12,8 +104,8 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-18/short1.mp4",
       "metrics": {
-        "views": 9,
-        "impressions": 9,
+        "views": 12,
+        "impressions": 12,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -30,8 +122,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-17/shared-1-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "views": 15,
-        "impressions": 15,
+        "views": 19,
+        "impressions": 19,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -66,8 +158,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-17/shared-0-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 3,
-        "views": 4,
+        "impressions": 5,
+        "views": 7,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -104,8 +196,8 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-17/short1.mp4",
       "metrics": {
-        "views": 13,
-        "impressions": 13,
+        "views": 15,
+        "impressions": 15,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -122,8 +214,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-17/shared-0-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "views": 23,
-        "impressions": 23,
+        "views": 26,
+        "impressions": 26,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -158,8 +250,8 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 5,
-        "impressions": 5,
+        "views": 8,
+        "impressions": 8,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -176,11 +268,11 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 8,
+        "impressions": 10,
         "reactions": 1,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 25
+        "engagementRate": 20
       }
     },
     {
@@ -194,7 +286,7 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 5,
+        "impressions": 6,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -212,8 +304,8 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-16/short1.mp4",
       "metrics": {
-        "views": 26,
-        "impressions": 26,
+        "views": 28,
+        "impressions": 28,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -267,7 +359,7 @@
       "videoUrl": null,
       "metrics": {
         "impressions": 5,
-        "views": 12,
+        "views": 13,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -359,7 +451,7 @@
       "videoUrl": null,
       "metrics": {
         "impressions": 7,
-        "views": 13,
+        "views": 14,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -457,96 +549,6 @@
         "comments": 0,
         "shares": 0,
         "engagementRate": 9.09
-      }
-    },
-    {
-      "id": "2026-08-14-short1-threads",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/DcAQLnAHJ7a",
-      "postedAt": "2026-08-14T00:17:00.000Z",
-      "text": "「情報を追いかけてたら1週間終わってました」\n\n指導している人から、これを本当によく聞きます。\n\nAIの情報を浴びると、賢くなった感じはする。でも数字は何も変わっていない。\n\n関心の輪と、影響の輪。この線引きは才能じゃなくて訓練だと僕は考えています。\n\n動画では、その訓練の入り口を話しました。\n\n今日あなたが自分で動かせることは、何ですか？",
-      "excerpt": "「情報を追いかけてたら1週間終わってました」 指導している人から、これを本当によく聞きます。 AIの情報を浴びると、賢くなった感じはする。でも数字は何も変わっていない。 関心の輪と、影響の輪。",
-      "hook": "AI時代の情報洪水に飲まれず影響の輪に集中せよ",
-      "imageUrl": null,
-      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-14/short1.mp4",
-      "metrics": {
-        "views": 13,
-        "impressions": 13,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
-      "id": "2026-08-14-threads-1",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/Db_3321H2Nw",
-      "postedAt": "2026-08-13T23:00:00.000Z",
-      "text": "最低賃金の目安55円引き上げ。47都道府県の一覧を見る前に、僕がやったのは自社のレビューでした。\n\n人件費が上がる前提で、次の半年に何を残すか。僕が使っている質問はこの2つだけです。\n\n・この半年でうまくいったことは何か\n・それをさらに伸ばすには何をするか\n\n課題より先に、うまくいったことを聞く。労力が一番少なく伸びるのはここだからです。\n\nそして次の半年でやることは3つまでに絞る。4つ目を書いた瞬間、僕はどれも動かなくなりました。\n\n成長は一直線ではありません。外した時に方向転換できるかどうかだけです。\n\nひとりで事業をやっている方に聞きたいのですが、レビューの頻度は毎月ですか、四半期ですか。",
-      "excerpt": "最低賃金の目安55円引き上げ。47都道府県の一覧を見る前に、僕がやったのは自社のレビューでした。 人件費が上がる前提で、次の半年に何を残すか。僕が使っている質問はこの2つだけです。",
-      "hook": "成長は一直線ではなくジグザグ。外した時に方向転換できるか",
-      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-14/shared-0-portrait.png",
-      "videoUrl": null,
-      "metrics": {
-        "views": 14,
-        "impressions": 14,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
-      "id": "2026-08-14-x-1",
-      "channel": "x",
-      "url": "https://x.com/nishinokousuke/status/2088030390409720211",
-      "postedAt": "2026-08-13T22:30:00.000Z",
-      "text": "最低賃金の目安が出て、47都道府県の一覧はもう溢れてる。\n\n僕がクライアントに聞くのは、これ。\n「この半年で外したのはどこか」\n\n成長は一直線じゃない。ジグザグです。\n大事なのは、外したと気づけるか。\n\nこの半年で切り捨てた施策、1つ挙げるなら何ですか？",
-      "excerpt": "最低賃金の目安が出て、47都道府県の一覧はもう溢れてる。 僕がクライアントに聞くのは、これ。 「この半年で外したのはどこか」 成長は一直線じゃない。ジグザグです。 大事なのは、外したと気づけるか。",
-      "hook": "成長は一直線ではなくジグザグ。外した時に方向転換できるか",
-      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-14/shared-0-landscape.png",
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 72,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-08-13-threads-thread",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/Db-4XymkVVv",
-      "postedAt": "2026-08-13T12:30:00.000Z",
-      "text": "「クライアントに尽くせば仕事は取れる」と教わって、僕もそのとおりに動いた。\n\n聞かれる前に改善案を送る。深夜でも返信する。頼まれていない資料まで作る。\n\n感謝はされた。紹介するとも言われた。\n\nそれでも契約は増えなかった。\n\n尽くす量が足りなかったからではない。もっと単純なところが抜けていた。",
-      "excerpt": "「クライアントに尽くせば仕事は取れる」と教わって、僕もそのとおりに動いた。 聞かれる前に改善案を送る。深夜でも返信する。頼まれていない資料まで作る。 感謝はされた。紹介するとも言われた。 それでも契約は増えなかった。",
-      "hook": "クライアントに尽くしても仕事は取れない",
-      "imageUrl": null,
-      "videoUrl": null,
-      "metrics": {
-        "views": 32,
-        "impressions": 32,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
-      "id": "2026-08-13-x-thread",
-      "channel": "x",
-      "url": "https://x.com/nishinokousuke/status/2087872049217688054",
-      "postedAt": "2026-08-13T12:00:00.000Z",
-      "text": "「クライアントに尽くせば仕事は来る」と教わって、その通りにやった。前倒しで納品し、範囲外も引き受けた。感謝はされた。でも次の仕事は来なかった。理由は、尽くすのをやめた後に分かった。",
-      "excerpt": "「クライアントに尽くせば仕事は来る」と教わって、その通りにやった。前倒しで納品し、範囲外も引き受けた。感謝はされた。でも次の仕事は来なかった。理由は、尽くすのをやめた後に分かった。",
-      "hook": "クライアントに尽くしても仕事は取れない",
-      "imageUrl": null,
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 6,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 16.67
       }
     }
   ]
