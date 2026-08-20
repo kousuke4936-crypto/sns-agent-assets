@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-08-19T06:50:30.529Z",
+  "generatedAt": "2026-08-20T06:51:55.459Z",
   "posts": [
+    {
+      "id": "2026-08-20-short1-threads",
+      "channel": "threads",
+      "url": "https://www.threads.com/@kousuke_nishino/post/DcPje_ADzFm",
+      "postedAt": "2026-08-19T23:59:00.000Z",
+      "text": "パソコンを閉じている間も動くAIエージェントの話。\n\nエージェント機能自体はどのAIにもある。でも多くは、アプリを開いた状態じゃないと動かない。\n\nGeminiのスパークはクラウド上で動くので、寝ている間も自動化が止まらない。毎朝7時にメールを仕分けて、見るべきものだけ出しておく、みたいなことができる。\n\n人がPCの前にいることが前提の自動化は、まだ人に依存している。動画ではそこの差を話しました。\n\nみなさんなら、朝7時に何を終わらせておいてほしいですか。",
+      "excerpt": "パソコンを閉じている間も動くAIエージェントの話。 エージェント機能自体はどのAIにもある。でも多くは、アプリを開いた状態じゃないと動かない。 Geminiのスパークはクラウド上で動くので、寝ている間も自動化が止まらない。",
+      "hook": "Geminiスパークはパソコンを閉じても動く",
+      "imageUrl": null,
+      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-20/short1.mp4",
+      "metrics": {
+        "views": 11,
+        "impressions": 11,
+        "reactions": 1,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "2026-08-19-x-principle",
+      "channel": "x",
+      "url": "https://x.com/nishinokousuke/status/2089985910532104662",
+      "postedAt": "2026-08-19T08:00:00.000Z",
+      "text": "値下げ交渉されたときの返し方には、順番がある。\n\n僕は昔、その場で「下げます」か「無理です」の二択でしか答えられなかった。\n\nほとんどの人がこの二択で戦っている。\n\nポイントは3つ。\n\n続きはリプライに置いておきます。",
+      "excerpt": "値下げ交渉されたときの返し方には、順番がある。 僕は昔、その場で「下げます」か「無理です」の二択でしか答えられなかった。 ほとんどの人がこの二択で戦っている。 ポイントは3つ。 続きはリプライに置いておきます。",
+      "hook": "値下げ交渉されたときの返し方",
+      "imageUrl": null,
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 3,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 33.33
+      }
+    },
     {
       "id": "2026-08-19-short1-threads",
       "channel": "threads",
@@ -12,8 +48,8 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-19/short1.mp4",
       "metrics": {
-        "views": 16,
-        "impressions": 16,
+        "views": 19,
+        "impressions": 19,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -30,8 +66,8 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 1410,
-        "impressions": 1410,
+        "views": 7134,
+        "impressions": 7134,
         "reactions": 1,
         "comments": 0,
         "shares": 0
@@ -48,8 +84,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-18/2026-08-18-instagram-cross2.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 2,
-        "views": 5,
+        "impressions": 4,
+        "views": 7,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -68,11 +104,11 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 9,
+        "impressions": 17,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 11.11
+        "engagementRate": 5.88
       }
     },
     {
@@ -104,8 +140,8 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-18/short1.mp4",
       "metrics": {
-        "views": 12,
-        "impressions": 12,
+        "views": 14,
+        "impressions": 14,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -140,7 +176,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-17/shared-1-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 5,
+        "impressions": 6,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -158,8 +194,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-17/shared-0-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 5,
-        "views": 7,
+        "impressions": 7,
+        "views": 10,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -232,7 +268,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-17/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 5,
+        "impressions": 6,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -268,11 +304,11 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 10,
+        "impressions": 12,
         "reactions": 1,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 20
+        "engagementRate": 16.67
       }
     },
     {
@@ -286,7 +322,7 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 6,
+        "impressions": 7,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -340,7 +376,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-15/shared-1-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 8,
+        "impressions": 9,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -358,8 +394,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-15/shared-0-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 5,
-        "views": 13,
+        "impressions": 6,
+        "views": 14,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -432,7 +468,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-15/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 6,
+        "impressions": 7,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -450,8 +486,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-14/2026-08-14-instagram-cross2.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 7,
-        "views": 14,
+        "impressions": 8,
+        "views": 15,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -488,7 +524,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-14/shared-1-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 13,
+        "impressions": 14,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -506,49 +542,13 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-14/shared-0-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 7,
-        "views": 16,
+        "impressions": 8,
+        "views": 17,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
         "saves": 0,
         "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-08-14-threads-principle",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/DcBLq0GnKEd",
-      "postedAt": "2026-08-14T08:30:00.000Z",
-      "text": "行動が止まる原因は、ほとんど現実じゃない。\n\n悪評、未来の不安、自分で決めた上限。\nこの3つは形がないのに、いちばん重い。\n\n僕はクライアントが逮捕されて報道された日に、これを実感しました。\n\n実体のない重りの法則。\nポイントは3つです。\n\nほとんどの人が、この3つを「現実の問題」として扱っています。\n\n続きはリプライに書きます。",
-      "excerpt": "行動が止まる原因は、ほとんど現実じゃない。 悪評、未来の不安、自分で決めた上限。 この3つは形がないのに、いちばん重い。 僕はクライアントが逮捕されて報道された日に、これを実感しました。 実体のない重りの法則。 ポイントは3つです。",
-      "hook": "行動を止めているのは現実ではなく「実体のないもの」",
-      "imageUrl": null,
-      "videoUrl": null,
-      "metrics": {
-        "views": 9,
-        "impressions": 9,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
-      "id": "2026-08-14-x-principle",
-      "channel": "x",
-      "url": "https://x.com/nishinokousuke/status/2088173806460318101",
-      "postedAt": "2026-08-14T08:00:00.000Z",
-      "text": "売上が落ちた原因を、悪評やコメントの中に探す人が多い。ほとんどの人が逆をやっています。\n\n行動を止めているのは現実じゃない。実体のないものです。\n\n僕はこれを「見えない杭の法則」と呼んでいます。ポイントは3つ。\n\n中身はリプライに置きます。",
-      "excerpt": "売上が落ちた原因を、悪評やコメントの中に探す人が多い。ほとんどの人が逆をやっています。 行動を止めているのは現実じゃない。実体のないものです。 僕はこれを「見えない杭の法則」と呼んでいます。ポイントは3つ。 中身はリプライに置きます。",
-      "hook": "行動を止めているのは現実ではなく「実体のないもの」",
-      "imageUrl": null,
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 11,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 9.09
       }
     }
   ]
