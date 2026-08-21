@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-20T06:51:55.459Z",
+  "generatedAt": "2026-08-21T06:52:48.106Z",
   "posts": [
+    {
+      "id": "2026-08-21-short1-threads",
+      "channel": "threads",
+      "url": "https://www.threads.com/@kousuke_nishino/post/DcSItb7DBl1",
+      "postedAt": "2026-08-21T00:02:00.000Z",
+      "text": "「ChatGPTはもうオワコン」と言う人が増えてきた。\n\nでも週間の利用者は9億人を超えている。1週間で、です。\n\nオワコンと言われている道具に、世界のこれだけの人が毎週触っている。この矛盾をどう見るかで、AIの使い方が変わります。\n\n動画では、その9億人の中で何が起きているかを話しました。\n\n僕が見ているのは「話し相手」としてのAIではなく、売れる仕組みを人なしで動かすエージェントの土台としてのAI。同じ道具でも、渡す仕事が違うと別物になる。\n\nみなさんは今、ChatGPTに何を渡していますか。",
+      "excerpt": "「ChatGPTはもうオワコン」と言う人が増えてきた。 でも週間の利用者は9億人を超えている。1週間で、です。 オワコンと言われている道具に、世界のこれだけの人が毎週触っている。この矛盾をどう見るかで、AIの使い方が変わります。",
+      "hook": "チャットGPTはオワコンではなく週9億人が使う怪物",
+      "imageUrl": null,
+      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-21/short1.mp4",
+      "metrics": {
+        "views": 20,
+        "impressions": 20,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
     {
       "id": "2026-08-20-short1-threads",
       "channel": "threads",
@@ -30,11 +48,11 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 3,
+        "impressions": 5,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 33.33
+        "engagementRate": 20
       }
     },
     {
@@ -66,8 +84,8 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 7134,
-        "impressions": 7134,
+        "views": 7135,
+        "impressions": 7135,
         "reactions": 1,
         "comments": 0,
         "shares": 0
@@ -84,8 +102,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-18/2026-08-18-instagram-cross2.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 4,
-        "views": 7,
+        "impressions": 5,
+        "views": 8,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -104,11 +122,11 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 17,
+        "impressions": 22,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 5.88
+        "engagementRate": 9.09
       }
     },
     {
@@ -176,7 +194,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-17/shared-1-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 6,
+        "impressions": 7,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -268,7 +286,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-17/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 6,
+        "impressions": 7,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -528,26 +546,6 @@
         "reactions": 0,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-08-14-instagram-1",
-      "channel": "instagram",
-      "url": "https://www.instagram.com/p/DcA8USkFhJF/",
-      "postedAt": "2026-08-14T09:00:00.000Z",
-      "text": "最低賃金の47都道府県一覧は、もう他の人が出している。\n保存してほしいのはこっち。人件費が上がる前に、自社に問う5つの質問です。\n\n目安は全国加重平均55円、平均1,176円。8月は各都道府県の答申が出そろう時期で、数字は毎日更新されます。\n\nでも一覧表を眺めても、自社の打ち手は出てきません。出てくるのは、レビューからです。\n\n僕がクライアントにしてもらっている質問から、5つ。\n\n1｜この半年で、上手くいったことは何か\nドラッカーは「機会・チャンスに目を向けよう」と言っています。うまくいっていることを伸ばすのが、いちばん労力が軽い。\n\n2｜それをさらに伸ばすには、どうすればいいか\n当面の売上を作るのは、新しい何かより、すでに芽が出ている場所です。\n\n3｜この半年で出た課題や改善点は何か\n書き出さない課題は、なかったことになります。\n\n4｜その課題が生じている、本当の原因は何か\n全体のアウトプットは、プロセスの一番弱い部分で決まります（制約理論）。年商が小さいビジネスほど、この制約は次々に移ります。\n\n5｜次の半年で、何をやるか（多くて3つに絞る）\n人はたくさん挙げられると動けなくなります。絞るところまでがレビューです。\n\n成長が一直線であることはありません。ジグザグに、上がったり下がったりします。どんなコンサルをしても、外す時はあります。\n\n大事なのは、外した時に方向転換できるか。そもそも方向転換すべきだと気づけるか。\n\n僕が独立してから、不安がなくなったことはありません。それでも確信を持てる瞬間を作ってくれたのは、このレビューでした。ダメなものは切り捨て、良いものは伸ばす。なぁなぁにしなかった。だから続けられています。\n\nこの5つに答えるだけで、人件費が上がった時に「何を削るか」ではなく「何を伸ばすか」から考えられます。\n\nちなみにレビューは半年に一度で足りません。毎日、毎週、毎月、四半期、半年、1年と重ねるほど効きます。\n\nみなさんは、5番をいくつに絞りましたか。3つ以内に入った項目を1つだけ教えてください。\n\n#経営 #中小企業経営 #最低賃金 #事業計画 #マーケティング #経営者の学び #制約理論 #独立起業 #フリーランス",
-      "excerpt": "最低賃金の47都道府県一覧は、もう他の人が出している。 保存してほしいのはこっち。人件費が上がる前に、自社に問う5つの質問です。 目安は全国加重平均55円、平均1,176円。8月は各都道府県の答申が出そろう時期で、数字は毎日更新されます。",
-      "hook": "成長は一直線ではなくジグザグ。外した時に方向転換できるか",
-      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-14/shared-0-portrait.png",
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 8,
-        "views": 17,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "saves": 0,
         "engagementRate": 0
       }
     }
