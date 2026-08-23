@@ -1,6 +1,44 @@
 {
-  "generatedAt": "2026-08-22T06:45:25.820Z",
+  "generatedAt": "2026-08-23T06:46:49.066Z",
   "posts": [
+    {
+      "id": "2026-08-23-short1-threads",
+      "channel": "threads",
+      "url": "https://www.threads.com/@kousuke_nishino/post/DcXSi5sCd84",
+      "postedAt": "2026-08-22T23:57:00.000Z",
+      "text": "英語の解説動画、URLを貼るだけで自分用の教材になります。\n\n要約が出て、その動画に質問できて、レポートもスライドも音声解説もマインドマップもクイズも作れる。学びたい分野があるのに情報が散らばっていて手が止まっている人向けです。\n\n動画では実際に何が出てくるかを話しています。\n\n情報を集めるところは、もう人が持たなくていい。人が持つのは「どの動画を選ぶか」だけになりました。\n\nみなさんなら、最初にどのジャンルの動画を突っ込みますか？",
+      "excerpt": "英語の解説動画、URLを貼るだけで自分用の教材になります。 要約が出て、その動画に質問できて、レポートもスライドも音声解説もマインドマップもクイズも作れる。学びたい分野があるのに情報が散らばっていて手が止まっている人向けです。",
+      "hook": "YouTubeのURLを貼るだけで学習教材が完成",
+      "imageUrl": null,
+      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-23/short1.mp4",
+      "metrics": {
+        "views": 11,
+        "impressions": 11,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "2026-08-22-instagram-1",
+      "channel": "instagram",
+      "url": "https://www.instagram.com/p/DcVirYoFm9R/",
+      "postedAt": "2026-08-22T09:00:00.000Z",
+      "text": "AIに聞いて出た答えを、そのまま「正解」として持ち帰る人が損をしている。\n\n速報値が出た日ほど、それが起きる。\n\n先日GDPの速報が公表されて、タイムラインには要約と切り取りが流れました。\n\n僕は統計や制度の数字を扱うとき、AIを起点には使いますが、必ず発表元まで戻ります。\n反対意見も並べて、はじめて判断できる。\n\nこの一手間を省く人から、静かに損をしていきます。\n\nただ、今日書きたいのはその先の話です。\n\nAIを使うと何がよくなるか。\nデータの分析や提案を、わかりやすく提示してくれる。\nつまり「より良い選択」ができるようになる。\n\nこれは確かです。\n何をやるかを間違えすぎていたら、話になりません。\n\n売上を伸ばしたいのに商品改善から入る。\n自分の強みが活きない仕事を選ぶ。\nこれでは成果は出ません。\n\nでも、選択より大事なことがあります。\n\n選択したことを、正解にする力です。\n\nビジネスの最初の成果は、残念ながら悪いことばかりです。\nそこからどう改善するかを考えないといけない。\n\n100m走で正しい走り方を知っていても、やる気がなければ記録は出ません。\n\n僕はWebマーケティングの世界にいました。\n同じ業界、同じ境遇、同じスキルを持っている人はいます。\nそれでも、スキルのレベルや実績には違いが出る。\n\n選んだものは一緒なんです。\n違いを生んだのは、選択を正解にしにいったかどうかでした。\n\nだから、AIとAIエージェントに何を渡すかもここで決まります。\n\nAIに渡すのは、選択肢の整理と、根拠の一次情報への突き合わせ。\n毎日の数字の読み取りと、改善案の候補出し。\nここは人がやっても速くならない。\n\n人が持つのは、決めたことを検証し続けると決める部分です。\nどこまでやったら判断を変えるのか、その線を引くこと。\n\nエージェントを組むと、この違いがはっきり出ます。\n選択を正解にする工程を回し続ける仕組みは作れる。\nでも「正解にすると決める」ところだけは、渡せません。\n\n派手さはありません。\n発表元まで戻る。決めたことを回す。数字を見て直す。\nそれだけです。\n\nだからこそ、誰がやっても同じように効きます。\n\nこの「正解にする工程」を、実際にどうAIエージェントに分解して渡しているか。\n手順のところはメルマガでしか書いていません。\n\n#マーケティング #AI活用 #AIエージェント #経営者 #意思決定 #webマーケティング #仕事術 #一次情報",
+      "excerpt": "AIに聞いて出た答えを、そのまま「正解」として持ち帰る人が損をしている。 速報値が出た日ほど、それが起きる。 先日GDPの速報が公表されて、タイムラインには要約と切り取りが流れました。",
+      "hook": "AIを使えば「より良い選択」ができるようになる",
+      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-22/shared-0-portrait.png",
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 1,
+        "views": 2,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "engagementRate": 0
+      }
+    },
     {
       "id": "2026-08-22-facebook-1",
       "channel": "facebook",
@@ -12,7 +50,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-22/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 0,
+        "impressions": 6,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -48,8 +86,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-22/shared-0-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "views": 29,
-        "impressions": 29,
+        "views": 30,
+        "impressions": 30,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -66,8 +104,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-21/2026-08-21-instagram-cross2.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 2,
-        "views": 4,
+        "impressions": 6,
+        "views": 10,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -214,11 +252,11 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 23,
+        "impressions": 26,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 8.7
+        "engagementRate": 7.69
       }
     },
     {
@@ -232,7 +270,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-18/2026-08-18-facebook-cross1.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 4,
+        "impressions": 5,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -414,11 +452,11 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 13,
+        "impressions": 16,
         "reactions": 1,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 15.38
+        "engagementRate": 18.75
       }
     },
     {
@@ -511,42 +549,6 @@
         "shares": 0,
         "saves": 0,
         "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-08-15-facebook-1",
-      "channel": "facebook",
-      "url": "https://www.facebook.com/122233359788030234/posts/122546014694030234",
-      "postedAt": "2026-08-15T03:00:00.000Z",
-      "text": "生成AIを使っている人は、9.1%しかいません。総務省のデータです。\n\n僕は最初、この数字を見て「いやいや、もっと多いだろう」と思いました。でも冷静に考えて、納得しました。\n\n僕の周りは、業界の専門家やトップクラスの人ばかりです。トレンドに敏感で、新しいものが出たらすぐ試す人たち。そういう人に囲まれていれば、「みんな使っているでしょ」と錯覚します。\n\n一般の人は、そうでもないのです。\n\n「他の調査ではもっと高い数字が出ている」という意見もあると思います。ただ、統計は調査方法で数字が変わります。\n\nよくあるのが、メールで案内を送って回答してもらう形式。その時点で、回答者はもう詳しい側の人です。だから僕は、この種の調査は話半分で受け止めています。総務省のデータを引くのは、そこが一番信用できると考えているからです。\n\nで、9.1%。残りの90.9%は使っていない。\n\n世の中には80:20の法則があります。成果の80%は20%の人が生み出す。少数が、多くの結果を手にする。\n\nこの数字を見て、似たものを感じました。\n\n今後どうなるか。僕の予測はシンプルで、「生成AIを使いこなす優秀な人が、もっと優秀になる」という未来です。ChatGPTがあることで成果をより出せるようになるのは、事実だからです。\n\nまだ9.1%なのは、救いだと思っています。今のうちに慣れておく価値がある。\n\nただ、ここで間違えてはいけないことが1つあります。\n\nChatGPTを使えたこと自体に満足しないこと。\n\n僕は自分の使い方を、こう仕分けるようにしています。ChatGPTを使った作業を書き出して、\n\n・売上が伸びたか\n・集客につながったか\n・働く時間が減ったか\n\nこの3つのどれかに紐づいているものだけを残す。紐づいていないものは、いったん全部外す。\n\n「文章が作れた、わーい、面白い」で止まっているものは、この仕分けで全部落ちます。落ちること自体はいいんです。問題は、落ちていることに気づかないまま何ヶ月も使い続けてしまうことです。\n\n僕たちはビジネスをしています。目的は、売上を伸ばすことと、生産性を上げること。ここを外すと、どれだけ触っても数字は動きません。\n\n派手なやり方ではありません。プロンプト集を集めることでもない。使った作業を紙に書き出して、3つの基準で仕分けるだけです。だから誰でも同じことができます。\n\nそのうえで、実際にどう売上と集客に繋げていくかという込み入った話は、メルマガとセミナーの中でしか話していません。ここに全部書ける内容ではないので。\n\n興味がある方は、こちらから。\n\nhttps://kousukenishino.com/lp/ac/ai-agent/life/seminar-optin-a.html?utm_source=facebook&utm_medium=social&utm_campaign=sns-agent&utm_content=2026-08-15-facebook-1",
-      "excerpt": "生成AIを使っている人は、9.1%しかいません。総務省のデータです。 僕は最初、この数字を見て「いやいや、もっと多いだろう」と思いました。でも冷静に考えて、納得しました。 僕の周りは、業界の専門家やトップクラスの人ばかりです。",
-      "hook": "生成AIを使う人はわずか9.1%という現実",
-      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-15/shared-0-landscape.png",
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 4,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-08-15-short1-threads",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/DcCrh4vj-dy",
-      "postedAt": "2026-08-14T23:58:00.000Z",
-      "text": "「7つの習慣、1つだけ選ぶなら？」\n\n高校生からそう聞かれたコビー博士が挙げたのは、全部でも1でもなく第2の習慣だったそうです。\n\n逸話なので真偽は確かめようがない。ただ僕がコンサルで会社に入るとき、いちばん見ているのもここです。\n\n目的を忘れずに進める人は、そもそも何が違うのか。動画で話しました。\n\nみなさんは今の仕事の目的を、一文で言えますか？",
-      "excerpt": "「7つの習慣、1つだけ選ぶなら？」 高校生からそう聞かれたコビー博士が挙げたのは、全部でも1でもなく第2の習慣だったそうです。 逸話なので真偽は確かめようがない。ただ僕がコンサルで会社に入るとき、いちばん見ているのもここです。",
-      "hook": "コビー博士が選ぶ最重要習慣は『目的を持って始める』",
-      "imageUrl": null,
-      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-15/short1.mp4",
-      "metrics": {
-        "views": 40,
-        "impressions": 40,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0
       }
     }
   ]
