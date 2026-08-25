@@ -1,6 +1,78 @@
 {
-  "generatedAt": "2026-08-23T06:46:49.066Z",
+  "generatedAt": "2026-08-25T06:54:18.105Z",
   "posts": [
+    {
+      "id": "2026-08-25-facebook-1",
+      "channel": "facebook",
+      "url": "https://www.facebook.com/122233359788030234/posts/122547321020030234",
+      "postedAt": "2026-08-25T03:00:00.000Z",
+      "text": "「生成AIの料金早見表」が流れてきて、みんな『どれが一番安いか』を見ている。\n\nでも僕は、あの表を安さで読むのは間違いだと感じています。\n\n累計100万円以上AIに課金してきました。Midjourney、GROK、Perplexity、Claude、全部解約しました。残ったのはChatGPT、Gemini、NotebookLMの3つだけです。\n\n安かったから残ったわけじゃありません。自分の仕事のどこを渡すかが決まっていたものだけが残りました。\n\nなぜそう言えるか。毎日メルマガを書く仕組みの話をします。\n\n「毎日書けるのはすごい」とよく言われますが、意志の力で書いていません。順番で書いています。\n\nひとつめ。ネタは「思いついたとき」にしか作れない。\n\n書く時間になってからネタを探し始めると、その日は終わりです。日中の会話、読んだ本、うまくいかなかった仕事。気づいた瞬間に1行だけ残す。この1行が、翌朝の30分を救います。\n\nふたつめ。「書く」と「直す」を同じ日にやらない。\n\n書いた直後の自分は、その文章を客観視できません。夜に書いて、朝に直す。それだけで品質が一段上がります。\n\nここがAIの話につながります。\n\n生成と検品を分けるという発想は、人間の作業手順の話でした。でもいまは、そのまま機械の設計図になります。書くエージェントと、直すエージェント。同じモデルでも、役割を分けて別々に走らせると出力が変わる。人が一晩寝かせてやっていたことを、機械が構造で再現できる。\n\nAIというのは、人の思考が機械でできるようになったものだと思っています。新しい能力が降ってきたのではなくて、人がやっていた手順が外に出せるようになった。だから、手順を持っていない人がAIを持っても、何も外に出せません。\n\n料金表を見て悩む人の多くは、渡す手順を持っていないんだと思います。だから、どれが安いかしか比べられない。\n\n僕が3つに絞れたのは、渡す作業が決まっていたからです。ネタを1行で溜める場所、下書きを作る場所、大量の素材から筋を拾う場所。この3つしか自分の仕事に穴がなかった。だから残りは要らなくなりました。\n\nみっつめ。続かない人の共通点は「完璧な1通」を目指すこと。\n\n100点の1通より、70点の30通のほうが、読者との関係は深くなります。配信頻度は信頼の積立です。落とした週があっても、翌週から淡々と再開すればいい。\n\nAIを入れると、この70点を出す速度が上がります。逆に言うと、100点を目指している人がAIを入れても、出力が増えるだけで何も進みません。\n\n道具より先に順番を決める。順番が決まって初めて、どこを機械に渡すかが見えます。\n\n料金表は、その後で見るものです。\n\nみなさんは、いま契約しているAIのうち「これは自分の仕事のこの作業を渡している」と一言で言えるものが、いくつありますか。",
+      "excerpt": "「生成AIの料金早見表」が流れてきて、みんな『どれが一番安いか』を見ている。 でも僕は、あの表を安さで読むのは間違いだと感じています。 累計100万円以上AIに課金してきました。",
+      "hook": "AIとは「人の思考が機械でできるようになったもの」",
+      "imageUrl": null,
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 0,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-08-25-short1-threads",
+      "channel": "threads",
+      "url": "https://www.threads.com/@kousuke_nishino/post/DccizzAlAhv",
+      "postedAt": "2026-08-25T01:21:00.000Z",
+      "text": "同じ指示を、3つに投げた。\n\n出てきたものは同じじゃなかった。\n\nエラーの残り方、こちらの要望の汲み取り方、そして文章。とくに広告やマーケティングみたいに文章が成果物になる仕事だと、この差はそのまま質の差になる。\n\n「こういう文章を書きたかったんだよね」が返ってくるかどうか。ここが分かれ目だと僕は見ている。\n\nツール選びで迷っている人向けに、同条件で比べた実感を話しました。\n\nみなさんは、文章の仕事をどれに任せていますか？",
+      "excerpt": "同じ指示を、3つに投げた。 出てきたものは同じじゃなかった。 エラーの残り方、こちらの要望の汲み取り方、そして文章。とくに広告やマーケティングみたいに文章が成果物になる仕事だと、この差はそのまま質の差になる。",
+      "hook": "同じ指示でもクロードの方が質と文章力が高い",
+      "imageUrl": null,
+      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-25/short1.mp4",
+      "metrics": {
+        "views": 2,
+        "impressions": 2,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "2026-08-25-threads-1",
+      "channel": "threads",
+      "url": "https://www.threads.com/@kousuke_nishino/post/DccVQW_gJGg",
+      "postedAt": "2026-08-24T23:00:00.000Z",
+      "text": "生成AIの料金早見表が出回ってる。あれを「どれが安いか」で読むと外す。\n\n僕は累計100万円以上AIに課金して、Midjourney・GROK・Perplexity・Claudeは解約した。残ったのはChatGPT・Gemini・NotebookLMの3つだけ。\n\n決め手は値段じゃなく「自分の仕事のどこを渡すか」だった。\n\nたとえばメルマガ。僕は書く時間にネタを探さない。思いついた瞬間に1行メモして、夜書いて朝直す。生成と検品を分けるから品質が上がる。\n\nこの「順番」がある人だけ、AIに渡す先が決まる。順番がない人は、どのツールを契約しても同じ手詰まりになる。\n\nみなさんが今払ってるやつ、自分の仕事のどの工程を渡してます？",
+      "excerpt": "生成AIの料金早見表が出回ってる。あれを「どれが安いか」で読むと外す。 僕は累計100万円以上AIに課金して、Midjourney・GROK・Perplexity・Claudeは解約した。",
+      "hook": "AIとは「人の思考が機械でできるようになったもの」",
+      "imageUrl": null,
+      "videoUrl": null,
+      "metrics": {
+        "views": 52,
+        "impressions": 52,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "2026-08-25-x-1",
+      "channel": "x",
+      "url": "https://x.com/nishinokousuke/status/2092016624949723433",
+      "postedAt": "2026-08-24T22:30:00.000Z",
+      "text": "料金早見表を「どれが安いか」で読んでた頃の僕あるある\n\n・全部契約して比較する\n・使わないまま更新される\n・解約ボタンを探して疲れる\n・結局、渡す仕事が決まってない\n\n累計100万以上課金して、残ったのは3つだけ。\n\n道具より先に順番を決める。\n\nみなさんが最後まで残したのは、どれですか？",
+      "excerpt": "料金早見表を「どれが安いか」で読んでた頃の僕あるある ・全部契約して比較する ・使わないまま更新される ・解約ボタンを探して疲れる ・結局、渡す仕事が決まってない 累計100万以上課金して、残ったのは3つだけ。 道具より先に順番を決める。",
+      "hook": "AIとは「人の思考が機械でできるようになったもの」",
+      "imageUrl": null,
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 0,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
     {
       "id": "2026-08-23-short1-threads",
       "channel": "threads",
@@ -12,8 +84,8 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-23/short1.mp4",
       "metrics": {
-        "views": 11,
-        "impressions": 11,
+        "views": 12,
+        "impressions": 12,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -30,8 +102,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-22/shared-0-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 1,
-        "views": 2,
+        "impressions": 3,
+        "views": 8,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -50,7 +122,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-22/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 6,
+        "impressions": 8,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -104,8 +176,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-21/2026-08-21-instagram-cross2.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 6,
-        "views": 10,
+        "impressions": 8,
+        "views": 15,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -124,7 +196,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-21/2026-08-21-facebook-cross1.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 5,
+        "impressions": 6,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -270,7 +342,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-18/2026-08-18-facebook-cross1.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 5,
+        "impressions": 6,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -474,80 +546,6 @@
         "reactions": 0,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-08-16-short1-threads",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/DcFQy1lkf4P",
-      "postedAt": "2026-08-15T23:57:00.000Z",
-      "text": "毎回メタ広告の管理画面を開いて、数字を手打ちしている人。\n\nあれ、1時間で終わりました。Facebook広告とGoogle広告の数字をスプレッドシートに流すところまで。\n\n前から作りたかったのに、認証まわりで挫折してた作業です。今回は今までで一番スムーズだった。\n\n動画では、その一歩手前までの画面をそのまま出しています。\n\nみなさんが今いちばんコピペしている数字は、どれですか？",
-      "excerpt": "毎回メタ広告の管理画面を開いて、数字を手打ちしている人。 あれ、1時間で終わりました。Facebook広告とGoogle広告の数字をスプレッドシートに流すところまで。 前から作りたかったのに、認証まわりで挫折してた作業です。",
-      "hook": "広告数値の自動集計が1時間で完成した実体験",
-      "imageUrl": null,
-      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-16/short1.mp4",
-      "metrics": {
-        "views": 28,
-        "impressions": 28,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
-      "id": "2026-08-15-threads-2",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/DcDx8W-mzOv",
-      "postedAt": "2026-08-15T11:00:00.000Z",
-      "text": "生成AIを使っている人の割合、総務省のデータで9.1%。\n\n「いやいや、もっと多いでしょ」と僕も思いました。でもそれは、周りとYouTubeの見過ぎかもしれません。\n\n僕の周りは業界の専門家ばかり。新しいものをすぐ試す人たちです。その景色を「世の中」だと思ってしまう。\n\nで、大事なのはここから。\n\nChatGPTを使って満足で終わらせないこと。\n\n判断基準はひとつだけ置いています。毎週かならず発生する定型業務を書き出して、1件あたりの短縮分数×月の回数を出す。分数で言えないものは、まだ成果になっていません。\n\n文章作れた！わーい！ではなく、働く時間が減った。ここを見ます。\n\nあなたの定型業務で、いま一番「毎週やってるな」と思うものは何ですか。\n\nhttps://kousukenishino.com/lp/ac/ai-agent/life/seminar-optin-a.html?utm_source=threads&utm_medium=social&utm_campaign=sns-agent&utm_content=2026-08-15-threads-2",
-      "excerpt": "生成AIを使っている人の割合、総務省のデータで9.1%。 「いやいや、もっと多いでしょ」と僕も思いました。でもそれは、周りとYouTubeの見過ぎかもしれません。 僕の周りは業界の専門家ばかり。新しいものをすぐ試す人たちです。",
-      "hook": "「もっと多いのでは」は周りの見過ぎかも",
-      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-15/shared-1-portrait.png",
-      "videoUrl": null,
-      "metrics": {
-        "views": 50,
-        "impressions": 50,
-        "reactions": 1,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
-      "id": "2026-08-15-x-2",
-      "channel": "x",
-      "url": "https://x.com/nishinokousuke/status/2088573980525449679",
-      "postedAt": "2026-08-15T10:30:00.000Z",
-      "text": "生成AIを使っている人は9.1%。総務省の調査です。\n\n「もっと多いのでは」と僕も思いました。それは周りとYouTubeの見過ぎでした。\n\n測る場所は一点。同じ業務の作業時間を、先月と今月で比べる。\n\n減っていないなら、使ったつもりです。\n\n続きはメルマガで。",
-      "excerpt": "生成AIを使っている人は9.1%。総務省の調査です。 「もっと多いのでは」と僕も思いました。それは周りとYouTubeの見過ぎでした。 測る場所は一点。同じ業務の作業時間を、先月と今月で比べる。 減っていないなら、使ったつもりです。",
-      "hook": "「もっと多いのでは」は周りの見過ぎかも",
-      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-15/shared-1-landscape.png",
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 9,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-08-15-instagram-1",
-      "channel": "instagram",
-      "url": "https://www.instagram.com/p/DcDhENmFkBC/",
-      "postedAt": "2026-08-15T09:00:00.000Z",
-      "text": "生成AIを使っている人は、9.1%。\n残りの90.9%は、まだ使っていない。\n\n総務省のデータです。\n\n僕は最初、「いやいや、もっと多いでしょ」と思いました。\n\nでも冷静に考えて、納得しました。\n\n僕の周りは、業界の専門家やトップクラスの人ばかり。トレンドに敏感で、新しいものをすぐ試す人たちです。\n\nそういう人に囲まれていると、世の中の感覚を見誤ります。\n\n「もっと多いのでは」と感じた人は、周りかYouTubeを見すぎているのかもしれません。\n\nちなみに僕は、「〜〜リサーチ」「〜〜研究所の調査」の数字は話半分で受け取っています。\n\nメールで回答を集める調査だと、そもそも登録している時点でトレンドに詳しい人が中心になるからです。\n\nさて。\n\n世の中には80:20の法則があります。成果の80%は、20%の人が生み出す。\n\n9.1%という数字を見ると、似たものを感じませんか。\n\nだから僕は、こう予測しています。\n\n生成AIを使いこなす優秀な人が、もっと優秀になる。\n\nそしてもうひとつ。\n\nここを間違えると、使っても何も変わりません。\n\n「文章が作れた、面白い」で止まらないこと。\n\n僕たちはビジネスをしています。目指すのは、売上が伸びた、集客できた、働く時間が減った、です。\n\n9.1%のうちに慣れておけるのは、正直、救いだと思っています。\n\nこの先の話、つまり「使いこなす側」が具体的に何をしているのかは、メルマガでしか書いていません。\n\nプロフィールから登録できます。\n\n#生成AI #ChatGPT活用 #中小企業経営 #集客 #マーケティング #業務効率化 #経営者の学び #西埜巧祐",
-      "excerpt": "生成AIを使っている人は、9.1%。 残りの90.9%は、まだ使っていない。 総務省のデータです。 僕は最初、「いやいや、もっと多いでしょ」と思いました。 でも冷静に考えて、納得しました。 僕の周りは、業界の専門家やトップクラスの人ばかり。",
-      "hook": "生成AIを使う人はわずか9.1%という現実",
-      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-15/shared-0-portrait.png",
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 6,
-        "views": 14,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "saves": 0,
         "engagementRate": 0
       }
     }
