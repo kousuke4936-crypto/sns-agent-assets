@@ -1,6 +1,98 @@
 {
-  "generatedAt": "2026-08-25T06:54:18.105Z",
+  "generatedAt": "2026-08-26T06:55:55.578Z",
   "posts": [
+    {
+      "id": "2026-08-26-short1-threads",
+      "channel": "threads",
+      "url": "https://www.threads.com/@kousuke_nishino/post/DcfIXWJjEY_",
+      "postedAt": "2026-08-26T01:21:00.000Z",
+      "text": "画像に日本語を入れると中国語みたいな文字が混ざる。あれ、もう起きません。\n\nGPTイメージのアップデートで、実用に耐える画像が出るようになりました。画像生成に関しては、今はチャットGPTが圧倒的です。\n\nこれ、地味に効くのは広告バナーやLPの素材を人に頼まなくてよくなること。文字が化けないなら、AIエージェントに素材づくりまで渡せます。\n\n動画では、どこがどう変わったかを話しています。\n\nみなさんは画像生成、まだ別のツールを使っていますか？",
+      "excerpt": "画像に日本語を入れると中国語みたいな文字が混ざる。あれ、もう起きません。 GPTイメージのアップデートで、実用に耐える画像が出るようになりました。画像生成に関しては、今はチャットGPTが圧倒的です。",
+      "hook": "画像生成はチャットGPTが圧倒的ナンバーワン",
+      "imageUrl": null,
+      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-26/short1.mp4",
+      "metrics": {
+        "views": 17,
+        "impressions": 17,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "2026-08-25-threads-thread",
+      "channel": "threads",
+      "url": "https://www.threads.com/@kousuke_nishino/post/DcdvlW4HK3z",
+      "postedAt": "2026-08-25T12:30:00.000Z",
+      "text": "「西埜さんって、1ヶ月の間で最大どれくらい、オフィスに行かずに仕事ができますか？」\n\nある経営者とご飯に行ったとき、こう聞かれた。\n\n考えたことがなかったので、少し止まった。\n\nそして答えた内容と、その答えが成り立っている理由が、僕がこの10年で一番大事だと思っているものに直結していた。",
+      "excerpt": "「西埜さんって、1ヶ月の間で最大どれくらい、オフィスに行かずに仕事ができますか？」 ある経営者とご飯に行ったとき、こう聞かれた。 考えたことがなかったので、少し止まった。",
+      "hook": "自由とは選べること、決められること",
+      "imageUrl": null,
+      "videoUrl": null,
+      "metrics": {
+        "views": 165,
+        "impressions": 165,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "2026-08-25-x-thread",
+      "channel": "x",
+      "url": "https://x.com/nishinokousuke/status/2092220661968077246",
+      "postedAt": "2026-08-25T12:00:00.000Z",
+      "text": "「1ヶ月オフィスに行かなくても仕事できますか？」と経営者に聞かれて、やろうと思えば2ヶ月空けられると答えた。自由が自慢だからじゃない。自由そのものは、そんなに良いものではないと思っている。",
+      "excerpt": "「1ヶ月オフィスに行かなくても仕事できますか？」と経営者に聞かれて、やろうと思えば2ヶ月空けられると答えた。自由が自慢だからじゃない。自由そのものは、そんなに良いものではないと思っている。",
+      "hook": "自由とは選べること、決められること",
+      "imageUrl": null,
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 0,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-08-25-facebook-cross1",
+      "channel": "facebook",
+      "url": "https://www.facebook.com/122233359788030234/posts/122547355334030234",
+      "postedAt": "2026-08-25T10:00:00.000Z",
+      "text": "ベトナムに一人で行くと言ったとき、ほぼ全員から「なんで行くんですか？」と聞かれた。\n\n理由はなかった。\n\nこれを言うと、たいてい変な顔をされる。でも僕は、理由があってから動いたことがほとんどない。\n\n先に体を動かして、環境が変わって、そこで初めて「ああ、こういうことか」と分かる。順番はいつもそれです。\n\n多くの人は逆をやる。\n\n理由が固まってから動こうと決めて、固まらないまま一年が過ぎる。動機を探しているうちに、動機を持てる場所から遠ざかっていく。\n\nこれは意志の強さの話じゃない。思考は環境の産物だから、環境を変えないと思考も変わらないというだけの話です。\n\n同じ部屋、同じ画面、同じ相手。その中で新しい発想が出てくるはずがない。出てこないのに「発想が出ない」と悩むのは、順番を間違えているだけだと思う。\n\nで、これはマーケティングでもまったく同じことが起きている。\n\n「勝ちパターンが見えたら手を広げよう」と言い続けているチームは、だいたい手を広げない。勝ちパターンは、動いた後の結果から見えてくるものなので、動かないと永遠に見えない。\n\n僕がAIエージェントを組んでいる理由の半分はここにあります。\n\n人が「動くべき理由」を必要とする生き物なのは変えられない。だったら、理由を必要としない部分をAIに渡してしまえばいい。\n\n渡すのはこっち。\n\n・広告や訴求のパターンを、迷わず量で出すこと\n・出したものを毎日同じ基準で回収して並べること\n・数字が動いた箇所を、感情を挟まずに指摘すること\n\n人が持つのはこっち。\n\n・並んだ結果を見て、どれを本気で伸ばすか決めること\n・そもそもどの市場に体を置くかを決めること\n\nAIエージェントは動機を必要としないので、理由なしで先に動ける。人間側は、その動いた結果が並んだ後から意味づけすればいい。\n\n体を先に動かして環境を変える、というやり方を、組織の中に仕組みとして置けるようになったのがこの一年の変化でした。\n\nうまくいっていない部分も書いておきます。\n\n「どの市場に体を置くか」の判断だけは、いまだにAIに渡せていない。ここを渡そうとして何度か組み直したけど、結局戻しました。過去のデータの中にしか答えを探さないので、まだ誰もやっていない場所を選べない。\n\nここは人が体で選ぶしかない。ベトナムに行く理由が事前に言えないのと、たぶん同じ理由です。\n\nみなさんが「理由が固まってから」と言って止めているものを、ひとつだけ挙げるとしたら何ですか。",
+      "excerpt": "ベトナムに一人で行くと言ったとき、ほぼ全員から「なんで行くんですか？」と聞かれた。 理由はなかった。 これを言うと、たいてい変な顔をされる。でも僕は、理由があってから動いたことがほとんどない。",
+      "hook": "思考は環境の産物──だから体を先に動かして環境を変える",
+      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-25/2026-08-25-facebook-cross1.png",
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 2,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-08-25-instagram-1",
+      "channel": "instagram",
+      "url": "https://www.instagram.com/p/DcdRDgLINwn/",
+      "postedAt": "2026-08-25T09:00:00.000Z",
+      "text": "料金早見表は「どれが安いか」で読むと、たぶん間違える。\n僕は累計100万円以上AIに課金して、最後に残ったのは3つだけでした。\n\nMidjourney、GROK、Perplexity、Claude。全部解約しました。\n残ったのはChatGPT、Gemini、NotebookLM。\n\n性能の順位で決めたわけではありません。\n「自分の仕事のどこを渡すか」が先に決まった結果、残るものが決まりました。\n\n分かりやすい例が、毎日書いているメルマガです。\n\n「毎日書けるのはすごい」と言われますが、意志で書いていません。\n仕組みで書いています。\n\n課題はいつも同じでした。\n書く時間になってから題材を探し始めると、その日はもう終わる。\n\nだから探すのをやめました。\n日中の会話、読んだ本、うまくいかなかった仕事。\n気づいた瞬間に1行だけメモを残す。\nこの1行が、翌朝の30分を救います。\n\nもうひとつ変えたのは、書く日と直す日を分けたことです。\n書いた直後の自分は、その文章を客観視できません。\n夜に書いて、朝に直す。それだけで品質が一段上がりました。\n\nここがAIの話につながります。\n\nAIとは「人の思考が機械でできるようになったもの」です。\nだから、人がやっていた手順をそのまま渡せます。\n\n生成と検品を分ける。これは自動化の基本構造そのままです。\n書き役のAIと、直し役のAIを別々に立てる。\n昨日の自分の代わりを、機械にやらせているだけです。\n\n渡したのは、メモの整理と、初稿、そして検品の観点出し。\n人が持っているのは、何を書くと決める判断と、最後に世に出す責任。\nここは渡していません。\n\nもう一点。続かない人はだいたい「完璧な1通」を目指します。\n100点の1通より、70点の30通のほうが読者との関係は深くなる。\n配信頻度は信頼の積立です。\n\n落とした週があっても、翌週から淡々と再開すればいい。\nAIエージェントを組む理由も、派手さではなくここです。\n淡々と続く状態を、人の気力に頼らずに作る。\n\n道具より先に「順番」を決める。\nどのツールが安いかより、どの工程を渡すかが先です。\n\n順番の決め方と、僕が実際にどの工程をAIに渡してどこを人に残したかは、メルマガでしか書いていません。\n\nみなさんが最初に渡すなら、書く工程と直す工程、どちらから渡しますか。\n\n#AI活用 #AIエージェント #生成AI #マーケティング #業務効率化 #ChatGPT #Gemini #NotebookLM #仕組み化",
+      "excerpt": "料金早見表は「どれが安いか」で読むと、たぶん間違える。 僕は累計100万円以上AIに課金して、最後に残ったのは3つだけでした。 Midjourney、GROK、Perplexity、Claude。全部解約しました。",
+      "hook": "AIとは「人の思考が機械でできるようになったもの」",
+      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-25/2026-08-25-instagram-1.png",
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 9,
+        "views": 14,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "engagementRate": 0
+      }
+    },
     {
       "id": "2026-08-25-facebook-1",
       "channel": "facebook",
@@ -12,7 +104,7 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 0,
+        "impressions": 8,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -30,8 +122,8 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-25/short1.mp4",
       "metrics": {
-        "views": 2,
-        "impressions": 2,
+        "views": 4,
+        "impressions": 4,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -48,8 +140,8 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 52,
-        "impressions": 52,
+        "views": 53,
+        "impressions": 53,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -66,7 +158,7 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 0,
+        "impressions": 7,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -102,8 +194,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-22/shared-0-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 3,
-        "views": 8,
+        "impressions": 6,
+        "views": 12,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -122,7 +214,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-22/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 8,
+        "impressions": 9,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -176,8 +268,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-21/2026-08-21-instagram-cross2.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 8,
-        "views": 15,
+        "impressions": 11,
+        "views": 27,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -196,7 +288,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-21/2026-08-21-facebook-cross1.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 6,
+        "impressions": 7,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -457,96 +549,6 @@
         "reactions": 0,
         "comments": 0,
         "shares": 0
-      }
-    },
-    {
-      "id": "2026-08-17-threads-1",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/DcHoImlGjqG",
-      "postedAt": "2026-08-16T23:00:00.000Z",
-      "text": "仕事が取れないときあるある\n\n・「まだ覚悟が足りない」で結論にする\n・起きる時間を1時間早める\n・本棚のマインド本だけ増える\n・提案の中身は、去年と一言も変わっていない\n\n最後のやつ、僕もやっていました。\n\nおすすめの確認方法は、気合いを入れる前に、去年の提案書と今の提案書を並べて、変わった行を数えることです。ゼロなら、直すのは気持ちじゃなくてやり方です。ゼロに気合いを掛けても、ゼロのままなので。\n\n申込者アンケートで一番多かったのが「マインドを学びたい」でした。聞かないとわからない問題って、本当に多いです。\n\nみなさんの提案書、去年から変わった行はいくつありますか。",
-      "excerpt": "仕事が取れないときあるある ・「まだ覚悟が足りない」で結論にする ・起きる時間を1時間早める ・本棚のマインド本だけ増える ・提案の中身は、去年と一言も変わっていない 最後のやつ、僕もやっていました。",
-      "hook": "聞かないとわからない問題は、想像以上に多い",
-      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-17/shared-0-portrait.png",
-      "videoUrl": null,
-      "metrics": {
-        "views": 26,
-        "impressions": 26,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
-      "id": "2026-08-17-x-1",
-      "channel": "x",
-      "url": "https://x.com/nishinokousuke/status/2089117529939571082",
-      "postedAt": "2026-08-16T22:30:00.000Z",
-      "text": "相手の悩みは分かっているつもりだった。\n\n申込者にアンケートを取ったら、一番多い声は「マインドを学びたい」。\n\n僕の想定になかった答えだった。\n\n今は募集のたびに、一文だけ聞くようにしている。\n「今、一番の悩みは何ですか？」",
-      "excerpt": "相手の悩みは分かっているつもりだった。 申込者にアンケートを取ったら、一番多い声は「マインドを学びたい」。 僕の想定になかった答えだった。 今は募集のたびに、一文だけ聞くようにしている。 「今、一番の悩みは何ですか？」",
-      "hook": "聞かないとわからない問題は、想像以上に多い",
-      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-17/shared-0-landscape.png",
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 8,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-08-16-threads-thread",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/DcGext9jCpC",
-      "postedAt": "2026-08-16T12:30:00.000Z",
-      "text": "僕にも時間はありません。それでも新しいことを始める時間は毎回確保できています。\n\n理由は意志の強さでも早起きでもなくて、水槽に石を入れる順番の話です。\n\nコヴィー博士が講演で実演していた、あの2回のデモンストレーション。",
-      "excerpt": "僕にも時間はありません。それでも新しいことを始める時間は毎回確保できています。 理由は意志の強さでも早起きでもなくて、水槽に石を入れる順番の話です。 コヴィー博士が講演で実演していた、あの2回のデモンストレーション。",
-      "hook": "大きい石を先に入れないと全部は入らない",
-      "imageUrl": null,
-      "videoUrl": null,
-      "metrics": {
-        "views": 8,
-        "impressions": 8,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
-      "id": "2026-08-16-x-thread",
-      "channel": "x",
-      "url": "https://x.com/nishinokousuke/status/2088959037752656157",
-      "postedAt": "2026-08-16T12:00:00.000Z",
-      "text": "僕にも時間はない。それでも新しいことを始められている理由は、意志の強さでも早起きでもない。水槽に石を入れる順番の話だった。",
-      "excerpt": "僕にも時間はない。それでも新しいことを始められている理由は、意志の強さでも早起きでもない。水槽に石を入れる順番の話だった。",
-      "hook": "大きい石を先に入れないと全部は入らない",
-      "imageUrl": null,
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 16,
-        "reactions": 1,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 18.75
-      }
-    },
-    {
-      "id": "2026-08-19-x-principle-announce",
-      "channel": "x",
-      "url": "https://x.com/nishinokousuke/status/2088830631631348095",
-      "postedAt": "2026-08-16T03:30:00.000Z",
-      "text": "値下げ交渉されたとき、その場で「下げます」か「無理です」の二択しか出てこない人へ。\n\n僕が二択から抜けるまでにやったことを、8投稿の連続で順番に全部出します。\n\n8月19日(水)17:00。毎週水曜の法則パックです。\n\n流れてきてほしい人はフォローしておいてください。",
-      "excerpt": "値下げ交渉されたとき、その場で「下げます」か「無理です」の二択しか出てこない人へ。 僕が二択から抜けるまでにやったことを、8投稿の連続で順番に全部出します。 8月19日(水)17:00。毎週水曜の法則パックです。",
-      "hook": "「値札一枚交渉」",
-      "imageUrl": null,
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 7,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 0
       }
     }
   ]
