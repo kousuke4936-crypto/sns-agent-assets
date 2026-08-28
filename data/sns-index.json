@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T17:28:11.649Z",
+  "generatedAt": "2026-08-28T18:21:46.861Z",
   "posts": [
     {
       "id": "2026-08-27-instagram-1",
@@ -10,7 +10,16 @@
       "excerpt": "このLP、完全にAIだけで作りました。 10年以上マーケティングをやってきて、今までで一番簡単でした。 ただ、渡し方を間違えると「綺麗なだけのページ」が出てきます。 AIにLPを作らせるとき、やってはいけない3つ。",
       "hook": "このLP、完全にAIだけで作りました",
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-27/shared-0-portrait.png",
-      "videoUrl": null
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 5,
+        "views": 10,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "engagementRate": 0
+      }
     },
     {
       "id": "2026-08-27-facebook-1",
@@ -41,8 +50,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-27/shared-0-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "views": 21,
-        "impressions": 21,
+        "views": 23,
+        "impressions": 23,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -59,7 +68,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-27/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 1,
+        "impressions": 2,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -149,8 +158,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-25/2026-08-25-instagram-1.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 10,
-        "views": 18,
+        "impressions": 11,
+        "views": 20,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -169,7 +178,7 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 10,
+        "impressions": 11,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
