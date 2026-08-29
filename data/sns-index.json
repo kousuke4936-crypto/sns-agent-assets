@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T18:21:46.861Z",
+  "generatedAt": "2026-08-29T12:30:15.727Z",
   "posts": [
     {
       "id": "2026-08-27-instagram-1",
@@ -12,8 +12,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-27/shared-0-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 5,
-        "views": 10,
+        "impressions": 10,
+        "views": 21,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -32,11 +32,11 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-27/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 4,
+        "impressions": 5,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 25
+        "engagementRate": 20
       }
     },
     {
@@ -140,7 +140,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-25/2026-08-25-facebook-cross1.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 7,
+        "impressions": 8,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -158,8 +158,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-25/2026-08-25-instagram-1.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 11,
-        "views": 20,
+        "impressions": 12,
+        "views": 21,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -178,7 +178,7 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 11,
+        "impressions": 12,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -268,8 +268,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-22/shared-0-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 6,
-        "views": 12,
+        "impressions": 7,
+        "views": 13,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -288,7 +288,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-22/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 10,
+        "impressions": 11,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
