@@ -1,6 +1,80 @@
 {
-  "generatedAt": "2026-08-30T11:33:16.042Z",
+  "generatedAt": "2026-08-31T13:07:05.714Z",
   "posts": [
+    {
+      "id": "2026-08-31-short1-x",
+      "channel": "x",
+      "url": "https://x.com/nishinokousuke/status/2094256630229520715",
+      "postedAt": "2026-08-31T02:51:00.000Z",
+      "text": "今このBGM、Geminiが作ってます。\n\n音楽、動画、スライド。\n制作の範囲で言うと、今はGeminiに軍配が上がる。\n\n「AIで文章を書く」で止まってる人ほど、見どころだと思う。",
+      "excerpt": "今このBGM、Geminiが作ってます。 音楽、動画、スライド。 制作の範囲で言うと、今はGeminiに軍配が上がる。 「AIで文章を書く」で止まってる人ほど、見どころだと思う。",
+      "hook": "この動画のBGMも実はGeminiで作っている",
+      "imageUrl": null,
+      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-31/short1.mp4",
+      "metrics": {
+        "impressions": 6,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-08-31-short1-facebook",
+      "channel": "facebook",
+      "url": "https://www.facebook.com/reel/1835148680979824/",
+      "postedAt": "2026-08-31T02:51:00.000Z",
+      "text": "今この動画で流れているBGM、Geminiで作りました。\n\n音源サイトを回って、尺を合わせて、著作権の表記を確認して。あの一連の作業がまるごと消えました。\n\n動画やコンテンツを自分の手で作っている人、あるいは制作の外注費が毎月じわじわ積み上がっている人に見てほしい2分です。見どころは、BGMがあくまで一例だというところ。\n\nスライドも作れます。ウェブページも作れます。文章周りだけならChatGPTでも十分やれるんですが、音楽を作る、動画を作る、この領域まで含めた制作範囲の広さでいくと、今のところGeminiに軍配が上がるという判定を僕はしています。\n\nここからが本題です。\n\n僕はマーケティングの原則を10年やってきました。その中でずっと感じていたのは、コンテンツ制作でいちばん時間を食うのは中身を考える部分ではないということ。周辺です。素材を探す、形式を整える、他人に発注する、戻ってきたものを直す。この往復で一日が終わる。\n\nこの周辺作業が、AIに渡せる領域として一気に広がった。それが今回の話の中身です。\n\nだから僕は、制作フローを分解して線を引き直しています。\n\n人が持つのは「誰に、何を言うか」。\nターゲットの選定、オファーの設計、訴求の順番。ここは渡しません。売れるかどうかが決まるのは全部ここだからです。逆に言えば、ここ以外は渡せる。\n\nBGM、スライド、サムネイル、台本の初稿、切り抜きの候補出し。全部AIに渡します。\n\nそしてもう一歩進めると、これらを1本ずつ手で頼むのをやめられます。「訴求はこれ、想定読者はこの人、尺はこれくらい」と決めて渡すと、台本が出て、BGMが出て、スライドが出る。エージェントに一連で回させると、僕の手元に残るのは判断だけになります。\n\nこの状態を作ると何が変わるか。\n\n人を増やさないと本数が増えない、という前提が崩れます。売れるマーケティングを回すのに、これまでは人数が必要でした。制作の人、編集の人、確認する人。その部分を人なしで再現できるようになってきた。だからこそ、人が持つべき一点を明確にしておく必要があります。\n\n逆側から見ると危ないのもここです。何を渡すかを決めずにAIを使い始めると、判断まで一緒に渡してしまう。訴求がぼんやりしたコンテンツが大量に出てきて、量だけ増えて売れないという状態になる。渡す線を引くのが先です。\n\nみなさんの制作フローで、いま一番「人がやらなくていいのに人がやっている」工程はどこですか。工程名だけで教えてもらえたら、僕が渡し方を考えます。",
+      "excerpt": "今この動画で流れているBGM、Geminiで作りました。 音源サイトを回って、尺を合わせて、著作権の表記を確認して。あの一連の作業がまるごと消えました。",
+      "hook": "この動画のBGMも実はGeminiで作っている",
+      "imageUrl": null,
+      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-31/short1.mp4",
+      "metrics": {
+        "impressions": 5,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 20
+      }
+    },
+    {
+      "id": "2026-08-31-short1-instagram",
+      "channel": "instagram",
+      "url": "https://www.instagram.com/reel/DcsDhUkCkh7/",
+      "postedAt": "2026-08-31T02:51:00.000Z",
+      "text": "今聞こえているこのBGM、Geminiで作っています。\n\nそう言われるまで気づかなかったなら、それがもう答えだと思う。\n\n音楽をどこかから探してきて、ライセンスを確認して、動画の尺に合わせる。この一連の作業が、まるごと生成側に移った。\n\nスライドも作れる。ウェブページも作れる。ウェブページだけならChatGPTでも作れます。\n\nでも音楽と動画まで含めた制作範囲で見ると、今はGeminiに軍配が上がる、というのが僕の判定です。\n\nここで大事なのは「AIで音楽が作れてすごい」ではなくて、\n発信のどの工程が人の手から離れたのか、を毎回数え直すこと。\n\n僕はマーケティングの原則を10年やってきて、今はそれをAIとAIエージェントに実装しています。\nその作業は、結局この「どこを渡せるか」の棚卸しの連続です。\n\n渡せるようになった工程を、渡さないまま持っている。\nこれが一番もったいない。\n\n動画の中で、Geminiの制作範囲がどこまで広がっているかを話しています。\n\nみなさんは、コンテンツ制作のどの工程を最後まで手放せずにいますか。\n\n#AI活用 #Gemini #AIエージェント #マーケティング #コンテンツ制作 #動画編集 #AI音楽 #業務効率化 #個人事業主",
+      "excerpt": "今聞こえているこのBGM、Geminiで作っています。 そう言われるまで気づかなかったなら、それがもう答えだと思う。 音楽をどこかから探してきて、ライセンスを確認して、動画の尺に合わせる。この一連の作業が、まるごと生成側に移った。",
+      "hook": "この動画のBGMも実はGeminiで作っている",
+      "imageUrl": null,
+      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-31/short1.mp4",
+      "metrics": {
+        "impressions": 31,
+        "views": 63,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-08-31-short1-threads",
+      "channel": "threads",
+      "url": "https://www.threads.com/@kousuke_nishino/post/DcsddLcl99V",
+      "postedAt": "2026-08-31T02:51:00.000Z",
+      "text": "今流れているこのBGM、Geminiで作っている。\n\n音楽、動画、スライド、Webページ。テキストの外側まで手が届くかどうかで、任せられる範囲が変わる。\n\n僕が見ているのは「AIで作れるか」じゃなくて、制作の工程からどこまで人が抜けられるか。BGM選びで30分止まっていた工程が、まるごと消える。\n\nみなさんが今、外注か自分の手作業で埋めている工程はどれですか？",
+      "excerpt": "今流れているこのBGM、Geminiで作っている。 音楽、動画、スライド、Webページ。テキストの外側まで手が届くかどうかで、任せられる範囲が変わる。 僕が見ているのは「AIで作れるか」じゃなくて、制作の工程からどこまで人が抜けられるか。",
+      "hook": "この動画のBGMも実はGeminiで作っている",
+      "imageUrl": null,
+      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-31/short1.mp4",
+      "metrics": {
+        "views": 13,
+        "impressions": 13,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
     {
       "id": "2026-08-30-short1-x",
       "channel": "x",
@@ -30,7 +104,7 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-30/short1.mp4",
       "metrics": {
-        "impressions": 4,
+        "impressions": 5,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -48,8 +122,8 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-30/short1.mp4",
       "metrics": {
-        "impressions": 124,
-        "views": 139,
+        "impressions": 127,
+        "views": 143,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -86,8 +160,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-27/shared-0-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 10,
-        "views": 21,
+        "impressions": 11,
+        "views": 22,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -142,7 +216,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-27/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 3,
+        "impressions": 4,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -160,8 +234,8 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-26/short1.mp4",
       "metrics": {
-        "views": 23,
-        "impressions": 23,
+        "views": 24,
+        "impressions": 24,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -178,7 +252,7 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-26/short1.mp4",
       "metrics": {
-        "impressions": 27,
+        "impressions": 28,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -214,8 +288,8 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-26/short1.mp4",
       "metrics": {
-        "impressions": 15,
-        "views": 18,
+        "impressions": 16,
+        "views": 19,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -252,11 +326,11 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 16,
+        "impressions": 20,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 6.25
+        "engagementRate": 5
       }
     },
     {
@@ -288,8 +362,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-25/2026-08-25-instagram-1.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 12,
-        "views": 21,
+        "impressions": 13,
+        "views": 22,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -475,80 +549,6 @@
       "videoUrl": null,
       "metrics": {
         "impressions": 11,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-08-22-short1-threads",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/DcUwpq3CLsC",
-      "postedAt": "2026-08-22T00:00:00.000Z",
-      "text": "クロードを月3000円で契約して、一番いいところを見ないまま解約する人がけっこういる。\n\n僕もそうだった。使えば使うほど制限にぶつかって、結局「この程度か」で終わる。\n\n動画では、そこを越えるために僕が実際に何をしたかまで話しています。\n\nAIエージェントに仕事を渡す前提で使うなら、ここは最初に知っておいたほうがいい。\n\nみなさんは今、どのプランで止まっていますか。",
-      "excerpt": "クロードを月3000円で契約して、一番いいところを見ないまま解約する人がけっこういる。 僕もそうだった。使えば使うほど制限にぶつかって、結局「この程度か」で終わる。 動画では、そこを越えるために僕が実際に何をしたかまで話しています。",
-      "hook": "クロードは月3000円では制限で使い切れない",
-      "imageUrl": null,
-      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-22/short1.mp4",
-      "metrics": {
-        "views": 3,
-        "impressions": 3,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
-      "id": "2026-08-22-threads-1",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/DcUeAgAFOy_",
-      "postedAt": "2026-08-21T23:00:00.000Z",
-      "text": "GDP速報が出た直後に一番危ないのは、誰かの要約をそのまま信じることだと思っています。\n\n僕はAIにも同じ扱いをしています。調べ物の起点にはするけれど、統計や制度の数字は必ず発表元まで戻る。反対意見も並べて、やっと判断できる。\n\nただ、AIで「より良い選択」ができるようになっても、それだけでは足りない。\n\n僕がWebマーケティングの世界で見てきたのは、同じスキル・同じ選択をした人の間に実績の差がついていく光景でした。違いを生んだのは、選んだものを正解にしようとしたかどうかです。\n\n最初の成果はだいたい悪い。そこから直し続ける部分は、AIには渡せません。\n\n選択はAIに、正解にする工程は自分に。この線引きをどう引くかを、メルマガでだけ書いています。\n\nhttps://kousukenishino.com/lp/ac/ai-agent/life/seminar-optin-a.html?utm_source=threads&utm_medium=social&utm_campaign=sns-agent&utm_content=2026-08-22-threads-1",
-      "excerpt": "GDP速報が出た直後に一番危ないのは、誰かの要約をそのまま信じることだと思っています。 僕はAIにも同じ扱いをしています。調べ物の起点にはするけれど、統計や制度の数字は必ず発表元まで戻る。反対意見も並べて、やっと判断できる。",
-      "hook": "AIを使えば「より良い選択」ができるようになる",
-      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-22/shared-0-portrait.png",
-      "videoUrl": null,
-      "metrics": {
-        "views": 31,
-        "impressions": 31,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
-      "id": "2026-08-21-instagram-cross2",
-      "channel": "instagram",
-      "url": "https://www.instagram.com/p/DcTSdrkIH0V/",
-      "postedAt": "2026-08-21T12:00:00.000Z",
-      "text": "老後2000万円問題。あの数字、前提が1つ抜けている。\n入れて計算し直すと、3461万円が出てくる。\n\n同じ老後、同じ計算式。違うのは前提の数だけ。\n\n僕がマーケティングを10年やってきて、数字の見方が変わった瞬間があります。\n\n【Before】\n・出てきた数字をそのまま受け取る\n・出典が公的機関かどうかで信じる\n・数字を根拠に施策を決める\n\n【After】\n・数字より先に、前提がいくつあるか数える\n・その前提が自分の状況に当てはまるか見る\n・前提を置き換えてから、施策を決める\n\n変わったのは計算力ではなく、前提を数える癖でした。\n\nこれ、老後資金の話に見えて、そのまま仕事の話です。\n\nCVRの試算。広告のシミュレーション。来期の売上計画。\nどれも「ある前提のもとでの正解」なのに、数字だけが独り歩きする。\n\nそして前提は、たいてい誰も書き残していない。\n\n\n僕がAIエージェントに組み込んでいるのは、この一手間です。\n\n計算させる前に、前提を全部書き出させる。\n・何を一定と置いたか\n・何を計算に入れていないか\n・その前提が崩れたら数字はどう動くか\n\nこの3つを出力させてから、初めて数字を出させる。\n\nAIは計算が速い。だから前提を確認しないまま、もっともらしい数字を大量に出せてしまう。速いぶん、間違った前提のまま遠くまで行きます。\n\nだから役割を分けています。\n計算とシミュレーションはAIに渡す。\n前提が正しいかの判断は、人が持つ。\n\nここを渡してしまうと、売れる仕組みは再現できません。\n\n\n数字を疑うのは難しい。\n前提を数えるのは、誰でも今日できる。\n\nみなさんが直近で見た数字、前提はいくつありましたか。\n\n#マーケティング #AI活用 #AIエージェント #数字に強くなる #ビジネス思考 #仕組み化 #経営者の学び #マーケティング戦略",
-      "excerpt": "老後2000万円問題。あの数字、前提が1つ抜けている。 入れて計算し直すと、3461万円が出てくる。 同じ老後、同じ計算式。違うのは前提の数だけ。 僕がマーケティングを10年やってきて、数字の見方が変わった瞬間があります。",
-      "hook": "2000万円問題は実は3461万円問題だった",
-      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-21/2026-08-21-instagram-cross2.png",
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 11,
-        "views": 27,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "saves": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-08-21-facebook-cross1",
-      "channel": "facebook",
-      "url": "https://www.facebook.com/122233359788030234/posts/122546838134030234",
-      "postedAt": "2026-08-21T10:00:00.000Z",
-      "text": "「老後2000万円問題」の数字を、僕は一度も信じたことがない。\n\n2019年にあの数字が出たとき、世の中の受け取り方は「じゃあ2000万円貯めればいいのか」だった。でも計算の前提を1つ入れ直すと、出てくる数字は2000万円ではなくなる。3461万円になる。\n\n何が抜けていたのか。\n\nここで書きたいのは老後資金の話ではありません。数字が独り歩きする構造の話です。\n\n2000万円という数字は、ある前提の上で計算された結果でした。前提が変わればアウトプットは変わる。当たり前のことなのに、世に出た瞬間に前提は落ちて、結論だけが残る。そして「2000万円貯めなきゃ」という話になる。\n\n僕はこれを、マーケティングの現場でずっと見てきました。\n\n「CPAは◯円以内」\n「このリストの反応率はこのくらい」\n「この商品は今このくらいの値段で売れる」\n\nどれも、ある条件で測った結果です。条件が変われば数字は変わる。それでも人は結論だけを持ち歩く。半年前の数字を、今の判断に使ってしまう。\n\n前提を毎回引き直すのは、地味で面倒な作業です。だから人はやらない。僕自身、10年やってきて一番サボりたくなる工程がここでした。\n\nこれこそAIエージェントに渡すべき仕事だと思っています。\n\n人がやるべきなのは「どの前提を疑うか」を決めること。ここは経験がないと選べない。老後資金の計算で「何が抜けているか」に気づくのと同じで、抜けているものは計算の外にあります。計算の中を見ていても見つからない。\n\nAIエージェントがやるべきなのは、その前提を差し替えて全部計算し直すこと。\n\n前提Aならこの数字、前提Bならこの数字。それを毎週、勝手にやり直して並べておく。人が半年放置してしまう更新を、放置させない。\n\n数字を出すのは人でもAIでもできます。差が出るのは、その数字がどの前提で立っているかを常に見えるようにしておけるかどうか。人がやると必ず抜けます。仕組みに持たせれば抜けません。\n\n売れるマーケティングを人なしで再現するというのは、こういう工程を1つずつ機械に移していく作業です。派手なことは何も起きません。\n\n2000万円が3461万円になったのは、計算が間違っていたからではない。前提が1つ足りなかったからです。\n\nみなさんが今使っている数字のうち、最後に前提を確認したのはどれですか。一番古いものを1つ思い出してみてください。",
-      "excerpt": "「老後2000万円問題」の数字を、僕は一度も信じたことがない。 2019年にあの数字が出たとき、世の中の受け取り方は「じゃあ2000万円貯めればいいのか」だった。でも計算の前提を1つ入れ直すと、出てくる数字は2000万円ではなくなる。",
-      "hook": "2000万円問題は実は3461万円問題だった",
-      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-21/2026-08-21-facebook-cross1.png",
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 8,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
