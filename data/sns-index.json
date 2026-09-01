@@ -1,6 +1,116 @@
 {
-  "generatedAt": "2026-08-31T13:43:31.664Z",
+  "generatedAt": "2026-09-01T11:21:15.664Z",
   "posts": [
+    {
+      "id": "2026-09-01-facebook-cross1",
+      "channel": "facebook",
+      "url": "https://www.facebook.com/122233359788030234/posts/122548254128030234",
+      "postedAt": "2026-09-01T10:00:00.000Z",
+      "text": "「西埜さんって、1ヶ月の間で最大どれくらい、オフィスに行かずに仕事ができますか？」\n\nある経営者とご飯に行ったとき、こう聞かれた。\n\n考えたことがなかったので、少し止まった。そのあと答えた内容と、その答えが成り立っている理由が、僕がこの10年で一番大事だと思っているものに直結していた。\n\nせっかくなので、裏側を全部出します。オフィスに行かなくても仕事が回っている、その中身です。\n\n・誰に何を売るかを決める：僕\n・その商品で「何が刺さるか」の仮説を立てる：僕\n・訴求候補を並べて言葉にする：AIエージェント\n・広告文・LP・メールの初稿：AIエージェント\n・数字を見て、どの仮説が死んだか判定する：僕\n・死んだ仮説を捨てて、次の当て方を決める：僕\n・改稿と量産：AIエージェント\n・進行の確認、抜け漏れの拾い上げ：AIエージェント\n\n並べてみると、僕が持っているのは「決める」だけです。\n\n何を売るか。誰に向けるか。何を捨てるか。ここは渡していない。渡すと、そもそも判断の材料が自分の中に残らなくなる。\n\n逆に、書く・並べる・直す・思い出す、はもう自分の手でやっていない。ここは人がやってもAIがやっても出てくるものの質が変わらない工程で、しかも一番時間を食う場所でした。\n\nうまくいっていないところも書きます。\n\n人の管理は、まだきれいに渡せていない。指示の出し方や、詰まっている人への声のかけ方は、まだ僕が現場でやっている部分が残っています。仕組みとして再現できたと言えるところまでは来ていない。だからオフィスに行く日はゼロにはならない。ここは正直、まだ途中です。\n\nそれでも、あの質問に答えられたのは、削れる工程を先に全部AIとAIエージェントに寄せてきたからでした。\n\nここで言いたいのは、自由の話です。\n\n自由って、働かないことではないんですよね。\n\n選べること。決められること。これが自由の中身だと、僕は10年やってきて思っている。\n\n選べない状態というのは、自分の時間が全部「やらないと止まるもの」で埋まっている状態のことです。埋まっていると、行くか行かないかを選べない。行くしかない。決めるための時間が残っていないから、決められない。\n\nマーケティングでも同じことが起きます。\n\n判断が鈍っている会社って、判断力がないわけじゃない。判断する前の作業に全部の時間を吸われていて、考える場所まで到達していない。だから前と同じことをもう一度やる。\n\nだから僕は、作業をAIに渡しています。\n\nラクをするためではなく、決めるための余白を空けるためです。空いた余白で仮説を立て直して、死んだ訴求を捨てる。この「捨てる決断」だけは、最後まで人の仕事として残ると考えています。\n\n意外だったのは、渡せない工程が思っていたよりずっと少なかったことでした。\n\nみなさんの今の業務のうち、明日から自分が触らなくても止まらない工程は、どれですか。1つだけ挙げてみてください。そこがそのまま、渡せる場所です。",
+      "excerpt": "「西埜さんって、1ヶ月の間で最大どれくらい、オフィスに行かずに仕事ができますか？」 ある経営者とご飯に行ったとき、こう聞かれた。 考えたことがなかったので、少し止まった。",
+      "hook": "自由とは選べること、決められること",
+      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-01/2026-09-01-facebook-cross1.png",
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 0,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-09-04-threads-principle-announce",
+      "channel": "threads",
+      "url": "https://www.threads.com/@kousuke_nishino/post/Dcu940EEbh6",
+      "postedAt": "2026-09-01T04:00:00.000Z",
+      "text": "やることは決まっているのに、手が動かない日がある。\n\n僕も気分が乗らない日は、メルマガが一行も進みませんでした。原因は探し方の方ではなかった。\n\nこの「細分化して分けて考える」という話を、9月4日(金)の17:30に出します。\n\n全8投稿の連続投稿で、順番に全部並べます。経費、集客、AIへの指示まで同じ話としてつなげます。\n\n流れてきてほしい人は、フォローしておいてください。",
+      "excerpt": "やることは決まっているのに、手が動かない日がある。 僕も気分が乗らない日は、メルマガが一行も進みませんでした。原因は探し方の方ではなかった。 この「細分化して分けて考える」という話を、9月4日(金)の17:30に出します。",
+      "hook": "「細分化して分けて考える」",
+      "imageUrl": null,
+      "videoUrl": null,
+      "metrics": {
+        "views": 3,
+        "impressions": 3,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "2026-09-01-short1-x",
+      "channel": "x",
+      "url": "https://x.com/nishinokousuke/status/2094545848537395338",
+      "postedAt": "2026-08-31T22:00:00.000Z",
+      "text": "AIに文体を学ばせても、毎回やり直しているなら再現性はない。\n\n「これをスキルファイルにして」\n\nこの一言で終わる。\n\nChatGPTでもClaudeでもGeminiでも、同じ文体が出せるようになる話です。",
+      "excerpt": "AIに文体を学ばせても、毎回やり直しているなら再現性はない。 「これをスキルファイルにして」 この一言で終わる。 ChatGPTでもClaudeでもGeminiでも、同じ文体が出せるようになる話です。",
+      "hook": "文体学習は「スキルファイル」化で再現性が出る",
+      "imageUrl": null,
+      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-01/short1.mp4",
+      "metrics": {
+        "impressions": 17,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-09-01-short1-facebook",
+      "channel": "facebook",
+      "url": "https://www.facebook.com/reel/2232428600936151/",
+      "postedAt": "2026-08-31T22:00:00.000Z",
+      "text": "文体を学ばせて満足している人が、一番損をしている。\n\nAIに自分の文章を読み込ませて「おお、似てきた」と喜ぶ。ここまでは多くの人がやっている。でも、そのチャットを閉じた瞬間に全部消える。翌週また同じことをやり直す。これを毎回やっていると、いつまでも「AIで文章が書ける状態」にならない。\n\n再現性が出るのは、その次の一手を打ったときです。\n\n学ばせたものを、スキルファイルにする。\n\nスキルファイルというのは、AIに特定の仕事をさせるときに参照させるガイドラインのようなものです。「この仕事のときは、こう書いてください」という指示の塊。文体だけでなく、判断の癖まで入る。\n\nで、これを自分で作ろうとすると、はっきり言ってすごく難しい。だから作らせます。文体を学ばせた直後に「これをスキルファイルにしてください」と言うだけ。多少やり取りは発生しますが、基本的にはこの一言で形になります。\n\nここからが本題で。\n\nスキルファイルにしておくと、ChatGPTでもClaudeでもGeminiでも同じものが参照できる。それぞれにスキルファイルを置く場所があるし、なければ貼り付けて「これをスキルファイルとして保存してください」と言えば保存してくれる。\n\nつまり、モデルを乗り換えても自分の文体が死なない。\n\n僕がマーケティングを10年やってきて痛いほど分かったのは、売れる文章には型があるということです。フックの作り方、外し方、どこで結論を置くか。これは属人的なセンスに見えて、実は再現できる。だからこそ、人の頭の中にだけ置いておくのが一番もったいない。\n\nスキルファイルは、その型を人の外に出す作業です。\n\n組織で考えると、意味がもっとはっきりします。「あの人が書いた文章はなぜか売れる」を、その人がいなくてもAIエージェントが再現できる状態にする。教育コストではなく、ファイルの受け渡しになる。新しく入った人が初日から同じ品質で書き出せる。\n\n人が持つべきは、判断の基準だけです。「この文体でいいのか」「この読者にこの言い方をするのか」。ここは渡せない。というより、渡すと事業の顔が消えます。\n\nAIに渡すのは、その基準の実行。人が持つのは、基準そのもの。この線引きをはっきりさせないまま「AIを使いましょう」とやると、誰の文章でもないものが出てきます。\n\n動画では、この流れを最初から順番に話しています。文体を学ばせるところから、スキルファイルにして横断で使うところまで。指示文もそのまま出しているので、聞いたあとすぐ手が動くと思います。\n\n一つ聞きたいのですが、みなさんがAIに一番何度も説明し直している指示は何ですか。それが最初にスキルファイルにすべきものです。",
+      "excerpt": "文体を学ばせて満足している人が、一番損をしている。 AIに自分の文章を読み込ませて「おお、似てきた」と喜ぶ。ここまでは多くの人がやっている。でも、そのチャットを閉じた瞬間に全部消える。翌週また同じことをやり直す。",
+      "hook": "文体学習は「スキルファイル」化で再現性が出る",
+      "imageUrl": null,
+      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-01/short1.mp4",
+      "metrics": {
+        "impressions": 1,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-09-01-short1-instagram",
+      "channel": "instagram",
+      "url": "https://www.instagram.com/reel/DcuHF3zj55r/",
+      "postedAt": "2026-08-31T22:00:00.000Z",
+      "text": "文体をAIに学ばせただけで満足している人が、いちばん損をしている。\n\n学習させた文体は、そのチャットの中だけで消えていく。\n再現性を持たせる手順が、動画の後半にあります。\n\nーー\n\n多くの人が「自分の文体をAIに覚えさせる」で止まっている。\n\nでもそれだと、次に新しいチャットを開いた時点でゼロに戻る。\n昨日いい文章が出たのに、今日は出ない。あの状態です。\n\n次のステップは、学ばせたものを「スキルファイル」にすること。\n\nスキルファイルとは、AIに特定の仕事をさせるときに参照してほしいガイドラインのこと。\n記事を書く、SNSの投稿を作る。そのときに呼び出す1つのスキルとして持たせます。\n\n作り方は、はっきり言って難しい。\nなので、そこもAIに任せます。\n\n文体を学ばせたあとに「これをスキルファイルにしてください」と指示するだけ。\n多少やり取りは発生しますが、基本的にこの一言で作ってくれます。\n\nここが効いてくるのは、ツールを移ったときです。\n\nChatGPTで書いていた文章を、Claudeで書きたい。Geminiで書きたい。\nそのときにスキルファイルを参照させれば、それだけでかなり良くなる。\n\n人の頭の中にしかなかった「うちの書き方」が、ファイルになって持ち運べる。\nこれが、人なしで売れる文章を再現するための最初の一段だと思います。\n\n人が持つのは、何を良いとするかの判断だけ。\n書き方の再現はファイルに預ける。\n\nみなさんは今、どの仕事をスキルファイルにしたいですか。\n\n#AI活用 #AIエージェント #ChatGPT #Claude #Gemini #マーケティング #コンテンツ制作 #業務効率化 #生成AI",
+      "excerpt": "文体をAIに学ばせただけで満足している人が、いちばん損をしている。 学習させた文体は、そのチャットの中だけで消えていく。 再現性を持たせる手順が、動画の後半にあります。 ーー 多くの人が「自分の文体をAIに覚えさせる」で止まっている。",
+      "hook": "文体学習は「スキルファイル」化で再現性が出る",
+      "imageUrl": null,
+      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-01/short1.mp4",
+      "metrics": {
+        "impressions": 108,
+        "views": 110,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-09-01-short1-threads",
+      "channel": "threads",
+      "url": "https://www.threads.com/@kousuke_nishino/post/Dcugi9Tkyty",
+      "postedAt": "2026-08-31T22:00:00.000Z",
+      "text": "AIに自分の文体を学ばせて満足している人、そこで止まると毎回ゼロからやり直しになります。\n\n再現性が出るのは、学ばせた後に「これをスキルファイルにしてください」と一言渡したとき。\n\n作り方は難しいので、AI自身に作らせる。\n\n出来たファイルはChatGPTでもClaudeでもGeminiでも貼り付けて保存できるので、ツールを変えても文体が崩れなくなります。\n\n人の頭の中にあった「らしさ」を、外に出して持ち運べる形にする。組織で再現するのも同じ手順です。\n\nみなさんは今、どの作業をスキルファイルにしたいですか？",
+      "excerpt": "AIに自分の文体を学ばせて満足している人、そこで止まると毎回ゼロからやり直しになります。 再現性が出るのは、学ばせた後に「これをスキルファイルにしてください」と一言渡したとき。 作り方は難しいので、AI自身に作らせる。",
+      "hook": "文体学習は「スキルファイル」化で再現性が出る",
+      "imageUrl": null,
+      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-01/short1.mp4",
+      "metrics": {
+        "views": 11,
+        "impressions": 11,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
     {
       "id": "2026-08-31-short1-x",
       "channel": "x",
@@ -12,7 +122,7 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-31/short1.mp4",
       "metrics": {
-        "impressions": 6,
+        "impressions": 7,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -30,11 +140,11 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-31/short1.mp4",
       "metrics": {
-        "impressions": 5,
+        "impressions": 8,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 20
+        "engagementRate": 12.5
       }
     },
     {
@@ -48,8 +158,8 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-31/short1.mp4",
       "metrics": {
-        "impressions": 31,
-        "views": 63,
+        "impressions": 107,
+        "views": 116,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -68,8 +178,8 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-31/short1.mp4",
       "metrics": {
-        "views": 13,
-        "impressions": 13,
+        "views": 16,
+        "impressions": 16,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -104,7 +214,7 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-30/short1.mp4",
       "metrics": {
-        "impressions": 5,
+        "impressions": 6,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -122,8 +232,8 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-30/short1.mp4",
       "metrics": {
-        "impressions": 127,
-        "views": 143,
+        "impressions": 131,
+        "views": 148,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -160,8 +270,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-27/shared-0-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 11,
-        "views": 22,
+        "impressions": 12,
+        "views": 24,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -252,7 +362,7 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-26/short1.mp4",
       "metrics": {
-        "impressions": 28,
+        "impressions": 29,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -288,31 +398,13 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-26/short1.mp4",
       "metrics": {
-        "impressions": 16,
-        "views": 19,
+        "impressions": 17,
+        "views": 22,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
         "saves": 0,
         "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-08-25-threads-thread",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/DcdvlW4HK3z",
-      "postedAt": "2026-08-25T12:30:00.000Z",
-      "text": "「西埜さんって、1ヶ月の間で最大どれくらい、オフィスに行かずに仕事ができますか？」\n\nある経営者とご飯に行ったとき、こう聞かれた。\n\n考えたことがなかったので、少し止まった。\n\nそして答えた内容と、その答えが成り立っている理由が、僕がこの10年で一番大事だと思っているものに直結していた。",
-      "excerpt": "「西埜さんって、1ヶ月の間で最大どれくらい、オフィスに行かずに仕事ができますか？」 ある経営者とご飯に行ったとき、こう聞かれた。 考えたことがなかったので、少し止まった。",
-      "hook": "自由とは選べること、決められること",
-      "imageUrl": null,
-      "videoUrl": null,
-      "metrics": {
-        "views": 169,
-        "impressions": 169,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0
       }
     },
     {
@@ -326,11 +418,11 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 20,
+        "impressions": 21,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 5
+        "engagementRate": 4.76
       }
     },
     {
@@ -460,98 +552,6 @@
         "comments": 0,
         "shares": 0,
         "saves": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-08-25-threads-1",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/DccVQW_gJGg",
-      "postedAt": "2026-08-24T23:00:00.000Z",
-      "text": "生成AIの料金早見表が出回ってる。あれを「どれが安いか」で読むと外す。\n\n僕は累計100万円以上AIに課金して、Midjourney・GROK・Perplexity・Claudeは解約した。残ったのはChatGPT・Gemini・NotebookLMの3つだけ。\n\n決め手は値段じゃなく「自分の仕事のどこを渡すか」だった。\n\nたとえばメルマガ。僕は書く時間にネタを探さない。思いついた瞬間に1行メモして、夜書いて朝直す。生成と検品を分けるから品質が上がる。\n\nこの「順番」がある人だけ、AIに渡す先が決まる。順番がない人は、どのツールを契約しても同じ手詰まりになる。\n\nみなさんが今払ってるやつ、自分の仕事のどの工程を渡してます？",
-      "excerpt": "生成AIの料金早見表が出回ってる。あれを「どれが安いか」で読むと外す。 僕は累計100万円以上AIに課金して、Midjourney・GROK・Perplexity・Claudeは解約した。",
-      "hook": "AIとは「人の思考が機械でできるようになったもの」",
-      "imageUrl": null,
-      "videoUrl": null,
-      "metrics": {
-        "views": 56,
-        "impressions": 56,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
-      "id": "2026-08-25-x-1",
-      "channel": "x",
-      "url": "https://x.com/nishinokousuke/status/2092016624949723433",
-      "postedAt": "2026-08-24T22:30:00.000Z",
-      "text": "料金早見表を「どれが安いか」で読んでた頃の僕あるある\n\n・全部契約して比較する\n・使わないまま更新される\n・解約ボタンを探して疲れる\n・結局、渡す仕事が決まってない\n\n累計100万以上課金して、残ったのは3つだけ。\n\n道具より先に順番を決める。\n\nみなさんが最後まで残したのは、どれですか？",
-      "excerpt": "料金早見表を「どれが安いか」で読んでた頃の僕あるある ・全部契約して比較する ・使わないまま更新される ・解約ボタンを探して疲れる ・結局、渡す仕事が決まってない 累計100万以上課金して、残ったのは3つだけ。 道具より先に順番を決める。",
-      "hook": "AIとは「人の思考が機械でできるようになったもの」",
-      "imageUrl": null,
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 10,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-08-23-short1-threads",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/DcXSi5sCd84",
-      "postedAt": "2026-08-22T23:57:00.000Z",
-      "text": "英語の解説動画、URLを貼るだけで自分用の教材になります。\n\n要約が出て、その動画に質問できて、レポートもスライドも音声解説もマインドマップもクイズも作れる。学びたい分野があるのに情報が散らばっていて手が止まっている人向けです。\n\n動画では実際に何が出てくるかを話しています。\n\n情報を集めるところは、もう人が持たなくていい。人が持つのは「どの動画を選ぶか」だけになりました。\n\nみなさんなら、最初にどのジャンルの動画を突っ込みますか？",
-      "excerpt": "英語の解説動画、URLを貼るだけで自分用の教材になります。 要約が出て、その動画に質問できて、レポートもスライドも音声解説もマインドマップもクイズも作れる。学びたい分野があるのに情報が散らばっていて手が止まっている人向けです。",
-      "hook": "YouTubeのURLを貼るだけで学習教材が完成",
-      "imageUrl": null,
-      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-23/short1.mp4",
-      "metrics": {
-        "views": 15,
-        "impressions": 15,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
-      "id": "2026-08-22-instagram-1",
-      "channel": "instagram",
-      "url": "https://www.instagram.com/p/DcVirYoFm9R/",
-      "postedAt": "2026-08-22T09:00:00.000Z",
-      "text": "AIに聞いて出た答えを、そのまま「正解」として持ち帰る人が損をしている。\n\n速報値が出た日ほど、それが起きる。\n\n先日GDPの速報が公表されて、タイムラインには要約と切り取りが流れました。\n\n僕は統計や制度の数字を扱うとき、AIを起点には使いますが、必ず発表元まで戻ります。\n反対意見も並べて、はじめて判断できる。\n\nこの一手間を省く人から、静かに損をしていきます。\n\nただ、今日書きたいのはその先の話です。\n\nAIを使うと何がよくなるか。\nデータの分析や提案を、わかりやすく提示してくれる。\nつまり「より良い選択」ができるようになる。\n\nこれは確かです。\n何をやるかを間違えすぎていたら、話になりません。\n\n売上を伸ばしたいのに商品改善から入る。\n自分の強みが活きない仕事を選ぶ。\nこれでは成果は出ません。\n\nでも、選択より大事なことがあります。\n\n選択したことを、正解にする力です。\n\nビジネスの最初の成果は、残念ながら悪いことばかりです。\nそこからどう改善するかを考えないといけない。\n\n100m走で正しい走り方を知っていても、やる気がなければ記録は出ません。\n\n僕はWebマーケティングの世界にいました。\n同じ業界、同じ境遇、同じスキルを持っている人はいます。\nそれでも、スキルのレベルや実績には違いが出る。\n\n選んだものは一緒なんです。\n違いを生んだのは、選択を正解にしにいったかどうかでした。\n\nだから、AIとAIエージェントに何を渡すかもここで決まります。\n\nAIに渡すのは、選択肢の整理と、根拠の一次情報への突き合わせ。\n毎日の数字の読み取りと、改善案の候補出し。\nここは人がやっても速くならない。\n\n人が持つのは、決めたことを検証し続けると決める部分です。\nどこまでやったら判断を変えるのか、その線を引くこと。\n\nエージェントを組むと、この違いがはっきり出ます。\n選択を正解にする工程を回し続ける仕組みは作れる。\nでも「正解にすると決める」ところだけは、渡せません。\n\n派手さはありません。\n発表元まで戻る。決めたことを回す。数字を見て直す。\nそれだけです。\n\nだからこそ、誰がやっても同じように効きます。\n\nこの「正解にする工程」を、実際にどうAIエージェントに分解して渡しているか。\n手順のところはメルマガでしか書いていません。\n\n#マーケティング #AI活用 #AIエージェント #経営者 #意思決定 #webマーケティング #仕事術 #一次情報",
-      "excerpt": "AIに聞いて出た答えを、そのまま「正解」として持ち帰る人が損をしている。 速報値が出た日ほど、それが起きる。 先日GDPの速報が公表されて、タイムラインには要約と切り取りが流れました。",
-      "hook": "AIを使えば「より良い選択」ができるようになる",
-      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-22/shared-0-portrait.png",
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 7,
-        "views": 13,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "saves": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-08-22-facebook-1",
-      "channel": "facebook",
-      "url": "https://www.facebook.com/122233359788030234/posts/122546933672030234",
-      "postedAt": "2026-08-22T03:00:00.000Z",
-      "text": "速報が出た瞬間に一番危ないのは、誰かの要約をそのまま信じることです。\n\n先日のGDPの数字も、タイムラインには切り取りと推測が一気に流れました。僕はああいうときこそ、発表元まで戻ります。AIにも同じ扱いをしています。調べ物の起点にはするけれど、統計や制度の数字は必ず一次情報で確かめる。反対の見方も並べて、そこで初めて判断する。この一手間を省いた分だけ、静かに損をしていくと感じています。\n\nそのうえで、AIを使うと「より良い選択」ができるようになる、というのは本当だと感じています。散らばった情報を整理して、わかりやすく提示してくれる。決断に迷う時間が減る。ここはもう、使っていない人はぜひ触ってみてほしいところです。\n\nただ、僕がずっと考えているのは、選択より大事なものがあるということです。\n\n選択が大事なのは認めます。売上を伸ばしたいのに商品改善から手をつけたら、伸びません。自分の強みが活きない仕事を選べば、成果は出ません。方向がずれていたら話にならない。それは前提です。\n\nそのうえで、本当に差がつくのは、選んだことを正解にする力だと思っています。\n\n正しいことをやっていても、中途半端なら成果は出ません。しかもビジネスでは、最初の結果はだいたい悪い。そこからどう直していくかを考え続けられるかどうかで、同じ選択をした人の間に、はっきり差が出ます。100m走で正しい走り方を知っていても、走らなければ記録は出ないのと同じです。\n\n僕はWebマーケティングの世界にいました。同じ業界、同じ境遇、同じスキルを持った人はたくさんいます。それでも実績のレベルには違いが出る。何を選んだかは、ほとんど一緒なんです。違いを生んだのは、選んだことを正解にしようとして、やるべきことをやり続けたかどうかでした。\n\nAIとAIエージェントを組織に実装している今も、この構造は変わっていません。むしろはっきりしました。\n\nAIに渡せるのは、選択肢を並べる仕事、情報を整理する仕事、そして一次情報の在り処を探す仕事です。ここは人がやるより速いし、抜けも少ない。\n\n人が持つのは、決めたことを引き受ける側です。出た結果を見て、どこを直すかを決める。うまくいかない期間に耐えて、やり続ける。マーケティングの原則を10年やってきて、最後に残るのはここだと感じています。\n\n選択の質はAIで上げられる。正解にする力は、まだ渡せない。だから僕は、AIに任せた分の時間を、検証と改善に置き直しています。\n\nひとりで事業をやっている方に聞きたいんですが、AIに一番任せて楽になったのは、調べ物と文章のどちらでしたか。",
-      "excerpt": "速報が出た瞬間に一番危ないのは、誰かの要約をそのまま信じることです。 先日のGDPの数字も、タイムラインには切り取りと推測が一気に流れました。僕はああいうときこそ、発表元まで戻ります。AIにも同じ扱いをしています。",
-      "hook": "AIを使えば「より良い選択」ができるようになる",
-      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-22/shared-0-landscape.png",
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 11,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
         "engagementRate": 0
       }
     }
