@@ -1,6 +1,118 @@
 {
-  "generatedAt": "2026-09-02T10:55:19.454Z",
+  "generatedAt": "2026-09-03T10:54:50.699Z",
   "posts": [
+    {
+      "id": "2026-09-03-instagram-1",
+      "channel": "instagram",
+      "url": "https://www.instagram.com/p/Dc0cNHbFqqF/",
+      "postedAt": "2026-09-03T09:00:00.000Z",
+      "text": "単純な記事を書く仕事は、この技術だけでなくなる。\nおどろおどろしいけど、あり得なくはない未来だと思っている。\n\nこのAIライティングのワークショップ、もともとは高額コンサルを受けてくれているクライアント限定でやるつもりだった。\n\n一般に開放したのは、単純な記事執筆がAIで置き換わる前提で動いたほうがいいと考えたから。\n\nそこでライティング報酬をもらっている人は、かなり苦しくなる。\nこの流れはデザインや動画編集にも届く。（打開策はある。それは別の機会に）\n\nさらに厄介なのは、競合が使いこなしてきたとき。\n全てのビジネスの競争が一段上がる。\n\nビルゲイツは、この技術の発展をネットやスマホと同じくらい革命的なものだと言っている。\n\nPCもスマホもネットも使わずに仕事をするなんて、もうあり得ませんよね。\nAIもそこに並ぶ、という話をしている。\n\n\nで、実務の話。\n\n僕がAIとAIエージェントに渡しているのは、\n①リサーチした素材の整理\n②構成案の複数出し\n③初稿を書く作業\n④量を回す部分\n\n人が最後まで手放さないのは、\n・誰に何を売るのかの設計\n・オファーの中身\n・書いたものが売れたかどうかの判定\n\nここを持たないままAIに書かせると、読みやすくて売れない文章が延々と出てくる。\n\n10年マーケティングをやってきて分かったのは、AIが下手なのではなくて、渡す前の設計が空っぽだと出力も空っぽになる、ということ。\n\n派手な話ではないです。\n渡す作業と持つ判断を分けて書き出すだけ。\nだから誰でも今日から試せる。\n\n\nどの工程をエージェントに渡して、どこで人が判定を入れるのか。\nその具体的な組み方は、メルマガでしか書いていません。\n\n保存して、自分の仕事のどこがAIに渡せるか、後で書き出してみてください。\n\n#AI活用 #AIエージェント #AIライティング #マーケティング #コピーライティング #マーケティング戦略 #経営者 #フリーランス",
+      "excerpt": "単純な記事を書く仕事は、この技術だけでなくなる。 おどろおどろしいけど、あり得なくはない未来だと思っている。 このAIライティングのワークショップ、もともとは高額コンサルを受けてくれているクライアント限定でやるつもりだった。",
+      "hook": "この技術さえあれば単純な記事執筆はなくなる",
+      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-03/shared-0-portrait.png",
+      "videoUrl": null
+    },
+    {
+      "id": "2026-09-03-facebook-1",
+      "channel": "facebook",
+      "url": "https://www.facebook.com/122233359788030234/posts/122548467374030234",
+      "postedAt": "2026-09-03T03:00:00.000Z",
+      "text": "「単純な記事を書く仕事はなくなる」と、僕は数年前にメルマガで書きました。\n\nそのときは、AIライティングのワークショップをやる直前でした。もともとは高額コンサルのクライアント限定でやるつもりだったものを、一般にも開放した。それくらい、伝えないとまずいと思っていたからです。\n\nで、そのあと僕がやった失敗の話をします。\n\n記事を書く工程をAIに渡した。たしかに速くなった。文章は出てくる。体裁も整っている。なのに、売れなかった。\n\n最初に疑ったのは、プロンプトでした。\n\n指示が雑なんだろう、と。だから書き方を変え、参考記事を渡し、トーンの指定を細かくし、出力のフォーマットまで固めました。文章はどんどん綺麗になりました。それでも数字は動かなかった。\n\n次に疑ったのは、モデルでした。\n\nもっと賢いモデルなら違うはずだ、と。これも違いました。賢くなったぶん、綺麗な文章がもっと速く出てくるようになっただけでした。\n\n実際の原因は、もっと手前にありました。\n\n僕がAIに渡していたのは「書く」という作業だけだった。\n\n誰に向けて書くのか。その人が今どこで止まっているのか。何を言われたら動くのか。この部分を、僕は自分の頭の中に置いたまま、AIには渡していなかった。だから、当たり前のように的の外れた文章が量産されていた。\n\nAIが下手だったんじゃない。的を渡していなかったんです。\n\nこれは、外注で失敗するときとまったく同じ構図でした。ライターさんに「この記事書いておいて」とだけ投げて、上がってきたものを見て「なんか違うんだよな」と言っている状態。相手がAIに変わっただけで、僕は同じことを繰り返していました。\n\n学んだのは一つです。\n\n**AIに渡すべきは作業ではなく、判断の材料。**\n\n今はこうしています。エージェントに書かせる前に、顧客の状態、競合が言っていること、こちらが持っている証拠、この三つを構造化して先に持たせる。そのうえで書かせる。そこまでやると、出てくる文章の当たり外れが目に見えて減ります。\n\nそして、最後まで人が持つものも決めました。「この読み手は本当にここで止まっているのか」という、市場に対する仮説そのもの。ここだけは渡さない。ここを外したら、どれだけ速く書けても全部ムダになるからです。\n\nマーケティングの原則を十年やってきて、それをAIエージェントに実装しようとして、いちばん最初にぶつかったのがこれでした。原則を知らないままAIを持っても、綺麗な的外れが速く出てくるだけです。\n\nみなさんがAIに任せてみて「速いけど何か違う」と感じた工程は、どこでしたか。書くところですか、それとも決めるところですか。",
+      "excerpt": "「単純な記事を書く仕事はなくなる」と、僕は数年前にメルマガで書きました。 そのときは、AIライティングのワークショップをやる直前でした。もともとは高額コンサルのクライアント限定でやるつもりだったものを、一般にも開放した。",
+      "hook": "この技術さえあれば単純な記事執筆はなくなる",
+      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-03/shared-0-landscape.png",
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 0,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-09-03-short1-x",
+      "channel": "x",
+      "url": "https://x.com/nishinokousuke/status/2095340537574264981",
+      "postedAt": "2026-09-03T02:38:00.000Z",
+      "text": "AIに文体を教えるのは、記事3〜5本を貼るだけ。\n\n書き口、使う単語、話の展開。\nこの3つを学べと言うだけでいい。\n\n「AIの文章っぽい」の原因は、\n渡した素材が足りていないほうです。\n\n動画で、貼り方まで話しました。",
+      "excerpt": "AIに文体を教えるのは、記事3〜5本を貼るだけ。 書き口、使う単語、話の展開。 この3つを学べと言うだけでいい。 「AIの文章っぽい」の原因は、 渡した素材が足りていないほうです。 動画で、貼り方まで話しました。",
+      "hook": "自分の記事3〜5本を貼るだけでAIが文体を学ぶ",
+      "imageUrl": null,
+      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-03/short1.mp4",
+      "metrics": {
+        "impressions": 0,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-09-03-short1-facebook",
+      "channel": "facebook",
+      "url": "https://www.facebook.com/reel/2571415643340320/",
+      "postedAt": "2026-09-03T02:38:00.000Z",
+      "text": "AIに自分の文体を学ばせる作業は、プロンプトを何十行も書くことじゃない。自分の記事を3〜5本、そのまま貼るだけで終わる。\n\nこれ、実際にやってみると拍子抜けするほど簡単です。\n\nChatGPTでもClaudeでもいい。自分の書いた記事を5本まとめて貼り付けて、「この記事の書き口、使っている単語、話の展開の仕方を学んでください」と言う。それだけ。指示は一行で足ります。\n\nよく聞かれるのが「そもそも記事が書けない」「書くのが苦手」という話。それでも問題ないです。まずAIに1本書かせる。それに自分でフィードバックを入れて、「もっとこういう書き口にしてください」と直していく。何往復かすると、自分のものに近い文章が出てきます。それを種にして、3本、できれば5本まで増やす。そこから学ばせればいい。\n\nゼロから文体を言語化する必要はない、ということです。\n\n僕がマーケティングを10年やってきて分かったのは、書き手の個性は「何を言うか」よりも「どう展開するか」に出るということ。同じ結論を書いても、先に結論を置く人と、場面を描いてから結論に行く人がいる。同じ意味でも、選ぶ単語が違う。デスマス調か、そうでないか。この癖の集合が文体です。\n\nそして癖は、説明されるより実物を見せられたほうが速く伝わる。だから記事を貼る。\n\nここが、AIエージェントに仕事を渡すときの分かれ目だと思っています。\n\n人に仕事を任せるとき、マニュアルを書くより「これと同じものを作って」とサンプルを渡したほうが早い場面がある。AIも同じです。抽象的な指示を積み上げるほど、こちらの意図から離れていく。実物を渡すと、一発で寄る。\n\nつまり、AIに渡すべきものは指示ではなく成果物のサンプルなんです。\n\nこれが分かると、渡せる仕事が一気に増えます。メールの文面、記事の下書き、営業資料の言い回し。過去に自分が作った「良かったもの」を数本貼るだけで、AIはそのパターンを再現しはじめる。売れた文章の型を、人を介さずに何本も出せるようになる。\n\n逆に、人が持たないといけないものもはっきりします。\n\nどの5本を選ぶか、ここは人の仕事です。過去に書いたもののうち、どれが「自分らしくて、かつ成果が出たもの」なのか。ここを間違えると、AIは間違った文体を丁寧に再現してくれます。学習素材の選定だけは、外に出せない。\n\n動画では、この手順の前段にあたる部分から順番に話しています。記事を貼る前にチェックすべきポイントも含めて。\n\n自分の文章の癖を、他人に説明できますか。説明できないなら、貼ればいい。\n\nみなさんがAIに渡すとしたら、過去に書いたどの記事を選びますか。",
+      "excerpt": "AIに自分の文体を学ばせる作業は、プロンプトを何十行も書くことじゃない。自分の記事を3〜5本、そのまま貼るだけで終わる。 これ、実際にやってみると拍子抜けするほど簡単です。 ChatGPTでもClaudeでもいい。",
+      "hook": "自分の記事3〜5本を貼るだけでAIが文体を学ぶ",
+      "imageUrl": null,
+      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-03/short1.mp4",
+      "metrics": {
+        "impressions": 1,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-09-03-short1-instagram",
+      "channel": "instagram",
+      "url": "https://www.instagram.com/reel/DczwapiDXun/",
+      "postedAt": "2026-09-03T02:38:00.000Z",
+      "text": "AIに文体を学ばせる方法、たいていの人が難しく考えすぎている。\n\nやることは、自分の記事を3〜5本貼り付けて「書き口、使っている単語、話の展開の仕方を学んでください」と言うだけ。\n\nこれだけで、デスマス調なのか言い切りなのか、どういう順番で話を進める人なのか、AIは掴む。\n\nプロンプトを何十行も磨く前に、まず素材を渡す。\n文体は説明するものではなくて、見せるもの。\n\n「そもそも記事が書けない」という人も止まらなくていい。\nAIに1本書かせて、自分の感覚でフィードバックを重ねて直していく。それを繰り返すと、自分のものに近い記事が1本できる。その1本を種にして数を増やす。\n\n僕がマーケティングの仕組みをAIエージェントに載せていくとき、最初にやるのがこれです。\n売れる文章の型は原則として決まっている。でも、誰の口で言うかは自分にしかない。\n原則はAIに渡せる。声は素材でしか渡せない。\n\nここを飛ばしてAIに書かせると、正しいけど自分じゃない文章が出てくる。あの違和感の正体は、才能でも精度でもなくて、渡した素材の量です。\n\n動画では、貼り付けたあとに何を指定させるかまで話しています。\n\n自分の文体を学ばせるなら、どの記事を選びますか。一番自分らしく書けた1本、思い浮かびますか。\n\n#AI活用 #AIエージェント #ChatGPT活用 #Claude #マーケティング #コピーライティング #ライティング #業務効率化 #ひとり社長 #マーケティング戦略",
+      "excerpt": "AIに文体を学ばせる方法、たいていの人が難しく考えすぎている。 やることは、自分の記事を3〜5本貼り付けて「書き口、使っている単語、話の展開の仕方を学んでください」と言うだけ。",
+      "hook": "自分の記事3〜5本を貼るだけでAIが文体を学ぶ",
+      "imageUrl": null,
+      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-03/short1.mp4"
+    },
+    {
+      "id": "2026-09-03-short1-threads",
+      "channel": "threads",
+      "url": "https://www.threads.com/@kousuke_nishino/post/Dc0Dw6-ATPg",
+      "postedAt": "2026-09-03T02:38:00.000Z",
+      "text": "「AIに書かせると自分の文章じゃなくなる」の原因は、たいてい学習させていないこと。\n\n自分の記事を3〜5本、そのまま貼る。\nそして「書き口・使っている単語・話の展開の仕方を学んでください」と言うだけ。\n\n記事を書くのが苦手な人でも順番はある。動画ではそこを話しています。\n\n文体だけはまだ人が持っている資産で、渡し方を決めた瞬間にAIの側へ移る。\n\nみなさんは、自分の文体をAIに渡してありますか？",
+      "excerpt": "「AIに書かせると自分の文章じゃなくなる」の原因は、たいてい学習させていないこと。 自分の記事を3〜5本、そのまま貼る。 そして「書き口・使っている単語・話の展開の仕方を学んでください」と言うだけ。 記事を書くのが苦手な人でも順番はある。",
+      "hook": "自分の記事3〜5本を貼るだけでAIが文体を学ぶ",
+      "imageUrl": null,
+      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-03/short1.mp4",
+      "metrics": {
+        "views": 7,
+        "impressions": 7,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "2026-09-03-x-1",
+      "channel": "x",
+      "url": "https://x.com/nishinokousuke/status/2095278120144138448",
+      "postedAt": "2026-09-02T22:30:00.000Z",
+      "text": "7日で18本。リーチ470、いいね0、コメント0。\n\n生成も配信も実測も、AIエージェントが無人で回した結果。\n\n届くのに、会話が起きない。\n\n読まれる文はAIが書けた。\n返される文は、まだ書けていない。\n\nAIにSNSを任せた30日 Day 2/30",
+      "excerpt": "7日で18本。リーチ470、いいね0、コメント0。 生成も配信も実測も、AIエージェントが無人で回した結果。 届くのに、会話が起きない。 読まれる文はAIが書けた。 返される文は、まだ書けていない。",
+      "hook": "昨日までのSNS運用の実数を、そのまま公開する",
+      "imageUrl": null,
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 9,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
     {
       "id": "2026-09-02-news1-threads",
       "channel": "threads",
@@ -12,8 +124,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-02/2026-09-02-news1-threads.png",
       "videoUrl": null,
       "metrics": {
-        "views": 24,
-        "impressions": 24,
+        "views": 26,
+        "impressions": 26,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -30,7 +142,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-02/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 2,
+        "impressions": 7,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -48,7 +160,7 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-02/short1.mp4",
       "metrics": {
-        "impressions": 0,
+        "impressions": 10,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -66,7 +178,7 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-02/short1.mp4",
       "metrics": {
-        "impressions": 0,
+        "impressions": 1,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -84,13 +196,13 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-02/short1.mp4",
       "metrics": {
-        "impressions": 1,
-        "views": 1,
+        "impressions": 111,
+        "views": 122,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
-        "saves": 0,
-        "engagementRate": 0
+        "saves": 1,
+        "engagementRate": 0.9
       }
     },
     {
@@ -122,7 +234,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-02/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 24,
+        "impressions": 31,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -140,8 +252,8 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 234,
-        "impressions": 234,
+        "views": 238,
+        "impressions": 238,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -158,13 +270,13 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-01/2026-09-01-instagram-cross2.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 5,
-        "views": 12,
+        "impressions": 7,
+        "views": 14,
         "reactions": 1,
         "comments": 0,
         "shares": 0,
         "saves": 0,
-        "engagementRate": 20
+        "engagementRate": 14.29
       }
     },
     {
@@ -178,7 +290,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-01/2026-09-01-facebook-cross1.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 2,
+        "impressions": 6,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -214,7 +326,7 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-01/short1.mp4",
       "metrics": {
-        "impressions": 23,
+        "impressions": 27,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -232,7 +344,7 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-01/short1.mp4",
       "metrics": {
-        "impressions": 3,
+        "impressions": 5,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -250,13 +362,13 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-01/short1.mp4",
       "metrics": {
-        "impressions": 112,
-        "views": 116,
+        "impressions": 116,
+        "views": 121,
         "reactions": 1,
         "comments": 0,
         "shares": 0,
         "saves": 0,
-        "engagementRate": 0.89
+        "engagementRate": 0.86
       }
     },
     {
@@ -288,7 +400,7 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-31/short1.mp4",
       "metrics": {
-        "impressions": 10,
+        "impressions": 11,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -306,11 +418,11 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-31/short1.mp4",
       "metrics": {
-        "impressions": 9,
+        "impressions": 11,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 11.11
+        "engagementRate": 9.09
       }
     },
     {
@@ -324,8 +436,8 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-31/short1.mp4",
       "metrics": {
-        "impressions": 109,
-        "views": 116,
+        "impressions": 111,
+        "views": 121,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -380,7 +492,7 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-30/short1.mp4",
       "metrics": {
-        "impressions": 6,
+        "impressions": 7,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -398,8 +510,8 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-30/short1.mp4",
       "metrics": {
-        "impressions": 131,
-        "views": 148,
+        "impressions": 132,
+        "views": 149,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -423,134 +535,6 @@
         "reactions": 0,
         "comments": 0,
         "shares": 0
-      }
-    },
-    {
-      "id": "2026-08-27-instagram-1",
-      "channel": "instagram",
-      "url": "https://www.instagram.com/p/Dciap8voLh7/",
-      "postedAt": "2026-08-27T09:00:00.000Z",
-      "text": "このLP、完全にAIだけで作りました。\n10年以上マーケティングをやってきて、今までで一番簡単でした。\n\nただ、渡し方を間違えると「綺麗なだけのページ」が出てきます。\n\nAIにLPを作らせるとき、やってはいけない3つ。\n\n\n① 全部おまかせにする\n\n誰に、何を、どういう理由で売るのか。\nこの設計を人が持たないまま投げると、体裁の整った空っぽが返ってくる。\nマーケティングの原則の部分は、まだ人の仕事です。\n\n\n② 一発で仕上げようとする\n\n今回やってみて一番近かったのは、デザイナーと隣で仕事をしている感覚でした。\n指示して、見て、直す。\nこの往復をサボると、AIの側も判断材料を持てない。\n\n\n③ 「速くできた」で満足する\n\n本来ならデザイナーに10〜20万円払ってお願いしていた仕事が、手元で終わる。\n浮いたのはお金だけじゃなくて、作り直せる回数です。\n速さは、検証の回数に変えて初めて売上になる。\n\n\nこの3つを避けるだけで、LP制作が「外注する仕事」から「社内で何度も回せる工程」に変わります。\n\n僕が今やっているのは、売れるマーケティングの型をAIとAIエージェントに実装して、人がいなくても再現できる状態にすること。\nLPはその入口として一番わかりやすい。\n\n意外と多いのは、まだChatGPTを使いこなせていない人がいるということ。\n知らなければ、使えない。それだけの差になります。\n\n\nみなさんがLPで最初にAIに任せるなら、どこですか。\n構成、ヘッドライン、デザイン。この3つならどれでしょう。\n\n#マーケティング #AI活用 #AIエージェント #LP制作 #集客 #中小企業経営 #業務効率化 #西埜巧祐",
-      "excerpt": "このLP、完全にAIだけで作りました。 10年以上マーケティングをやってきて、今までで一番簡単でした。 ただ、渡し方を間違えると「綺麗なだけのページ」が出てきます。 AIにLPを作らせるとき、やってはいけない3つ。",
-      "hook": "このLP、完全にAIだけで作りました",
-      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-27/shared-0-portrait.png",
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 12,
-        "views": 24,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "saves": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-08-27-facebook-1",
-      "channel": "facebook",
-      "url": "https://www.facebook.com/122233359788030234/posts/122547582542030234",
-      "postedAt": "2026-08-27T03:00:00.000Z",
-      "text": "このLP、完全にAIだけで作りました。デザイナーに頼めば10〜20万円払っていた仕事です。\n\nでも今回、僕がやったのは指示を出すことだけでした。\n\n感覚としては、キーボードを叩いていたというより、デザイナーと打ち合わせをしていた感覚に近い。ページ制作ツールでパーツをドラッグして苦労していた時間が、まるごと消えました。\n\n10年以上マーケティングをやってきて、今までで一番簡単にLPが作れた。\n\nここで分かれ目があると思っています。\n\nAIで伸びる側は、AIに「作業」を渡している。\nよくあるつまずきは、AIに「判断」を渡してしまうこと。\n\nHTMLを書く、レイアウトを組む、コピーの言い回しを10案出す。これは全部渡していい。渡さない理由がない。\n\nでも「誰に売るか」「何を約束するか」「この一行で刺さるのか」は渡せない。ここを渡すと、綺麗だけど売れないLPが出てくる。\n\nもう一組。\n\n伸びる側は、原則を持っている人がAIを使っている。\nつまずくのは、原則を持たずにAIを使っている状態です。\n\n同じツールを同じように使っても、出てくるものが違う。オファーの作り方やヘッドラインの原則を知っている人がAIに指示を出すと、その原則がそのまま速度になる。知らない人が指示を出すと、何が良くて何が悪いのかの判断がつかないまま、出力を受け取るだけになります。\n\nAIは、持っているものを増幅させる装置だと感じています。ゼロを増幅しても、ゼロのままです。\n\nもう一組だけ。\n\n伸びる側は、AIを人の代わりに置いている。\nつまずくのは、AIを人の補助に置いていること。\n\n補助として使うと、作業が少し楽になるだけで終わります。代わりに置くと、そのポジションを採用しなくてよくなる。ここが売上の伸び方を変えるところです。\n\n僕がやりたいのは、売れるマーケティングと売れる組織を、人なしで再現することです。\n\nそのためには、何を人が持ち続けるのかを先に決める必要がある。全部渡すのでも、全部握るのでもなく、境界線を引く作業です。\n\n違いは結局この一点だと思っています。\n\nAIに渡せるのは、答えの出し方が決まっているもの。人が持つのは、何を答えにするかを決めること。\n\n意外に多いのは、まだChatGPTを使いこなせていない人です。知らなければ、この進化は使えません。\n\nみなさんは今、AIに渡していない仕事のうち、どれを一番渡したくないですか。そこが人が持つべき境界線かもしれません。",
-      "excerpt": "このLP、完全にAIだけで作りました。デザイナーに頼めば10〜20万円払っていた仕事です。 でも今回、僕がやったのは指示を出すことだけでした。 感覚としては、キーボードを叩いていたというより、デザイナーと打ち合わせをしていた感覚に近い。",
-      "hook": "このLP、完全にAIだけで作りました",
-      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-27/shared-0-landscape.png",
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 5,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 20
-      }
-    },
-    {
-      "id": "2026-08-27-threads-1",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/Dch63ZDjXEa",
-      "postedAt": "2026-08-26T23:00:00.000Z",
-      "text": "このLP、完全にAIだけで作りました。\n\n今までは、全部キーボードを叩くか、ページ制作ツールでパーツをドラッグして格闘していた作業です。デザイナーに頼めば10〜20万円払う仕事だと思っています。\n\nそれが、デザイナーと隣で仕事をしているような感覚で終わりました。10年以上マーケティングをやってきて、一番簡単にLPが作れた。\n\n派手な裏技はないです。原則を知っている人間が、その原則をAIに渡しただけ。指示の中身が全部で、そこは人が持つ。\n\nこの「渡し方」の話は、メルマガとイベントでしか書いていません。\n\nhttps://kousukenishino.com/lp/ac/ai-agent/life/seminar-optin-a.html?utm_source=threads&utm_medium=social&utm_campaign=sns-agent&utm_content=2026-08-27-threads-1",
-      "excerpt": "このLP、完全にAIだけで作りました。 今までは、全部キーボードを叩くか、ページ制作ツールでパーツをドラッグして格闘していた作業です。デザイナーに頼めば10〜20万円払う仕事だと思っています。",
-      "hook": "このLP、完全にAIだけで作りました",
-      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-27/shared-0-portrait.png",
-      "videoUrl": null,
-      "metrics": {
-        "views": 25,
-        "impressions": 25,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
-      "id": "2026-08-27-x-1",
-      "channel": "x",
-      "url": "https://x.com/nishinokousuke/status/2092741406578061761",
-      "postedAt": "2026-08-26T22:30:00.000Z",
-      "text": "このLP、完全にAIだけで作りました。\n\n手が遅いのが原因だと10年思っていた。\n違った。\n自分で作る前提を、疑っていなかっただけ。\n\n10〜20万払っていた仕事が、指示だけで終わった。\n\nみなさんが今も手で作っている工程は、どこですか？",
-      "excerpt": "このLP、完全にAIだけで作りました。 手が遅いのが原因だと10年思っていた。 違った。 自分で作る前提を、疑っていなかっただけ。 10〜20万払っていた仕事が、指示だけで終わった。 みなさんが今も手で作っている工程は、どこですか？",
-      "hook": "このLP、完全にAIだけで作りました",
-      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-08-27/shared-0-landscape.png",
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 5,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-08-26-short1-threads",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/DcfIXWJjEY_",
-      "postedAt": "2026-08-26T01:21:00.000Z",
-      "text": "画像に日本語を入れると中国語みたいな文字が混ざる。あれ、もう起きません。\n\nGPTイメージのアップデートで、実用に耐える画像が出るようになりました。画像生成に関しては、今はチャットGPTが圧倒的です。\n\nこれ、地味に効くのは広告バナーやLPの素材を人に頼まなくてよくなること。文字が化けないなら、AIエージェントに素材づくりまで渡せます。\n\n動画では、どこがどう変わったかを話しています。\n\nみなさんは画像生成、まだ別のツールを使っていますか？",
-      "excerpt": "画像に日本語を入れると中国語みたいな文字が混ざる。あれ、もう起きません。 GPTイメージのアップデートで、実用に耐える画像が出るようになりました。画像生成に関しては、今はチャットGPTが圧倒的です。",
-      "hook": "画像生成はチャットGPTが圧倒的ナンバーワン",
-      "imageUrl": null,
-      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-26/short1.mp4",
-      "metrics": {
-        "views": 24,
-        "impressions": 24,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
-      "id": "2026-08-26-short1-x",
-      "channel": "x",
-      "url": "https://x.com/nishinokousuke/status/2092422074811789783",
-      "postedAt": "2026-08-26T01:21:00.000Z",
-      "text": "生成画像の日本語が中国語みたいになる、あの現象。\n\nもう起きません。\n\nGPTイメージのアップデートで、バナーもサムネも人の手直しなしで通る精度になった。\n\n画像だけは、僕はもう他を使っていません。",
-      "excerpt": "生成画像の日本語が中国語みたいになる、あの現象。 もう起きません。 GPTイメージのアップデートで、バナーもサムネも人の手直しなしで通る精度になった。 画像だけは、僕はもう他を使っていません。",
-      "hook": "画像生成はチャットGPTが圧倒的ナンバーワン",
-      "imageUrl": null,
-      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-26/short1.mp4",
-      "metrics": {
-        "impressions": 31,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-08-26-short1-facebook",
-      "channel": "facebook",
-      "url": "https://www.facebook.com/reel/29079079911693591/",
-      "postedAt": "2026-08-26T01:21:00.000Z",
-      "text": "「AIで画像を作ると、日本語がなぜか中国語みたいになる」\n\nこれ、もう起きません。\n\n画像生成に関しては、チャットGPTが圧倒的にナンバーワンだと思っています。他のAIと比べても、実用性の面でもう差がついている。動画ではその理由を話しました。\n\nなぜこの話を、わざわざ動画にしたか。\n\n僕はいま、AIとAIエージェントで「売れるマーケティング」を人なしで再現することをやっています。マーケティングの原則を10年やってきて、その原則をエージェントに実装している。そこで一番詰まるのが、実は文字なんです。\n\nマーケティングの現場で必要な画像は、風景写真じゃない。ほぼ全部、文字が入っています。バナー、LP内の図解、広告クリエイティブ、資料の1枚目。オファーの言葉が読めなければ、その画像は使えません。\n\nだから「日本語が崩れる」というのは、単なる小さな不具合ではなかった。\n画像生成をワークフローに組み込めない、という意味でした。\n\n生成させて、崩れているのを人が目で見つけて、作り直させて、また確認する。この工程が挟まると、人が抜けられない。人が抜けられないなら、エージェントには任せられない。\n\nGPTイメージがアップデートを重ねて、その一番厄介な部分が消えました。変な文字が混ざる現象は、もう一切ない。ここが変わったから、画像生成が「面白い遊び」から「業務に置ける部品」になったと考えています。\n\nAIエージェントに何を渡すかを考えるとき、僕はいつも同じ基準で見ています。\n\n人が最後に目視しないと出せない工程は、渡せない。\n目視が要らなくなった工程だけが、渡せる。\n\n画像生成は、この境界線をまたぎました。だから今、コピーとクリエイティブをまとめて回す設計が現実的になっている。逆に言えば、まだ目視が必要な領域には、無理にエージェントを置かないほうがいい。そこは人が持つ部分です。\n\n「AIを使いましょう」で止まると、この判断ができません。使えるか使えないかではなく、人の目を外せるかどうかで線を引く。\n\n動画では、チャットGPTを勧める理由をいくつか挙げているうちの、この画像生成の部分を切り出しています。実際にどう変わったのかは、話しているところを見てもらったほうが早いはずです。\n\nみなさんが今、AIに任せたいけど「最後に自分の目で確認しないと怖い」と感じている工程は、どこですか。",
-      "excerpt": "「AIで画像を作ると、日本語がなぜか中国語みたいになる」 これ、もう起きません。 画像生成に関しては、チャットGPTが圧倒的にナンバーワンだと思っています。他のAIと比べても、実用性の面でもう差がついている。動画ではその理由を話しました。",
-      "hook": "画像生成はチャットGPTが圧倒的ナンバーワン",
-      "imageUrl": null,
-      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-26/short1.mp4",
-      "metrics": {
-        "impressions": 8,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 0
       }
     }
   ]
