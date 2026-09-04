@@ -1,6 +1,107 @@
 {
-  "generatedAt": "2026-09-03T10:54:50.699Z",
+  "generatedAt": "2026-09-04T11:01:09.662Z",
   "posts": [
+    {
+      "id": "2026-09-04-facebook-cross1",
+      "channel": "facebook",
+      "url": "https://www.facebook.com/122233359788030234/posts/122548622450030234",
+      "postedAt": "2026-09-04T10:00:00.000Z",
+      "text": "「伸びる人の特徴って何ですか？」\n\n中洲の料亭で、クライアントとこの話になった。スタッフの話をしていた矢先だった。\n\n僕が答えたのは、頭の良さでも飲み込みの速さでもない。責任を負える人、でした。\n\n\n正直に言うと、僕自身は飲み込みが弱い側の人間です。\n\n一度で理解できない。人の説明を聞いて、その場で全部が入ってくることがない。同じ資料を何度も開き直す。会議のあとに自分でメモを組み直して、ようやく分かる。\n\nそれでも仕事が回ってきたのは、決めたことの結果を自分の側に置いてきたからだと思っています。\n\n\n責任を負うというのは、謝ることではありません。\n\n「この判断は僕がやりました」と言える状態を先に作ることです。誰が決めたのか分からない仕事は、うまくいかなかったときに直せない。原因を特定できないから、次も同じことが起きる。\n\n逆に、判断した人がはっきりしている仕事は、外れてもすぐ直る。だから伸びる。\n\n\nここからが、いま僕が毎日向き合っている話につながります。\n\nAIとAIエージェントに仕事を渡していくと、この「誰が決めたか」が一番先に溶けます。\n\n広告の切り口をAIが出す。LPの構成をAIが組む。メールの件名をAIが並べる。人が手を動かした痕跡がどこにもない。\n\nそれで数字が落ちたとき、社内で何が起きるか。「AIの出力が微妙でしたね」で終わる。誰も痛くない。誰も直さない。\n\n人がいなくても売れる仕組みを作っているつもりで、責任だけが消えた組織ができあがる。これが一番危ない状態だと思っています。\n\n\nだから僕は、AIに渡すものと、人が持つものを分けています。\n\nAIに渡すのは、量が要る工程です。切り口の候補出し、構成のたたき、コピーの言い換え、過去データの読み取り。ここは人がやる意味がほとんどない。\n\n人が持つのは、たった一つ。「どれを出すか決めて、その結果を引き受ける」ところです。\n\nAIが二十案出したなら、選ぶのは人。選んだ理由を一行でいいから残す。外れたら、その一行を見に行く。\n\nこの一行があるかないかで、AIを入れた組織が学習するかどうかが変わります。\n\n\n実際、うちの運用ではAIの出力に必ず「採用者」と「採用理由」を残す欄を作っています。地味です。作業としては数十秒です。\n\nでもこれを外すと、振り返りの会議が全部「なんとなく良くなかった」で終わる。経験しました。\n\n\nAIは責任を負えません。永遠に負えない。\n\nだからAI前提の組織ほど、責任の所在を人間側に濃く設計する必要がある。仕組みで人を減らすほど、残った人が背負う面積は増える。減るのは作業量であって、責任ではない。\n\n伸びる人の特徴が「責任を負える人」だというのは、AIが入ってきて、むしろ強くなったと感じています。飲み込みの速さは、もうAIが持っているので。\n\n\nみなさんの現場では、AIが出したものを「最終的に誰が採用したか」は残っていますか。残す仕組みがあるか、口頭で流れているか。そこだけ聞いてみたいです。",
+      "excerpt": "「伸びる人の特徴って何ですか？」 中洲の料亭で、クライアントとこの話になった。スタッフの話をしていた矢先だった。 僕が答えたのは、頭の良さでも飲み込みの速さでもない。責任を負える人、でした。",
+      "hook": "伸びる人の特徴は「責任を負える人」だった",
+      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-04/2026-09-04-facebook-cross1.png",
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 0,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-09-04-threads-principle",
+      "channel": "threads",
+      "url": "https://www.threads.com/@kousuke_nishino/post/Dc2-eB3ltlf",
+      "postedAt": "2026-09-04T08:30:00.000Z",
+      "text": "「メルマガを書こう」と考えている人は、たいていメルマガを書けない。\n僕も気分が乗らない日は、一行も進みませんでした。\n\n原因は、やることを大きすぎる塊のまま持っていることです。\nほとんどの人はここを飛ばして、もっと都合のいい方法を探しに行きます。\n\n経費も、集客も、AIへの指示も、同じことが起きている。\n\n細分化について、実際に効いたポイントを3つ、リプライに置きました。",
+      "excerpt": "「メルマガを書こう」と考えている人は、たいていメルマガを書けない。 僕も気分が乗らない日は、一行も進みませんでした。 原因は、やることを大きすぎる塊のまま持っていることです。",
+      "hook": "「細分化して分けて考える」ことが、大きすぎて手がつかない問題を動かす",
+      "imageUrl": null,
+      "videoUrl": null,
+      "metrics": {
+        "views": 6,
+        "impressions": 6,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "2026-09-04-short1-x",
+      "channel": "x",
+      "url": "https://x.com/nishinokousuke/status/2095701909629759875",
+      "postedAt": "2026-09-04T02:34:00.000Z",
+      "text": "僕の最初の記事、反応はゼロでした。\n\n完璧を求めて出せない人ほど、\n自分でハードルを上げている。\n\nAIに書かせても同じ。\n出さない限り反応は返ってこない。\n\n60〜70%で出す理由を、動画で話しました。",
+      "excerpt": "僕の最初の記事、反応はゼロでした。 完璧を求めて出せない人ほど、 自分でハードルを上げている。 AIに書かせても同じ。 出さない限り反応は返ってこない。 60〜70%で出す理由を、動画で話しました。",
+      "hook": "60〜70%の出来でも発信すべき理由",
+      "imageUrl": null,
+      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-04/short1.mp4",
+      "metrics": {
+        "impressions": 0,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-09-04-short1-facebook",
+      "channel": "facebook",
+      "url": "https://www.facebook.com/reel/1810496353443451/",
+      "postedAt": "2026-09-04T02:34:00.000Z",
+      "text": "僕が10年以上前にはじめて出した記事の反応は、ゼロでした。\n\nコメントもなし。返信もなし。あれだけ緊張して、こんなもの出していいのかと何度も読み直して、結果は何も起きなかった。\n\nでも今、「あの記事が勉強になりました」と言ってもらえるのは、あのゼロの延長線上にあるものです。出し続けたから、どれが刺さるのかが分かってきた。\n\n発信できない人を見ていて、いちばん多いのがこれです。\n自分の視点で60%、70%の出来だと感じた瞬間に、公開ボタンを押せなくなる。書きかけの記事が手元に何本もあるのに、一本も世に出ていない。ハードルを高くしているのは、他の誰でもなく自分です。\n\nそして今、これがAIで加速しています。\n\nAIに下書きを書かせると、生成そのものは一瞬で終わります。毎日記事を書いていた頃の僕の何倍もの速度で、素材が積み上がる。\nなのに公開数は増えない。なぜなら、出すか出さないかの判断が人の手元に残っていて、そこで全部が渋滞するからです。生成を自動化しても、決断を自動化していないので詰まる。\n\nだから僕は、役割の線を引き直しました。\n\nAIとAIエージェントに渡すのは、60〜70%の状態を量に変える部分。切り口を出す、構成を組む、書き切る、指定の場所に置く。ここは人がやる意味がほとんどない。\n\n人が持つのは二つだけです。\n何を軸として言い続けるかを決めること。そして、出た反応を見て次に何を直すかを決めること。\n\nこの線引きをすると、完璧主義が発動する場所が消えます。一本一本を磨く仕事が手元からなくなるので、磨きようがない。反応を見て直すのが仕事になるので、出さないと仕事が始まらない。\n\n売れるマーケティングって、良い一本を当てることではあまり進みません。出した数だけ反応のデータが返ってきて、それを読んで直す回転が速い側が勝ちます。人の手でその回転を上げるには限界があるから、僕はそこをAIエージェントに実装しています。\n\n動画では、この「60〜70%で出す」を10年やってきて何が変わったのかを話しています。最初の記事のあたりから。\n\nひとつだけ聞きたい。\nいま手元に、出せていない書きかけは何本ありますか。",
+      "excerpt": "僕が10年以上前にはじめて出した記事の反応は、ゼロでした。 コメントもなし。返信もなし。あれだけ緊張して、こんなもの出していいのかと何度も読み直して、結果は何も起きなかった。",
+      "hook": "60〜70%の出来でも発信すべき理由",
+      "imageUrl": null,
+      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-04/short1.mp4",
+      "metrics": {
+        "impressions": 0,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-09-04-short1-instagram",
+      "channel": "instagram",
+      "url": "https://www.instagram.com/reel/Dc2UwEBoEve/",
+      "postedAt": "2026-09-04T02:34:00.000Z",
+      "text": "「60点で出す」と言われても出せないのは、意志の弱さじゃない。判断基準を自分の中に置いているから、いつまでも合格が出ない。\n\n僕が10年以上発信して分かったのは、最初の記事の反応は何もなかったということ。\n\nそれでも続けたら「この記事が勉強になりました」と言ってもらえるようになった。\n\n動画では、完璧主義で出せない人が何をやめるべきかを話しています。\n\nAIで書いた文章にも同じことが起きます。\nAIに一本書かせても、出す前に自分で読み返して直し始めた瞬間、止まる。\nAIが速いのに世に出る量が増えない理由はここです。\n\nだからAIエージェントに渡すのは「うまい文章を書く」ではなく、出す判断まで含めた一連の流れにしています。\n人が持つのは、何を言う人でありたいかという一点だけ。\n\n出す・出さないをAIに任せられないとしたら、そこにあるのはどんな不安ですか。\n\n#マーケティング #AI活用 #AIエージェント #コンテンツマーケティング #発信力 #完璧主義 #情報発信 #経営者 #コピーライティング",
+      "excerpt": "「60点で出す」と言われても出せないのは、意志の弱さじゃない。判断基準を自分の中に置いているから、いつまでも合格が出ない。 僕が10年以上発信して分かったのは、最初の記事の反応は何もなかったということ。",
+      "hook": "60〜70%の出来でも発信すべき理由",
+      "imageUrl": null,
+      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-04/short1.mp4"
+    },
+    {
+      "id": "2026-09-04-short1-threads",
+      "channel": "threads",
+      "url": "https://www.threads.com/@kousuke_nishino/post/Dc2pUTvD_ut",
+      "postedAt": "2026-09-04T02:34:00.000Z",
+      "text": "僕の最初の記事、反応はゼロでした。\n\n10年発信して分かったのは、出せない理由が「クオリティ」ではなく自分で上げたハードルだということ。60%でも出す。\n\nAIに書かせても同じで、詰まるのは生成ではなく「出す判断」のところ。ここだけは人が持つしかない。\n\n下書きのまま止まっている記事、いま何本ありますか。",
+      "excerpt": "僕の最初の記事、反応はゼロでした。 10年発信して分かったのは、出せない理由が「クオリティ」ではなく自分で上げたハードルだということ。60%でも出す。 AIに書かせても同じで、詰まるのは生成ではなく「出す判断」のところ。",
+      "hook": "60〜70%の出来でも発信すべき理由",
+      "imageUrl": null,
+      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-04/short1.mp4",
+      "metrics": {
+        "views": 3,
+        "impressions": 3,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
     {
       "id": "2026-09-03-instagram-1",
       "channel": "instagram",
@@ -10,7 +111,16 @@
       "excerpt": "単純な記事を書く仕事は、この技術だけでなくなる。 おどろおどろしいけど、あり得なくはない未来だと思っている。 このAIライティングのワークショップ、もともとは高額コンサルを受けてくれているクライアント限定でやるつもりだった。",
       "hook": "この技術さえあれば単純な記事執筆はなくなる",
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-03/shared-0-portrait.png",
-      "videoUrl": null
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 5,
+        "views": 9,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "engagementRate": 0
+      }
     },
     {
       "id": "2026-09-03-facebook-1",
@@ -23,11 +133,11 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-03/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 0,
+        "impressions": 14,
         "reactions": 0,
-        "comments": 0,
+        "comments": 1,
         "shares": 0,
-        "engagementRate": 0
+        "engagementRate": 35.71
       }
     },
     {
@@ -41,7 +151,7 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-03/short1.mp4",
       "metrics": {
-        "impressions": 0,
+        "impressions": 1,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -59,7 +169,7 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-03/short1.mp4",
       "metrics": {
-        "impressions": 1,
+        "impressions": 2,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -75,7 +185,16 @@
       "excerpt": "AIに文体を学ばせる方法、たいていの人が難しく考えすぎている。 やることは、自分の記事を3〜5本貼り付けて「書き口、使っている単語、話の展開の仕方を学んでください」と言うだけ。",
       "hook": "自分の記事3〜5本を貼るだけでAIが文体を学ぶ",
       "imageUrl": null,
-      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-03/short1.mp4"
+      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-03/short1.mp4",
+      "metrics": {
+        "impressions": 19,
+        "views": 21,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "engagementRate": 0
+      }
     },
     {
       "id": "2026-09-03-short1-threads",
@@ -88,8 +207,8 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-03/short1.mp4",
       "metrics": {
-        "views": 7,
-        "impressions": 7,
+        "views": 9,
+        "impressions": 9,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -106,7 +225,7 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 9,
+        "impressions": 10,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -124,8 +243,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-02/2026-09-02-news1-threads.png",
       "videoUrl": null,
       "metrics": {
-        "views": 26,
-        "impressions": 26,
+        "views": 27,
+        "impressions": 27,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -142,7 +261,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-02/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 7,
+        "impressions": 9,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -160,7 +279,7 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-02/short1.mp4",
       "metrics": {
-        "impressions": 10,
+        "impressions": 11,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -216,8 +335,8 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-02/short1.mp4",
       "metrics": {
-        "views": 3,
-        "impressions": 3,
+        "views": 4,
+        "impressions": 4,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -234,7 +353,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-02/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 31,
+        "impressions": 35,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -252,8 +371,8 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 238,
-        "impressions": 238,
+        "views": 239,
+        "impressions": 239,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -290,7 +409,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-01/2026-09-01-facebook-cross1.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 6,
+        "impressions": 7,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -308,8 +427,8 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 3,
-        "impressions": 3,
+        "views": 4,
+        "impressions": 4,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -382,8 +501,8 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-01/short1.mp4",
       "metrics": {
-        "views": 12,
-        "impressions": 12,
+        "views": 13,
+        "impressions": 13,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -423,118 +542,6 @@
         "comments": 0,
         "shares": 0,
         "engagementRate": 9.09
-      }
-    },
-    {
-      "id": "2026-08-31-short1-instagram",
-      "channel": "instagram",
-      "url": "https://www.instagram.com/reel/DcsDhUkCkh7/",
-      "postedAt": "2026-08-31T02:51:00.000Z",
-      "text": "今聞こえているこのBGM、Geminiで作っています。\n\nそう言われるまで気づかなかったなら、それがもう答えだと思う。\n\n音楽をどこかから探してきて、ライセンスを確認して、動画の尺に合わせる。この一連の作業が、まるごと生成側に移った。\n\nスライドも作れる。ウェブページも作れる。ウェブページだけならChatGPTでも作れます。\n\nでも音楽と動画まで含めた制作範囲で見ると、今はGeminiに軍配が上がる、というのが僕の判定です。\n\nここで大事なのは「AIで音楽が作れてすごい」ではなくて、\n発信のどの工程が人の手から離れたのか、を毎回数え直すこと。\n\n僕はマーケティングの原則を10年やってきて、今はそれをAIとAIエージェントに実装しています。\nその作業は、結局この「どこを渡せるか」の棚卸しの連続です。\n\n渡せるようになった工程を、渡さないまま持っている。\nこれが一番もったいない。\n\n動画の中で、Geminiの制作範囲がどこまで広がっているかを話しています。\n\nみなさんは、コンテンツ制作のどの工程を最後まで手放せずにいますか。\n\n#AI活用 #Gemini #AIエージェント #マーケティング #コンテンツ制作 #動画編集 #AI音楽 #業務効率化 #個人事業主",
-      "excerpt": "今聞こえているこのBGM、Geminiで作っています。 そう言われるまで気づかなかったなら、それがもう答えだと思う。 音楽をどこかから探してきて、ライセンスを確認して、動画の尺に合わせる。この一連の作業が、まるごと生成側に移った。",
-      "hook": "この動画のBGMも実はGeminiで作っている",
-      "imageUrl": null,
-      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-31/short1.mp4",
-      "metrics": {
-        "impressions": 111,
-        "views": 121,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "saves": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-08-31-short1-threads",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/DcsddLcl99V",
-      "postedAt": "2026-08-31T02:51:00.000Z",
-      "text": "今流れているこのBGM、Geminiで作っている。\n\n音楽、動画、スライド、Webページ。テキストの外側まで手が届くかどうかで、任せられる範囲が変わる。\n\n僕が見ているのは「AIで作れるか」じゃなくて、制作の工程からどこまで人が抜けられるか。BGM選びで30分止まっていた工程が、まるごと消える。\n\nみなさんが今、外注か自分の手作業で埋めている工程はどれですか？",
-      "excerpt": "今流れているこのBGM、Geminiで作っている。 音楽、動画、スライド、Webページ。テキストの外側まで手が届くかどうかで、任せられる範囲が変わる。 僕が見ているのは「AIで作れるか」じゃなくて、制作の工程からどこまで人が抜けられるか。",
-      "hook": "この動画のBGMも実はGeminiで作っている",
-      "imageUrl": null,
-      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-31/short1.mp4",
-      "metrics": {
-        "views": 16,
-        "impressions": 16,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
-      "id": "2026-08-30-short1-x",
-      "channel": "x",
-      "url": "https://x.com/nishinokousuke/status/2093821056230301730",
-      "postedAt": "2026-08-29T22:00:00.000Z",
-      "text": "月3万円のプロプランを解約しようとした日に、思いとどまった。\n\n理由は画像でした。\n\n課金を続けるかどうかは、機能の多さでは決まらない。\n\n自分の仕事のどこを機械に渡せるかで決まる。\n\nその判断の話をしています。",
-      "excerpt": "月3万円のプロプランを解約しようとした日に、思いとどまった。 理由は画像でした。 課金を続けるかどうかは、機能の多さでは決まらない。 自分の仕事のどこを機械に渡せるかで決まる。 その判断の話をしています。",
-      "hook": "月3万円のプロプランを解約寸前で残した理由",
-      "imageUrl": null,
-      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-30/short1.mp4",
-      "metrics": {
-        "impressions": 3,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-08-30-short1-facebook",
-      "channel": "facebook",
-      "url": "https://www.facebook.com/reel/1477366441247323/",
-      "postedAt": "2026-08-29T22:00:00.000Z",
-      "text": "月3万円のプランを解約する直前で、手が止まりました。\n\n以前、ChatGPTのプロプランを毎月3万円くらい払って使っていました。\n最初は使い込んでいたのに、途中から起動する回数が落ちていって、プラスプランに切り替えました。\nそれでも十分だったので、いよいよ解約しようと管理画面を開いたところで、画像生成が大幅にアップデートされたんです。\n\nそこで判断が変わりました。\n「これは画像を作るためだけでも残しておこう」と。\n\nこの動画で話しているのは、その心変わりの中身です。\nツールの月額を、何を基準に払い続けるのか。何を基準に落とすのか。\nAIに月いくら払うかで迷っている人ほど、刺さる部分があると思います。\n\nAIツールの課金判断で厄介なのは、値段が高いか安いかではありません。\n自分の業務のどこがそのツールに置き換わったのかを、把握できていないことです。\n置き換わった仕事が見えていれば、金額は勝手に決まります。見えていないと、使っていないのに惰性で払い続けるか、伸びる直前で切ってしまう。僕は後者をやりかけました。\n\n僕がやっているのは、売れるマーケティングと売れる組織を、人なしで再現することです。\nそのために、AIエージェントに渡す仕事を一個ずつ切り出して、渡しては戻し、戻しては渡しています。\nこの作業をしていると、ツールの月額は「便利さの対価」ではなく「どの工程を手放したかの明細」になります。プロプランを残す判断ができたのも、画像制作という工程が丸ごと自分の手から離れる見込みが立ったからでした。逆にプラスプランへ落としたときは、離れていた工程が自分の手に戻ってきていた、というだけの話です。\n\nだから僕は、ツールを比較する前に、自分の一週間の作業を工程で分解します。\nどの工程を、どのエージェントに、どの粒度で渡すのか。\nそれが決まっていないと、どんなに評判のいいツールを入れても、月額の判断は勘のままになります。\n\n動画では、解約寸前で残すと決めた瞬間のことを話しています。\n\nみなさんが今払っているAIの月額のうち、「この工程を手放したから払っている」と言い切れるものは、いくつありますか。",
-      "excerpt": "月3万円のプランを解約する直前で、手が止まりました。 以前、ChatGPTのプロプランを毎月3万円くらい払って使っていました。 最初は使い込んでいたのに、途中から起動する回数が落ちていって、プラスプランに切り替えました。",
-      "hook": "月3万円のプロプランを解約寸前で残した理由",
-      "imageUrl": null,
-      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-30/short1.mp4",
-      "metrics": {
-        "impressions": 7,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-08-30-short1-instagram",
-      "channel": "instagram",
-      "url": "https://www.instagram.com/reel/Dco9ccJCGsP/",
-      "postedAt": "2026-08-29T22:00:00.000Z",
-      "text": "解約ボタンの手前で止まった。\n理由は「画像が使えるようになったから」。\n\n月3万円のChatGPTプロプランを使っていて、使用頻度が落ちたのでプラスプランに切り替えた。そこからいよいよ解約しようと思ったタイミングで、画像生成が大幅にアップデートされた。\n\n結果、画像を作るためだけに残した。\n\nこの判断の話を動画にしています。\n\nAIツールの課金は「機能が多いか」では決まらない。\n自分の仕事のどこを、そのツールに任せているかで決まる。\n\n僕がAIとAIエージェントに渡しているのは、マーケティングの手順そのものです。誰に何をどの順で伝えるか、その原則は人が持つ。原則に沿って量を出す作業はAIに渡す。\n\nだから「画像を作る」がAI側に移った瞬間に、解約する理由が消えた。\n逆に、任せている工程がないツールは、値段が安くても残す理由がない。\n\n契約を続けるか迷うときに見るべきは、料金表ではなく自分の作業の分解図です。\n\nみなさんが今払っているAIツール、任せている工程を1つ言えますか。言えないなら、たぶんそれは解約していいやつです。\n\n#AI活用 #ChatGPT #AIエージェント #マーケティング #生成AI #業務効率化 #経営者 #個人事業主 #AI画像生成",
-      "excerpt": "解約ボタンの手前で止まった。 理由は「画像が使えるようになったから」。 月3万円のChatGPTプロプランを使っていて、使用頻度が落ちたのでプラスプランに切り替えた。",
-      "hook": "月3万円のプロプランを解約寸前で残した理由",
-      "imageUrl": null,
-      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-30/short1.mp4",
-      "metrics": {
-        "impressions": 132,
-        "views": 149,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "saves": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-08-30-short1-threads",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/DcpTDB_FaZ7",
-      "postedAt": "2026-08-29T22:00:00.000Z",
-      "text": "月3万円のプロプランを、解約ボタンの直前でやめました。\n\n理由はひとつの機能です。使わなくなったから下げて、下げた先でまた「これは残す」と思い直した。\n\nAIの課金判断は、機能一覧では決まらない。自分の仕事のどこを機械に渡せているか、で決まります。\n\n動画では、僕が何を見て残すと決めたかを話しています。\n\nみなさんは、いま払っているAIのうち「これがなくなると困る」と言い切れるものはどれですか。",
-      "excerpt": "月3万円のプロプランを、解約ボタンの直前でやめました。 理由はひとつの機能です。使わなくなったから下げて、下げた先でまた「これは残す」と思い直した。 AIの課金判断は、機能一覧では決まらない。",
-      "hook": "月3万円のプロプランを解約寸前で残した理由",
-      "imageUrl": null,
-      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-08-30/short1.mp4",
-      "metrics": {
-        "views": 7,
-        "impressions": 7,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0
       }
     }
   ]
