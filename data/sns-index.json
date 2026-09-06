@@ -1,6 +1,118 @@
 {
-  "generatedAt": "2026-09-05T10:14:29.427Z",
+  "generatedAt": "2026-09-06T10:34:53.953Z",
   "posts": [
+    {
+      "id": "2026-09-06-instagram-1",
+      "channel": "instagram",
+      "url": "https://www.instagram.com/p/Dc8Klmelqm9/",
+      "postedAt": "2026-09-06T09:00:00.000Z",
+      "text": "料金早見表がまた更新されて、追いかけるのをやめました。\n累計100万円課金して、手元に残ったのは3つだけです。\n\n増やしていた時期の僕は、成果が落ちた原因を「使い方が下手だから」だと思っていました。プロンプトの勉強をして、テンプレを集めて、新しいサービスが出るたびに契約して。\n\n違いました。\n\n原因は、刺す場所を決めずに数だけ増やしたことでした。\n\nどれで何をやるかが決まっていないから、毎回「どれを開くか」から考える。その迷いの分だけ、アウトプットが薄くなっていく。契約を切ったAIもあります。機能が悪かったからではなく、僕の仕事のどこにも刺さっていなかったからです。\n\n思い出したのが、ChatGPTを新規獲得に使った時のことでした。\n\n全部をやらせたわけじゃない。一部だけ渡しました。\nそれでCPAが977円。\n\n正直、まじかと思いました。\nうまくいったのは、渡す範囲を絞ったからだったんですよね。\n\n今の選び方はこうしています。\n\n1｜自分の仕事で一番時間を食っている工程を1つ挙げる\n2｜そこに刺さるものを1つだけ契約する\n3｜3ヶ月使って、外しても困らなければ切る\n\n料金表は世に出尽くしています。比べるべきなのは値段より、自分の仕事のどこに刺すかです。\n\nマーケティングの原則を10年やってきて、AIとAIエージェントに実装している今でも、増やしたくなる衝動はあります。だから基準を先に置いています。\n\nみなさんが今払っているAI、名前を挙げるとしたら何と何ですか。使っている工程まで書いてもらえると嬉しいです。\n\n#AI活用 #AIエージェント #マーケティング #集客 #生成AI #ChatGPT #個人事業主 #経営者の学び",
+      "excerpt": "料金早見表がまた更新されて、追いかけるのをやめました。 累計100万円課金して、手元に残ったのは3つだけです。 増やしていた時期の僕は、成果が落ちた原因を「使い方が下手だから」だと思っていました。",
+      "hook": "ChatGPT活用で新規獲得、CPAはまさかの977円",
+      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-06/shared-0-portrait.png",
+      "videoUrl": null
+    },
+    {
+      "id": "2026-09-06-short1-x",
+      "channel": "x",
+      "url": "https://x.com/nishinokousuke/status/2096425218424074727",
+      "postedAt": "2026-09-06T02:28:00.000Z",
+      "text": "「AIっぽい文章」の正体は、内容じゃなくて口調のズレです。\n\nですます調なのか、である調なのか。\nそこを学ばせていないだけ。\n\n冷たいと感じる原因を、動画で分解しました。",
+      "excerpt": "「AIっぽい文章」の正体は、内容じゃなくて口調のズレです。 ですます調なのか、である調なのか。 そこを学ばせていないだけ。 冷たいと感じる原因を、動画で分解しました。",
+      "hook": "AIっぽさの正体は「口調のズレ」だけ",
+      "imageUrl": null,
+      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-06/short1.mp4",
+      "metrics": {
+        "impressions": 0,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-09-06-short1-facebook",
+      "channel": "facebook",
+      "url": "https://www.facebook.com/reel/2082735395706548/",
+      "postedAt": "2026-09-06T02:28:00.000Z",
+      "text": "「この文章、AIっぽいな」と感じるとき、あなたが見ているのは内容ではなく口調です。\n\n出力を読んで違和感が出る。でもどこがおかしいのか説明できない。だから「AIはまだ使えない」で終わってしまう。もったいない止まり方だと思う。\n\n原因はもっと単純なところにあります。\n\nAIは初期状態だとロボットです。冷たい。当たり前で、こちらが何も渡していないからそう出る。そこに「あなたの語り口」を学ばせていない。ただそれだけ。\n\n分かりやすいのは、ですます調か、である調か。\n\n「先日カフェに行きました。そこでこういう人と会いました。こういう話をしました。この結果、今後こうやっていこうと思います」\n\n「私がカフェに行った。そこでこんな人と出会った」\n\n同じ出来事です。どちらが良い悪いでもない。でも読んだ人の頭には別の人格が立ち上がる。自分のスタイルとして認識されているのは、内容ではなくこちらの側です。\n\nだからAIっぽさを消す最初の一手は、プロンプトを長くすることでも、高いモデルに変えることでもない。自分がどっちで書く人間なのかを、AIに教えることから始まります。\n\nここが僕がAIエージェントを組むときに一番最初にやる工程でもあります。\n\n売れる文章を人なしで再現しようとすると、多くの人は「何を書くか」から渡そうとする。でも先に固めるべきは「誰の口で言うか」のほう。ここが決まっていないと、後からどれだけ良い切り口を渡しても、出てくるものは全部よそ行きの文章になる。読み手は書き手を信用して読んでいるので、口調がズレた瞬間に、内容の前で降りられます。\n\n逆に言うと、口調は人が持つ部分です。\n\n訴求の切り口や構成、検証の回し方はAIに渡せる。でも「自分がどう喋る人間か」だけは、自分から取り出してAIに渡すしかない。ここを面倒がって飛ばしたまま、出力を見て「やっぱりAIはダメだ」と結論を出している人が本当に多い。\n\n動画では、この口調の学ばせ方を含めてポイントを順に話しています。最初の一点だけでも今日から変えられるはずです。\n\nみなさんは、自分の文章がですます調か、である調か、即答できますか。それが答えられないうちは、AIも答えられません。",
+      "excerpt": "「この文章、AIっぽいな」と感じるとき、あなたが見ているのは内容ではなく口調です。 出力を読んで違和感が出る。でもどこがおかしいのか説明できない。だから「AIはまだ使えない」で終わってしまう。もったいない止まり方だと思う。",
+      "hook": "AIっぽさの正体は「口調のズレ」だけ",
+      "imageUrl": null,
+      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-06/short1.mp4",
+      "metrics": {
+        "impressions": 0,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-09-06-short1-instagram",
+      "channel": "instagram",
+      "url": "https://www.instagram.com/reel/Dc7dt_GADuQ/",
+      "postedAt": "2026-09-06T02:28:00.000Z",
+      "text": "AIが書いた文章だと一発でバレる。原因はほぼ一つで、内容ではなく口調がズレているだけです。\n\nAIに何をどう学ばせれば、自分が書いたようになるのか。動画で最初に触っている一点です。\n\n初期のAIはロボットです。冷たいし、他人の言葉に見える。\n\nでもそこで「AIはまだ使えない」と判断してしまう人が多い。\n\n実際にズレているのは、ですます調なのか、である調なのか。話し方の癖はどっちなのか。それだけだったりします。\n\n「先日カフェに行きました。こういう人と会いました」\n\n「私がカフェに行った。そこでこんな人と出会った」\n\nどちらが良い悪いではなく、自分のスタイルがどっちなのかを、AIが知らないだけ。\n\nマーケティングの中身を教える前に、口調を教える。順番が逆になっている人が本当に多いです。\n\nここを渡してしまえば、書く作業はAIエージェント側に寄せられる。人が持つのは、何を言うかの判断だけになります。\n\nみなさんは、ですます調とである調、どちらで書く人ですか。\n\n#西埜巧祐 #AI活用 #AIエージェント #マーケティング #ChatGPT #生成AI #コンテンツ制作 #文章術 #経営者 #個人事業主",
+      "excerpt": "AIが書いた文章だと一発でバレる。原因はほぼ一つで、内容ではなく口調がズレているだけです。 AIに何をどう学ばせれば、自分が書いたようになるのか。動画で最初に触っている一点です。 初期のAIはロボットです。冷たいし、他人の言葉に見える。",
+      "hook": "AIっぽさの正体は「口調のズレ」だけ",
+      "imageUrl": null,
+      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-06/short1.mp4"
+    },
+    {
+      "id": "2026-09-06-short1-threads",
+      "channel": "threads",
+      "url": "https://www.threads.com/@kousuke_nishino/post/Dc7yT--EQF6",
+      "postedAt": "2026-09-06T02:28:00.000Z",
+      "text": "AIが書いた文章を「なんか冷たい」と感じるとき、内容を疑う人が多い。でも原因はもっと手前にあります。\n\n動画で話しているのは、口調のズレの話。ですます調なのか、である調なのか。それを学ばせているかどうかだけで、印象は変わります。\n\nAIエージェントに自分の代わりに書かせたい人向けです。\n\nちなみに、みなさんが普段書くときはどちらですか。",
+      "excerpt": "AIが書いた文章を「なんか冷たい」と感じるとき、内容を疑う人が多い。でも原因はもっと手前にあります。 動画で話しているのは、口調のズレの話。ですます調なのか、である調なのか。それを学ばせているかどうかだけで、印象は変わります。",
+      "hook": "AIっぽさの正体は「口調のズレ」だけ",
+      "imageUrl": null,
+      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-06/short1.mp4",
+      "metrics": {
+        "views": 4,
+        "impressions": 4,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "2026-09-06-threads-1",
+      "channel": "threads",
+      "url": "https://www.threads.com/@kousuke_nishino/post/Dc7RhnznKpi",
+      "postedAt": "2026-09-05T23:00:00.000Z",
+      "text": "管理画面のCPAが977円と出ていて、思わず声が出ました。\n\n「まじか」と。\n\nそのとき新規獲得の全部をAIに任せたわけじゃない。一部だけ渡した。渡したのは、人が一番時間を溶かしていた工程で、判断は自分が握ったままだった。\n\nそれでこの数字が出たとき、正直に言うと嬉しさより先に怖さがきました。自分が10年やってきた作業の一部が、もう自分じゃなくてもよかったという事実に。\n\n今エージェントを組んでいるのも、あのときの怖さが起点です。手を動かす部分を渡して、何を売るかだけを人が持つ。その線引きを毎日引き直しています。\n\nみなさんは、AIに渡してみて「あ、これもういらなかったんだ」と思った作業、ありますか。\n\nAIエージェントを作って暮らす30日 Day 5/30",
+      "excerpt": "管理画面のCPAが977円と出ていて、思わず声が出ました。 「まじか」と。 そのとき新規獲得の全部をAIに任せたわけじゃない。一部だけ渡した。渡したのは、人が一番時間を溶かしていた工程で、判断は自分が握ったままだった。",
+      "hook": "ChatGPT活用で新規獲得、CPAはまさかの977円",
+      "imageUrl": null,
+      "videoUrl": null,
+      "metrics": {
+        "views": 4,
+        "impressions": 4,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "2026-09-06-x-1",
+      "channel": "x",
+      "url": "https://x.com/nishinokousuke/status/2096365274333085696",
+      "postedAt": "2026-09-05T22:30:00.000Z",
+      "text": "7日で36本投げて、リーチ991。\n\nいいね2、コメント1、保存1。反応率0.40%。\n\n伸びたのは中洲の料亭の話（リーチ239）だけ。\n\n差は「場面が見えるか」。\nAIに原則は渡せるが、場面は僕しか持っていない。\n\nそこだけ人が書く。\n\nAIにSNSを任せた30日 Day 5/30",
+      "excerpt": "7日で36本投げて、リーチ991。 いいね2、コメント1、保存1。反応率0.40%。 伸びたのは中洲の料亭の話（リーチ239）だけ。 差は「場面が見えるか」。 AIに原則は渡せるが、場面は僕しか持っていない。 そこだけ人が書く。",
+      "hook": "昨日までのSNS運用の実数を、そのまま公開する",
+      "imageUrl": null,
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 0,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
     {
       "id": "2026-09-05-instagram-1",
       "channel": "instagram",
@@ -10,7 +122,16 @@
       "excerpt": "AIエージェントに何を任せて、何を任せないか。この線引きの話が急に増えました。 僕の線引きはシンプルで、金額・契約・公開・削除は渡さない。判断は人、実行はAI。それだけです。",
       "hook": "「書けないと売れません」10年のキャリアをかけて断言する",
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-05/shared-0-portrait.png",
-      "videoUrl": null
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 5,
+        "views": 11,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "engagementRate": 0
+      }
     },
     {
       "id": "2026-09-05-facebook-1",
@@ -23,11 +144,11 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-05/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 0,
+        "impressions": 7,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 0
+        "engagementRate": 14.29
       }
     },
     {
@@ -41,7 +162,7 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-05/short1.mp4",
       "metrics": {
-        "impressions": 0,
+        "impressions": 3,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -59,7 +180,7 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-05/short1.mp4",
       "metrics": {
-        "impressions": 0,
+        "impressions": 6,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -75,7 +196,16 @@
       "excerpt": "AIに書かせた文章が「自分っぽくない」と感じる原因は、語尾でも単語でもない。 論理の運び方を渡していないから。 口調を真似させても、他人の文章に見える。 そこで足りていないのは、話をどの順番で進めるかというクセです。",
       "hook": "論理展開のクセを学ばせると一気に自分の文章になる",
       "imageUrl": null,
-      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-05/short1.mp4"
+      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-05/short1.mp4",
+      "metrics": {
+        "impressions": 44,
+        "views": 46,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "engagementRate": 0
+      }
     },
     {
       "id": "2026-09-05-short1-threads",
@@ -88,8 +218,8 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-05/short1.mp4",
       "metrics": {
-        "views": 13,
-        "impressions": 13,
+        "views": 14,
+        "impressions": 14,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -106,7 +236,7 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 5,
+        "impressions": 17,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -124,8 +254,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-04/2026-09-04-instagram-cross2.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 7,
-        "views": 18,
+        "impressions": 10,
+        "views": 24,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -144,11 +274,11 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 1,
+        "impressions": 5,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 100
+        "engagementRate": 20
       }
     },
     {
@@ -162,7 +292,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-04/2026-09-04-facebook-cross1.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 3,
+        "impressions": 5,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -198,7 +328,7 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-04/short1.mp4",
       "metrics": {
-        "impressions": 3,
+        "impressions": 5,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -234,8 +364,8 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-04/short1.mp4",
       "metrics": {
-        "impressions": 13,
-        "views": 18,
+        "impressions": 15,
+        "views": 21,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -272,8 +402,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-03/shared-0-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 7,
-        "views": 14,
+        "impressions": 9,
+        "views": 16,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -292,11 +422,11 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-03/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 19,
+        "impressions": 24,
         "reactions": 0,
         "comments": 1,
         "shares": 0,
-        "engagementRate": 26.32
+        "engagementRate": 20.83
       }
     },
     {
@@ -310,7 +440,7 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-03/short1.mp4",
       "metrics": {
-        "impressions": 5,
+        "impressions": 7,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -328,7 +458,7 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-03/short1.mp4",
       "metrics": {
-        "impressions": 3,
+        "impressions": 4,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -346,8 +476,8 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-03/short1.mp4",
       "metrics": {
-        "impressions": 21,
-        "views": 24,
+        "impressions": 22,
+        "views": 25,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -384,7 +514,7 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 11,
+        "impressions": 12,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -404,134 +534,6 @@
       "metrics": {
         "views": 27,
         "impressions": 27,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
-      "id": "2026-09-02-facebook-1",
-      "channel": "facebook",
-      "url": "https://www.facebook.com/122233359788030234/posts/122548343690030234",
-      "postedAt": "2026-09-02T03:00:00.000Z",
-      "text": "生活道路の最高速度が30km/hになる運用が9月1日から始まります。一般道の約7割が対象。\n\nこういうとき、その日のうちに営業ルートや配送計画を組み替える人と、「聞いてない」「面倒だ」で止まる人に分かれる。ルールが変わった瞬間の話って、いつもこれです。\n\n僕も昔、欠航に巻き込まれたとき、カウンターの行列に並ばずその場でスマホから代替便を取りました。動いた人だけが先に進む。あの感覚に近い。\n\nで、AIも同じ構造になってきていて。「ググる時代は終わって、今はAIで検索する時代」って言われて久しいのに、まだ止まっている人がいる。\n\nAIに置いていかれる人あるある、書きます。自分も通ってきた道なので、笑いながら読んでください。\n\n1｜「AIって結局、何に使えばいいの？」と人には聞くが、AIには聞かない\n\n2｜アカウントは作った。開いたのは初日だけ\n\n3｜検索は今もGoogleの1ページ目を上から順に開いて、タブが20個くらい溜まっている\n\n4｜「字を打つのが面倒」で止まる。音声で喋れば勝手に文字起こしされて、送信ボタンを押すだけだと知らない\n\n5｜1時間のYouTubeを1時間かけて見る。要約させれば済む話を、律儀に等倍で消化している\n\n6｜「AIに仕事を奪われる」と言いながら、AIを使っている人には奪われていないと思っている\n\n最後のがいちばん痛い。仕事を奪うのはAIではなくて、AIを使いこなす人間です。\n\n僕はもともと理系で、パソコンを自作したこともあるくらいのガジェット好きなので、この進化がただ面白い。でも、面白がる以前に「使ってみる」以上の学びはないんですよ。読んで理解するのと、触って驚くのは別の体験です。\n\n最初の一歩は検索でいい。\n\n僕の実例を出します。サッカーを見るのが好きで、国立競技場の試合はけっこう狙って行きます。理由は競技場に入っている「オーベルジーヌ」というカレー屋さん。ただ問題があって、あの店に行くには席を慎重に選ばないといけない。どのゲートから入る席なら寄れるのか、検索窓に何と打てばいいのか、分からないですよね。\n\nこれをAIに聞くと、すぐ答えが返ってきます。カレーのために席を選ぶ、なんて相談ができる相手がいままでいなかった。\n\n慣れたら喋る。音声認識はAI側もスマホ側もかなり良くなっていて、多少の誤字があっても意図を汲んでくれます。僕はコピーを書くときも、こういう文章を書くときも、喋って書いていた時期があります。\n\nそのあとにPDFや動画の要約。ここまで来ると、去年とは全然違うことに気づくはずです。\n\nそして、ここが僕が仕事にしている部分ですが、検索と要約は入口でしかありません。\n\n本番は、売れるマーケティングの手順そのものをAIエージェントに持たせること。誰に何をどの順で言うかという原則を分解して渡せば、リサーチも初稿も、人を増やさずに回り始めます。原則を持っていない人がAIに渡すと、速いだけの的外れが出てくる。順番は、原則が先です。\n\nルールが変わったとき、その日に動けるかどうか。それだけが差になります。\n\nみなさんが今日いちばん最近AIに投げた質問は、何でしたか。検索の代わりでしたか、それとも仕事そのものを渡していましたか。",
-      "excerpt": "生活道路の最高速度が30km/hになる運用が9月1日から始まります。一般道の約7割が対象。 こういうとき、その日のうちに営業ルートや配送計画を組み替える人と、「聞いてない」「面倒だ」で止まる人に分かれる。",
-      "hook": "ググる時代は終わり、今はAIで検索する時代",
-      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-02/shared-0-landscape.png",
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 11,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-09-02-short1-x",
-      "channel": "x",
-      "url": "https://x.com/nishinokousuke/status/2094976637276217476",
-      "postedAt": "2026-09-02T02:32:00.000Z",
-      "text": "自分の文章の癖は、AIに全部食わせると初めて見える。\n\n過去のブログとメルマガをまとめて学習させたら、返ってきたのは「弱気な言葉が多い僕」だった。\n\nスタイル再現のためにやったのに、自己分析が先に来た。\n\n動画で手順を話しています。",
-      "excerpt": "自分の文章の癖は、AIに全部食わせると初めて見える。 過去のブログとメルマガをまとめて学習させたら、返ってきたのは「弱気な言葉が多い僕」だった。 スタイル再現のためにやったのに、自己分析が先に来た。 動画で手順を話しています。",
-      "hook": "過去記事を全部AIに学ばせると自分の癖が見える",
-      "imageUrl": null,
-      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-02/short1.mp4",
-      "metrics": {
-        "impressions": 11,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-09-02-short1-facebook",
-      "channel": "facebook",
-      "url": "https://www.facebook.com/reel/1456058122998651/",
-      "postedAt": "2026-09-02T02:32:00.000Z",
-      "text": "AIに自分の過去記事を全部読ませると、返ってくるのは「文章」じゃなくて「自分の癖の一覧」です。\n\n僕はブログとメルマガを何年も書いてきたので、その全部をまとめて渡して「これを学んでください」とやりました。今ならGoogleドライブに入っている原稿をそのままスキルファイルにする形でやります。手順としては地味です。ドライブに放り込んで、参照させて、書かせる。それだけ。\n\nただ、面白いのはここから先でした。\n\nAIが僕の文体で書いたものを読むと、自分の文章を初めて他人として読むことになる。そこで気づいたのが、フィラー言葉の多さです。「えー」「あのー」「なんていうかな」。話すときだけの癖だと思っていたのに、書いたものにもちゃんと出ていた。\n\nしかも、その理由まで見えてしまう。\n\n断定して間違えたくない、という心理が僕の中にあるんです。だから語尾がぼやける。抽象的な言葉に逃げる。弱気な言い方になる。AIが僕を模倣して書いた文章は、その逃げ方まで正確に再現してきました。自分では絶対に見つけられなかった。人に指摘されても、たぶん認めなかったと思います。\n\nマーケティングの原則を10年やってきて、コピーは「言い切れるかどうか」で決まると知っているつもりでした。それを自分の原稿でやれていなかったわけです。\n\nここが、AIに文体を学ばせることの本当の使いどころだと考えています。\n\n世の中では「自分の文体を再現させて量産する」ために使われがちです。それも間違いではない。でも順番が違う。癖のまま複製すると、弱気な語尾も抽象的な逃げも、そのまま何百本にコピーされます。売れないコピーを人なしで量産できる仕組みが完成してしまう。\n\nだから僕は、学習させたあと一度自分に返します。\n\nAIに渡すのは、過去の原稿と、話し方・単語の選び方・論理展開の再現。\n人が持つのは、そこで見えた癖のうち「どれを直すか」の判断です。\n\n直すべき癖を決めるのは自分にしかできない。逆に、癖を見つける作業は自分には一番向いていない。この分担を間違えると、AIは自分の弱点を高速で増やす装置になります。\n\n動画では、この学習のさせ方と、そこで自分について見えたことを話しています。文体を再現させようとしている人には、たぶん想定外の副産物の話です。\n\nみなさんが自分の文章で「これは癖だな」と分かっているものを、ひとつ挙げるとしたら何ですか。",
-      "excerpt": "AIに自分の過去記事を全部読ませると、返ってくるのは「文章」じゃなくて「自分の癖の一覧」です。 僕はブログとメルマガを何年も書いてきたので、その全部をまとめて渡して「これを学んでください」とやりました。",
-      "hook": "過去記事を全部AIに学ばせると自分の癖が見える",
-      "imageUrl": null,
-      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-02/short1.mp4",
-      "metrics": {
-        "impressions": 1,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-09-02-short1-instagram",
-      "channel": "instagram",
-      "url": "https://www.instagram.com/reel/DcxK72PgCNI/",
-      "postedAt": "2026-09-02T02:32:00.000Z",
-      "text": "自分の書いた文章をAIに全部学ばせると、AIの精度より先に「自分の癖」が出てくる。\n\n僕の場合はフィラー言葉だった。「えー」「あのー」が異常に多い。\n\nしかも理由まで見えた。間違えたくない心理があるから、抽象的な言葉や弱気な言葉に逃げている。\n\nこれ、AIに文体を再現させるためにやった作業なんです。ブログもメルマガも、書いてきたものをごっそり渡して「これを学んでください」と。\n\nそうしたら副産物のほうが大きかった。\n\nAIが自分の文体で書いたものを読むと、自分の文章を俯瞰で見られる。話し方、単語の選び方、論理の運び。全部客観的に並べ直される。\n\n自分では絶対に気づけない部分です。書いている最中は自分の癖の内側にいるから。\n\nやることは難しくない。Googleドライブに過去の原稿を放り込んで、そのURLを渡して、スキルファイルにしてもらう。\n\nAIに渡すのは「量」。自分が持つのは、出てきた癖を直すかどうかの判断。\n\n売れる文章をAIで再現しようとすると、必ず先に自分の元データが晒される。そこが面白いところだと思っています。\n\n動画では、実際にどう渡したかまで話しています。\n\nみなさんの文章の癖、直したいものが一つあるとしたら何ですか。\n\n#AI活用 #AIエージェント #マーケティング #コピーライティング #文章術 #ライティング #生成AI #ChatGPT活用 #個人事業主 #西埜巧祐",
-      "excerpt": "自分の書いた文章をAIに全部学ばせると、AIの精度より先に「自分の癖」が出てくる。 僕の場合はフィラー言葉だった。「えー」「あのー」が異常に多い。 しかも理由まで見えた。間違えたくない心理があるから、抽象的な言葉や弱気な言葉に逃げている。",
-      "hook": "過去記事を全部AIに学ばせると自分の癖が見える",
-      "imageUrl": null,
-      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-02/short1.mp4",
-      "metrics": {
-        "impressions": 112,
-        "views": 123,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "saves": 1,
-        "engagementRate": 0.89
-      }
-    },
-    {
-      "id": "2026-09-02-short1-threads",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/DcxexzkDJfJ",
-      "postedAt": "2026-09-02T02:32:00.000Z",
-      "text": "自分の文章の癖は、自分では見えない。AIに全部学ばせると、他人の目で返ってくる。\n\nブログもメルマガも、書いてきたものをまるごと渡してスキルファイルにする。出てきた文章を読むと、自分の語り口が俯瞰で見える。\n\n僕の場合はフィラー言葉が多かった。間違いたくない心理が、抽象的で弱気な言葉になっていた。\n\nAIに書かせる目的が、文章の量産だけだと思われがちなんですが、自分の改善点が出てくるのが地味に効きます。\n\n自分の書いたものを全部渡したら、何を指摘されそうですか？",
-      "excerpt": "自分の文章の癖は、自分では見えない。AIに全部学ばせると、他人の目で返ってくる。 ブログもメルマガも、書いてきたものをまるごと渡してスキルファイルにする。出てきた文章を読むと、自分の語り口が俯瞰で見える。 僕の場合はフィラー言葉が多かった。",
-      "hook": "過去記事を全部AIに学ばせると自分の癖が見える",
-      "imageUrl": null,
-      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-02/short1.mp4",
-      "metrics": {
-        "views": 4,
-        "impressions": 4,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
-      "id": "2026-09-02-x-1",
-      "channel": "x",
-      "url": "https://x.com/nishinokousuke/status/2094915761395372175",
-      "postedAt": "2026-09-01T22:30:00.000Z",
-      "text": "生活道路が30km/hになる。\n\nルールが変わると、動く人と文句を言う人に分かれる。\n\n僕の場合、変化はまずAIに聞くところから始める。国立競技場のカレー屋に行ける席まで、AIが教えてくれた。\n\nググるのをやめて、AIに聞いた最後の検索は何でしたか？",
-      "excerpt": "生活道路が30km/hになる。 ルールが変わると、動く人と文句を言う人に分かれる。 僕の場合、変化はまずAIに聞くところから始める。国立競技場のカレー屋に行ける席まで、AIが教えてくれた。",
-      "hook": "ググる時代は終わり、今はAIで検索する時代",
-      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-02/shared-0-landscape.png",
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 36,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-09-01-threads-thread",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/Dcv-aFUG5dw",
-      "postedAt": "2026-09-01T12:30:00.000Z",
-      "text": "中洲の料亭で「伸びる人の特徴って何ですか？」と聞かれた。クライアントとの食事の席で、スタッフの話になった矢先のことだった。\n\n僕が答えたのは、頭の良さでも飲み込みの速さでもない。\n\nむしろ僕自身は、飲み込みが弱い側の人間です。",
-      "excerpt": "中洲の料亭で「伸びる人の特徴って何ですか？」と聞かれた。クライアントとの食事の席で、スタッフの話になった矢先のことだった。 僕が答えたのは、頭の良さでも飲み込みの速さでもない。 むしろ僕自身は、飲み込みが弱い側の人間です。",
-      "hook": "伸びる人の特徴は「責任を負える人」だった",
-      "imageUrl": null,
-      "videoUrl": null,
-      "metrics": {
-        "views": 239,
-        "impressions": 239,
         "reactions": 0,
         "comments": 0,
         "shares": 0
