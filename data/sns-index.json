@@ -1,6 +1,154 @@
 {
-  "generatedAt": "2026-09-10T10:55:51.630Z",
+  "generatedAt": "2026-09-11T10:53:39.135Z",
   "posts": [
+    {
+      "id": "2026-09-11-instagram-1",
+      "channel": "instagram",
+      "url": "https://www.instagram.com/p/DdJCk76G5Ta/",
+      "postedAt": "2026-09-11T09:00:00.000Z",
+      "text": "「AGIは来たのか」で世界が割れてますが、僕の立場は一つだけです。\n\nAIは参謀になれる。でも意思決定者にはなれない。\n\n先日、自社の価格設定をAIに相談しました。\n返ってきた答えは「30万〜50万円が妥当」。\n\n論拠は筋が通っていました。市場、提供価値、比較対象。人間の参謀よりよく整理されていた。\n\nで、僕が選んだのは年間9,800円のサブスクです。\n真逆。\n\nAIが間違っていたわけじゃない。\n「誰に届けたいか」という、数字の外側にある部分を決めるのは僕の仕事だったという話です。\n\nここは、AGIが来ても変わらないと思っています。\n\n\nAIに渡しているもの／自分が持っているもの\n\n渡している：広告文の制作、広告動画の制作、集客LPのライティングの大部分\n持っている：価格をどうするか、誰に売るか、どこで撤退するか\n\n渡した側の結果は、CPA1000円で取れたり、500円の参加費のセミナーをCPA1万円で集められたり。\n平均点は取れます。\n\nただ、最高点は取れません。\n500円のセミナーの件は、僕が自分でやればもっとCPAを下げられたと思います。ここは正直に書いておきます。\n\n\nそれでも僕がAIに渡す理由\n\n売上が下がるよくあるパターンは、色々なことに手を取られて、マーケティングと販売活動がおろそかになることです。\n考える時間まで奪われていく。\n\n最高点を目指す以前の話なんです。\n\nだから僕は、結果における平均点を選びました。こだわりを守って手が止まるより、平均点が回り続けるほうが売上は伸びる。\n\n\nもう一つ。\n\n「ChatGPTみたいなツールがたくさん出てますが、どれがいいですか」\nワークショップでよく聞かれます。\n\n答えは「気にしなくていい」。ChatGPTだけで十分です。\n\nAIの専門家になる必要はありません。目的を達成できる使い方だけ知っておけばいい。その時間があるなら、マーケティングと販売活動をしたほうがいい。\n\n（僕はAIの会社を立ち上げたので、詳しくならざるを得ないのですが）\n\n\nAGIが来たかどうかは、正直どちらでもいいです。\n来ても、決めるのは自分です。\n\nみなさんが「これはAIに渡せない」と思っている判断を、一つだけ教えてもらえませんか。\n\n#AI活用 #ChatGPT活用 #マーケティング #経営者 #AIエージェント #集客 #価格設定 #意思決定",
+      "excerpt": "「AGIは来たのか」で世界が割れてますが、僕の立場は一つだけです。 AIは参謀になれる。でも意思決定者にはなれない。 先日、自社の価格設定をAIに相談しました。 返ってきた答えは「30万〜50万円が妥当」。 論拠は筋が通っていました。",
+      "hook": "AIの専門家になる必要はない。ChatGPTだけで十分",
+      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-11/shared-0-portrait.png",
+      "videoUrl": null
+    },
+    {
+      "id": "2026-09-11-threads-principle",
+      "channel": "threads",
+      "url": "https://www.threads.com/@kousuke_nishino/post/DdJAZh4G2ha",
+      "postedAt": "2026-09-11T08:30:00.000Z",
+      "text": "企画もコピーも、一人で作ると必ず外す。\n\n僕はChatGPTと一緒に作ったヘッドラインを、メンバーに見せて「言葉の意味がわからない」と言われました。知識も経験も、僕より浅い人たちからです。\n\nそれでゼロから作り直したら、反応がよくなった。\n\nほとんどの人が逆をやっていると思います。一人で仕上げて、出してから反応を見る。\n\n自分の見落としを外から潰すために、僕がやっていることを3つ書きます。\n\n続きはリプライに。",
+      "excerpt": "企画もコピーも、一人で作ると必ず外す。 僕はChatGPTと一緒に作ったヘッドラインを、メンバーに見せて「言葉の意味がわからない」と言われました。知識も経験も、僕より浅い人たちからです。 それでゼロから作り直したら、反応がよくなった。",
+      "hook": "自分一人の目には、成果を生む「見落とし」が必ず残る",
+      "imageUrl": null,
+      "videoUrl": null,
+      "metrics": {
+        "views": 2,
+        "impressions": 2,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "2026-09-11-x-principle",
+      "channel": "x",
+      "url": "https://x.com/nishinokousuke/status/2098320658992108000",
+      "postedAt": "2026-09-11T08:00:00.000Z",
+      "text": "自分で作ったものの欠点は、自分では見えません。\n\n僕はChatGPTと作ったヘッドラインを、知識の浅いメンバーに酷評されました。作り直したら反応が変わりました。\n\nほとんどの人が逆をやっています。一人で完成させてから出す。\n\n見落としを見つける3つのポイントを、リプライに書きます。",
+      "excerpt": "自分で作ったものの欠点は、自分では見えません。 僕はChatGPTと作ったヘッドラインを、知識の浅いメンバーに酷評されました。作り直したら反応が変わりました。 ほとんどの人が逆をやっています。一人で完成させてから出す。",
+      "hook": "自分一人の目には、成果を生む「見落とし」が必ず残る",
+      "imageUrl": null,
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 0,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-09-11-facebook-1",
+      "channel": "facebook",
+      "url": "https://www.facebook.com/122233359788030234/posts/122551915298030234",
+      "postedAt": "2026-09-11T03:00:00.000Z",
+      "text": "AIに自社の価格を相談したら「30万〜50万円が妥当」と返ってきた。僕はその真逆、年間9,800円のサブスクを選んだ。\n\n「AGIはもう来たのか」で世界中が割れているけれど、僕の立場はどちらでもない。来ても来なくても、意思決定だけは人間に残る。参謀にはなれても、決める人にはなれない。\n\nそう言えるようになるまでに、僕はけっこう遠回りをした。\n\n最初に疑ったのは「まだいいAIを使っていないから」でした。ChatGPTのようなツールが次々に出てきて、Googleも出す。どれが一番いいのかが気になって、比較して、試して、また新しいのが出る。その間、マーケティングと販売活動の手は止まっていました。\n\nでも原因はツール選びではなかった。\n\n本当の原因は、僕が「AIの専門家になろうとしていた」ことです。目的は売上と集客なのに、いつのまにか目的がAIに詳しくなることへすり替わっていた。\n\nAIライティングのワークショップをやったとき、参加者からまさに同じ質問をもらいました。「どれが良いってありますか？」\n\n答えは「気にしなくていい」です。ChatGopTではなくChatGPTだけで十分。目的を中心に、目的を達成できることだけ知っておけばいい。あるいは、その目的を達成できる使い方を知っている人に聞けばいい。それだけです。\n\n僕がAIに詳しくならざるを得ないのは、AIの会社を立ち上げたからで、みなさんが同じ道を通る必要はまったくない。その時間があるなら、マーケティングと販売活動に使ったほうがいい。\n\nもうひとつ、遠回りしてわかったことがあります。\n\nAIは平均点を取れる。最高点は取れない。\n\n僕の会社では、広告文も広告動画も、集客用LPのライティングの大部分もAIになっています。CPAが1000円で取れたり、500円の参加費のセミナーをCPA1万円で集められたり。平均点は出るようになりました。\n\nただ、あの500円のセミナーは、僕が自分でやればもっとCPAを下げられたはずです。そこは正直に認めます。\n\nでは最高点を目指すべきなのか。ここで引っかかったのが「誰にとっての最高点なのか」という点でした。\n\n僕は自分が出したLPや戦略に満足したことが一度もありません。それでもクライアントは満足してくれる。そして結果は、良いものも平均的なものも失敗もある。自己評価と他人評価と結果は、全部別物なんです。\n\nつまり「最高点を目指す」は、こだわりかエゴのどちらかになりやすい。僕がAIを使い始めたのは、結果における平均点を選んだからでした。リソースの兼ね合いもあります。\n\n売上が落ちるよくある流れは、いろいろなことに手を取られて、マーケティングと販売活動がおろそかになることです。考える時間まで奪われて、量も質も下がっていく。最高点どころの話ではなくなる。\n\nだからいまは、こう分けています。\n\n広告文・動画・LPの下書きのように「平均点で回る仕事」はAIとエージェントに渡す。誰に何をいくらで売るかという意思決定は、僕が持つ。30万〜50万円と言われて9,800円を選んだのは、後者だったからです。\n\nAIが賢くなるほど、渡せる仕事は増える。それでも決める場所は増えない。僕はここが変わらないほうに賭けています。\n\nみなさんが「これはAIに渡さない」と決めている判断は、どれですか。価格ですか、それとも誰に売るかですか。",
+      "excerpt": "AIに自社の価格を相談したら「30万〜50万円が妥当」と返ってきた。僕はその真逆、年間9,800円のサブスクを選んだ。 「AGIはもう来たのか」で世界中が割れているけれど、僕の立場はどちらでもない。",
+      "hook": "AIの専門家になる必要はない。ChatGPTだけで十分",
+      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-11/shared-0-landscape.png",
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 0,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-09-11-short1-x",
+      "channel": "x",
+      "url": "https://x.com/nishinokousuke/status/2098239424052011275",
+      "postedAt": "2026-09-11T02:37:00.000Z",
+      "text": "「エージェントに任せたのに動いてない」の原因、たいていこれです。\n\nクロードのエージェントは、PCを開けてアプリが起動していないと止まる。\n\n指示なしで動かせる強さと、その前提条件を動画で話しました。\n\n導入前に知っておくと、期待値がズレません。",
+      "excerpt": "「エージェントに任せたのに動いてない」の原因、たいていこれです。 クロードのエージェントは、PCを開けてアプリが起動していないと止まる。 指示なしで動かせる強さと、その前提条件を動画で話しました。 導入前に知っておくと、期待値がズレません。",
+      "hook": "クロードのエージェントはPCを開けてないと動かない",
+      "imageUrl": null,
+      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-11/short1.mp4",
+      "metrics": {
+        "impressions": 0,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-09-11-short1-instagram",
+      "channel": "instagram",
+      "url": "https://www.instagram.com/reel/DdIWuXdiTXv/",
+      "postedAt": "2026-09-11T02:37:00.000Z",
+      "text": "「仕事やっといて」で最後まで走るエージェント。\nでもPCを閉じた瞬間、止まります。\n\nクロードのエージェント機能（Claude Code / Claude のエージェント）を、導入前に知っておくべき制約から話しました。\n\nメールを巡回して見るべきものをピックアップする。決まった時間に情報を出す。\nこういう「指示をせずとも動く」仕事は、たしかに任せられます。\n\nただ、アプリが起動した状態じゃないと動かない。\nここを知らずに「全部自動化できる」と思って入れると、確実にズレます。\n\n僕がAIとAIエージェントで売れる仕組みを組むとき、最初にやるのはこの線引きです。\n\n・人がPCを開けている時間に走らせる仕事\n・開いていなくても走っていてほしい仕事\n\nこの2つを混ぜたまま設計すると、「動いているはず」の抜けが発生する。\nそして抜けたことに誰も気づかない。これが一番こわい。\n\nツールの機能を覚えるより、どこまでを渡せるかを先に決める。\nマーケティングの原則を10年やってきて、AIに実装するようになってから、ここが一番効きました。\n\nみなさんがいま自動で回したい業務は、PCを開けている時間の中で終わりますか。\n\n#AIエージェント #クロード #ClaudeCode #AI活用 #マーケティング #業務自動化 #生成AI #西埜巧祐",
+      "excerpt": "「仕事やっといて」で最後まで走るエージェント。 でもPCを閉じた瞬間、止まります。 クロードのエージェント機能（Claude Code / Claude のエージェント）を、導入前に知っておくべき制約から話しました。",
+      "hook": "クロードのエージェントはPCを開けてないと動かない",
+      "imageUrl": null,
+      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-11/short1.mp4"
+    },
+    {
+      "id": "2026-09-11-short1-threads",
+      "channel": "threads",
+      "url": "https://www.threads.com/@kousuke_nishino/post/DdIrIJHisfR",
+      "postedAt": "2026-09-11T02:37:00.000Z",
+      "text": "クロードのエージェントは、PCを閉じると止まる。\n\n「指示しなくても勝手に動く」の手前に、この制約がある。\n\nメールを巡回して拾うべきものを出す。決まった時間に情報を出す。そこまでは任せられる。でもアプリが起動した状態じゃないと動かない。\n\n導入前にここを知らないと、期待値がずれたまま設計してしまう。\n\n動画で話しているのはこの一点です。\n\nみなさんは、エージェントに任せたい仕事を洗い出すとき、まず何から書き出していますか。",
+      "excerpt": "クロードのエージェントは、PCを閉じると止まる。 「指示しなくても勝手に動く」の手前に、この制約がある。 メールを巡回して拾うべきものを出す。決まった時間に情報を出す。そこまでは任せられる。でもアプリが起動した状態じゃないと動かない。",
+      "hook": "クロードのエージェントはPCを開けてないと動かない",
+      "imageUrl": null,
+      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-11/short1.mp4",
+      "metrics": {
+        "views": 7,
+        "impressions": 7,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "2026-09-11-threads-1",
+      "channel": "threads",
+      "url": "https://www.threads.com/@kousuke_nishino/post/DdIKpqPGU_a",
+      "postedAt": "2026-09-10T23:00:00.000Z",
+      "text": "ワークショップ1日目が終わったあと、参加者の方に言われた。\n\n「本当に作れんのかこれ」\n\n正直、ドキッとした。2日目でひっくり返せなければ、この人の疑いは正しかったことになる。\n\n結果、最後は「さすが西埜さん」で落ち着いた。笑ったけど、内心はかなりホッとしていた。\n\nそのとき出た質問がもうひとつある。「ChatGPTみたいなツール、どれがいいですか？」\n\n気にしなくていい、と答えた。ChatGPTだけで十分です、と。\n\n目的はプロモーションを作って売上に貢献させることで、AIの専門家になることじゃない。僕はAIの会社を立ち上げたから詳しくならざるを得ないだけで、みなさんがそこに時間を使う理由はない。\n\nAIは最高点は取れない。でも平均点は取る。僕の会社では広告文も広告動画も集客LPの大部分もAIになった。\n\n最高点を目指して手が止まるより、平均点が回り続けるほうが売れる。\n\nみなさんが今、AIに渡せていない「平均点でいい仕事」って何ですか？\n\nAIエージェントを作って暮らす30日 Day 10/30",
+      "excerpt": "ワークショップ1日目が終わったあと、参加者の方に言われた。 「本当に作れんのかこれ」 正直、ドキッとした。2日目でひっくり返せなければ、この人の疑いは正しかったことになる。 結果、最後は「さすが西埜さん」で落ち着いた。",
+      "hook": "AIの専門家になる必要はない。ChatGPTだけで十分",
+      "imageUrl": null,
+      "videoUrl": null,
+      "metrics": {
+        "views": 3,
+        "impressions": 3,
+        "reactions": 1,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "2026-09-11-x-1",
+      "channel": "x",
+      "url": "https://x.com/nishinokousuke/status/2098177283886301638",
+      "postedAt": "2026-09-10T22:30:00.000Z",
+      "text": "7日で44本、リーチ533。\n\nいいね0、コメント0、保存0。\n反応率0.00%。\n\n生成も配信も実績取得もAIエージェントが無人で回している。\n配信は再現できた。反応はまだ1つも取れていない。\n\n人が持つべきは、たぶん「何を言うか」の方だ。\n\nAIにSNSを任せた30日 Day 10/30",
+      "excerpt": "7日で44本、リーチ533。 いいね0、コメント0、保存0。 反応率0.00%。 生成も配信も実績取得もAIエージェントが無人で回している。 配信は再現できた。反応はまだ1つも取れていない。 人が持つべきは、たぶん「何を言うか」の方だ。",
+      "hook": "昨日までのSNS運用の実数を、そのまま公開する",
+      "imageUrl": null,
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 0,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
     {
       "id": "2026-09-10-instagram-1",
       "channel": "instagram",
@@ -10,7 +158,16 @@
       "excerpt": "売上が落ちた会社に入って、僕が最初にやるのは「新商品を作る」ことです。 マーケティングの改善より先にこれをやります。 理由は3つあります。 1｜社内の雰囲気が変わる 売上が下がると、社内の空気が悪くなります。",
       "hook": "ほぼ確実に売上を伸ばす方法は『新商品を作ること』",
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-10/shared-0-portrait.png",
-      "videoUrl": null
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 5,
+        "views": 8,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "engagementRate": 0
+      }
     },
     {
       "id": "2026-09-10-facebook-1",
@@ -23,7 +180,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-10/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 0,
+        "impressions": 10,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -41,7 +198,7 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-10/short1.mp4",
       "metrics": {
-        "impressions": 0,
+        "impressions": 7,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -59,7 +216,7 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-10/short1.mp4",
       "metrics": {
-        "impressions": 0,
+        "impressions": 3,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -75,7 +232,16 @@
       "excerpt": "「渾身の記事なのに反応がない」と落ち込んだことがある人へ。 残念だけど、人はあなたの発信をそこまで覚えていない。 これは冷たい話じゃなくて、発信できない人の背中を押す話です。 自分のコンテンツには興味がある。",
       "hook": "残念だが人はあなたの発信を覚えていない",
       "imageUrl": null,
-      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-10/short1.mp4"
+      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-10/short1.mp4",
+      "metrics": {
+        "impressions": 18,
+        "views": 20,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 1,
+        "engagementRate": 5.56
+      }
     },
     {
       "id": "2026-09-10-short1-threads",
@@ -88,8 +254,8 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-10/short1.mp4",
       "metrics": {
-        "views": 4,
-        "impressions": 4,
+        "views": 5,
+        "impressions": 5,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -104,7 +270,16 @@
       "excerpt": "落書きを1枚描くだけで、完成画像が出てくる。 ChatGPT Images 2.5に「@Sketch」が入りました。指示は文章じゃなくて、絵でいい。 ここ、画質の話に見えて実は制作工程の話だと思っています。",
       "hook": "@Sketchで落書きから完成画像へ",
       "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/6J668sj93QnQ8PWP7epUDv/3dbd2d2350053d96b03477d0fdb2e2c6/images2point5_16-9c.png?w=1600&h=900&fit=fill",
-      "videoUrl": null
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 3,
+        "views": 7,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "engagementRate": 0
+      }
     },
     {
       "id": "2026-09-10-x-1",
@@ -117,7 +292,7 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 0,
+        "impressions": 21,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -135,8 +310,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-09/shared-0-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 4,
-        "views": 11,
+        "impressions": 6,
+        "views": 15,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -155,7 +330,7 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-09/short1.mp4",
       "metrics": {
-        "impressions": 4,
+        "impressions": 6,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -191,8 +366,8 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-09/short1.mp4",
       "metrics": {
-        "impressions": 6,
-        "views": 6,
+        "impressions": 9,
+        "views": 11,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -247,11 +422,11 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 30,
+        "impressions": 32,
         "reactions": 1,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 6.67
+        "engagementRate": 6.25
       }
     },
     {
@@ -283,11 +458,11 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 21,
+        "impressions": 24,
         "reactions": 1,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 14.29
+        "engagementRate": 12.5
       }
     },
     {
@@ -301,8 +476,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-08/shared-0-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 6,
-        "views": 7,
+        "impressions": 8,
+        "views": 11,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -357,179 +532,13 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-08/short1.mp4",
       "metrics": {
-        "impressions": 39,
-        "views": 45,
+        "impressions": 40,
+        "views": 46,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
         "saves": 0,
         "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-09-08-short1-threads",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/DdA8mOlAIhO",
-      "postedAt": "2026-09-08T02:36:00.000Z",
-      "text": "渾身の記事より、眠くなりながら書いた適当な記事の方が反応が良かった。\n\n10年発信していて、これが一番裏切られ続けた感覚です。\n\nAIで下書きを作っても「なんか微妙だな」で出さない人へ。その判定、当たらないです。\n\n動画では、僕が発信を続けるために持っている一つの心構えを話しています。バーで友達と話すくらいの温度の話です。\n\n出せずに眠っている下書き、いま何本ありますか？",
-      "excerpt": "渾身の記事より、眠くなりながら書いた適当な記事の方が反応が良かった。 10年発信していて、これが一番裏切られ続けた感覚です。 AIで下書きを作っても「なんか微妙だな」で出さない人へ。その判定、当たらないです。",
-      "hook": "渾身の記事より適当な記事の方が反応が良い",
-      "imageUrl": null,
-      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-08/short1.mp4",
-      "metrics": {
-        "views": 6,
-        "impressions": 6,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
-      "id": "2026-09-08-threads-1",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/DdAdKtxEWXH",
-      "postedAt": "2026-09-07T23:00:00.000Z",
-      "text": "「売上をどう伸ばすか、正直わかりません」\n\nセッションで、僕が初めてそう言った日のことを今でも覚えています。既存客向け、集客の改善、いくつも頭に浮かべたけど、全部потの話にならなかった。\n\nキャッシュはある会社でした。でも投資してリターンが戻ってくる道筋が、ギャンブルにしか見えなかった。だから、閉じることを勧めました。\n\nその会社は最初、何もしなくてもうまくいっていたんです。うまくいっている間に、競合がニッチを全部埋めていった。\n\nAIが来て、この速度がさらに上がったなと感じています。僕はいま、市場のどこが埋まっていくかを見るところをAIエージェントに任せて、どこを取るかの判断だけ自分で持つようにしました。埋まってから気づくのが、いちばん怖いので。\n\nみなさんの business は、今のニッチをいつ取り切りますか。\n\nAIエージェントを作って暮らす30日 Day 7/30",
-      "excerpt": "「売上をどう伸ばすか、正直わかりません」 セッションで、僕が初めてそう言った日のことを今でも覚えています。既存客向け、集客の改善、いくつも頭に浮かべたけど、全部потの話にならなかった。 キャッシュはある会社でした。",
-      "hook": "AIの登場で売上の伸ばし方は根底から変わる",
-      "imageUrl": null,
-      "videoUrl": null,
-      "metrics": {
-        "views": 3,
-        "impressions": 3,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
-      "id": "2026-09-08-x-1",
-      "channel": "x",
-      "url": "https://x.com/nishinokousuke/status/2097090054891958365",
-      "postedAt": "2026-09-07T22:30:00.000Z",
-      "text": "7日で43本。\nリーチ882、いいね2、コメント1、保存1。\n反応率0.45%。\n\n本数を増やせば当たると思ってやった結果がこれ。\n生成も配信も実績取得も、AIエージェントが無人で回している。\n\n次に直すのは本数じゃなく、1行目。\n\nAIにSNSを任せた30日 Day 7/30",
-      "excerpt": "7日で43本。 リーチ882、いいね2、コメント1、保存1。 反応率0.45%。 本数を増やせば当たると思ってやった結果がこれ。 生成も配信も実績取得も、AIエージェントが無人で回している。 次に直すのは本数じゃなく、1行目。",
-      "hook": "昨日までのSNS運用の実数を、そのまま公開する",
-      "imageUrl": null,
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 3,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 33.33
-      }
-    },
-    {
-      "id": "2026-09-07-instagram-1",
-      "channel": "instagram",
-      "url": "https://www.instagram.com/p/Dc-vY_Xlbkq/",
-      "postedAt": "2026-09-07T09:00:00.000Z",
-      "text": "ほぼAIだけで進めた案件が、2つあります。\n\n1つは売上800万円ほど。報酬は200万円ほどになりました。\n\nこの分配をどうするか、今もまだ話し合っています。\n\nもう1つは現在進行中で、もうすぐリリース。成約率にはかなり期待しています。\n\nここまで書いて、正直に困っていることを書きます。\n\n僕はマーケティングを10年やってきました。\n\nその10年で身につけた知識や情報の差が、そのままお金になる時代でした。\n\n「そんなこと知ってるんですか」\n「その方法で売上が伸びるんですか」\n\nこれで仕事になった。\n\nでも今は、すぐ売上を伸ばす方法として「連絡が取れる既存のお客さんにアプローチする」なんて、誰でも知っています。\n\nネットが普及して、SNSが発達して、生成AIが伸びてきた。\n\n知らないことが、もう減っている。\n\nスキルも同じです。\n\nスキルを伸ばせば収入も伸びる。それは正しかった。\n\nでも、AIが文章を書けるようになった今、スキルとの向き合い方は考え直さないといけない。\n\nもちろん、知識がなければAIのアウトプットの良し悪しは判断できません。\n\nそこは今も人の仕事です。\n\nただ、AIでそれなりに良い文章が作れてしまうのも事実で。\n\n「よくわからなくても、とりあえずAIで作れば売れるんじゃないか」\n\nそう思われても、反論しきれない場面が増えました。\n\nマーケターやコピーライターやコンサルタントの存在価値が問われている。\n\nコミュニケーションが残る、と言う人もいます。\n\nでもAIは、良いコミュニケーションもしてくれます。\n\n10年前のiPhoneは6でした。今は16です。\n\nそれくらい前提が動いたのに、僕らのやり方だけが動かないのは無理がある。\n\nお客さんを大事にする。これは変わりません。\n\nただ、変わらないことだけを唱えていても、伸びない。\n\n僕は今、自分が10年かけて覚えた原則を、AIとAIエージェントに渡す作業をしています。\n\n判断の基準は人が持つ。作る手は全部渡す。\n\nその線をどこに引くかを、案件ごとに毎回引き直しています。\n\nみなさんは、10年前に通用していたやり方のうち、今もう使わなくなったものを1つ挙げるとしたら何ですか。\n\n西埜巧祐\n\n#マーケティング #AI活用 #AIエージェント #生成AI #セールスコピーライティング #マーケター #中小企業経営 #仕事の話",
-      "excerpt": "ほぼAIだけで進めた案件が、2つあります。 1つは売上800万円ほど。報酬は200万円ほどになりました。 この分配をどうするか、今もまだ話し合っています。 もう1つは現在進行中で、もうすぐリリース。成約率にはかなり期待しています。",
-      "hook": "10年前の成功法則は今も通用するのか？",
-      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-07/shared-0-portrait.png",
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 7,
-        "views": 13,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "saves": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-09-07-x-principle",
-      "channel": "x",
-      "url": "https://x.com/nishinokousuke/status/2096871113514942594",
-      "postedAt": "2026-09-07T08:00:00.000Z",
-      "text": "成長は気合いじゃない。身を置く場所と一緒にいる人で決まる。\n\n僕もYouTubeと本でベースを練習して、一向に上手くならなかった。\n\nほとんどの人が順番を逆にやっている。\n\nポイントは3つ。続きはリプライに置きます。",
-      "excerpt": "成長は気合いじゃない。身を置く場所と一緒にいる人で決まる。 僕もYouTubeと本でベースを練習して、一向に上手くならなかった。 ほとんどの人が順番を逆にやっている。 ポイントは3つ。続きはリプライに置きます。",
-      "hook": "成長は「気合い」ではなく、身を置く場所と一緒にいる人を変えることで起きる",
-      "imageUrl": null,
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 10,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 10
-      }
-    },
-    {
-      "id": "2026-09-07-short1-x",
-      "channel": "x",
-      "url": "https://x.com/nishinokousuke/status/2096786806796640513",
-      "postedAt": "2026-09-07T02:25:00.000Z",
-      "text": "AIの文章が「自分のじゃない」と感じる原因は、たいてい1個。\n\n知らない単語が混じっているから。\n\nネット中から拾ってくるので、使ったことのない専門用語まで入ってくる。\n\n自分が普段使う単語をAIに覚えさせる。ここが分かれ目です。",
-      "excerpt": "AIの文章が「自分のじゃない」と感じる原因は、たいてい1個。 知らない単語が混じっているから。 ネット中から拾ってくるので、使ったことのない専門用語まで入ってくる。 自分が普段使う単語をAIに覚えさせる。ここが分かれ目です。",
-      "hook": "知らない単語が混じると他人の文章になる",
-      "imageUrl": null,
-      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-07/short1.mp4",
-      "metrics": {
-        "impressions": 17,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-09-07-short1-facebook",
-      "channel": "facebook",
-      "url": "https://www.facebook.com/reel/1829608262242762/",
-      "postedAt": "2026-09-07T02:25:00.000Z",
-      "text": "AIに文章を書かせて「なんか自分の文章じゃない」と感じるとき、原因はたいてい単語です。\n\nAIはネット中の情報を集めて、うまくまとめて返してくれる。賢い。\nただ、その過程で自分が普段使わない専門用語が一緒に混ざって出てくる。\n\n知らない単語がひとつ入るだけで、その文章は他人が書いたものになります。\n読み手にもバレます。というより、書いた本人が一番先に違和感を持つ。\n\nここでよくある対処が「書き直す」なんですが、それだと毎回同じ作業を繰り返すことになる。\n直すべきなのは出てきた文章ではなくて、AIに渡している前提のほうです。\n\n自分が使っている単語をAIに学ばせる。\nそして、それ以外の単語が出てきたときにどう扱うかまで決めておく。\n\nこの2つを渡しておくと、出力が自分の言葉に寄ってきます。\n人が持つのは「自分の言葉のリスト」だけ。あとはAIが再現する。\n\n動画では、この単語の話を含めてAIに自分の文章を書かせるために必要なことを話しています。\n\nみなさんが「これは自分の言葉だな」と思う単語、ぱっと3つ挙げられますか。",
-      "excerpt": "AIに文章を書かせて「なんか自分の文章じゃない」と感じるとき、原因はたいてい単語です。 AIはネット中の情報を集めて、うまくまとめて返してくれる。賢い。 ただ、その過程で自分が普段使わない専門用語が一緒に混ざって出てくる。",
-      "hook": "知らない単語が混じると他人の文章になる",
-      "imageUrl": null,
-      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-07/short1.mp4",
-      "metrics": {
-        "impressions": 5,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-09-07-short1-instagram",
-      "channel": "instagram",
-      "url": "https://www.instagram.com/reel/Dc-CMpPikMR/",
-      "postedAt": "2026-09-07T02:25:00.000Z",
-      "text": "AIに書かせた文章が「なんか自分のじゃない」と感じるとき、原因はだいたい単語です。\n\nAIはネット中の情報を集めてまとめてくれる。優秀です。\nただ、その過程で自分が普段使っていない専門用語が一緒に混ざってくる。\n\n知らない単語がひとつ入るだけで、その文章は誰か他の人が書いたものになります。\n\n自分が使っている単語をAIに学ばせる。\nそれ以外の言葉が出てきたときにどう処理するかも、あわせて決めておく。\n\nここまでやって、はじめてAIエージェントが「自分の代わり」になります。\n単語を渡さないままだと、いつまでも他人の代筆です。\n\n動画では、この単語の話を含めて文章を自分のものにするポイントを話しています。\n\nみなさんが「これは絶対に使わない」と決めている言葉は、何ですか。\n\n#AI活用 #AIライティング #マーケティング #生成AI #コピーライティング #文章術 #AIエージェント #経営者の学び",
-      "excerpt": "AIに書かせた文章が「なんか自分のじゃない」と感じるとき、原因はだいたい単語です。 AIはネット中の情報を集めてまとめてくれる。優秀です。 ただ、その過程で自分が普段使っていない専門用語が一緒に混ざってくる。",
-      "hook": "知らない単語が混じると他人の文章になる",
-      "imageUrl": null,
-      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-07/short1.mp4",
-      "metrics": {
-        "impressions": 91,
-        "views": 98,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "saves": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-09-07-short1-threads",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/Dc-YUDyD3SZ",
-      "postedAt": "2026-09-07T02:25:00.000Z",
-      "text": "AIに書かせた文章が「自分のじゃない」と感じる瞬間、たいてい原因は一つです。\n\n自分が知らない単語が混じっている。\n\nAIはネット中から情報を集めてまとめてくれる。だから当然、自分が普段使わない専門用語も一緒に入ってくる。読み返して手が止まるのはそこ。\n\n対処はシンプルで、自分が使っている単語をAIに学ばせる。そして、それ以外の単語が出てきたときの扱い方まで決めておく。ここまでやって初めて、AIが書いても自分の文章になります。\n\n動画では、この続きの「話の展開」の話までしています。\n\nみなさんは、AIの文章を読み返して引っかかるのは、単語ですか、それとも展開ですか？",
-      "excerpt": "AIに書かせた文章が「自分のじゃない」と感じる瞬間、たいてい原因は一つです。 自分が知らない単語が混じっている。 AIはネット中から情報を集めてまとめてくれる。だから当然、自分が普段使わない専門用語も一緒に入ってくる。",
-      "hook": "知らない単語が混じると他人の文章になる",
-      "imageUrl": null,
-      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-07/short1.mp4",
-      "metrics": {
-        "views": 3,
-        "impressions": 3,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0
       }
     }
   ]
