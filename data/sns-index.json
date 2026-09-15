@@ -1,6 +1,172 @@
 {
-  "generatedAt": "2026-09-14T12:40:42.644Z",
+  "generatedAt": "2026-09-15T11:23:32.756Z",
   "posts": [
+    {
+      "id": "2026-09-15-facebook-cross1",
+      "channel": "facebook",
+      "url": "https://www.facebook.com/122233359788030234/posts/122552477432030234",
+      "postedAt": "2026-09-15T10:00:00.000Z",
+      "text": "AIを使う理由の1位は、効率化ではない。スキルを習得するまでの時間が縮むことだ。\n\n「ネットの誕生以来の発明」。ビル・ゲイツはAIをそう呼んだ。\n\nこの言葉に乗って「AIで効率化しよう」と言う人はとても多い。要約させる、議事録を作らせる、メールの下書きを書かせる。たしかに時間は浮く。\n\nただ、そこには前提が1つ抜けている。\n\n効率化は「すでにできること」を速くする話です。自分ができないことは、いくらAIに投げても速くならない。むしろ、できない人が投げると、出てきたものの良し悪しが判定できないまま進む。\n\n僕が一番効くと思っているのは、もっと地味なところです。\n\nスキルを身につけるまでの時間が、圧倒的に縮む。\n\n僕はマーケティングの原則を10年やってきました。セールスレターを書く、オファーを設計する、数字を見て次の一手を決める。これらは、最初は本当に時間がかかった。書いて、出して、反応を見て、直す。1周するのに何日もかかる。その何日を何十周もして、やっと「こういうときはこう動く」が体に入った。\n\nこの「1周」が、AIで短くなる。\n\n僕が実際にやっている使い方はこれです。\n\n・書いたものを、想定読者の立場から読ませて、どこで読むのをやめるか言わせる\n・自分のオファーに反論を並べさせて、答えられないものを探す\n・過去にうまくいった事例と、今書いているものの構造の違いを指摘させる\n\nどれも、以前は人間のフィードバックを待つしかなかった工程です。上司のレビューを待つ、テストの結果を待つ。待っている間、学習は止まります。その待ち時間がほぼ消える。\n\nだから僕は、AIエージェントを組むときも「作業を代わりにやらせる」だけでは組みません。\n\n人が判断を下す回数を増やすように組む。\n\n案を1つ出させるのではなく、5案出させて、どれを選ぶか人が決める。その選んだ理由を書き残させる。次のときにその理由を読ませてから出させる。こうすると、エージェントの出力が揃っていくのと同時に、選んでいる人間の判断基準もはっきりしていく。\n\n売れる組織を人なしで再現する、という話をよくします。でも最初の段階は逆で、判断の回数を人が大量に踏む期間が必要です。踏んだ判断が言葉になって、はじめてエージェントに渡せる。渡すものがないうちに自動化すると、誰も良し悪しが分からない仕組みができあがる。\n\n意外だったのは、時間が浮いた分をどう使うかで結果が完全に分かれたことです。\n\n浮いた時間で別の作業を詰め込んだ人は、半年後も同じ場所にいました。浮いた時間を「もう1周まわす」に使った人は、数年分の経験を短い期間で通り抜けていった。\n\nAIは、能力を肩代わりしてくれる道具というより、練習の回転を上げる道具だと考えています。\n\nみなさんが直近でAIに任せたことは、作業の肩代わりでしたか。それとも、自分の判断を1周まわすためでしたか。",
+      "excerpt": "AIを使う理由の1位は、効率化ではない。スキルを習得するまでの時間が縮むことだ。 「ネットの誕生以来の発明」。ビル・ゲイツはAIをそう呼んだ。 この言葉に乗って「AIで効率化しよう」と言う人はとても多い。",
+      "hook": "AIを使うべき理由Top1はスキル習得の時間短縮",
+      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-15/2026-09-15-facebook-cross1.png",
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 0,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-09-15-instagram-1",
+      "channel": "instagram",
+      "url": "https://www.instagram.com/p/DdTV0_YltN0/",
+      "postedAt": "2026-09-15T09:00:00.000Z",
+      "text": "契約しているAIを、今月の請求書を開いて一つずつ見直してください。\n\nAI各社の値付けが、同じ週に真逆へ動きました。片方は価格据え置きのまま将来の改定を予告し、もう片方は予定していた値上げを撤回して導入価格をそのまま標準にした。\n\nここで覚えておきたいのは、価格据え置き＝据え置きではないということ。単価が同じでも、1タスクで処理する量が増えれば請求額は増えます。見るべきは値札より「1回の仕事あたりいくらか」です。\n\nで、これは自社の課金AIにもそのまま跳ね返る話。\n\n僕が実際にやっているAIのパフォーマンスチェックの手順です。\n\nSTEP1｜課金中のAIを紙に全部書き出す\n月額が動いているものを漏らさず並べる。名前だけでいい。\n\nSTEP2｜それぞれに「先週、何の仕事で使ったか」を書く\n思い出せないものは、その時点で答えが出ています。\n\nSTEP3｜同じ仕事を、もう一つのAIで代替できるか試す\n僕はPerplexityをやめました。検索の質は、厳密に言えばPerplexityの方が良いと思います。でも、そこまでのクオリティを求めていなかった。Geminiで同じ検索ができて、Google Driveまでついてくる。だから外しました。\n\nSTEP4｜残すものを決めて、残りを解約する\n僕の現役はChatGPT、Gemini、NotebookLMの3つです。Midjourney、Stable Diffusion、GROK、Claudeはクビにしました。GROKは商品名を考えるのには良かった。ただ、マーケティングのアイディアを毎日考える仕事ではないので、使用機会が減って課金を止めました。\n\n勘所は、クオリティの高さで選ばないこと。\n\n結婚したての夫婦2人で、8人乗りのアルファードを買うようなものです。席を持て余すなら、もったいない。\n\nこれ、AIエージェントを組むときにまったく同じ判断が要ります。エージェントに何を渡すかを決める前に、「その仕事は週に何回発生するか」を先に見る。回数の出ない仕事に高いモデルを割り当てると、単価が同じでも請求だけが膨らみます。人が持つのは、この割り当ての判断。処理そのものはAIに渡していい。\n\nデザイナーなら僕とは違う3つが残るはずです。\n\nみなさんが今月、一番使わなかったAIはどれですか。\n\n#AI活用 #AIエージェント #マーケティング #ChatGPT #Gemini #NotebookLM #業務効率化 #経営者 #生成AI #西埜巧祐",
+      "excerpt": "契約しているAIを、今月の請求書を開いて一つずつ見直してください。 AI各社の値付けが、同じ週に真逆へ動きました。片方は価格据え置きのまま将来の改定を予告し、もう片方は予定していた値上げを撤回して導入価格をそのまま標準にした。",
+      "hook": "「AIを使っていません」という人はもう少数派の時代",
+      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-15/shared-0-portrait.png",
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 0,
+        "views": 1,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-09-15-facebook-1",
+      "channel": "facebook",
+      "url": "https://www.facebook.com/122233359788030234/posts/122552441444030234",
+      "postedAt": "2026-09-15T03:00:00.000Z",
+      "text": "「AIを使っていません」という人は、もう少数派です。\n\nこれ、半分は正しくて、半分は間違っています。\n\n正しいのは、触っている人が増えたこと。2023年にChatGPTが出て、対話型AIは数えきれないほど生まれました。僕に届く相談も「AIって何ですか」から「どれに課金すべきですか」に変わりました。\n\n間違っているのは、「使っている」を「仕事が終わっている」と同じ意味で語ってしまうところ。ここがズレると、請求額だけが静かに増えていきます。\n\n先週、AI各社の値付けが真逆に動きました。\n\nGoogleはGemini 3.8 Flashを前世代と同額で出しつつ、2027年1月1日から入力・出力とも2倍に改定する予定を示しています。しかもGoogle自身が、高負荷時にトークン消費が増える傾向を認めている。\n\n一方Anthropicは、9月1日に予定していたSonnet 5の$3/$15への値上げを行わず、導入価格の$2/$10をそのまま標準価格にするとリリースノートに明記しました。\n\n同じ週に、実質増と信頼獲得が同時に起きたわけです。\n\nここから言えることは一つ。\n\n価格据え置きは、支払額の据え置きを意味しません。単価が同じでも、1タスクの処理量が増えれば請求額は増えます。見るべきは値札ではなく、「1回の仕事あたりいくらか」です。\n\n僕はこの基準で、毎年AIのパフォーマンスチェックをしています。\n\n今年課金を止めたのは、ミッドジャーニー、Stable Diffusion、GROK、Perplexity、Claude。\n\nGROKは商品名を作るのに強かった。「インサイダーズエッジ」という名前が決まったのはGROKのおかげです。惜しいけれど、マーケティングのアイディアを毎日考える仕事が、僕の一日にはそんなに無い。使用機会が減ったので外しました。\n\nPerplexityは検索の質が高い。厳密に言えばGeminiより良いと思います。でも同じ検索ならGeminiで足りて、GeminiにはGoogle Driveまで付いてくる。\n\n結婚したての夫婦2人が、8人乗りのアルファードを買う。席を持て余すのがもったいない。AIの課金も同じです。\n\n残った現役は3つ。ChatGPT、Gemini、NotebookLM。\n\nAIエージェントを組むときも、見方は変えていません。渡すのは「1回で終わる形に分解した仕事」。人が持つのは、その仕事をいくらで終わらせたいかという基準です。\n\n基準を持たないまま賢いモデルに丸投げすると、処理量が増えた分だけ請求が伸びて、出てくる成果は同じところに留まります。売れるマーケティングを人なしで回すというのは、1タスクの単価と結果を測り続ける仕事でもあります。\n\nそして、この話は自分の価格表にも跳ね返ってきます。\n\n値上げせずに実質単価を上げる会社と、値上げ予告を撤回して信頼を取りに行く会社。どちらが正しいかを決めるのは、顧客にどう見えるかです。\n\nみなさんが今いちばん課金しているAIは、この1週間でどの仕事を終わらせましたか。1つだけ挙げてみてください。\n\nー西埜巧祐",
+      "excerpt": "「AIを使っていません」という人は、もう少数派です。 これ、半分は正しくて、半分は間違っています。 正しいのは、触っている人が増えたこと。2023年にChatGPTが出て、対話型AIは数えきれないほど生まれました。",
+      "hook": "「AIを使っていません」という人はもう少数派の時代",
+      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-15/shared-0-landscape.png",
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 0,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-09-15-threads-1",
+      "channel": "threads",
+      "url": "https://www.threads.com/@kousuke_nishino/post/DdSggZxCec5",
+      "postedAt": "2026-09-14T23:00:00.000Z",
+      "text": "「先月も開いてないな」と思いながら、Perplexityの解約ボタンを押した。\n\n検索の精度は今でも向こうが上だと思う。でもGeminiで足りてしまった。\n\nGROKも同じだった。インサイダーズエッジという名前はGROKが出してくれた恩人なのに、商品名を毎日考える仕事なんてない。だから課金を止めた。\n\nAIを使っている人はもう当たり前になった。差がつくのは、クビにする判断ができるかどうかだった。\n\nエージェントを組むときも、僕が持つのは「どの道具に何を任せるか」の判断だけ。手はAIが全部動かす。\n\n残ったのはChatGPT、Gemini、NotebookLMの3つ。\n\n直近で課金を止めたAIは、どれでしたか？\n\nAIエージェントを作って暮らす30日 Day 14/30",
+      "excerpt": "「先月も開いてないな」と思いながら、Perplexityの解約ボタンを押した。 検索の精度は今でも向こうが上だと思う。でもGeminiで足りてしまった。 GROKも同じだった。",
+      "hook": "「AIを使っていません」という人はもう少数派の時代",
+      "imageUrl": null,
+      "videoUrl": null,
+      "metrics": {
+        "views": 3,
+        "impressions": 3,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "2026-09-15-x-1",
+      "channel": "x",
+      "url": "https://x.com/nishinokousuke/status/2099626777031188824",
+      "postedAt": "2026-09-14T22:30:00.000Z",
+      "text": "7日で47本。\n\nリーチ1114、いいね4、保存1。\n反応率0.45%。\n\n最も見られたのは、ビル・ゲイツを引用した1本で482リーチ。\n\n借り物の言葉が一番強かった。\n\n明日からは、この実数だけを材料にAIに書かせる。\n\nAIにSNSを任せた30日 Day 14/30",
+      "excerpt": "7日で47本。 リーチ1114、いいね4、保存1。 反応率0.45%。 最も見られたのは、ビル・ゲイツを引用した1本で482リーチ。 借り物の言葉が一番強かった。 明日からは、この実数だけを材料にAIに書かせる。",
+      "hook": "昨日までのSNS運用の実数を、そのまま公開する",
+      "imageUrl": null,
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 0,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-09-15-short1-x",
+      "channel": "x",
+      "url": "https://x.com/nishinokousuke/status/2099619377158963509",
+      "postedAt": "2026-09-14T22:00:00.000Z",
+      "text": "政府が止めに入るレベルのAIが出た。\n\n普通のセキュリティを突破する。\n銀行口座の操作まで届くから。\n\nただ広告で成果を出す道は何通りもある。\n仕事側が欲しいのは、その賢さより手数。\n\n裏側を話しました。",
+      "excerpt": "政府が止めに入るレベルのAIが出た。 普通のセキュリティを突破する。 銀行口座の操作まで届くから。 ただ広告で成果を出す道は何通りもある。 仕事側が欲しいのは、その賢さより手数。 裏側を話しました。",
+      "hook": "AIが賢すぎて政府介入するレベルの理由",
+      "imageUrl": null,
+      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-15/short1.mp4",
+      "metrics": {
+        "impressions": 0,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-09-15-short1-facebook",
+      "channel": "facebook",
+      "url": "https://www.facebook.com/reel/1458427156338809/",
+      "postedAt": "2026-09-14T22:00:00.000Z",
+      "text": "普通のセキュリティを突破してしまう。だからアメリカ政府が動く。\n\n最新モデルが「賢すぎて問題」になっている理由を、動画で話しました。私たちの銀行口座に侵入されて操作される、くらいの具体的な話です。\n\nただ、僕が本当に引っかかっているのはその先です。\n\nあれだけ賢いモデルが力を発揮するのは、バイオテクノロジーや高度なセキュリティのような、針の穴に糸を通す仕事。正解が一本しかない世界で、その一本を引き当てる能力が効く。\n\n一方で、広告の成果を上げる仕事は、正解のアプローチがたくさんあります。だから正直「そんなに賢くなられても、こちら困ります」という感覚になるんです。\n\n売れるマーケティングを人なしで再現するときに効くのは、天才的な一手より手数です。誰に何を言うか、どこを測るか、結果を見て次に何を変えるか。これを止めずに回し続けた側が勝つ。\n\nマーケティングの原則を10年やってきて分かったのは、この回し方そのものには型があるということ。型があるなら、AIエージェントに渡せます。\n\n人が持つのは、何を成果と呼ぶかの定義と、どの順番で試すかの判断。\nAIエージェントが持つのは、その判断に沿って作って出して測って直す部分。\n\nここまで輪郭がはっきりしていると、モデルが賢くなるたびに素直に速くなります。輪郭が曖昧なまま新しいモデルを待つと、毎回「すごいらしい」で終わってしまう。\n\n裏話としても面白いところなので、そのあたりを動画に入れてあります。\n\nみなさんは今、どのモデルを使うかより先に、AIに渡す仕事をどこまで言葉にできていますか。",
+      "excerpt": "普通のセキュリティを突破してしまう。だからアメリカ政府が動く。 最新モデルが「賢すぎて問題」になっている理由を、動画で話しました。私たちの銀行口座に侵入されて操作される、くらいの具体的な話です。",
+      "hook": "AIが賢すぎて政府介入するレベルの理由",
+      "imageUrl": null,
+      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-15/short1.mp4",
+      "metrics": {
+        "impressions": 0,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-09-15-short1-instagram",
+      "channel": "instagram",
+      "url": "https://www.instagram.com/reel/DdSKPO-jl-g/",
+      "postedAt": "2026-09-14T22:00:00.000Z",
+      "text": "モデルが賢くなると、政府が止めに入る。\n止める理由は、セキュリティを突破できてしまうからです。\n\n銀行口座に侵入されて、操作される。\nあり得る話として語られるところまで来ています。\n\nただ、ここからが動画で一番話したかったところ。\n\nその賢さが効くのは、バイオテクノロジーやセキュリティみたいな、針の穴に糸を通す世界です。\n広告の成果を上げたいとき、正解のアプローチは何通りもある。\n道が何本もある場所で、最短距離を計算できる頭脳を持ってきても、こちらは困ります。\n\n僕がAIエージェントに渡しているのは、賢さを要求する仕事ではありません。\n売れた型を、人が寝ている間も同じ精度で回し続ける仕事です。\n\n誰が書いても同じ結果になるところをエージェントに渡す。\n何を売るか、誰に届けるかは人が持つ。\nこの線引きができていれば、最新モデルが出るたびに振り回されなくなります。\n\nマーケティングの原則を10年やってきて、AIに実装してみて分かったのは、賢さより再現性だということ。\n\nみなさんの仕事で、最新モデルの賢さが本当に必要な工程はどこですか。\n\n#AI活用 #AIエージェント #マーケティング #生成AI #業務自動化 #経営者 #集客 #西埜巧祐",
+      "excerpt": "モデルが賢くなると、政府が止めに入る。 止める理由は、セキュリティを突破できてしまうからです。 銀行口座に侵入されて、操作される。 あり得る話として語られるところまで来ています。 ただ、ここからが動画で一番話したかったところ。",
+      "hook": "AIが賢すぎて政府介入するレベルの理由",
+      "imageUrl": null,
+      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-15/short1.mp4",
+      "metrics": {
+        "impressions": 13,
+        "views": 12,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-09-15-short1-threads",
+      "channel": "threads",
+      "url": "https://www.threads.com/@kousuke_nishino/post/DdSghZBDwXc",
+      "postedAt": "2026-09-14T22:00:00.000Z",
+      "text": "新しいモデルが「政府が止めるかどうか」の話になっている。理由はセキュリティを普通に突破してしまうから。\n\n動画では、その先で僕が正直に思っていることも話しています。針の穴に糸を通す仕事で強いモデルと、広告の成果を上げる仕事は、必要な賢さが別物だという話。\n\n賢さの上限を上げるより、やらせる範囲を決めるほうが売上に効く、というのが僕の立場です。\n\nみなさんが今AIに任せている仕事は、針の穴タイプと広告タイプ、どちらですか。",
+      "excerpt": "新しいモデルが「政府が止めるかどうか」の話になっている。理由はセキュリティを普通に突破してしまうから。 動画では、その先で僕が正直に思っていることも話しています。",
+      "hook": "AIが賢すぎて政府介入するレベルの理由",
+      "imageUrl": null,
+      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-15/short1.mp4",
+      "metrics": {
+        "views": 5,
+        "impressions": 5,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
     {
       "id": "2026-09-14-instagram-1",
       "channel": "instagram",
@@ -12,13 +178,31 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-14/shared-0-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 1,
-        "views": 6,
+        "impressions": 7,
+        "views": 14,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
         "saves": 0,
         "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-09-14-threads-principle",
+      "channel": "threads",
+      "url": "https://www.threads.com/@kousuke_nishino/post/DdROCOim-Bn",
+      "postedAt": "2026-09-14T08:30:00.000Z",
+      "text": "SNSで勉強しています、と言う人で大きく伸びた人を、僕はあまり見たことがありません。\n\n昔ある会社で面談を担当していた頃、良い候補者と伸びない候補者の差は、情報の取り方にはっきり出ていました。\n\n表に出ている情報は断片です。裏の話はほとんど出てきません。\n\nその結果、時間とお金を失った人を何人も見ています。僕が止めたのに聞き入れられなかったこともあります。\n\n表の情報に振り回されないための見方を3つ、リプライに置いておきます。",
+      "excerpt": "SNSで勉強しています、と言う人で大きく伸びた人を、僕はあまり見たことがありません。 昔ある会社で面談を担当していた頃、良い候補者と伸びない候補者の差は、情報の取り方にはっきり出ていました。 表に出ている情報は断片です。",
+      "hook": "表に出ている情報を鵜呑みにする代償──「知らない」「裏を見ない」が金を失わせる",
+      "imageUrl": null,
+      "videoUrl": null,
+      "metrics": {
+        "views": 6,
+        "impressions": 6,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0
       }
     },
     {
@@ -32,11 +216,11 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 0,
+        "impressions": 1,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 0
+        "engagementRate": 100
       }
     },
     {
@@ -50,7 +234,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-14/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 0,
+        "impressions": 4,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -68,7 +252,7 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-14/short1.mp4",
       "metrics": {
-        "impressions": 0,
+        "impressions": 9,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -86,13 +270,13 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-14/short1.mp4",
       "metrics": {
-        "impressions": 18,
-        "views": 20,
+        "impressions": 185,
+        "views": 204,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
-        "saves": 0,
-        "engagementRate": 0
+        "saves": 1,
+        "engagementRate": 0.54
       }
     },
     {
@@ -106,8 +290,8 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-14/short1.mp4",
       "metrics": {
-        "views": 25,
-        "impressions": 25,
+        "views": 26,
+        "impressions": 26,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -142,7 +326,7 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 0,
+        "impressions": 20,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -160,8 +344,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-13/shared-0-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 7,
-        "views": 10,
+        "impressions": 8,
+        "views": 11,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -198,7 +382,7 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-13/short1.mp4",
       "metrics": {
-        "impressions": 0,
+        "impressions": 3,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -216,8 +400,8 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-13/short1.mp4",
       "metrics": {
-        "impressions": 22,
-        "views": 21,
+        "impressions": 23,
+        "views": 22,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -236,8 +420,8 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-13/short1.mp4",
       "metrics": {
-        "views": 11,
-        "impressions": 11,
+        "views": 12,
+        "impressions": 12,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -272,7 +456,7 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 14,
+        "impressions": 15,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -290,8 +474,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-12/shared-0-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 9,
-        "views": 14,
+        "impressions": 10,
+        "views": 16,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -346,13 +530,13 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-12/short1.mp4",
       "metrics": {
-        "impressions": 61,
-        "views": 72,
+        "impressions": 62,
+        "views": 73,
         "reactions": 1,
         "comments": 0,
         "shares": 0,
         "saves": 0,
-        "engagementRate": 1.64
+        "engagementRate": 1.61
       }
     },
     {
@@ -371,190 +555,6 @@
         "reactions": 0,
         "comments": 0,
         "shares": 0
-      }
-    },
-    {
-      "id": "2026-09-12-threads-1",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/DdKwBDSmnOX",
-      "postedAt": "2026-09-11T23:00:00.000Z",
-      "text": "何かを得るなら、何かを差し出す。\n\nこの理を無視して得ようとすると、だいたいトラブルになる。僕も含めて。\n\n売上を得ているとき、僕らは自分の時間を差し出している。会社員も、経営者も、構造は同じ。\n\nでも時間は増えない。体力も、歳を取れば同じ無理はできなくなる。\n\nだから僕は、時間以外に差し出せるものを作ることにした。商品と、AIエージェント。\n\n商品は自分が寝ていても価値を渡してくれる。エージェントは、売るための動きを僕の手から離れたところで回してくれる。\n\n「1」に頼るのが怖かった。収入源も、動かす人間も。\n\nみなさんが今いちばん差し出しているのは、時間ですか。それとも商品ですか。\n\nAIエージェントを作って暮らす30日 Day 11/30",
-      "excerpt": "何かを得るなら、何かを差し出す。 この理を無視して得ようとすると、だいたいトラブルになる。僕も含めて。 売上を得ているとき、僕らは自分の時間を差し出している。会社員も、経営者も、構造は同じ。 でも時間は増えない。",
-      "hook": "何かを得るなら何かを差し出す。それがこの世界の理",
-      "imageUrl": null,
-      "videoUrl": null,
-      "metrics": {
-        "views": 16,
-        "impressions": 16,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
-      "id": "2026-09-12-x-1",
-      "channel": "x",
-      "url": "https://x.com/nishinokousuke/status/2098539626755391627",
-      "postedAt": "2026-09-11T22:30:00.000Z",
-      "text": "7日で43本出して、リーチ570・いいね3。\n保存もシェアも0。\n\n生成から配信、実績取得までAIエージェントが無人で回した結果です。\n\n量は人なしで出せる。\n刺さる一点は、まだ人が決めている。\n\n無人にできた工程、みなさんはどこまでですか。\n\nAIにSNSを任せた30日 Day 11/30",
-      "excerpt": "7日で43本出して、リーチ570・いいね3。 保存もシェアも0。 生成から配信、実績取得までAIエージェントが無人で回した結果です。 量は人なしで出せる。 刺さる一点は、まだ人が決めている。 無人にできた工程、みなさんはどこまでですか。",
-      "hook": "昨日までのSNS運用の実数を、そのまま公開する",
-      "imageUrl": null,
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 14,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-09-11-threads-thread",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/DdJdYICli7c",
-      "postedAt": "2026-09-11T12:30:00.000Z",
-      "text": "「ネットの誕生以来の発明」。ビル・ゲイツはAIをそう呼んだ。\n\nこの言葉に乗って「AIで効率化しよう」と言う人が多い。\n\nでも、この話には前提が1つ抜けている。\n\n僕がAIを使うべき理由の1位に置いているのは、効率化じゃない。要約でもない。\n\nもっと地味で、しかも一番効くところが別にある。\n\n順番に書きます。",
-      "excerpt": "「ネットの誕生以来の発明」。ビル・ゲイツはAIをそう呼んだ。 この言葉に乗って「AIで効率化しよう」と言う人が多い。 でも、この話には前提が1つ抜けている。 僕がAIを使うべき理由の1位に置いているのは、効率化じゃない。要約でもない。",
-      "hook": "AIを使うべき理由Top1はスキル習得の時間短縮",
-      "imageUrl": null,
-      "videoUrl": null,
-      "metrics": {
-        "views": 482,
-        "impressions": 482,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
-      "id": "2026-09-11-x-thread",
-      "channel": "x",
-      "url": "https://x.com/nishinokousuke/status/2098381231926677526",
-      "postedAt": "2026-09-11T12:00:00.000Z",
-      "text": "ビル・ゲイツはAIを「ネットの誕生以来の発明」と言った。僕も同意する。ただ、この話には前提が1つ抜けている。抜けたまま使うと、毎日ChatGPTを開いても何も変わらない。10年マーケティングをやって、そこで分かったこと。",
-      "excerpt": "ビル・ゲイツはAIを「ネットの誕生以来の発明」と言った。僕も同意する。ただ、この話には前提が1つ抜けている。抜けたまま使うと、毎日ChatGPTを開いても何も変わらない。10年マーケティングをやって、そこで分かったこと。",
-      "hook": "AIを使うべき理由Top1はスキル習得の時間短縮",
-      "imageUrl": null,
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 12,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 8.33
-      }
-    },
-    {
-      "id": "2026-09-11-instagram-1",
-      "channel": "instagram",
-      "url": "https://www.instagram.com/p/DdJCk76G5Ta/",
-      "postedAt": "2026-09-11T09:00:00.000Z",
-      "text": "「AGIは来たのか」で世界が割れてますが、僕の立場は一つだけです。\n\nAIは参謀になれる。でも意思決定者にはなれない。\n\n先日、自社の価格設定をAIに相談しました。\n返ってきた答えは「30万〜50万円が妥当」。\n\n論拠は筋が通っていました。市場、提供価値、比較対象。人間の参謀よりよく整理されていた。\n\nで、僕が選んだのは年間9,800円のサブスクです。\n真逆。\n\nAIが間違っていたわけじゃない。\n「誰に届けたいか」という、数字の外側にある部分を決めるのは僕の仕事だったという話です。\n\nここは、AGIが来ても変わらないと思っています。\n\n\nAIに渡しているもの／自分が持っているもの\n\n渡している：広告文の制作、広告動画の制作、集客LPのライティングの大部分\n持っている：価格をどうするか、誰に売るか、どこで撤退するか\n\n渡した側の結果は、CPA1000円で取れたり、500円の参加費のセミナーをCPA1万円で集められたり。\n平均点は取れます。\n\nただ、最高点は取れません。\n500円のセミナーの件は、僕が自分でやればもっとCPAを下げられたと思います。ここは正直に書いておきます。\n\n\nそれでも僕がAIに渡す理由\n\n売上が下がるよくあるパターンは、色々なことに手を取られて、マーケティングと販売活動がおろそかになることです。\n考える時間まで奪われていく。\n\n最高点を目指す以前の話なんです。\n\nだから僕は、結果における平均点を選びました。こだわりを守って手が止まるより、平均点が回り続けるほうが売上は伸びる。\n\n\nもう一つ。\n\n「ChatGPTみたいなツールがたくさん出てますが、どれがいいですか」\nワークショップでよく聞かれます。\n\n答えは「気にしなくていい」。ChatGPTだけで十分です。\n\nAIの専門家になる必要はありません。目的を達成できる使い方だけ知っておけばいい。その時間があるなら、マーケティングと販売活動をしたほうがいい。\n\n（僕はAIの会社を立ち上げたので、詳しくならざるを得ないのですが）\n\n\nAGIが来たかどうかは、正直どちらでもいいです。\n来ても、決めるのは自分です。\n\nみなさんが「これはAIに渡せない」と思っている判断を、一つだけ教えてもらえませんか。\n\n#AI活用 #ChatGPT活用 #マーケティング #経営者 #AIエージェント #集客 #価格設定 #意思決定",
-      "excerpt": "「AGIは来たのか」で世界が割れてますが、僕の立場は一つだけです。 AIは参謀になれる。でも意思決定者にはなれない。 先日、自社の価格設定をAIに相談しました。 返ってきた答えは「30万〜50万円が妥当」。 論拠は筋が通っていました。",
-      "hook": "AIの専門家になる必要はない。ChatGPTだけで十分",
-      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-11/shared-0-portrait.png",
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 11,
-        "views": 19,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "saves": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-09-11-threads-principle",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/DdJAZh4G2ha",
-      "postedAt": "2026-09-11T08:30:00.000Z",
-      "text": "企画もコピーも、一人で作ると必ず外す。\n\n僕はChatGPTと一緒に作ったヘッドラインを、メンバーに見せて「言葉の意味がわからない」と言われました。知識も経験も、僕より浅い人たちからです。\n\nそれでゼロから作り直したら、反応がよくなった。\n\nほとんどの人が逆をやっていると思います。一人で仕上げて、出してから反応を見る。\n\n自分の見落としを外から潰すために、僕がやっていることを3つ書きます。\n\n続きはリプライに。",
-      "excerpt": "企画もコピーも、一人で作ると必ず外す。 僕はChatGPTと一緒に作ったヘッドラインを、メンバーに見せて「言葉の意味がわからない」と言われました。知識も経験も、僕より浅い人たちからです。 それでゼロから作り直したら、反応がよくなった。",
-      "hook": "自分一人の目には、成果を生む「見落とし」が必ず残る",
-      "imageUrl": null,
-      "videoUrl": null,
-      "metrics": {
-        "views": 8,
-        "impressions": 8,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
-      "id": "2026-09-11-x-principle",
-      "channel": "x",
-      "url": "https://x.com/nishinokousuke/status/2098320658992108000",
-      "postedAt": "2026-09-11T08:00:00.000Z",
-      "text": "自分で作ったものの欠点は、自分では見えません。\n\n僕はChatGPTと作ったヘッドラインを、知識の浅いメンバーに酷評されました。作り直したら反応が変わりました。\n\nほとんどの人が逆をやっています。一人で完成させてから出す。\n\n見落としを見つける3つのポイントを、リプライに書きます。",
-      "excerpt": "自分で作ったものの欠点は、自分では見えません。 僕はChatGPTと作ったヘッドラインを、知識の浅いメンバーに酷評されました。作り直したら反応が変わりました。 ほとんどの人が逆をやっています。一人で完成させてから出す。",
-      "hook": "自分一人の目には、成果を生む「見落とし」が必ず残る",
-      "imageUrl": null,
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 3,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 33.33
-      }
-    },
-    {
-      "id": "2026-09-11-facebook-1",
-      "channel": "facebook",
-      "url": "https://www.facebook.com/122233359788030234/posts/122551915298030234",
-      "postedAt": "2026-09-11T03:00:00.000Z",
-      "text": "AIに自社の価格を相談したら「30万〜50万円が妥当」と返ってきた。僕はその真逆、年間9,800円のサブスクを選んだ。\n\n「AGIはもう来たのか」で世界中が割れているけれど、僕の立場はどちらでもない。来ても来なくても、意思決定だけは人間に残る。参謀にはなれても、決める人にはなれない。\n\nそう言えるようになるまでに、僕はけっこう遠回りをした。\n\n最初に疑ったのは「まだいいAIを使っていないから」でした。ChatGPTのようなツールが次々に出てきて、Googleも出す。どれが一番いいのかが気になって、比較して、試して、また新しいのが出る。その間、マーケティングと販売活動の手は止まっていました。\n\nでも原因はツール選びではなかった。\n\n本当の原因は、僕が「AIの専門家になろうとしていた」ことです。目的は売上と集客なのに、いつのまにか目的がAIに詳しくなることへすり替わっていた。\n\nAIライティングのワークショップをやったとき、参加者からまさに同じ質問をもらいました。「どれが良いってありますか？」\n\n答えは「気にしなくていい」です。ChatGopTではなくChatGPTだけで十分。目的を中心に、目的を達成できることだけ知っておけばいい。あるいは、その目的を達成できる使い方を知っている人に聞けばいい。それだけです。\n\n僕がAIに詳しくならざるを得ないのは、AIの会社を立ち上げたからで、みなさんが同じ道を通る必要はまったくない。その時間があるなら、マーケティングと販売活動に使ったほうがいい。\n\nもうひとつ、遠回りしてわかったことがあります。\n\nAIは平均点を取れる。最高点は取れない。\n\n僕の会社では、広告文も広告動画も、集客用LPのライティングの大部分もAIになっています。CPAが1000円で取れたり、500円の参加費のセミナーをCPA1万円で集められたり。平均点は出るようになりました。\n\nただ、あの500円のセミナーは、僕が自分でやればもっとCPAを下げられたはずです。そこは正直に認めます。\n\nでは最高点を目指すべきなのか。ここで引っかかったのが「誰にとっての最高点なのか」という点でした。\n\n僕は自分が出したLPや戦略に満足したことが一度もありません。それでもクライアントは満足してくれる。そして結果は、良いものも平均的なものも失敗もある。自己評価と他人評価と結果は、全部別物なんです。\n\nつまり「最高点を目指す」は、こだわりかエゴのどちらかになりやすい。僕がAIを使い始めたのは、結果における平均点を選んだからでした。リソースの兼ね合いもあります。\n\n売上が落ちるよくある流れは、いろいろなことに手を取られて、マーケティングと販売活動がおろそかになることです。考える時間まで奪われて、量も質も下がっていく。最高点どころの話ではなくなる。\n\nだからいまは、こう分けています。\n\n広告文・動画・LPの下書きのように「平均点で回る仕事」はAIとエージェントに渡す。誰に何をいくらで売るかという意思決定は、僕が持つ。30万〜50万円と言われて9,800円を選んだのは、後者だったからです。\n\nAIが賢くなるほど、渡せる仕事は増える。それでも決める場所は増えない。僕はここが変わらないほうに賭けています。\n\nみなさんが「これはAIに渡さない」と決めている判断は、どれですか。価格ですか、それとも誰に売るかですか。",
-      "excerpt": "AIに自社の価格を相談したら「30万〜50万円が妥当」と返ってきた。僕はその真逆、年間9,800円のサブスクを選んだ。 「AGIはもう来たのか」で世界中が割れているけれど、僕の立場はどちらでもない。",
-      "hook": "AIの専門家になる必要はない。ChatGPTだけで十分",
-      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-11/shared-0-landscape.png",
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 13,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 23.08
-      }
-    },
-    {
-      "id": "2026-09-11-short1-x",
-      "channel": "x",
-      "url": "https://x.com/nishinokousuke/status/2098239424052011275",
-      "postedAt": "2026-09-11T02:37:00.000Z",
-      "text": "「エージェントに任せたのに動いてない」の原因、たいていこれです。\n\nクロードのエージェントは、PCを開けてアプリが起動していないと止まる。\n\n指示なしで動かせる強さと、その前提条件を動画で話しました。\n\n導入前に知っておくと、期待値がズレません。",
-      "excerpt": "「エージェントに任せたのに動いてない」の原因、たいていこれです。 クロードのエージェントは、PCを開けてアプリが起動していないと止まる。 指示なしで動かせる強さと、その前提条件を動画で話しました。 導入前に知っておくと、期待値がズレません。",
-      "hook": "クロードのエージェントはPCを開けてないと動かない",
-      "imageUrl": null,
-      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-11/short1.mp4",
-      "metrics": {
-        "impressions": 10,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-09-11-short1-instagram",
-      "channel": "instagram",
-      "url": "https://www.instagram.com/reel/DdIWuXdiTXv/",
-      "postedAt": "2026-09-11T02:37:00.000Z",
-      "text": "「仕事やっといて」で最後まで走るエージェント。\nでもPCを閉じた瞬間、止まります。\n\nクロードのエージェント機能（Claude Code / Claude のエージェント）を、導入前に知っておくべき制約から話しました。\n\nメールを巡回して見るべきものをピックアップする。決まった時間に情報を出す。\nこういう「指示をせずとも動く」仕事は、たしかに任せられます。\n\nただ、アプリが起動した状態じゃないと動かない。\nここを知らずに「全部自動化できる」と思って入れると、確実にズレます。\n\n僕がAIとAIエージェントで売れる仕組みを組むとき、最初にやるのはこの線引きです。\n\n・人がPCを開けている時間に走らせる仕事\n・開いていなくても走っていてほしい仕事\n\nこの2つを混ぜたまま設計すると、「動いているはず」の抜けが発生する。\nそして抜けたことに誰も気づかない。これが一番こわい。\n\nツールの機能を覚えるより、どこまでを渡せるかを先に決める。\nマーケティングの原則を10年やってきて、AIに実装するようになってから、ここが一番効きました。\n\nみなさんがいま自動で回したい業務は、PCを開けている時間の中で終わりますか。\n\n#AIエージェント #クロード #ClaudeCode #AI活用 #マーケティング #業務自動化 #生成AI #西埜巧祐",
-      "excerpt": "「仕事やっといて」で最後まで走るエージェント。 でもPCを閉じた瞬間、止まります。 クロードのエージェント機能（Claude Code / Claude のエージェント）を、導入前に知っておくべき制約から話しました。",
-      "hook": "クロードのエージェントはPCを開けてないと動かない",
-      "imageUrl": null,
-      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-11/short1.mp4",
-      "metrics": {
-        "impressions": 99,
-        "views": 108,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "saves": 0,
-        "engagementRate": 0
       }
     }
   ]
