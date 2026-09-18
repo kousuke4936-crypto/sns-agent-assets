@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-09-17T11:17:06.059Z",
+  "generatedAt": "2026-09-18T06:09:05.233Z",
   "posts": [
+    {
+      "id": "2026-09-18-facebook-1",
+      "channel": "facebook",
+      "url": "https://www.facebook.com/122233359788030234/posts/122556826508030234",
+      "postedAt": "2026-09-18T03:00:00.000Z",
+      "text": "セブン-イレブンのAI生成掲示物が指摘されて拡散していましたが、あれを見て「うちも他人事じゃないな」と思った人、けっこういるはずです。\n\nAIまわりで事故る会社あるある、書きます。僕も全部やったことがあるので、自分を含めた話です。\n\n・とりあえず全社でChatGPTを契約した。誰が何に使っているかは誰も把握していない\n・出てきた文章を、ほぼそのまま外に出している。読み返す人が決まっていない\n・「AIっぽい」と言われたとき、直す人ではなく犯人を探しはじめる\n・支払いはPCのブラウザから契約したまま。為替が動いていることに気づいていない\n・AIの出力に最終責任を持つ人が、社内に一人もいない\n\n最後の二つ、地味に効いてきます。\n\n僕、去年ChatGPTを一度解約しました。そしてまた契約しました。何してんねんという話ですが、理由があって、アプリ経由で契約し直したんです。\n\nPCで契約するとクレジットカード払いになって、決済当日の為替でそのまま決まる。20ドルなら、1ドル150円のときは3000円。1ドル160円になれば3200円。170円になれば3400円です。\n\n日本は円安の時代に入っていて、今後さらに進むと僕は見ています。だから今のタイミングで契約し直した方が得だと判断して、わざわざアプリから申し込みました。\n\nくだらない話に聞こえるかもしれません。でも1ドル170円になった場合、得するのは400円。1年で4800円。10年で4万8000円。ツールが増えれば、この差は数十万円、場合によっては100万円単位になります。\n\nこの話、スーツのクリーニング機の話と同じ構造だなと思っています。\n\nある投資家兼経営者の方と先日はじめて2人でご飯に行きました。喋るたびに「優秀だな」としみじみ思う方です。その人が、スーツのクリーニング機を買った理由をこう言っていました。「これ、年間のクリーニング代が5年くらいで回収できるんですよ」と。\n\n普通の人は「この機械、たっか！」で止まります。そこで思考停止する。考えるスパンが目の前しかない。\n\nAIも同じです。月額がいくらか、という話で止まっている会社は、AIを経費として見ています。何を任せて、何が返ってきて、それが誰の時間を何時間返してくれたのか。ここまで見ている会社は、投資として見ています。\n\nそして、投資として見るなら、出てきたものを検品する人が要ります。\n\nAIの出力は平均値です。平均値をそのまま外に出せば、必ず違和感が出る。セブン-イレブンの件で叩かれていたのはAIそのものより、AIに丸投げした状態の方だと思っています。\n\n量はAIに出させる。選んで磨くのは人間が持つ。この一線を誰が持つかを決めていない組織が、現場レベルで事故ります。\n\n僕がやっているのは、マーケティングの原則をAIエージェントに実装することです。原則を知らないまま出力させると、平均値がそのまま出てくる。原則を持った人が最後に手を入れるから、外に出せるものになる。\n\n今日ひとつだけ決めるなら、社内でAIの出力に最終責任を持つ人の名前だと思います。\n\nみなさんの会社では、AIが書いたものを外に出す前に、誰が読んでいますか。",
+      "excerpt": "セブン-イレブンのAI生成掲示物が指摘されて拡散していましたが、あれを見て「うちも他人事じゃないな」と思った人、けっこういるはずです。 AIまわりで事故る会社あるある、書きます。僕も全部やったことがあるので、自分を含めた話です。",
+      "hook": "ChatGPTはアプリ経由契約の方が円安時代に得する",
+      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-18/shared-0-landscape.png",
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 0,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-09-18-x-1",
+      "channel": "x",
+      "url": "https://x.com/nishinokousuke/status/2100713955891024142",
+      "postedAt": "2026-09-17T22:30:00.000Z",
+      "text": "7日で52本投稿。リーチ2628。\n\nうち1283は、たった1本。\n残り51本で1345。\n\n保存1、コメント0。\n\n量はAIエージェントが無人で出す。\n人の仕事は、当たった1本が当たった理由を言葉にすること。\n\n直近で一番伸びた1本、思い出せますか。\n\nAIにSNSを任せた30日 Day 17/30",
+      "excerpt": "7日で52本投稿。リーチ2628。 うち1283は、たった1本。 残り51本で1345。 保存1、コメント0。 量はAIエージェントが無人で出す。 人の仕事は、当たった1本が当たった理由を言葉にすること。",
+      "hook": "昨日までのSNS運用の実数を、そのまま公開する",
+      "imageUrl": null,
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 0,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
     {
       "id": "2026-09-17-instagram-1",
       "channel": "instagram",
@@ -12,8 +48,9 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-17/shared-0-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 1,
+        "impressions": 2,
         "views": 2,
+        "reach": 1,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -32,11 +69,11 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-17/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 0,
+        "impressions": 12,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 0
+        "engagementRate": 8.33
       }
     },
     {
@@ -50,8 +87,8 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 8,
-        "impressions": 8,
+        "views": 9,
+        "impressions": 9,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -86,8 +123,9 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-16/shared-0-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 1,
+        "impressions": 2,
         "views": 2,
+        "reach": 1,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -124,7 +162,7 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-16/short1.mp4",
       "metrics": {
-        "impressions": 4,
+        "impressions": 6,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -142,8 +180,9 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-16/short1.mp4",
       "metrics": {
-        "impressions": 38,
+        "impressions": 40,
         "views": 40,
+        "reach": 38,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -167,6 +206,81 @@
         "reactions": 0,
         "comments": 0,
         "shares": 0
+      }
+    },
+    {
+      "id": "2026-09-16-news1-x",
+      "channel": "x",
+      "url": "https://x.com/nishinokousuke/status/2100027649158467919",
+      "postedAt": "2026-09-16T01:03:00.000Z",
+      "text": "Gemini 3.8 Liveが出た。\n\n会話を止めずに、裏でツールやAPIを叩く。\n\n「ちょっと確認しますね」と言いながら、実際に確認が進む。\n\n電話対応で人が張り付いていた「保留」が、ここで消える。\n\nまず見るべきは料金と提供範囲だと思う。",
+      "excerpt": "Gemini 3.8 Liveが出た。 会話を止めずに、裏でツールやAPIを叩く。 「ちょっと確認しますね」と言いながら、実際に確認が進む。 電話対応で人が張り付いていた「保留」が、ここで消える。 まず見るべきは料金と提供範囲だと思う。",
+      "hook": "音声AIが会話を止めずに裏でタスクを実行する時代",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-8_live___keyword__blog-social.width-1300.png",
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 32,
+        "reactions": 2,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 9.38
+      }
+    },
+    {
+      "id": "2026-09-16-news1-threads",
+      "channel": "threads",
+      "url": "https://www.threads.com/@kousuke_nishino/post/DdVD5GgGZCR",
+      "postedAt": "2026-09-16T01:03:00.000Z",
+      "text": "Gemini 3.8 Live、会話の途中で言語を自動検知して切り替わる。対応は97言語。\n\n地味ですが、これは実務が変わる合図だと思っています。\n\n「英語対応できる人を採用する」が、これまで多言語窓口の前提でした。そこが設計の話に移る。\n\n人が持つのは、クレームの線引きと一次対応の判断。言語の切替はモデルに渡す。\n\nまず確認すべきは価格と提供範囲です。無料枠かAPI課金か、日本でどこまで使えるか。ここで実務判断が決まる。\n\nみなさんの現場だと、外国語の問い合わせは月にどれくらい来ますか。",
+      "excerpt": "Gemini 3.8 Live、会話の途中で言語を自動検知して切り替わる。対応は97言語。 地味ですが、これは実務が変わる合図だと思っています。 「英語対応できる人を採用する」が、これまで多言語窓口の前提でした。そこが設計の話に移る。",
+      "hook": "97言語を会話の途中で自動検知・切替するGemini 3.8 Live",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-8_live___keyword__blog-social.width-1300.png",
+      "videoUrl": null,
+      "metrics": {
+        "views": 4,
+        "impressions": 4,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "2026-09-16-news1-facebook",
+      "channel": "facebook",
+      "url": "https://www.facebook.com/122233359788030234/posts/122552546636030234",
+      "postedAt": "2026-09-16T01:03:00.000Z",
+      "text": "「ちょっと確認しますね」と言いながら、考えているAIが出てきました。\n\nGoogleがGemini 3.8 LiveとGemini 3.8 Live Extended Thinkingを発表しました（9月15日）。音声で会話するためのモデルです。\n\n何が変わったか。\n\nこれまでの音声AIは、処理している間ずっと沈黙します。人間はその間、聞こえているのか不安になる。ここが音声業務の自動化を止めていた一番の壁でした。\n\n今回のExtended Thinkingは、考えながら同時に話します。「Let me check that…（ちょっと確認しますね）」と先に声を返し、複数手順の作業が今どこまで進んだかを実況しながら進める。裏側でツールやAPIを叩いている間も、会話は止まりません。\n\nもう一方の3.8 Liveは、映像をほぼリアルタイムで見て答える。会話の途中で言語が変わっても、97言語のあいだを自動で切り替えます。\n\n公式発表の数字では、Extended ThinkingがArtificial AnalysisのSpeech to Speech Quality Indexで首位（82.6）、音声での推論を測るBig Bench Audioで97.7%、エージェントとしてのタスク完遂を測るτ-Voiceで68.6%。3.8 LiveはSpeech Agent Arenaで2位です。\n\nで、これが実務の何を変えるか。\n\n「人が張り付いていないと回らなかった業務」の入口が開きます。カスタマーサポートの一次対応。営業ロープレの相手役。店頭での接客案内。ウェビナー中の質問さばき。どれも、沈黙が許されないから人を置いていた領域です。\n\nそしてもう一点。速いモデルと深く考えるモデルが同時に出たことの意味は大きいと思います。全部を賢いモデルに任せる時代は終わって、これからは「即答の安さ」と「熟考の精度」を、用途ごとに振り分ける設計が前提になる。マーケティングの現場でいえば、よくある質問は安いほうへ、見積もりや条件の詰めは深いほうへ、という分岐を自分で設計することになります。ここは人の仕事として残ります。\n\nただし、判断の起点は性能より先に価格と提供範囲です。無料枠で触れるのかAPI課金なのか、考えている時間ぶんのトークンがどう課金されるのか、日本でどこまで使えるのか。ここが見えるまで、導入の絵は描けません。現時点で確定しているのは公式発表の事実だけで、細かい仕様と料金は僕もまだ確認できていません。\n\nみなさんの現場で、いま人が張り付いている音声業務をひとつ挙げるなら、どれですか。",
+      "excerpt": "「ちょっと確認しますね」と言いながら、考えているAIが出てきました。 GoogleがGemini 3.8 LiveとGemini 3.8 Live Extended Thinkingを発表しました（9月15日）。",
+      "hook": "「ちょっと確認しますね」と話しながら考えるAI",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-8_live___keyword__blog-social.width-1300.png",
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 6,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 33.33
+      }
+    },
+    {
+      "id": "2026-09-16-news1-instagram",
+      "channel": "instagram",
+      "url": "https://www.instagram.com/p/DdVD36JgIZV/",
+      "postedAt": "2026-09-16T01:03:00.000Z",
+      "text": "Gemini 3.8 Live Extended Thinking が、音声対話の品質指数で1位（82.6）を取りました。\n\n注目してほしいのは点数より「同時にやれること」です。\n\nGoogleが発表したのは2つのモデル。\n\n3.8 Live：規模とコスト効率向け。会話しながら映像も見る\n3.8 Live Extended Thinking：多段の推論が必要な複雑タスク向け\n\n発表に載っていた数字を並べます。\n\nSpeech to Speech Quality Index：1位、82.6\nτ-Voice（エージェント的なタスク完遂）：68.6%\nSierraのτ-Voice-banking：35.1%\nBig Bench Audio（音声での推論）：97.7%\n対応言語：97言語を会話の途中で自動で切り替え\n3.8 Live はSpeech Agent Arenaで2位\n\nベンチマークというのは、同じ問題集を各社のAIに解かせて比べたテストのことです。順位は条件で動くので、鵜呑みにはしません。\n\nそれでも実務で効いてくるのは、ここだと思います。\n\n会話を止めずに、裏でツールやAPIを叩いて処理を進める。\n「ちょっと確認しますね」と先に声で受けて、進捗を話しながら作業を終わらせる。\n\n人が電話口でやっていた動作そのものです。\n\nだから僕は、この手のリアルタイム音声・画面共有型のAIを、「人が張り付いていた業務」の入口だと見ています。\n\nカスタマーサポート\n営業ロープレ\n店頭の接客\nウェビナーの運用\n\nどれも、人が常時そこにいることでしか成り立たなかった業務です。\n\nもうひとつ。即答モデルと熟考モデルが並んで出たことの意味が大きいと思います。\n\n問い合わせの一次対応は、安くて速いほうでいい。\n条件が絡む見積もりや与信の判断は、考えるほうに回す。\n\nこの振り分けを最初に設計図に書けるかどうかで、運用コストが変わります。全部を賢いモデルに流すと、料金は上がって体験は遅くなります。\n\n実務の判断は、まず確認からです。\n\n無料枠なのかAPI課金なのか\n「考えた分」のトークンがどう課金されるのか\n日本での提供がどこまで来ているのか\n\n現時点で確定しているのは公式発表の事実だけで、細かい仕様と料金は僕もまだ確認中です。\n\n生成された音声にはSynthIDという電子透かしが入る、という記述もありました。AIが作った音声だと後から判別できる仕組みです。\n\nマーケティングの原則を10年やってきて思うのは、置き換わるのは「対応」で、残るのは「何を売るか」の設計だということ。\n\n台本と判断基準を人が持つ。\n喋るところはAIに渡す。\n\nみなさんの現場で、一番長く人が張り付いている会話業務はどれですか。\n\n#AI活用 #AIエージェント #Gemini #音声AI #マーケティング #マーケティング戦略 #業務効率化 #カスタマーサポート #経営者 #AI最新情報",
+      "excerpt": "Gemini 3.8 Live Extended Thinking が、音声対話の品質指数で1位（82.6）を取りました。 注目してほしいのは点数より「同時にやれること」です。 Googleが発表したのは2つのモデル。",
+      "hook": "Speech to Speech品質指数で1位82.6を獲得",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-8_live___keyword__blog-social.width-1300.png",
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 8,
+        "views": 8,
+        "reach": 3,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "engagementRate": 0
       }
     },
     {
@@ -216,8 +330,8 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 1517,
-        "impressions": 1517,
+        "views": 1523,
+        "impressions": 1523,
         "reactions": 3,
         "comments": 0,
         "shares": 0
@@ -234,8 +348,9 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-15/2026-09-15-instagram-cross2.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 7,
+        "impressions": 9,
         "views": 9,
+        "reach": 7,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -272,7 +387,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-15/2026-09-15-facebook-cross1.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 9,
+        "impressions": 10,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -290,8 +405,9 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-15/shared-0-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 5,
+        "impressions": 7,
         "views": 7,
+        "reach": 5,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -310,7 +426,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-15/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 14,
+        "impressions": 15,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -382,7 +498,7 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-15/short1.mp4",
       "metrics": {
-        "impressions": 3,
+        "impressions": 4,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -400,8 +516,9 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-15/short1.mp4",
       "metrics": {
-        "impressions": 21,
+        "impressions": 20,
         "views": 20,
+        "reach": 21,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -420,8 +537,8 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-15/short1.mp4",
       "metrics": {
-        "views": 10,
-        "impressions": 10,
+        "views": 11,
+        "impressions": 11,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -438,123 +555,14 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-14/shared-0-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 9,
+        "impressions": 21,
         "views": 21,
+        "reach": 9,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
         "saves": 0,
         "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-09-14-threads-principle",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/DdROCOim-Bn",
-      "postedAt": "2026-09-14T08:30:00.000Z",
-      "text": "SNSで勉強しています、と言う人で大きく伸びた人を、僕はあまり見たことがありません。\n\n昔ある会社で面談を担当していた頃、良い候補者と伸びない候補者の差は、情報の取り方にはっきり出ていました。\n\n表に出ている情報は断片です。裏の話はほとんど出てきません。\n\nその結果、時間とお金を失った人を何人も見ています。僕が止めたのに聞き入れられなかったこともあります。\n\n表の情報に振り回されないための見方を3つ、リプライに置いておきます。",
-      "excerpt": "SNSで勉強しています、と言う人で大きく伸びた人を、僕はあまり見たことがありません。 昔ある会社で面談を担当していた頃、良い候補者と伸びない候補者の差は、情報の取り方にはっきり出ていました。 表に出ている情報は断片です。",
-      "hook": "表に出ている情報を鵜呑みにする代償──「知らない」「裏を見ない」が金を失わせる",
-      "imageUrl": null,
-      "videoUrl": null,
-      "metrics": {
-        "views": 7,
-        "impressions": 7,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
-      "id": "2026-09-14-x-principle",
-      "channel": "x",
-      "url": "https://x.com/nishinokousuke/status/2099410509430767945",
-      "postedAt": "2026-09-14T08:00:00.000Z",
-      "text": "表に出ている情報を鵜呑みにして、時間とお金を失う人を何人も見てきました。\n\n僕のクライアントもSNS集客で損をしました。止めたのですが、聞き入れられませんでした。\n\n裏を見るために僕がやっていることを3つ書きます。\n\nほとんどの人が逆をやっています。\n\n続きはリプライに。",
-      "excerpt": "表に出ている情報を鵜呑みにして、時間とお金を失う人を何人も見てきました。 僕のクライアントもSNS集客で損をしました。止めたのですが、聞き入れられませんでした。 裏を見るために僕がやっていることを3つ書きます。",
-      "hook": "表に出ている情報を鵜呑みにする代償──「知らない」「裏を見ない」が金を失わせる",
-      "imageUrl": null,
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 6,
-        "reactions": 1,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 33.33
-      }
-    },
-    {
-      "id": "2026-09-14-facebook-1",
-      "channel": "facebook",
-      "url": "https://www.facebook.com/122233359788030234/posts/122552310614030234",
-      "postedAt": "2026-09-14T03:00:00.000Z",
-      "text": "水出しコーヒーを、3年避けていました。\n\n周りからは「簡単だよ」と言われ続けていたのに、です。\n\nコーヒーは豆を挽いて自分で淹れるようになっていました。でもアイスにするとなると、氷を用意したり、なんだかんだ手間がかかる。水出しならラクだと聞いてはいたけれど、器具を買って、手順を覚えて、というところで毎年止まっていました。\n\nこの夏、ついにやりました。\n\n前の晩、仙台牛のリブロースでバーガーを作りながら、その横で豆を挽いて、粉と水をフィルター器具に入れて冷蔵庫へ。10時間くらい置くだけ。翌朝飲んでみたら、喉越しが滑らかで、冷たくて、最高の一言でした。\n\nそして出てきた感想が、これです。\n\n「簡単すぎ」\n\nお湯で淹れるほうがよっぽど難しい。湯の量、温度、挽き加減、気にする観点が多い。水出しはそれが全部いらなかった。3年分の腰の重さは、完全に想像の産物でした。\n\nこれ、マーケティングもセールスも、AIも、まったく同じ構造をしています。\n\n人は三つに分かれます。難しそうだと思って学ばない人。学んだけれどやらない人。実際にやった人。そして大半が、最初の二つで止まります。\n\n僕はマーケティングの原則を10年やってきて、いまそれをAIとAIエージェントに実装しています。その立場から見ると、AIで止まっている人の止まり方は、水出しコーヒーで止まっていた僕とまったく同じです。器具を買う前に、頭の中で難易度を勝手に上げている。\n\nただ、ここから先は水出しコーヒーと違うところがあります。\n\nAIは「とりあえず触ってみる」だけだと、面白かったで終わります。触った先で、何を渡すかを決めないといけない。\n\n渡すのは、判断の要らない繰り返しです。\n\n売れた広告の切り口を並べ直す。問い合わせの一次返信を型に沿って書く。商談の録音から、お客さんが実際に使った言葉を抜き出す。提案書のたたき台を、過去の勝ちパターンの形式で組む。このあたりは、人がやっても機械がやっても結果があまり変わりません。むしろ、疲れない分だけ機械のほうが安定します。\n\n逆に、人が持ち続けるものもあります。\n\n誰に売るのかを決めること。何を言わないと決めること。出てきたものを見て「これは違う」と言えること。ここは原則を知っている人間の仕事で、渡した瞬間に組織から売れる理由が消えます。\n\nつまり、AIエージェントに任せるというのは、全部投げることではありません。売れる型を先に言語化して、その型の再現をまるごと機械側に置く、という作業です。型がないままAIを入れると、型のない仕事が速く量産されるだけになります。\n\nそれでも、まず触らないと、その線引きの議論すら始まりません。\n\n去年と同じことをしていたら、去年と同じ結果か、少し悪い結果になります。競合は増えるし、お客さんの目も肥えていくので。だから新しいことを始める訓練は、小さいところで積んでおいたほうがいい。小さいことができない人が、大きい決断だけできるということは、まず起きないので。\n\n僕は3年、水出しコーヒーを後回しにして、やってみたら1晩で終わりました。早くやればよかった。\n\nみなさんが「簡単だよ」と言われながら、まだ手をつけていないものは何ですか。仕事のことでも、コーヒーのことでも。",
-      "excerpt": "水出しコーヒーを、3年避けていました。 周りからは「簡単だよ」と言われ続けていたのに、です。 コーヒーは豆を挽いて自分で淹れるようになっていました。でもアイスにするとなると、氷を用意したり、なんだかんだ手間がかかる。",
-      "hook": "新しいことを始める腰の重さは誰にでもある",
-      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-14/shared-0-landscape.png",
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 6,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-09-14-short1-x",
-      "channel": "x",
-      "url": "https://x.com/nishinokousuke/status/2099330576901644795",
-      "postedAt": "2026-09-14T02:53:00.000Z",
-      "text": "デスクトップのChatGPTアプリ、\n一度消して入れ直してください。\n\n入れ直すまで、今回の更新が\n届いていない人がいます。\n\nプロプランを契約し直すか\n迷うくらいの中身でした。",
-      "excerpt": "デスクトップのChatGPTアプリ、 一度消して入れ直してください。 入れ直すまで、今回の更新が 届いていない人がいます。 プロプランを契約し直すか 迷うくらいの中身でした。",
-      "hook": "ChatGPTアプリを今すぐ再ダウンロードすべき理由",
-      "imageUrl": null,
-      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-14/short1.mp4",
-      "metrics": {
-        "impressions": 18,
-        "reactions": 1,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 5.56
-      }
-    },
-    {
-      "id": "2026-09-14-short1-instagram",
-      "channel": "instagram",
-      "url": "https://www.instagram.com/reel/DdQG39Yj7lL/",
-      "postedAt": "2026-09-14T02:53:00.000Z",
-      "text": "デスクトップのChatGPT、一度消してから入れ直してください。\n\n今のままだと、今回のアップデートがフルで動かない可能性があります。\n\n僕は今年の前半、正直ChatGPTにそこまで期待していませんでした。プロプランからプラスプランに落としたくらいです。\n\nその僕が、プロをもう一度契約してもいいかと思ったのが今回のアップデートでした。\n\n面白いのは、クライアントさんや講座の受講生に聞くと、入れ替わっている人と、そのままの人で分かれていること。\n\n同じアプリを使っているつもりで、手元の性能が違う状態になっている。\n\nAIでマーケティングを再現する仕事をしていて、いつも感じるのはここです。\n\n何を指示するかを詰める前に、指示を受け取る側が最新かどうか。ここで差がつきます。\n\nプロンプトは磨けば伸びますが、土台が古いままだと、磨いた分がそのまま消えます。\n\n動画では、今回どこが変わったのかと、再ダウンロードの前に確認しておくところを話しています。\n\nみなさんのChatGPTアプリ、最終更新はいつになっていますか。\n\n#ChatGPT #AI活用 #AIエージェント #マーケティング #生成AI #業務効率化 #西埜巧祐",
-      "excerpt": "デスクトップのChatGPT、一度消してから入れ直してください。 今のままだと、今回のアップデートがフルで動かない可能性があります。 僕は今年の前半、正直ChatGPTにそこまで期待していませんでした。",
-      "hook": "ChatGPTアプリを今すぐ再ダウンロードすべき理由",
-      "imageUrl": null,
-      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-14/short1.mp4",
-      "metrics": {
-        "impressions": 210,
-        "views": 230,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "saves": 1,
-        "engagementRate": 0.48
-      }
-    },
-    {
-      "id": "2026-09-14-short1-threads",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/DdQaiccEuR4",
-      "postedAt": "2026-09-14T02:53:00.000Z",
-      "text": "デスクトップのChatGPTアプリ、一度消してから入れ直してみてください。\n\n今回のアップデート、入れ直さないと反映されていない人がいます。僕のクライアントさんや講座の受講生でも分かれていました。\n\n正直、今年の前半はプロプランをダウングレードしてプラスにしていたくらい興味が薄れていたんですが、これは契約し直そうかと思うくらいの中身でした。\n\n動画では、どこがそこまで変わったのかを話しています。\n\nみなさんのアプリ、更新されていましたか？",
-      "excerpt": "デスクトップのChatGPTアプリ、一度消してから入れ直してみてください。 今回のアップデート、入れ直さないと反映されていない人がいます。僕のクライアントさんや講座の受講生でも分かれていました。",
-      "hook": "ChatGPTアプリを今すぐ再ダウンロードすべき理由",
-      "imageUrl": null,
-      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-14/short1.mp4",
-      "metrics": {
-        "views": 26,
-        "impressions": 26,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0
       }
     }
   ]
