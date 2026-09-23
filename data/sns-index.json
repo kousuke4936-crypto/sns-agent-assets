@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T11:13:21.882Z",
+  "generatedAt": "2026-09-23T11:05:12.948Z",
   "posts": [
     {
       "id": "2026-09-22-instagram-1",
@@ -10,7 +10,17 @@
       "excerpt": "AIにPC操作まで任せる前に、「任せない仕事」を1つだけ決めておいてください。 コンセプトが決まらない人の危険サイン、4つ。 □ 「広告を使わない集客」という言葉を、中身を確かめずに信じている □ ヒアリングは決められた項目を上から順に聞い…",
       "hook": "広告を使わない集客を私は信用していない",
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-22/shared-0-portrait.png",
-      "videoUrl": null
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 9,
+        "views": 9,
+        "reach": 8,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "engagementRate": 0
+      }
     },
     {
       "id": "2026-09-22-facebook-1",
@@ -23,11 +33,11 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-22/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 6,
+        "impressions": 14,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 16.67
+        "engagementRate": 7.14
       }
     },
     {
@@ -41,8 +51,8 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 9,
-        "impressions": 9,
+        "views": 11,
+        "impressions": 11,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -59,7 +69,7 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 5,
+        "impressions": 6,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -77,9 +87,9 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-21/shared-0-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 10,
-        "views": 10,
-        "reach": 7,
+        "impressions": 14,
+        "views": 14,
+        "reach": 10,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -98,8 +108,8 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 8,
-        "impressions": 8,
+        "views": 9,
+        "impressions": 9,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -116,11 +126,11 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 27,
+        "impressions": 39,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 3.7
+        "engagementRate": 2.56
       }
     },
     {
@@ -134,7 +144,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-21/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 11,
+        "impressions": 15,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -152,8 +162,8 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 8,
-        "impressions": 8,
+        "views": 9,
+        "impressions": 9,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -170,11 +180,11 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 9,
+        "impressions": 10,
         "reactions": 1,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 11.11
+        "engagementRate": 10
       }
     },
     {
@@ -188,9 +198,9 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-20/shared-0-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 19,
-        "views": 19,
-        "reach": 10,
+        "impressions": 22,
+        "views": 22,
+        "reach": 11,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -209,8 +219,8 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 5,
-        "impressions": 5,
+        "views": 6,
+        "impressions": 6,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -266,8 +276,8 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 173,
-        "impressions": 173,
+        "views": 176,
+        "impressions": 176,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -284,8 +294,8 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 7,
-        "impressions": 7,
+        "views": 9,
+        "impressions": 9,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -320,7 +330,7 @@
       "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/5nKwJBPqWZBjTJ2BWxguU/96ed72fb0f3b5f4c468e1a1009bbf30f/introducing-astra-for-law-seo-image.png?w=1600&h=900&fit=fill",
       "videoUrl": null,
       "metrics": {
-        "impressions": 12,
+        "impressions": 13,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -338,7 +348,7 @@
       "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/5nKwJBPqWZBjTJ2BWxguU/96ed72fb0f3b5f4c468e1a1009bbf30f/introducing-astra-for-law-seo-image.png?w=1600&h=900&fit=fill",
       "videoUrl": null,
       "metrics": {
-        "impressions": 8,
+        "impressions": 9,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -377,8 +387,8 @@
       "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/5nKwJBPqWZBjTJ2BWxguU/96ed72fb0f3b5f4c468e1a1009bbf30f/introducing-astra-for-law-seo-image.png?w=1600&h=900&fit=fill",
       "videoUrl": null,
       "metrics": {
-        "views": 63,
-        "impressions": 63,
+        "views": 66,
+        "impressions": 66,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -395,9 +405,9 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-18/2026-09-18-instagram-cross2.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 17,
-        "views": 17,
-        "reach": 8,
+        "impressions": 19,
+        "views": 19,
+        "reach": 9,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -416,11 +426,11 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 5,
+        "impressions": 6,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 20
+        "engagementRate": 16.67
       }
     },
     {
@@ -491,11 +501,11 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 21,
+        "impressions": 23,
         "reactions": 1,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 23.81
+        "engagementRate": 21.74
       }
     },
     {
