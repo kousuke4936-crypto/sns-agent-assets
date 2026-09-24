@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T11:05:12.948Z",
+  "generatedAt": "2026-09-24T11:22:56.279Z",
   "posts": [
     {
       "id": "2026-09-22-instagram-1",
@@ -12,9 +12,9 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-22/shared-0-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 9,
-        "views": 9,
-        "reach": 8,
+        "impressions": 12,
+        "views": 12,
+        "reach": 9,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -69,7 +69,7 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 6,
+        "impressions": 8,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -87,9 +87,9 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-21/shared-0-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 14,
-        "views": 14,
-        "reach": 10,
+        "impressions": 16,
+        "views": 16,
+        "reach": 11,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -126,11 +126,11 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 39,
+        "impressions": 50,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 2.56
+        "engagementRate": 2
       }
     },
     {
@@ -198,9 +198,9 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-20/shared-0-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 22,
-        "views": 22,
-        "reach": 11,
+        "impressions": 23,
+        "views": 23,
+        "reach": 12,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -255,9 +255,9 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-19/shared-0-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 20,
-        "views": 20,
-        "reach": 10,
+        "impressions": 21,
+        "views": 21,
+        "reach": 11,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -330,7 +330,7 @@
       "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/5nKwJBPqWZBjTJ2BWxguU/96ed72fb0f3b5f4c468e1a1009bbf30f/introducing-astra-for-law-seo-image.png?w=1600&h=900&fit=fill",
       "videoUrl": null,
       "metrics": {
-        "impressions": 13,
+        "impressions": 17,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -366,9 +366,9 @@
       "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/5nKwJBPqWZBjTJ2BWxguU/96ed72fb0f3b5f4c468e1a1009bbf30f/introducing-astra-for-law-seo-image.png?w=1600&h=900&fit=fill",
       "videoUrl": null,
       "metrics": {
-        "impressions": 15,
-        "views": 15,
-        "reach": 8,
+        "impressions": 16,
+        "views": 16,
+        "reach": 9,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -405,9 +405,9 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-18/2026-09-18-instagram-cross2.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 19,
-        "views": 19,
-        "reach": 9,
+        "impressions": 20,
+        "views": 20,
+        "reach": 10,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -462,9 +462,9 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-18/shared-0-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 21,
-        "views": 21,
-        "reach": 13,
+        "impressions": 22,
+        "views": 22,
+        "reach": 14,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -537,7 +537,7 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 7,
+        "impressions": 8,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -555,14 +555,14 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-17/shared-0-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 23,
-        "views": 23,
-        "reach": 14,
+        "impressions": 24,
+        "views": 24,
+        "reach": 15,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
         "saves": 1,
-        "engagementRate": 7.14
+        "engagementRate": 6.67
       }
     }
   ]
