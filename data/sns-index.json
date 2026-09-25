@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-09-24T11:22:56.279Z",
+  "generatedAt": "2026-09-25T11:28:19.134Z",
   "posts": [
+    {
+      "id": "2026-09-25-facebook-cross1",
+      "channel": "facebook",
+      "url": "https://www.facebook.com/122233359788030234/posts/122557990922030234",
+      "postedAt": "2026-09-25T10:00:00.000Z",
+      "text": "デスクトップのChatGPT、一度アンインストールしてから入れ直してください。\n今のままだと、今回のアップデートが一部しか届いていない可能性があります。\n\n少し、僕の側の裏話をします。\n\n僕は今年の前半、ChatGPTへの期待はかなり低めでした。\n契約もプロプランからプラスプランに落としています。\n毎日仕事で使う道具なので、払う額と返ってくるものは冷静に見ているつもりです。\n\nその僕が、今回のアップデートを触って「プロをもう一度契約してもいい」と思いました。\n\n面白かったのは、その後です。\nクライアントさんや講座の受講生に聞いてみると、はっきり二手に分かれていました。\nアプリが入れ替わっている人と、前のままの人です。\n\n同じアプリを使っているつもりで、手元の性能が違う。\nどちらも、同じものを触っている感覚でいます。\n\nここからが、僕が一番伝えたいところです。\n\nAIでマーケティングを再現する仕事をしていると、関心はどうしても「何を指示するか」に集まります。\nプロンプトの書き方、渡す資料、守らせるルール。\nどれも大事で、磨けばちゃんと伸びます。\n\nただ、その前に確かめることがあります。\n指示を受け取る側が、最新になっているかどうか。\n\n土台が古いままだと、プロンプトを磨いた分がそのまま消えます。\nマーケティングの原則を10年やってきて、それをAIに渡す仕事をしている今も、差がつくのは意外なほど手前の場所です。\n\nAIエージェントに仕事を任せるときも同じです。\n人が持つ仕事の一つは、道具の状態を確かめること。\n中身を詰めるのは、その後で間に合います。\n\n入れ直す手間はほんの少しです。\nそれだけで、これまで磨いてきた指示がちゃんと効く状態に戻ります。\n\nみなさんのChatGPTアプリ、最終更新はいつになっていますか。",
+      "excerpt": "デスクトップのChatGPT、一度アンインストールしてから入れ直してください。 今のままだと、今回のアップデートが一部しか届いていない可能性があります。 少し、僕の側の裏話をします。",
+      "hook": "ChatGPTアプリを今すぐ再ダウンロードすべき理由",
+      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-25/2026-09-25-facebook-cross1.png",
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 0,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-09-25-threads-principle",
+      "channel": "threads",
+      "url": "https://www.threads.com/@kousuke_nishino/post/DdtIwlOG_uy",
+      "postedAt": "2026-09-25T08:30:00.000Z",
+      "text": "コンサルの現場で、僕が一番使っている言葉は「訴求」です。\n\n先日、クライアントに「そもそも訴求って何ですか？」と聞かれました。\nいい機会なので、きちんと定義しておくことにしました。\n\n訴求を作る切り口は、3つあります。\n\nマーケターやライターでも、これを一言でパッと答えられる人はなかなかいません。\nAIエージェントに訴求を考えさせるときも、渡すのはこの3つです。\n\n続きはリプライに3つ置きました。",
+      "excerpt": "コンサルの現場で、僕が一番使っている言葉は「訴求」です。 先日、クライアントに「そもそも訴求って何ですか？」と聞かれました。 いい機会なので、きちんと定義しておくことにしました。 訴求を作る切り口は、3つあります。",
+      "hook": "「訴求」をどう作るか——USP・問題解決・付加価値という3つの切り口",
+      "imageUrl": null,
+      "videoUrl": null,
+      "metrics": {
+        "views": 2,
+        "impressions": 2,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "2026-09-25-x-principle",
+      "channel": "x",
+      "url": "https://x.com/nishinokousuke/status/2103397215947366406",
+      "postedAt": "2026-09-25T08:00:00.000Z",
+      "text": "コンサルの現場で「そもそも訴求って何ですか」と聞かれました。\n僕が一番使っている言葉です。\n専門家に聞いても、一言で答えられる人は多くありません。\n訴求の作り方には、切り口が3つあります。\n続きはリプライで。",
+      "excerpt": "コンサルの現場で「そもそも訴求って何ですか」と聞かれました。 僕が一番使っている言葉です。 専門家に聞いても、一言で答えられる人は多くありません。 訴求の作り方には、切り口が3つあります。 続きはリプライで。",
+      "hook": "「訴求」をどう作るか——USP・問題解決・付加価値という3つの切り口",
+      "imageUrl": null,
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 0,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
     {
       "id": "2026-09-22-instagram-1",
       "channel": "instagram",
@@ -51,8 +105,8 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 11,
-        "impressions": 11,
+        "views": 13,
+        "impressions": 13,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -108,8 +162,8 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 9,
-        "impressions": 9,
+        "views": 10,
+        "impressions": 10,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -126,11 +180,11 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 50,
+        "impressions": 52,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 2
+        "engagementRate": 1.92
       }
     },
     {
@@ -162,8 +216,8 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 9,
-        "impressions": 9,
+        "views": 10,
+        "impressions": 10,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -219,8 +273,8 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 6,
-        "impressions": 6,
+        "views": 7,
+        "impressions": 7,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -237,7 +291,7 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 3,
+        "impressions": 4,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -255,9 +309,9 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-19/shared-0-portrait.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 21,
-        "views": 21,
-        "reach": 11,
+        "impressions": 22,
+        "views": 22,
+        "reach": 12,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -276,8 +330,8 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 176,
-        "impressions": 176,
+        "views": 177,
+        "impressions": 177,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -294,8 +348,8 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 9,
-        "impressions": 9,
+        "views": 10,
+        "impressions": 10,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -387,8 +441,8 @@
       "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/5nKwJBPqWZBjTJ2BWxguU/96ed72fb0f3b5f4c468e1a1009bbf30f/introducing-astra-for-law-seo-image.png?w=1600&h=900&fit=fill",
       "videoUrl": null,
       "metrics": {
-        "views": 66,
-        "impressions": 66,
+        "views": 68,
+        "impressions": 68,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -501,68 +555,11 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 23,
+        "impressions": 25,
         "reactions": 1,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 21.74
-      }
-    },
-    {
-      "id": "2026-09-18-facebook-1",
-      "channel": "facebook",
-      "url": "https://www.facebook.com/122233359788030234/posts/122556826508030234",
-      "postedAt": "2026-09-18T03:00:00.000Z",
-      "text": "セブン-イレブンのAI生成掲示物が指摘されて拡散していましたが、あれを見て「うちも他人事じゃないな」と思った人、けっこういるはずです。\n\nAIまわりで事故る会社あるある、書きます。僕も全部やったことがあるので、自分を含めた話です。\n\n・とりあえず全社でChatGPTを契約した。誰が何に使っているかは誰も把握していない\n・出てきた文章を、ほぼそのまま外に出している。読み返す人が決まっていない\n・「AIっぽい」と言われたとき、直す人ではなく犯人を探しはじめる\n・支払いはPCのブラウザから契約したまま。為替が動いていることに気づいていない\n・AIの出力に最終責任を持つ人が、社内に一人もいない\n\n最後の二つ、地味に効いてきます。\n\n僕、去年ChatGPTを一度解約しました。そしてまた契約しました。何してんねんという話ですが、理由があって、アプリ経由で契約し直したんです。\n\nPCで契約するとクレジットカード払いになって、決済当日の為替でそのまま決まる。20ドルなら、1ドル150円のときは3000円。1ドル160円になれば3200円。170円になれば3400円です。\n\n日本は円安の時代に入っていて、今後さらに進むと僕は見ています。だから今のタイミングで契約し直した方が得だと判断して、わざわざアプリから申し込みました。\n\nくだらない話に聞こえるかもしれません。でも1ドル170円になった場合、得するのは400円。1年で4800円。10年で4万8000円。ツールが増えれば、この差は数十万円、場合によっては100万円単位になります。\n\nこの話、スーツのクリーニング機の話と同じ構造だなと思っています。\n\nある投資家兼経営者の方と先日はじめて2人でご飯に行きました。喋るたびに「優秀だな」としみじみ思う方です。その人が、スーツのクリーニング機を買った理由をこう言っていました。「これ、年間のクリーニング代が5年くらいで回収できるんですよ」と。\n\n普通の人は「この機械、たっか！」で止まります。そこで思考停止する。考えるスパンが目の前しかない。\n\nAIも同じです。月額がいくらか、という話で止まっている会社は、AIを経費として見ています。何を任せて、何が返ってきて、それが誰の時間を何時間返してくれたのか。ここまで見ている会社は、投資として見ています。\n\nそして、投資として見るなら、出てきたものを検品する人が要ります。\n\nAIの出力は平均値です。平均値をそのまま外に出せば、必ず違和感が出る。セブン-イレブンの件で叩かれていたのはAIそのものより、AIに丸投げした状態の方だと思っています。\n\n量はAIに出させる。選んで磨くのは人間が持つ。この一線を誰が持つかを決めていない組織が、現場レベルで事故ります。\n\n僕がやっているのは、マーケティングの原則をAIエージェントに実装することです。原則を知らないまま出力させると、平均値がそのまま出てくる。原則を持った人が最後に手を入れるから、外に出せるものになる。\n\n今日ひとつだけ決めるなら、社内でAIの出力に最終責任を持つ人の名前だと思います。\n\nみなさんの会社では、AIが書いたものを外に出す前に、誰が読んでいますか。",
-      "excerpt": "セブン-イレブンのAI生成掲示物が指摘されて拡散していましたが、あれを見て「うちも他人事じゃないな」と思った人、けっこういるはずです。 AIまわりで事故る会社あるある、書きます。僕も全部やったことがあるので、自分を含めた話です。",
-      "hook": "ChatGPTはアプリ経由契約の方が円安時代に得する",
-      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-18/shared-0-landscape.png",
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 16,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-09-18-x-1",
-      "channel": "x",
-      "url": "https://x.com/nishinokousuke/status/2100713955891024142",
-      "postedAt": "2026-09-17T22:30:00.000Z",
-      "text": "7日で52本投稿。リーチ2628。\n\nうち1283は、たった1本。\n残り51本で1345。\n\n保存1、コメント0。\n\n量はAIエージェントが無人で出す。\n人の仕事は、当たった1本が当たった理由を言葉にすること。\n\n直近で一番伸びた1本、思い出せますか。\n\nAIにSNSを任せた30日 Day 17/30",
-      "excerpt": "7日で52本投稿。リーチ2628。 うち1283は、たった1本。 残り51本で1345。 保存1、コメント0。 量はAIエージェントが無人で出す。 人の仕事は、当たった1本が当たった理由を言葉にすること。",
-      "hook": "昨日までのSNS運用の実数を、そのまま公開する",
-      "imageUrl": null,
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 8,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-09-17-instagram-1",
-      "channel": "instagram",
-      "url": "https://www.instagram.com/p/DdYfaRMG-yP/",
-      "postedAt": "2026-09-17T09:00:00.000Z",
-      "text": "「集客ができる」。これだけで、僕は仕事を受けられている。\n\n逆に言えば、集客ができないと何も始まらない。商品があっても、コピーが書けても、そこに人が来なければ終わり。\n\n僕が高校時代に読んだ「金持ち父さん貧乏父さん」に、資産の定義が書いてありました。\n\n資産とは、あなたにお金をもたらすもの。\n\nこの定義で考えると、投資を除いた最強の資産は集客力だと思う。\n\nクライアントワークでも、集客ができるから依頼が来る。自分の事業でも、集客ができるからコンサルや講座が売れる。順番は、いつもそこからでした。\n\nただ、僕はこの資産を持つまでに遠回りしました。\n\nゼロから始めるなら、広告から入ります。\n\n理由は、作るアウトプットが少ないから。\n\nLPで売る、高額商品を売る。これをやると1万文字を簡単に超えます。DMなら16ページ、20ページ。初心者がやると、大抵心が折れます。\n\nそして一番のデメリットは、フィードバックが遅いこと。\n\n作るのに時間がかかり、結果が出るまでにも時間がかかる。集客ができるようにならない人は、勉強だけで止まっていることが多い。リアルの数字を相手にしないと、実力はつきません。\n\nだからSNS広告です。Facebook・Instagram。作るものが少なく、意外に簡単に始まる。\n\nここにAIが入ると、何が変わるか。\n\nAIに渡すのは、コピーの量産と、反応データの読み取り。人が持つのは、誰に何を言うかという一点だけ。\n\nつまり、フィードバックの回転を人の手数から切り離せる。1日1本しか試せなかった人が、1日で何パターンも回せるようになる。\n\n僕がAIエージェントに実装しているのは、この回転そのものです。\n\n勝ちパターンの判定、次に出す案の生成、止める判断。ここを人なしで回し続ける形にしていく。\n\n集客力という資産は、回転数で積み上がる。手数をAIに渡した人から先に積み上がる。\n\nこの設計の具体的な中身は、メルマガでしか書いていません。\n\n#集客 #広告運用 #SNS広告 #マーケティング #chatgpt活用 #AI活用 #個人事業主 #経営者 #メルマガ #集客力",
-      "excerpt": "「集客ができる」。これだけで、僕は仕事を受けられている。 逆に言えば、集客ができないと何も始まらない。商品があっても、コピーが書けても、そこに人が来なければ終わり。",
-      "hook": "最強の資産は集客力。集客ができれば全てが始まる",
-      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-17/shared-0-portrait.png",
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 24,
-        "views": 24,
-        "reach": 15,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "saves": 1,
-        "engagementRate": 6.67
+        "engagementRate": 20
       }
     }
   ]
