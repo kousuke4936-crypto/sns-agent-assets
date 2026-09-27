@@ -1,6 +1,96 @@
 {
-  "generatedAt": "2026-09-26T11:03:53.050Z",
+  "generatedAt": "2026-09-27T11:42:41.875Z",
   "posts": [
+    {
+      "id": "2026-09-27-short1-x",
+      "channel": "x",
+      "url": "https://x.com/nishinokousuke/status/2104044136516960270",
+      "postedAt": "2026-09-27T03:03:00.000Z",
+      "text": "「大事ですよね」と言われて、買われない。\n\n原因は商品より、相手の問題意識の弱さ。\n\n同じ1万円のセキュリティ商品でも、\n先月被害に遭った会社は買う。\n\nAIに営業文を書かせるなら、\n先に渡すのは「誰が今痛いか」。",
+      "excerpt": "「大事ですよね」と言われて、買われない。 原因は商品より、相手の問題意識の弱さ。 同じ1万円のセキュリティ商品でも、 先月被害に遭った会社は買う。 AIに営業文を書かせるなら、 先に渡すのは「誰が今痛いか」。",
+      "hook": "売れるかは相手の問題意識の強さで決まる",
+      "imageUrl": null,
+      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-27/short1.mp4",
+      "metrics": {
+        "impressions": 0,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-09-27-short1-facebook",
+      "channel": "facebook",
+      "url": "https://www.facebook.com/reel/1094415433510758/",
+      "postedAt": "2026-09-27T03:03:00.000Z",
+      "text": "同じ商品、同じ価格、同じ説明。それでも、買う会社と買わない会社ははっきり分かれます。\n分けているのは、相手の問題意識の強さです。\n\n動画では、1万円のセキュリティ商品を例にこの話をしています。\n\nセキュリティが大事なことは誰でも分かっています。\n「大事ですよね」と言えば、ほぼ全員がうなずく。\nでも、そこで財布を開く会社と、「分かります」とだけ言って帰る会社がいる。\n\n買うのは、たとえばこんな会社です。\n・上場を控えていて、コンプラ対応を必死でやらなければいけない\n・過去にセキュリティ侵害で損害を受けた。なんなら、つい先月\n\n一度も侵害されたことがない会社は、同じ話を聞いても買いません。\n商品の良し悪しより先に、そのテーマがどれだけ痛いかで決まっている。\n\nこれは、AIに営業やマーケティングを任せるときにそのまま効きます。\n\nよくあるのは、AIにリストを渡して「この商品を案内して」と頼むやり方です。\nすると、問題意識の弱い相手にも同じ熱量で送り続ける。\nうなずくだけで帰る人に、延々と説明を重ねることになります。\n\nAIに先に渡すのは、「問題意識が強い相手に出ているサイン」です。\nセキュリティなら、上場準備の動きがある、最近被害に遭っている、といったもの。\n\nAIエージェントには、まずこのサインで相手を並べ替えさせる。\nその上で、痛みの強い相手から順に、その痛みの言葉で話しかけさせる。\n\n人が持つのは、「自分の商品にとって、痛みが強い相手のサインは何か」を決める仕事です。\nマーケティングを10年やってきて、ここがいちばんAIに丸投げしにくい部分だと感じています。\nサインさえ言葉にできれば、振り分けと声かけはAIが人なしで回せます。\n\n逆に言うと、「大事ですよね」とうなずかれる商品ほど注意が必要です。\nうなずきは、問題意識の強さを測ってくれないからです。\n\nみなさんの商品だと、「この相手は今すぐ買う」と分かるサインは何ですか。ひとつだけ挙げるなら。",
+      "excerpt": "同じ商品、同じ価格、同じ説明。それでも、買う会社と買わない会社ははっきり分かれます。 分けているのは、相手の問題意識の強さです。 動画では、1万円のセキュリティ商品を例にこの話をしています。 セキュリティが大事なことは誰でも分かっています。",
+      "hook": "売れるかは相手の問題意識の強さで決まる",
+      "imageUrl": null,
+      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-27/short1.mp4",
+      "metrics": {
+        "impressions": 0,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-09-27-short1-threads",
+      "channel": "threads",
+      "url": "https://www.threads.com/@kousuke_nishino/post/Ddx7uBsE2c0",
+      "postedAt": "2026-09-27T03:03:00.000Z",
+      "text": "同じ商品でも、買う会社と買わない会社がいる。\n\n差を生むのは商品の出来より、相手の問題意識の強さ。\n1万円のセキュリティ商品を例に、上場を控えた会社や先月被害に遭った会社がなぜ買うのかを話しています。\n\nAIに営業リストを渡すなら、最初にやらせるのは問題意識の強さでの並べ替えです。\n\nいまの見込み客リスト、問題意識の強さで分けていますか？",
+      "excerpt": "同じ商品でも、買う会社と買わない会社がいる。 差を生むのは商品の出来より、相手の問題意識の強さ。 1万円のセキュリティ商品を例に、上場を控えた会社や先月被害に遭った会社がなぜ買うのかを話しています。",
+      "hook": "売れるかは相手の問題意識の強さで決まる",
+      "imageUrl": null,
+      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-27/short1.mp4",
+      "metrics": {
+        "views": 3,
+        "impressions": 3,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "2026-09-27-threads-1",
+      "channel": "threads",
+      "url": "https://www.threads.com/@kousuke_nishino/post/DdxZXf1FSeJ",
+      "postedAt": "2026-09-26T23:00:00.000Z",
+      "text": "「報酬の分配、ちゃんと文章で伝えたい」\n先日ある案件で、そう思ったまま手が止まりました。\n\nこういうケースは〜、こういうケースでは〜。\n場合分けが増えるたびに、やる気が抜けていく。\n話がどこかへ行きそうになりました。\n\nそこで要件と前提だけ話して、Claudeにまとめてもらった。\n出てきた文章に、素直に感動しました。\n\n人が持つのは「何を決めたいか」。\n文章にする面倒はAIに渡せる。\nAIを使い始めるなら、他人へのメッセージ作りからが一番早いと思っています。\n\n最初にAIに頼んだ文章は、社内向けと社外向けのどちらでしたか？\n\nAIエージェントを作って暮らす30日 Day 26/30",
+      "excerpt": "「報酬の分配、ちゃんと文章で伝えたい」 先日ある案件で、そう思ったまま手が止まりました。 こういうケースは〜、こういうケースでは〜。 場合分けが増えるたびに、やる気が抜けていく。 話がどこかへ行きそうになりました。",
+      "hook": "ChatGPTはまず他人へのメッセージ制作から始めよ",
+      "imageUrl": null,
+      "videoUrl": null,
+      "metrics": {
+        "views": 6,
+        "impressions": 6,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "2026-09-27-x-1",
+      "channel": "x",
+      "url": "https://x.com/nishinokousuke/status/2103975422039822671",
+      "postedAt": "2026-09-26T22:30:00.000Z",
+      "text": "過去7日、16本でリーチ196。\nいいね1。コメント・保存・シェアは0。\n\n生成から配信、実績の取得まで\nAIエージェントが無人で回した結果です。\n\n回すところまではAIでできた。\n反応を取る設計が、まだ足りていない。\n\nAIにSNSを任せた30日 Day 26/30",
+      "excerpt": "過去7日、16本でリーチ196。 いいね1。コメント・保存・シェアは0。 生成から配信、実績の取得まで AIエージェントが無人で回した結果です。 回すところまではAIでできた。 反応を取る設計が、まだ足りていない。",
+      "hook": "昨日までのSNS運用の実数を、そのまま公開する",
+      "imageUrl": null,
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 5,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
     {
       "id": "2026-09-26-instagram-1",
       "channel": "instagram",
@@ -23,7 +113,7 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-26/short1.mp4",
       "metrics": {
-        "impressions": 0,
+        "impressions": 2,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -88,7 +178,7 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 7,
+        "impressions": 10,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -127,11 +217,11 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 6,
+        "impressions": 8,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 16.67
+        "engagementRate": 12.5
       }
     },
     {
@@ -145,7 +235,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-25/2026-09-25-facebook-cross1.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 6,
+        "impressions": 9,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -171,8 +261,8 @@
         "threadViews": [
           5,
           5,
-          17,
-          18,
+          21,
+          23,
           5,
           0
         ]
@@ -189,11 +279,11 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 10,
+        "impressions": 16,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 10
+        "engagementRate": 6.25
       }
     },
     {
@@ -303,15 +393,15 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 21,
-        "impressions": 21,
+        "views": 22,
+        "impressions": 22,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
         "threadViews": [
-          21,
-          13,
-          3,
+          22,
+          15,
+          5,
           2,
           0,
           0,
@@ -330,11 +420,11 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 58,
+        "impressions": 63,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 1.72
+        "engagementRate": 1.59
       }
     },
     {
@@ -441,7 +531,7 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 4,
+        "impressions": 5,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -466,96 +556,6 @@
         "comments": 0,
         "shares": 0,
         "saves": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-09-19-threads-quote",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/DddmXPwlqtu",
-      "postedAt": "2026-09-19T08:30:00.000Z",
-      "text": "「人生や仕事の結果は、考え方と熱意と能力の3つの要素の掛け算で決まります」\n\n稲盛和夫（京セラ創業者、JAL再建を主導）の言葉です。\n\n掛け算なので、1つだけ意味の重い要素があります。\n\n僕はこの式を、採用と再依頼の判断にそのまま使っています。\n\n使い方は3つ。続きはリプライに置きます。",
-      "excerpt": "「人生や仕事の結果は、考え方と熱意と能力の3つの要素の掛け算で決まります」 稲盛和夫（京セラ創業者、JAL再建を主導）の言葉です。 掛け算なので、1つだけ意味の重い要素があります。 僕はこの式を、採用と再依頼の判断にそのまま使っています。",
-      "hook": "稲盛和夫「人生や仕事の結果は、考え方と熱意と能力の3つの要素の掛け算で決まります。」",
-      "imageUrl": null,
-      "videoUrl": null,
-      "metrics": {
-        "views": 179,
-        "impressions": 179,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
-      "id": "2026-09-19-threads-1",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/DdcyELmGN4w",
-      "postedAt": "2026-09-18T23:00:00.000Z",
-      "text": "クライアントの数を数えたら、11社あった。\n\n1社で4つも5つもプロジェクトが動いていて、そこに自社の仕事が乗る。頭がこんがらがりそうになる。\n\nそれでも正常でいられるのは、定期的に頭の中を全部出して整理しているから。\n\n売上を伸ばすことは、時間とエネルギーと思考を一点に集中させること。こんがらがったままでは、集中する対象すら選べない。\n\nだから僕は、整理そのものをAIエージェントに渡した。抱えている案件と止まっている理由を毎朝吐き出して、並べ直させる。人が持つのは「どれを捨てるか」の判断だけにした。\n\n今、頭の中にある動いていない案件は、いくつありますか？\n\nAIエージェントを作って暮らす30日 Day 18/30",
-      "excerpt": "クライアントの数を数えたら、11社あった。 1社で4つも5つもプロジェクトが動いていて、そこに自社の仕事が乗る。頭がこんがらがりそうになる。 それでも正常でいられるのは、定期的に頭の中を全部出して整理しているから。",
-      "hook": "頭がこんがらがったままでは集中できない",
-      "imageUrl": null,
-      "videoUrl": null,
-      "metrics": {
-        "views": 12,
-        "impressions": 12,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
-      "id": "2026-09-19-x-1",
-      "channel": "x",
-      "url": "https://x.com/nishinokousuke/status/2101076324592787614",
-      "postedAt": "2026-09-18T22:30:00.000Z",
-      "text": "52本でリーチ2461、いいね18、保存1。\n\nうち1本が1523。残り51本で938。\n同じ論点を全チャネルに配ってこれ。\n\nAIは量を出せる。\n当たりを選ぶ役は、まだ僕が持つ。\n\n当たり1本、みなさんは何で見分けますか？\n\nAIにSNSを任せた30日 Day 18/30",
-      "excerpt": "52本でリーチ2461、いいね18、保存1。 うち1本が1523。残り51本で938。 同じ論点を全チャネルに配ってこれ。 AIは量を出せる。 当たりを選ぶ役は、まだ僕が持つ。 当たり1本、みなさんは何で見分けますか？",
-      "hook": "昨日までのSNS運用の実数を、そのまま公開する",
-      "imageUrl": null,
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 6,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-09-18-news1-x",
-      "channel": "x",
-      "url": "https://x.com/nishinokousuke/status/2100931602092052802",
-      "postedAt": "2026-09-18T12:55:00.000Z",
-      "text": "法務専用のAstra for Lawが出た。\n\n汎用モデル＋Web検索で38.7%だった正答率が、専用の判例インデックスを足すと54.0%に。\n\n効くのはモデルの強さより、繋ぐデータ。\n\n会計、不動産、医療にも来ると思う。\n\nみなさんの業種で、AIに繋ぐべき自社データはどこにありますか？",
-      "excerpt": "法務専用のAstra for Lawが出た。 汎用モデル＋Web検索で38.7%だった正答率が、専用の判例インデックスを足すと54.0%に。 効くのはモデルの強さより、繋ぐデータ。 会計、不動産、医療にも来ると思う。",
-      "hook": "汎用モデル＋専用インデックスで正答率38.7%→54.0%",
-      "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/5nKwJBPqWZBjTJ2BWxguU/96ed72fb0f3b5f4c468e1a1009bbf30f/introducing-astra-for-law-seo-image.png?w=1600&h=900&fit=fill",
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 19,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-09-18-news1-facebook",
-      "channel": "facebook",
-      "url": "https://www.facebook.com/122233359788030234/posts/122556885200030234",
-      "postedAt": "2026-09-18T12:55:00.000Z",
-      "text": "法律事務所が、自社に溜めた判例ノウハウをそのままAIに積み始めた。\n\nOpenAIが「Astra for Law」を発表した。最新モデルのGPT‑6 Astraに、法律の調査・分析・文書作成に合わせた設定とツールを組み合わせたもの。米国の判例・法令・規則・裁判所ルール・行政決定を横断する専用の検索インデックスがつき、対象は2億3000万以上のURL。CourtListenerの判例コレクション（公開された米国の先例判例の99.9%以上をカバー）も、この調査体験に入っている。\n\n数字も出ている。法律リサーチのベンチマーク（同じ設問で性能を比べるテスト）200問のうち、全体の正答チェックを通ったのが54.0%。ウェブ検索だけを使ったGPT‑6 Astraは38.7%。判例系の設問では、参照すべき判例を24%多く見つけ、正しい判決文からの該当箇所の取得は最大54%多かった。\n\n僕が目を止めたのは、性能の数字より事務所側の動きです。\n\nSullivan & Cromwellは、自社の交渉プレイブックと選んだ過去案件を読み込ませた契約分析ツールを作った。条項を組み合わせて読んだときに浮かぶリスクを拾い、修正案と依頼者向けの助言ドラフトまで出す。弁護士はそれを検証して直す。\n\nRopes & Grayは、自社の弁護士がデータルームをどう読み、何を重要と判断するかという手順そのものをシステムにした。契約に通知や同意が必要かどうかまで論点を特定する。\n\nつまり、事務所の判断の型がツールになっている。\n\nもう一つ大きいのが接続です。26種類の新しいプラグイン（外部ツールとChatGPTをつなぐ部品）で、RelativityやClioのように事務所がすでに使っているツールに繋げられる。機密面ではAPIでのゼロデータ保持（送ったデータを保存しない設定）も用意されている。\n\nここが転換点だと思う。\n\nこれまでの競争は「どのモデルが賢いか」でした。ここから効いてくるのは、業種専用の設定と、自社の専門データと、既存の業務ツールへの接続。この三つが揃った側が勝つ。賢さは買えます。差がつくのは、自社に溜まっている判断の型をどれだけAIに渡せるか。\n\n法務で最初に起きた、というだけの話です。会計、不動産、医療、広告と、順番に自分の業種にも来る。来てから考えると、その時点で渡せるデータが整っていない。\n\nだから今のうちにやるべきことは一つ。\n\n自社の業務を「AIに任せる業務」と「人が握る業務」に棚卸しして、自社の専門データと基幹ツール（顧客管理や案件管理など、業務の中心にあるシステム）が外とつなげる状態にあるかを点検する。Sullivan & Cromwellがやったのは、この棚卸しの結果をツールにしただけです。\n\nあわせてChatGPT for Wordが一般提供になりました。こちらは業種を問わず、明日から書類作業の中身が変わる。\n\n専門性は、持っているだけでは差になりにくくなってきた。渡せる形にした人から順に、再現され始める。\n\nみなさんの会社で、最初にAIに渡せる「判断の型」は、どの業務ですか。",
-      "excerpt": "法律事務所が、自社に溜めた判例ノウハウをそのままAIに積み始めた。 OpenAIが「Astra for Law」を発表した。最新モデルのGPT‑6 Astraに、法律の調査・分析・文書作成に合わせた設定とツールを組み合わせたもの。",
-      "hook": "法律事務所が自社の判例ノウハウをAI化し始めた",
-      "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/5nKwJBPqWZBjTJ2BWxguU/96ed72fb0f3b5f4c468e1a1009bbf30f/introducing-astra-for-law-seo-image.png?w=1600&h=900&fit=fill",
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 9,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
         "engagementRate": 0
       }
     }
