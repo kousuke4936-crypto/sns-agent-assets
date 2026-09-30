@@ -1,6 +1,168 @@
 {
-  "generatedAt": "2026-09-29T12:26:14.763Z",
+  "generatedAt": "2026-09-30T12:11:06.673Z",
   "posts": [
+    {
+      "id": "2026-09-30-facebook-1",
+      "channel": "facebook",
+      "url": "https://www.facebook.com/122233359788030234/posts/122558751422030234",
+      "postedAt": "2026-09-30T03:00:00.000Z",
+      "text": "「メルマガを書こう」と思った人ほど、今日も書けずに終わります。\nそして、AIに仕事を任せるときも、まったく同じ構造でつまずきます。\n\n評価額2,250億円のAI企業が、自社AIに頼りすぎて売上が3分の1になり、創業者が退任したという話が出ていました。\nAIを使いこなしていた会社でも、丸投げした瞬間に崩れる。規模が大きいほど傷は深くなる。\n個人で事業をしている僕らにも、そのまま当てはまる話です。\n\nまずは身近なところから。\n「メルマガを書こう」と考える人あるある。僕も全部やっています。\n\n・パソコンを開いて、真っ白な画面をしばらく眺める\n・「気分が乗ったら書こう」と思っているうちに、週が終わる\n・ネタが決まっていないまま、書き出しの一文を何度も打ち直す\n・件名から考え始めて、件名が決まった時点でなぜか満足する\n・AIに「メルマガを書いて」と頼み、誰にでも言えそうな文章が返ってきて、結局ほぼ全部を自分で書き直す\n\n最後のは、耳が痛い人も多いと思います。\n\n書ける人の頭の中は、最初から5つに分かれています。\n\n1｜ネタを出す\n2｜そのネタで構成を考える\n3｜書く\n4｜件名を考える\n5｜編集して出せる形にする\n\n「メルマガを書く」は大きすぎて手が止まる。\n「ネタを出す」なら、今すぐできる。\n\n僕も乗り気な時はサクサク書けますが、そうでない時は普通に先送りします。\nそういう日は、iPadでネタ出しだけ始めます。すると、いつの間にか構成まで進んで、そのまま書き上がっている。\n小さい一歩に分けると、やる気のない日でも手が動きます。\n\nAIへの渡し方も、これと同じです。\n「メルマガを書いて」は、AIに丸投げしているのと変わりません。\n渡すのは、分けたあとの一工程ずつ。\n\n・ネタは、自分が実際に接したお客さんの話から人が選ぶ\n・そのネタを渡して、AIに構成案を出させる\n・選んだ構成で、AIに下書きを書かせる\n・件名の候補もAIに出させる\n・最後に読んで、出すかどうかを決めるのは人\n\n知見を入れる工程と、磨いて判断する工程を人が持つ。\nそのあいだの作業をAIに任せる。\nこの分け方ができると、同じ仕事を人がいなくても回せる形に近づいていきます。\n\n分ける力は、AIに仕事を任せるための設計図そのものです。\nここを飛ばして丸ごと渡すと、冒頭の話のように、大きくなるほど崩れ方も大きくなります。\n\nみなさんが今「〜しよう」のまま止まっている仕事、最初の一工程だけを一行で書くと、何になりますか？",
+      "excerpt": "「メルマガを書こう」と思った人ほど、今日も書けずに終わります。 そして、AIに仕事を任せるときも、まったく同じ構造でつまずきます。 評価額2,250億円のAI企業が、自社AIに頼りすぎて売上が3分の1になり、創業者が退任したという話が出てい…",
+      "hook": "「メルマガを書こう」と考える人ほど書けない理由",
+      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-30/shared-0-landscape.png",
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 0,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-09-30-news1-x",
+      "channel": "x",
+      "url": "https://x.com/nishinokousuke/status/2105113156078969105",
+      "postedAt": "2026-09-30T01:51:00.000Z",
+      "text": "GPT-6.1 Solが出た。\n上位のAstraに迫る性能で、価格は5分の1。\n\n効くのはキャッシュ入力の安さ。\n毎回渡す前提情報の料金が、通常の95%引き。\n\n社内ルールを毎回読ませるエージェントほど得をする。\n\n自社のAPI予算、見直す時期だと思う。",
+      "excerpt": "GPT-6.1 Solが出た。 上位のAstraに迫る性能で、価格は5分の1。 効くのはキャッシュ入力の安さ。 毎回渡す前提情報の料金が、通常の95%引き。 社内ルールを毎回読ませるエージェントほど得をする。",
+      "hook": "Astra並みの知能が価格5分の1、GPT-6.1 Solが登場",
+      "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/1Xa7inzcCfsGE5aV3QqeN3/4f3689ae92e04b18569f9eaf919e7174/GPT-6-1-Sol_16x9.png?w=1600&h=900&fit=fill",
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 0,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-09-30-news1-facebook",
+      "channel": "facebook",
+      "url": "https://www.facebook.com/122233359788030234/posts/122558744696030234",
+      "postedAt": "2026-09-30T01:51:00.000Z",
+      "text": "業務フローを自動で回すAIの試験で、OpenAIの新モデル「GPT-6.1 Sol」がOpus 5.5を上回りました。コストは約3分の1です。\n\n使っているAIの「どれに、いくら払うか」を見直すタイミングが来ています。\n\n試験の名前はAutomationBenchです。営業・マーケティング・運用・サポート・経理・人事にまたがる47のツールを使い、複数ステップの業務を最初から最後までやり切れるかを測ります。つながった仕事をAIエージェントに任せられるかを見る試験です。\n\nGPT-6.1 Solは、推論の深さ（AIが考える量の設定）を中程度にした状態で、Opus 5.5を2.2ポイント上回りました。前のGPT-6 Solからは4.8ポイントの伸びです。\n\n価格も公開されています。APIでは入力100万トークンあたり2ドル、出力は10ドル。トークンは、AIが読み書きする文字量の単位です。\n\nさらに、毎回同じ前提情報を渡すときの「キャッシュ入力」は100万トークンあたり0.10ドル。通常の入力より95%安くなります。\n\n実務で効いてくるのは、このキャッシュだと思います。\n\n売れるマーケティングをAIに再現させるとき、毎回渡すものはほぼ決まっています。商品の強み、誰に売るか、使ってはいけない表現、良いコピーの判断基準。僕が10年マーケティングをやってきて、成果を分けてきたのもこの部分です。\n\nここを固定の前提として先頭にまとめておけば、回すほど安くなります。\n\n人が持つのは、判断基準を書く仕事。\nAIに渡すのは、それを使って何度も回す仕事。\n\n今日やれることはこの3つです。\n・高いモデルに任せている業務を書き出す\n・同じ入力でGPT-6.1 Solにも回し、結果を並べて比べる\n・毎回渡している前提情報を、1つの文書にまとめる\n\n注意点もあります。\n数字はOpenAIの研究環境やAPIでの評価で、他社モデルの数字は公開レポートからの引用です。ChatGPTではPlus、Pro、Business、Enterprise、Eduのユーザー向けに、WorkとCodexで提供が始まりました。通常のChatにはまだ来ていません。最も難しい科学研究にはGPT-6 Astraを使うよう、OpenAI自身が書いています。\n\nベンチマークの順位より、自社の業務で回した結果が答えになります。\n\nいま一番高いモデルに任せている業務は、何ですか。",
+      "excerpt": "業務フローを自動で回すAIの試験で、OpenAIの新モデル「GPT-6.1 Sol」がOpus 5.5を上回りました。コストは約3分の1です。 使っているAIの「どれに、いくら払うか」を見直すタイミングが来ています。",
+      "hook": "AutomationBenchでOpus 5.5を上回り、コストは約3分の1",
+      "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/1Xa7inzcCfsGE5aV3QqeN3/4f3689ae92e04b18569f9eaf919e7174/GPT-6-1-Sol_16x9.png?w=1600&h=900&fit=fill",
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 0,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-09-30-news1-threads",
+      "channel": "threads",
+      "url": "https://www.threads.com/@kousuke_nishino/post/Dd5Mg6cmgW2",
+      "postedAt": "2026-09-30T01:51:00.000Z",
+      "text": "GPT-6.1 Solが出て、キャッシュ入力が100万トークン0.10ドルになった。\n通常入力の2ドルより95%安い。\n\nキャッシュ入力は、毎回同じ前置きを使い回すときの料金。\n商品情報や書き方のルールがこれにあたる。\n\nエージェントに渡す資料を「毎回同じ部分」と「毎回変わる部分」に分けて、同じ部分を先頭に固める。\nこの設計が、運用費に一番効いてくると思う。\n\nみなさんのエージェント、毎回同じ資料を何ページ渡していますか？",
+      "excerpt": "GPT-6.1 Solが出て、キャッシュ入力が100万トークン0.10ドルになった。 通常入力の2ドルより95%安い。 キャッシュ入力は、毎回同じ前置きを使い回すときの料金。 商品情報や書き方のルールがこれにあたる。",
+      "hook": "キャッシュ入力は100万トークン0.10ドル、エージェント運用が安くなる",
+      "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/1Xa7inzcCfsGE5aV3QqeN3/4f3689ae92e04b18569f9eaf919e7174/GPT-6-1-Sol_16x9.png?w=1600&h=900&fit=fill",
+      "videoUrl": null,
+      "metrics": {
+        "views": 58,
+        "impressions": 58,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "2026-09-30-threads-1",
+      "channel": "threads",
+      "url": "https://www.threads.com/@kousuke_nishino/post/Dd5MvQ5kVZK",
+      "postedAt": "2026-09-29T23:00:00.000Z",
+      "text": "AIに仕事を奪われる人は、AI以前から奪われていたと思う。\n\nAIでLPを作ったときのこと。\n一度ビデオを見た人には、次から最初に全文を表示する設計になっていた。\n僕は頼んでいない。AIが自分で考えて入れていた。正直、びっくりした。\n\nこれが付加価値だ。\nコーヒーを置いて去る店員と、「午後から雨だから気をつけてね」と添える店員の差。\n\nAIは決め手になるだけ。\n原因は、もともとリピートされない仕事の側にある。\n\n今日の仕事で、頼まれていない一言を足せましたか？\n\nAIエージェントを作って暮らす30日 Day 29/30\n\nAIで、人を増やさずに売れる仕組みをつくる方法を毎日書いています。",
+      "excerpt": "AIに仕事を奪われる人は、AI以前から奪われていたと思う。 AIでLPを作ったときのこと。 一度ビデオを見た人には、次から最初に全文を表示する設計になっていた。 僕は頼んでいない。AIが自分で考えて入れていた。正直、びっくりした。",
+      "hook": "奪われる人はAI以前から競合に奪われていた",
+      "imageUrl": null,
+      "videoUrl": null,
+      "metrics": {
+        "views": 2,
+        "impressions": 2,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "2026-09-30-x-1",
+      "channel": "x",
+      "url": "https://x.com/nishinokousuke/status/2105062668818080233",
+      "postedAt": "2026-09-29T22:30:00.000Z",
+      "text": "AIに投稿を丸投げすると、数字はこうなる。\n\n過去7日、22本。\nリーチ146。いいね0。保存0。\n\n生成から配信まで、ほぼ無人で回した結果です。\n\n最も見られたのは、現場の一言から書いた投稿。\n\nAIに渡すのは作業。ネタの実感は人が持つ。\n\nAIにSNSを任せた30日 Day 29/30",
+      "excerpt": "AIに投稿を丸投げすると、数字はこうなる。 過去7日、22本。 リーチ146。いいね0。保存0。 生成から配信まで、ほぼ無人で回した結果です。 最も見られたのは、現場の一言から書いた投稿。 AIに渡すのは作業。ネタの実感は人が持つ。",
+      "hook": "昨日までのSNS運用の実数を、そのまま公開する",
+      "imageUrl": null,
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 0,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-09-30-short1-x",
+      "channel": "x",
+      "url": "https://x.com/nishinokousuke/status/2105055199786111054",
+      "postedAt": "2026-09-29T22:00:00.000Z",
+      "text": "セミナー1回で売れず、やめた。\nそれは、やったうちに入らない。\n\n何億も稼ぐ人は、2ヶ月半で230回。\n差はスキルより、行動の基準でした。\n\nこの基準こそ、AIエージェントに渡せる。",
+      "excerpt": "セミナー1回で売れず、やめた。 それは、やったうちに入らない。 何億も稼ぐ人は、2ヶ月半で230回。 差はスキルより、行動の基準でした。 この基準こそ、AIエージェントに渡せる。",
+      "hook": "成功者はスキルより行動基準が桁違い",
+      "imageUrl": null,
+      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-30/short1.mp4",
+      "metrics": {
+        "impressions": 0,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-09-30-short1-threads",
+      "channel": "threads",
+      "url": "https://www.threads.com/@kousuke_nishino/post/Dd5Mw-NDgNI",
+      "postedAt": "2026-09-29T22:00:00.000Z",
+      "text": "「1回やって売れなかったから、やめた」\n\nそれは、やったうちに入らない。\n何億も売る人は、約2ヶ月半でセミナーを230回やっている。\n\n差がつくのはスキルより、打つ数の基準。\n人の体力で届かない回数は、AIエージェントに回させる。\n文面の作り直しと配信はAIに任せ、何を売るかは人が決める。\n\n次の施策、何回まで試しますか？",
+      "excerpt": "「1回やって売れなかったから、やめた」 それは、やったうちに入らない。 何億も売る人は、約2ヶ月半でセミナーを230回やっている。 差がつくのはスキルより、打つ数の基準。 人の体力で届かない回数は、AIエージェントに回させる。",
+      "hook": "成功者はスキルより行動基準が桁違い",
+      "imageUrl": null,
+      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-30/short1.mp4",
+      "metrics": {
+        "views": 12,
+        "impressions": 12,
+        "reactions": 1,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "2026-09-29-threads-thread",
+      "channel": "threads",
+      "url": "https://www.threads.com/@kousuke_nishino/post/Dd319_Plh-s",
+      "postedAt": "2026-09-29T12:30:00.000Z",
+      "text": "広告費を下げたい。\n1人あたりの獲得単価、CPAを安くしたい。\n\n広告を回したことがある人なら、一度はこう考えたはずです。\n\nただ、この「CPAを下げれば勝てる」という話には、前提が1つ抜けています。\nテクニックよりも手前にある前提です。\n\nそこが抜けたまま頑張ると、努力の割に数字が動かず、最悪の場合はアカウントごと失います。",
+      "excerpt": "広告費を下げたい。 1人あたりの獲得単価、CPAを安くしたい。 広告を回したことがある人なら、一度はこう考えたはずです。 ただ、この「CPAを下げれば勝てる」という話には、前提が1つ抜けています。 テクニックよりも手前にある前提です。",
+      "hook": "CPAを安くしたい夢は叶いません",
+      "imageUrl": null,
+      "videoUrl": null,
+      "metrics": {
+        "views": 47,
+        "impressions": 47,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
     {
       "id": "2026-09-29-x-thread",
       "channel": "x",
@@ -12,11 +174,11 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 0,
+        "impressions": 9,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 0
+        "engagementRate": 11.11
       }
     },
     {
@@ -30,7 +192,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-29/2026-09-29-facebook-cross1.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 0,
+        "impressions": 6,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -48,7 +210,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-29/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 0,
+        "impressions": 7,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -66,8 +228,8 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 5,
-        "impressions": 5,
+        "views": 6,
+        "impressions": 6,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -84,11 +246,11 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 0,
-        "reactions": 0,
+        "impressions": 24,
+        "reactions": 1,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 0
+        "engagementRate": 4.17
       }
     },
     {
@@ -102,7 +264,7 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-29/short1.mp4",
       "metrics": {
-        "impressions": 2,
+        "impressions": 8,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -120,8 +282,8 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-29/short1.mp4",
       "metrics": {
-        "views": 31,
-        "impressions": 31,
+        "views": 34,
+        "impressions": 34,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -138,18 +300,18 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 5,
-        "impressions": 5,
+        "views": 9,
+        "impressions": 9,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
         "threadViews": [
-          5,
-          0,
-          0,
-          1,
-          1,
-          0
+          9,
+          4,
+          2,
+          2,
+          3,
+          1
         ]
       }
     },
@@ -164,11 +326,11 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 4,
+        "impressions": 10,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 25
+        "engagementRate": 10
       }
     },
     {
@@ -182,7 +344,7 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-28/short1.mp4",
       "metrics": {
-        "impressions": 5,
+        "impressions": 6,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -200,7 +362,7 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-28/short1.mp4",
       "metrics": {
-        "impressions": 2,
+        "impressions": 3,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -236,7 +398,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-28/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 4,
+        "impressions": 5,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -379,172 +541,6 @@
       "hook": "AIは24時間タダで働く専門家になった",
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-26/shared-0-portrait.png",
       "videoUrl": null
-    },
-    {
-      "id": "2026-09-26-short1-x",
-      "channel": "x",
-      "url": "https://x.com/nishinokousuke/status/2103682792462688601",
-      "postedAt": "2026-09-26T03:07:00.000Z",
-      "text": "「書くのが苦手ですか？」\n\nAIライティングの告知で、この件名がいちばん見られた。\n\n「AIで速く書ける」より、読み手の苦手を突く方が届く。\n\nAIに書かせる前に、人が握るのは「誰の、どんな悩みか」。",
-      "excerpt": "「書くのが苦手ですか？」 AIライティングの告知で、この件名がいちばん見られた。 「AIで速く書ける」より、読み手の苦手を突く方が届く。 AIに書かせる前に、人が握るのは「誰の、どんな悩みか」。",
-      "hook": "ポジティブより「苦手」を突く件名が強い",
-      "imageUrl": null,
-      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-26/short1.mp4",
-      "metrics": {
-        "impressions": 4,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-09-26-short1-instagram",
-      "channel": "instagram",
-      "url": "https://www.instagram.com/reel/DdvCBNmlfmZ/",
-      "postedAt": "2026-09-26T03:07:00.000Z",
-      "text": "「書くのが苦手ですか？」\nこの件名のメールが、めっちゃ開かれました。\n\nライターが発行しているメルマガで、この件名です。\n反応の多さに、正直なんとも言えない気持ちになりました。\n\nAIライティングのワークショップと本を告知したときの話です。\n\nマーケティングを少し学んだ人ほど、\n「AIで売れる文章が作れます」のような件名を書きたくなる。\nそれも間違いとは言えません。\n\nでも、人を動かす力で比べると、\nポジティブよりネガティブの方が強い。\n\n苦手に反応する人が多いのは、\nそれだけ悩んでいる人が多いということ。\n\nだからAIに件名を書かせるときも、\n渡すのは商品の良さより、読者の「苦手」の方だと思います。\n\n動画では、この件名が生まれた背景を話しています。\n\nみなさんの読者が一番「だるい」と感じている作業は何ですか？\n\n#メルマガ #件名 #コピーライティング #AIライティング #マーケティング #AIエージェント #セールスライティング",
-      "excerpt": "「書くのが苦手ですか？」 この件名のメールが、めっちゃ開かれました。 ライターが発行しているメルマガで、この件名です。 反応の多さに、正直なんとも言えない気持ちになりました。 AIライティングのワークショップと本を告知したときの話です。",
-      "hook": "ポジティブより「苦手」を突く件名が強い",
-      "imageUrl": null,
-      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-26/short1.mp4"
-    },
-    {
-      "id": "2026-09-26-short1-threads",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/DdvUi4xlDK2",
-      "postedAt": "2026-09-26T03:07:00.000Z",
-      "text": "「書くのが苦手ですか？」\n\nAIライティングの告知で出したこの件名が、めっちゃ見られました。\n「AIで速く書ける」より、読む人の悩みの方が刺さった。\n\nAIに件名を量産させる前に、どの「苦手」を突くかは人が決める。\n\n件名、ポジティブとネガティブのどちらで書くことが多いですか？",
-      "excerpt": "「書くのが苦手ですか？」 AIライティングの告知で出したこの件名が、めっちゃ見られました。 「AIで速く書ける」より、読む人の悩みの方が刺さった。 AIに件名を量産させる前に、どの「苦手」を突くかは人が決める。",
-      "hook": "ポジティブより「苦手」を突く件名が強い",
-      "imageUrl": null,
-      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-26/short1.mp4",
-      "metrics": {
-        "views": 5,
-        "impressions": 5,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
-      "id": "2026-09-26-threads-1",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/Ddu1WRemvM-",
-      "postedAt": "2026-09-25T23:00:00.000Z",
-      "text": "昔、僕はAIを「24時間働いてくれる新人」と呼んでいました。\n\n今は「24時間タダで働いてくれる専門家」と例えています。\n\nLPもスライドも、今はAIに作らせています。\n集客動画も自社で試作していて、そこそこ良い線まで来ました。\n今は、その制作の自動化に挑戦している最中です。\n\n呼び方が変わると、任せる仕事の重さも変わりました。\n\nみなさんが最初にAIに任せたのは、文章と画像のどちらでしたか？\n\nAIエージェントを作って暮らす30日 Day 25/30",
-      "excerpt": "昔、僕はAIを「24時間働いてくれる新人」と呼んでいました。 今は「24時間タダで働いてくれる専門家」と例えています。 LPもスライドも、今はAIに作らせています。 集客動画も自社で試作していて、そこそこ良い線まで来ました。",
-      "hook": "AIは24時間タダで働く専門家になった",
-      "imageUrl": null,
-      "videoUrl": null,
-      "metrics": {
-        "views": 3,
-        "impressions": 3,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
-      "id": "2026-09-26-x-1",
-      "channel": "x",
-      "url": "https://x.com/nishinokousuke/status/2103613047923171490",
-      "postedAt": "2026-09-25T22:30:00.000Z",
-      "text": "過去7日、18本投稿。\nリーチ418。いいね2。\nコメント・シェア・保存は0。\n\n生成から配信、実績取得まで\nAIエージェントが無人で回した結果です。\n\n回る仕組みはできた。\n反応を生む中身は、まだ人が握る場所。\n\nAIにSNSを任せた30日 Day 25/30",
-      "excerpt": "過去7日、18本投稿。 リーチ418。いいね2。 コメント・シェア・保存は0。 生成から配信、実績取得まで AIエージェントが無人で回した結果です。 回る仕組みはできた。 反応を生む中身は、まだ人が握る場所。",
-      "hook": "昨日までのSNS運用の実数を、そのまま公開する",
-      "imageUrl": null,
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 11,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-09-25-instagram-cross2",
-      "channel": "instagram",
-      "url": "https://www.instagram.com/p/DdtaUKgHJf3/",
-      "postedAt": "2026-09-25T12:00:00.000Z",
-      "text": "「考え方×熱意×能力」で結果が決まる。\n僕はこの式で、人を選ぶ順番もAIへの渡し方も変えました。\n\n稲盛和夫さん（京セラ創業者、JAL再建を主導）の言葉です。\n「人生や仕事の結果は、考え方と熱意と能力の3つの要素の掛け算で決まります」\n\n足し算なら、どれかが低くても他で補えます。\n掛け算だと、一つが低いだけで結果ごと沈む。\nそして3つのうち、意味の重い要素が1つだけある。\n僕はそれを考え方だと見ています。\n\n僕はこの式を、採用と再依頼の判断にそのまま使っています。\n\n■ Before\n1｜最初に見るのは、スキルと実績\n2｜足りない部分は、他の強みで埋まると考える\n3｜判断の軸は「何ができるか」\n\n■ After\n1｜最初に見るのは、考え方\n2｜一つ低ければ、全体が崩れると考える\n3｜判断の軸は「何を大事にして、どう決めるか」\n\nこれはAIエージェントに仕事を任せるときも同じでした。\n\n能力と熱意は、AIが最初から持ってきます。\n速いし、疲れもしない。\n\n考え方だけは、こちらが言葉にして渡した分しか入りません。\n何を優先するか。迷ったらどちらを取るか。\nマーケティングの原則を、判断基準として書いて渡す。\n僕がエージェントに最初に渡すのは、手順より先にここです。\n\n変わったのはスキルの見方ではなく、見る順番でした。\n\nAIに仕事を渡すとき、最初に書いているのは手順ですか、判断基準ですか？\n\n#稲盛和夫 #AIエージェント #生成AI活用 #マーケティング #採用 #組織づくり #AI活用 #経営者",
-      "excerpt": "「考え方×熱意×能力」で結果が決まる。 僕はこの式で、人を選ぶ順番もAIへの渡し方も変えました。 稲盛和夫さん（京セラ創業者、JAL再建を主導）の言葉です。",
-      "hook": "稲盛和夫「人生や仕事の結果は、考え方と熱意と能力の3つの要素の掛け算で決まります。」",
-      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-25/2026-09-25-instagram-cross2.png",
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 9,
-        "views": 9,
-        "reach": 4,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "saves": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-09-25-x-thread",
-      "channel": "x",
-      "url": "https://x.com/nishinokousuke/status/2103454684669186428",
-      "postedAt": "2026-09-25T12:00:00.000Z",
-      "text": "「10年続ければ専門家になれる」\nよく聞く話だし、僕も10年以上マーケティングとセールスコピーをやってきた。\n\nでもこの話には、前提が1つ抜けている。\nそれに気づいたのは、最近ふと浮かんだ不安がきっかけだった。",
-      "excerpt": "「10年続ければ専門家になれる」 よく聞く話だし、僕も10年以上マーケティングとセールスコピーをやってきた。 でもこの話には、前提が1つ抜けている。 それに気づいたのは、最近ふと浮かんだ不安がきっかけだった。",
-      "hook": "人間の集中力はコップの水。使えばなくなる",
-      "imageUrl": null,
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 10,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 10
-      }
-    },
-    {
-      "id": "2026-09-25-facebook-cross1",
-      "channel": "facebook",
-      "url": "https://www.facebook.com/122233359788030234/posts/122557990922030234",
-      "postedAt": "2026-09-25T10:00:00.000Z",
-      "text": "デスクトップのChatGPT、一度アンインストールしてから入れ直してください。\n今のままだと、今回のアップデートが一部しか届いていない可能性があります。\n\n少し、僕の側の裏話をします。\n\n僕は今年の前半、ChatGPTへの期待はかなり低めでした。\n契約もプロプランからプラスプランに落としています。\n毎日仕事で使う道具なので、払う額と返ってくるものは冷静に見ているつもりです。\n\nその僕が、今回のアップデートを触って「プロをもう一度契約してもいい」と思いました。\n\n面白かったのは、その後です。\nクライアントさんや講座の受講生に聞いてみると、はっきり二手に分かれていました。\nアプリが入れ替わっている人と、前のままの人です。\n\n同じアプリを使っているつもりで、手元の性能が違う。\nどちらも、同じものを触っている感覚でいます。\n\nここからが、僕が一番伝えたいところです。\n\nAIでマーケティングを再現する仕事をしていると、関心はどうしても「何を指示するか」に集まります。\nプロンプトの書き方、渡す資料、守らせるルール。\nどれも大事で、磨けばちゃんと伸びます。\n\nただ、その前に確かめることがあります。\n指示を受け取る側が、最新になっているかどうか。\n\n土台が古いままだと、プロンプトを磨いた分がそのまま消えます。\nマーケティングの原則を10年やってきて、それをAIに渡す仕事をしている今も、差がつくのは意外なほど手前の場所です。\n\nAIエージェントに仕事を任せるときも同じです。\n人が持つ仕事の一つは、道具の状態を確かめること。\n中身を詰めるのは、その後で間に合います。\n\n入れ直す手間はほんの少しです。\nそれだけで、これまで磨いてきた指示がちゃんと効く状態に戻ります。\n\nみなさんのChatGPTアプリ、最終更新はいつになっていますか。",
-      "excerpt": "デスクトップのChatGPT、一度アンインストールしてから入れ直してください。 今のままだと、今回のアップデートが一部しか届いていない可能性があります。 少し、僕の側の裏話をします。",
-      "hook": "ChatGPTアプリを今すぐ再ダウンロードすべき理由",
-      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-25/2026-09-25-facebook-cross1.png",
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 12,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-09-25-threads-principle",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/DdtIwlOG_uy",
-      "postedAt": "2026-09-25T08:30:00.000Z",
-      "text": "コンサルの現場で、僕が一番使っている言葉は「訴求」です。\n\n先日、クライアントに「そもそも訴求って何ですか？」と聞かれました。\nいい機会なので、きちんと定義しておくことにしました。\n\n訴求を作る切り口は、3つあります。\n\nマーケターやライターでも、これを一言でパッと答えられる人はなかなかいません。\nAIエージェントに訴求を考えさせるときも、渡すのはこの3つです。\n\n続きはリプライに3つ置きました。",
-      "excerpt": "コンサルの現場で、僕が一番使っている言葉は「訴求」です。 先日、クライアントに「そもそも訴求って何ですか？」と聞かれました。 いい機会なので、きちんと定義しておくことにしました。 訴求を作る切り口は、3つあります。",
-      "hook": "「訴求」をどう作るか——USP・問題解決・付加価値という3つの切り口",
-      "imageUrl": null,
-      "videoUrl": null,
-      "metrics": {
-        "views": 5,
-        "impressions": 5,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "threadViews": [
-          5,
-          5,
-          32,
-          33,
-          6,
-          0
-        ]
-      }
     }
   ]
 }
