@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T12:45:10.854Z",
+  "generatedAt": "2026-10-01T13:32:38.092Z",
   "posts": [
     {
       "id": "2026-10-01-news1-x",
@@ -48,8 +48,8 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/g4_30-09-26_key-art_blog.width-1300.png",
       "videoUrl": null,
       "metrics": {
-        "views": 164,
-        "impressions": 164,
+        "views": 169,
+        "impressions": 169,
         "reactions": 1,
         "comments": 0,
         "shares": 0
@@ -138,8 +138,8 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-10-01/short1.mp4",
       "metrics": {
-        "views": 5,
-        "impressions": 5,
+        "views": 6,
+        "impressions": 6,
         "reactions": 0,
         "comments": 0,
         "shares": 0
