@@ -1,6 +1,150 @@
 {
-  "generatedAt": "2026-09-30T12:11:06.673Z",
+  "generatedAt": "2026-10-01T12:45:10.854Z",
   "posts": [
+    {
+      "id": "2026-10-01-news1-x",
+      "channel": "x",
+      "url": "https://x.com/nishinokousuke/status/2105475540148744637",
+      "postedAt": "2026-10-01T01:51:00.000Z",
+      "text": "Gemini 4 Argon発表。\n1回の出力上限が6.4万→100万トークンに。\n（トークン＝AIが数える文字の単位）\n\n長い資料を分割せず一度に出せる。\n「分けて頼む」工程が要らなくなると思う。\n\n今は一部のセキュリティ専門家向け。\n公開後、自社業務で検証したい。",
+      "excerpt": "Gemini 4 Argon発表。 1回の出力上限が6.4万→100万トークンに。 （トークン＝AIが数える文字の単位） 長い資料を分割せず一度に出せる。 「分けて頼む」工程が要らなくなると思う。 今は一部のセキュリティ専門家向け。",
+      "hook": "Gemini 4 Argon登場。出力上限は6.4万から100万トークンへ拡大",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/g4_30-09-26_key-art_blog.width-1300.png",
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 0,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-10-01-news1-facebook",
+      "channel": "facebook",
+      "url": "https://facebook.com/117903478075728_122558908946030234",
+      "postedAt": "2026-10-01T01:51:00.000Z",
+      "text": "AIに数十万行の書き換えを任せる時代に、人が握るべきなのは「合格の基準」です。\n\nGoogleが新モデル「Gemini 4 Argon」を発表しました。公式発表で僕が一番目を止めたのは、C/C++で書かれたコードをRustへ移す作業を、AIエージェントが担当しているという段落です。\n\nかみ砕くと、C/C++は昔から使われてきた高速なプログラミング言語。Rustはメモリまわりの事故を起こしにくい新しい言語です。古い家の配線を、安全基準を満たす配線に引き直すような仕事だと思ってください。\n\n対象は数万行のライブラリから、Fuchsiaというシステムの中核「Zirconカーネル」の80万行超まで。\n\n動画を再生するソフトlibgav1の例が具体的でした。AIエージェントが計測と実験を何度も回し、3万2千行の処理を安全なRustで書き直した。映像の出力は同じまま、元のRust版より2.7倍速くなったそうです。\n\nもう一つ大事なのは、Googleが本番の前に何重もの確認を挟んでいる点です。自動と人の両方による監査、模擬環境でのテスト、レビューを通してから展開すると書いています。\n\nマーケティングや組織づくりに置き換えると、判断基準ははっきりしています。\n\n・AIに渡すのは、作業そのもの\n・人が持つのは、守るべき結果の定義\n・その結果が保たれているかを確かめる比較テスト\n\nlibgav1でいえば「出力が同じ」が合格ラインでした。LPの改修、メールの書き換え、営業トークのAI化も同じ構造です。過去に成果が出た型を合格ラインとして先に決めておくと、AIエージェントに大きな仕事を安心して渡せます。\n\n乗り換え判断の視点も一つ。Argonは今、Fairwind Programを通じて信頼できるサイバー防御の担当者から段階的に提供されていて、開発者や企業、一般向けの公開はこれからです。\n\n導入価格は入力100万トークンあたり2ドル、出力10ドル。トークンはAIが読み書きする文字量の単位です。一度に書き出せる量の上限も、6万4千から100万トークンへ広がりました。\n\n公開を待つ間にやれるのは、自社の合格ラインと比較用のテストを用意しておくこと。新モデルが来た日に、その基準で試すだけで乗り換えの是非が判断できるはずです。\n\n公式発表は、コード移行の段落と安全対策の段落だけでも読む価値があります。\n\nみなさんの業務で、AIに任せる前に決めておくべき合格ラインは何でしょうか。",
+      "excerpt": "AIに数十万行の書き換えを任せる時代に、人が握るべきなのは「合格の基準」です。 Googleが新モデル「Gemini 4 Argon」を発表しました。",
+      "hook": "C/C++からRustへの移行をAIが担当。最大80万行超のカーネルも対象",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/g4_30-09-26_key-art_blog.width-1300.png",
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 0,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-10-01-news1-threads",
+      "channel": "threads",
+      "url": "https://www.threads.com/@kousuke_nishino/post/Dd7xTwHmrkI",
+      "postedAt": "2026-10-01T01:51:00.000Z",
+      "text": "GoogleのGemini 4 Argonで、AIエージェントのチームがデータセンターのメモリを300TiB超も空けたそうです。\n\nやったことは3段階です。データセンター全体の稼働計測データ（テレメトリ）を読む。無駄を見つける。修正を当てる。ここまでを自律でこなしています。\n最終的な削減は500TiB〜1PiBの見込みとのこと。\n\n僕が実務に効くと思うのは「計測データを丸ごと渡す」設計です。\n広告や営業でも、配信ログや商談記録はAIに渡す。本番に反映するかどうかは人が決める。この分け方がそのまま使えます。\n\n現時点の提供先は、Googleが信頼するサイバー防御の担当者に限られています。\n\nみなさんの会社で、今日AIに渡せる計測データは何ですか？",
+      "excerpt": "GoogleのGemini 4 Argonで、AIエージェントのチームがデータセンターのメモリを300TiB超も空けたそうです。 やったことは3段階です。データセンター全体の稼働計測データ（テレメトリ）を読む。無駄を見つける。修正を当てる。",
+      "hook": "Argonのエージェント群がGoogleのデータセンターで300TiB超のメモリを削減",
+      "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/g4_30-09-26_key-art_blog.width-1300.png",
+      "videoUrl": null,
+      "metrics": {
+        "views": 164,
+        "impressions": 164,
+        "reactions": 1,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "2026-10-01-threads-1",
+      "channel": "threads",
+      "url": "https://www.threads.com/@kousuke_nishino/post/Dd8TRCgFY7T",
+      "postedAt": "2026-09-30T23:00:00.000Z",
+      "text": "AIに相談した人は、並んだ10件から選びません。\n返ってきた1つの答えを、そのまま実行します。\n\nだから僕は、自分のホームページとブログを、AIに引用される前提で作り直しました。\n自分が誰で、何の専門家か。それを文章でも構造でも明示する形にです。\n\n検索の頃は10位でも見てもらえた。\n今は、AIに推薦されるかどうか。それだけです。\n\n30日の最後に残ったのは、この一点でした。\n\n自分の名前や屋号を、AIに聞いてみたことはありますか？\n\nAIエージェントを作って暮らす30日 Day 30/30\n\nAIで、人を増やさずに売れる仕組みをつくる方法を毎日書いています。",
+      "excerpt": "AIに相談した人は、並んだ10件から選びません。 返ってきた1つの答えを、そのまま実行します。 だから僕は、自分のホームページとブログを、AIに引用される前提で作り直しました。 自分が誰で、何の専門家か。",
+      "hook": "AIは10件並べず、1つの答えを推薦し実行される",
+      "imageUrl": null,
+      "videoUrl": null,
+      "metrics": {
+        "views": 4,
+        "impressions": 4,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "2026-10-01-x-1",
+      "channel": "x",
+      "url": "https://x.com/nishinokousuke/status/2105425002761794037",
+      "postedAt": "2026-09-30T22:30:00.000Z",
+      "text": "AIにSNSを丸投げすると、30日でこうなる。\n\n過去7日・29本\nリーチ208\nいいね0／保存0\nコメント1\n\n生成から配信・考察まで、無人で回した結果。\n\n量はAIで回る。\n何を言うかは、人が握る。\n\nAIにSNSを任せた30日 Day 30/30\n\nAIで、人を増やさずに売れる仕組みをつくる方法を毎日書いています。",
+      "excerpt": "AIにSNSを丸投げすると、30日でこうなる。 過去7日・29本 リーチ208 いいね0／保存0 コメント1 生成から配信・考察まで、無人で回した結果。 量はAIで回る。 何を言うかは、人が握る。",
+      "hook": "昨日までのSNS運用の実数を、そのまま公開する",
+      "imageUrl": null,
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 0,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-10-01-short1-x",
+      "channel": "x",
+      "url": "https://x.com/nishinokousuke/status/2105417549135380671",
+      "postedAt": "2026-09-30T22:00:00.000Z",
+      "text": "深夜12時の電話。\n\n「タイヤ4本、無料で交換します」\n「タイヤ4本、今盗まれそうです」\n\n飛び起きるのは、後者。\n\nAIに広告文を頼むとき、\n「読者が失うもの」から書かせていますか？",
+      "excerpt": "深夜12時の電話。 「タイヤ4本、無料で交換します」 「タイヤ4本、今盗まれそうです」 飛び起きるのは、後者。 AIに広告文を頼むとき、 「読者が失うもの」から書かせていますか？",
+      "hook": "人は得るより奪われる話で動く",
+      "imageUrl": null,
+      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-10-01/short1.mp4",
+      "metrics": {
+        "impressions": 0,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-10-01-short1-facebook",
+      "channel": "facebook",
+      "url": "https://www.facebook.com/reel/1773711547188363/",
+      "postedAt": "2026-09-30T22:00:00.000Z",
+      "text": "同じタイヤ4本の話なのに、深夜の電話で人が飛び起きるのは片方だけです。\n\nAIに広告文やメールを書かせている。文章はきれいなのに、反応が薄い。\nそんな方に見てほしい短い動画です。\n\n世界ナンバーワンのセールスコピーライターだった人が、セミナーで話していた寓話があります。\n\n夜の12時に電話が鳴る。\n「お宅の車のタイヤを4本、無料で交換します。今から行っていいですか？」\n「お宅の車のタイヤが4本、今まさに盗まれそうです。どうします？」\n\n中身は同じタイヤ4本です。\nどちらで体が動くかは、想像がつくと思います。\nでも動画で語りを聞くと、その差の大きさが体でわかります。\n\nここからがAIの話です。\n\nAIに「この商品のメリットを伝えるコピーを書いて」と頼むと、返ってくるのはほぼ「得られるもの」の文章です。\n無料、便利、簡単。\n深夜0時の無料交換の電話と同じ構造になっています。\n\nマーケティングの原則を10年やってきて、AIに実装するときに一番効いたのは、頼み方の順番を変えることでした。\n\nAIに渡すのはこの3つです。\n①読者が今、気づかないうちに失っているもの\n②それを放置した先に起きること\n③奪われる側の言葉と、得る側の言葉で、冒頭を1本ずつ書く指示\n\n頼み方の例をそのまま置いておきます。\n「この商品を使っていない人が、今まさに失っているものを5つ挙げて。そのうえで、失う話を軸にした冒頭文と、得る話を軸にした冒頭文を1本ずつ書いて」\n\n人が持つのは、最後の判断です。\n事実と合っているか。煽りに寄りすぎていないか。\nこの2点を見て、出す1本を選ぶところまでは人がやる。\nここを押さえておくと、AIが書いたコピーでも深夜の電話で飛び起きる側の文章になります。\n\nみなさんが今使っているLPやメールの1行目は、得る話と奪われる話、どちらで始まっていますか？",
+      "excerpt": "同じタイヤ4本の話なのに、深夜の電話で人が飛び起きるのは片方だけです。 AIに広告文やメールを書かせている。文章はきれいなのに、反応が薄い。 そんな方に見てほしい短い動画です。",
+      "hook": "人は得るより奪われる話で動く",
+      "imageUrl": null,
+      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-10-01/short1.mp4",
+      "metrics": {
+        "impressions": 0,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-10-01-short1-threads",
+      "channel": "threads",
+      "url": "https://www.threads.com/@kousuke_nishino/post/Dd8TTCxAAAm",
+      "postedAt": "2026-09-30T22:00:00.000Z",
+      "text": "夜中の電話で飛び起きる話と、即切りたくなる話。中身は同じタイヤ4本です。\n\n違うのは「もらえる」か「奪われる」か。それだけです。\n\nAIにコピーを書かせるときも、読者が失うものを先に渡すと文面が変わります。\n\n今のLPの書き出しは、得する話と損する話のどちらですか？",
+      "excerpt": "夜中の電話で飛び起きる話と、即切りたくなる話。中身は同じタイヤ4本です。 違うのは「もらえる」か「奪われる」か。それだけです。 AIにコピーを書かせるときも、読者が失うものを先に渡すと文面が変わります。",
+      "hook": "人は得るより奪われる話で動く",
+      "imageUrl": null,
+      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-10-01/short1.mp4",
+      "metrics": {
+        "views": 5,
+        "impressions": 5,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
     {
       "id": "2026-09-30-facebook-1",
       "channel": "facebook",
@@ -12,7 +156,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-30/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 0,
+        "impressions": 12,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -30,7 +174,7 @@
       "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/1Xa7inzcCfsGE5aV3QqeN3/4f3689ae92e04b18569f9eaf919e7174/GPT-6-1-Sol_16x9.png?w=1600&h=900&fit=fill",
       "videoUrl": null,
       "metrics": {
-        "impressions": 0,
+        "impressions": 24,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -48,7 +192,7 @@
       "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/1Xa7inzcCfsGE5aV3QqeN3/4f3689ae92e04b18569f9eaf919e7174/GPT-6-1-Sol_16x9.png?w=1600&h=900&fit=fill",
       "videoUrl": null,
       "metrics": {
-        "impressions": 0,
+        "impressions": 13,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -66,8 +210,8 @@
       "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/1Xa7inzcCfsGE5aV3QqeN3/4f3689ae92e04b18569f9eaf919e7174/GPT-6-1-Sol_16x9.png?w=1600&h=900&fit=fill",
       "videoUrl": null,
       "metrics": {
-        "views": 58,
-        "impressions": 58,
+        "views": 60,
+        "impressions": 60,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -84,8 +228,8 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 2,
-        "impressions": 2,
+        "views": 4,
+        "impressions": 4,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -102,7 +246,7 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 0,
+        "impressions": 8,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -120,7 +264,7 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-30/short1.mp4",
       "metrics": {
-        "impressions": 0,
+        "impressions": 10,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -174,11 +318,11 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 9,
+        "impressions": 18,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 11.11
+        "engagementRate": 5.56
       }
     },
     {
@@ -192,7 +336,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-29/2026-09-29-facebook-cross1.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 6,
+        "impressions": 9,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -210,7 +354,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-29/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 7,
+        "impressions": 10,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -246,11 +390,11 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 24,
+        "impressions": 25,
         "reactions": 1,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 4.17
+        "engagementRate": 4
       }
     },
     {
@@ -264,7 +408,7 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-29/short1.mp4",
       "metrics": {
-        "impressions": 8,
+        "impressions": 9,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -362,7 +506,7 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-28/short1.mp4",
       "metrics": {
-        "impressions": 3,
+        "impressions": 4,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -398,149 +542,12 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-28/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 5,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-09-28-threads-1",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/Dd0AN5hmlsS",
-      "postedAt": "2026-09-27T23:00:00.000Z",
-      "text": "AIに調べ物を任せると、もっともらしい顔で間違えることがある。\n\n僕は投資の銘柄選びでChatGPTを使って、かなり悲惨な結果をもらいました。\n出力を必ずチェックしていたので助かったけど、正直ひやっとした。\n\nChatGPTは対話と推論のために作られたAI。\nいまは検索を、Googleの延長で作られたGeminiか、Perplexityに渡しています。\n\nAIに仕事を振る前に見るのは一つだけ。\n「このAIは、自分で調べに行く設計か」。\n\n調べ物に使っているのは、ChatGPTとGeminiのどちらですか？\n\nAIエージェントを作って暮らす30日 Day 27/30\n\nAIで、人を増やさずに売れる仕組みをつくる方法を毎日書いています。",
-      "excerpt": "AIに調べ物を任せると、もっともらしい顔で間違えることがある。 僕は投資の銘柄選びでChatGPTを使って、かなり悲惨な結果をもらいました。 出力を必ずチェックしていたので助かったけど、正直ひやっとした。",
-      "hook": "ChatGPTは検索に不向き、投資の銘柄選びで痛い目に",
-      "imageUrl": null,
-      "videoUrl": null,
-      "metrics": {
-        "views": 17,
-        "impressions": 17,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
-      "id": "2026-09-28-x-1",
-      "channel": "x",
-      "url": "https://x.com/nishinokousuke/status/2104337809037254860",
-      "postedAt": "2026-09-27T22:30:00.000Z",
-      "text": "AIにSNSを丸ごと任せた7日間。\n19本の実数です。\n\nリーチ236\nいいね1\n保存0\n\n生成から配信まで無人で回した結果。\n\n量はAIが出せる。\n止まる一行は、まだ作れていない。\n\nAIにSNSを任せた30日 Day 27/30\n\nAIで、人を増やさずに売れる仕組みをつくる方法を毎日書いています。",
-      "excerpt": "AIにSNSを丸ごと任せた7日間。 19本の実数です。 リーチ236 いいね1 保存0 生成から配信まで無人で回した結果。 量はAIが出せる。 止まる一行は、まだ作れていない。",
-      "hook": "昨日までのSNS運用の実数を、そのまま公開する",
-      "imageUrl": null,
-      "videoUrl": null,
-      "metrics": {
         "impressions": 6,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
         "engagementRate": 0
       }
-    },
-    {
-      "id": "2026-09-27-short1-x",
-      "channel": "x",
-      "url": "https://x.com/nishinokousuke/status/2104044136516960270",
-      "postedAt": "2026-09-27T03:03:00.000Z",
-      "text": "「大事ですよね」と言われて、買われない。\n\n原因は商品より、相手の問題意識の弱さ。\n\n同じ1万円のセキュリティ商品でも、\n先月被害に遭った会社は買う。\n\nAIに営業文を書かせるなら、\n先に渡すのは「誰が今痛いか」。",
-      "excerpt": "「大事ですよね」と言われて、買われない。 原因は商品より、相手の問題意識の弱さ。 同じ1万円のセキュリティ商品でも、 先月被害に遭った会社は買う。 AIに営業文を書かせるなら、 先に渡すのは「誰が今痛いか」。",
-      "hook": "売れるかは相手の問題意識の強さで決まる",
-      "imageUrl": null,
-      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-27/short1.mp4",
-      "metrics": {
-        "impressions": 8,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-09-27-short1-facebook",
-      "channel": "facebook",
-      "url": "https://www.facebook.com/reel/1094415433510758/",
-      "postedAt": "2026-09-27T03:03:00.000Z",
-      "text": "同じ商品、同じ価格、同じ説明。それでも、買う会社と買わない会社ははっきり分かれます。\n分けているのは、相手の問題意識の強さです。\n\n動画では、1万円のセキュリティ商品を例にこの話をしています。\n\nセキュリティが大事なことは誰でも分かっています。\n「大事ですよね」と言えば、ほぼ全員がうなずく。\nでも、そこで財布を開く会社と、「分かります」とだけ言って帰る会社がいる。\n\n買うのは、たとえばこんな会社です。\n・上場を控えていて、コンプラ対応を必死でやらなければいけない\n・過去にセキュリティ侵害で損害を受けた。なんなら、つい先月\n\n一度も侵害されたことがない会社は、同じ話を聞いても買いません。\n商品の良し悪しより先に、そのテーマがどれだけ痛いかで決まっている。\n\nこれは、AIに営業やマーケティングを任せるときにそのまま効きます。\n\nよくあるのは、AIにリストを渡して「この商品を案内して」と頼むやり方です。\nすると、問題意識の弱い相手にも同じ熱量で送り続ける。\nうなずくだけで帰る人に、延々と説明を重ねることになります。\n\nAIに先に渡すのは、「問題意識が強い相手に出ているサイン」です。\nセキュリティなら、上場準備の動きがある、最近被害に遭っている、といったもの。\n\nAIエージェントには、まずこのサインで相手を並べ替えさせる。\nその上で、痛みの強い相手から順に、その痛みの言葉で話しかけさせる。\n\n人が持つのは、「自分の商品にとって、痛みが強い相手のサインは何か」を決める仕事です。\nマーケティングを10年やってきて、ここがいちばんAIに丸投げしにくい部分だと感じています。\nサインさえ言葉にできれば、振り分けと声かけはAIが人なしで回せます。\n\n逆に言うと、「大事ですよね」とうなずかれる商品ほど注意が必要です。\nうなずきは、問題意識の強さを測ってくれないからです。\n\nみなさんの商品だと、「この相手は今すぐ買う」と分かるサインは何ですか。ひとつだけ挙げるなら。",
-      "excerpt": "同じ商品、同じ価格、同じ説明。それでも、買う会社と買わない会社ははっきり分かれます。 分けているのは、相手の問題意識の強さです。 動画では、1万円のセキュリティ商品を例にこの話をしています。 セキュリティが大事なことは誰でも分かっています。",
-      "hook": "売れるかは相手の問題意識の強さで決まる",
-      "imageUrl": null,
-      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-27/short1.mp4",
-      "metrics": {
-        "impressions": 6,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-09-27-short1-threads",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/Ddx7uBsE2c0",
-      "postedAt": "2026-09-27T03:03:00.000Z",
-      "text": "同じ商品でも、買う会社と買わない会社がいる。\n\n差を生むのは商品の出来より、相手の問題意識の強さ。\n1万円のセキュリティ商品を例に、上場を控えた会社や先月被害に遭った会社がなぜ買うのかを話しています。\n\nAIに営業リストを渡すなら、最初にやらせるのは問題意識の強さでの並べ替えです。\n\nいまの見込み客リスト、問題意識の強さで分けていますか？",
-      "excerpt": "同じ商品でも、買う会社と買わない会社がいる。 差を生むのは商品の出来より、相手の問題意識の強さ。 1万円のセキュリティ商品を例に、上場を控えた会社や先月被害に遭った会社がなぜ買うのかを話しています。",
-      "hook": "売れるかは相手の問題意識の強さで決まる",
-      "imageUrl": null,
-      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-27/short1.mp4",
-      "metrics": {
-        "views": 4,
-        "impressions": 4,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
-      "id": "2026-09-27-threads-1",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/DdxZXf1FSeJ",
-      "postedAt": "2026-09-26T23:00:00.000Z",
-      "text": "「報酬の分配、ちゃんと文章で伝えたい」\n先日ある案件で、そう思ったまま手が止まりました。\n\nこういうケースは〜、こういうケースでは〜。\n場合分けが増えるたびに、やる気が抜けていく。\n話がどこかへ行きそうになりました。\n\nそこで要件と前提だけ話して、Claudeにまとめてもらった。\n出てきた文章に、素直に感動しました。\n\n人が持つのは「何を決めたいか」。\n文章にする面倒はAIに渡せる。\nAIを使い始めるなら、他人へのメッセージ作りからが一番早いと思っています。\n\n最初にAIに頼んだ文章は、社内向けと社外向けのどちらでしたか？\n\nAIエージェントを作って暮らす30日 Day 26/30",
-      "excerpt": "「報酬の分配、ちゃんと文章で伝えたい」 先日ある案件で、そう思ったまま手が止まりました。 こういうケースは〜、こういうケースでは〜。 場合分けが増えるたびに、やる気が抜けていく。 話がどこかへ行きそうになりました。",
-      "hook": "ChatGPTはまず他人へのメッセージ制作から始めよ",
-      "imageUrl": null,
-      "videoUrl": null,
-      "metrics": {
-        "views": 7,
-        "impressions": 7,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
-      "id": "2026-09-27-x-1",
-      "channel": "x",
-      "url": "https://x.com/nishinokousuke/status/2103975422039822671",
-      "postedAt": "2026-09-26T22:30:00.000Z",
-      "text": "過去7日、16本でリーチ196。\nいいね1。コメント・保存・シェアは0。\n\n生成から配信、実績の取得まで\nAIエージェントが無人で回した結果です。\n\n回すところまではAIでできた。\n反応を取る設計が、まだ足りていない。\n\nAIにSNSを任せた30日 Day 26/30",
-      "excerpt": "過去7日、16本でリーチ196。 いいね1。コメント・保存・シェアは0。 生成から配信、実績の取得まで AIエージェントが無人で回した結果です。 回すところまではAIでできた。 反応を取る設計が、まだ足りていない。",
-      "hook": "昨日までのSNS運用の実数を、そのまま公開する",
-      "imageUrl": null,
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 10,
-        "reactions": 0,
-        "comments": 1,
-        "shares": 0,
-        "engagementRate": 10
-      }
-    },
-    {
-      "id": "2026-09-26-instagram-1",
-      "channel": "instagram",
-      "url": "https://www.instagram.com/p/DdvqfqcG3Ar/",
-      "postedAt": "2026-09-26T09:00:00.000Z",
-      "text": "値上げの提案書は、価格の前に置く「価値の文章」から、AIに書かせてください。\n9月は価格交渉促進月間。国が交渉の口実を用意してくれている月です。\n\n労務費の転嫁率は、2022年9月の33%から2025年9月に50%まで上がりました。\n裏を返せば、まだ半分しか転嫁できていない。\n\n「値上げできない」の正体は、交渉力よりも価格プレゼンの順番だと僕は見ています。\n勝負は、金額を出す前の前半の文章で決まっている。\n\n昔、僕はAIを「24時間働いてくれる新人」と例えていました。\n今は「24時間タダで働いてくれる専門家」と呼んでいます。\n文章の質が、それくらい上がった。\n\nだから前半の文章づくりは、この専門家に任せられます。\n人が持つのは、取引先との関係と、最後に出す金額だけ。\n\n実際の頼み方はこれです。\n\n「あなたは取引先に値上げを提案する営業の専門家です。\n以下の情報をもとに、価格を提示する前に読んでもらう文章を書いてください。\n\n・取引先の名前と、取引の年数：\n・うちが提供しているもの：\n・取引先がそれで得ている成果や、助かっている場面：\n・この先も続けるために、コストが上がっている理由：\n\n条件\n1｜金額は書かない。価格の話に入る手前で止める\n2｜取引先が得ているものを先に書き、こちらの事情は後に書く\n3｜相手の立場で読み、押しつけに感じる表現があれば言い換える\n4｜最後に、価格の話へ自然につなぐ一文を3案出す」\n\n僕はこれで提案の前半だけを先に作り、金額は自分で入れています。\nAIが得意なのは、価値を言葉にするところ。\n金額と関係の判断は、人が持つ。\n\n効きにくい場面もあります。\n取引先が得ている成果を空欄のまま渡すと、どこにでもある文章が返ってきます。\nそこだけは、みなさんが一番よく知っている言葉で埋めてください。\n\n値上げを切り出す前の晩に使うものです。\n9月のうちに、保存して手元に置いておいてください。\n\n#価格交渉促進月間\n#値上げ交渉\n#価格転嫁\n#AI活用\n#AIエージェント\n#生成AI\n#マーケティング\n#営業資料\n#中小企業経営",
-      "excerpt": "値上げの提案書は、価格の前に置く「価値の文章」から、AIに書かせてください。 9月は価格交渉促進月間。国が交渉の口実を用意してくれている月です。 労務費の転嫁率は、2022年9月の33%から2025年9月に50%まで上がりました。",
-      "hook": "AIは24時間タダで働く専門家になった",
-      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-26/shared-0-portrait.png",
-      "videoUrl": null
     }
   ]
 }
