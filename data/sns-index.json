@@ -1,6 +1,122 @@
 {
-  "generatedAt": "2026-10-01T13:32:38.092Z",
+  "generatedAt": "2026-10-02T12:09:18.005Z",
   "posts": [
+    {
+      "id": "2026-10-02-facebook-cross1",
+      "channel": "facebook",
+      "url": "https://www.facebook.com/122233359788030234/posts/122559118970030234",
+      "postedAt": "2026-10-02T10:00:00.000Z",
+      "text": "AIエージェントに「仕事やっといて」と任せた業務が、PCを閉じた瞬間に止まっている。\n導入前にこの制約をひとつ知っておくだけで、自動化の設計はがらっと変わります。\n\nクロードのエージェント機能（Claude Code / Claude のエージェント）は、細かく指示しなくても最後まで走ってくれます。\n\nメールを巡回して、見るべきものをピックアップする。\n決まった時間に、情報をまとめて出す。\n\nこういう「指示をせずとも動く」仕事は、たしかに任せられます。\n\nただし、動くのはアプリが起動している間だけです。\nPCを閉じれば、そこで止まる。\n\nここを知らずに「全部自動化できる」と思って入れると、確実にズレます。\n\n僕がAIとAIエージェントで売れる仕組みを組むとき、最初にやるのはこの線引きです。\n\n・人がPCを開けている時間に走らせる仕事\n・PCを閉じていても走っていてほしい仕事\n\n手順にすると、こうなります。\n\n1｜自動で回したい業務を書き出す\n2｜それぞれに「いつ動いていてほしいか」を書き添える\n3｜その時間にPCが開いているかどうかで、2つに分ける\n4｜開いている時間に収まるものから、エージェントに渡す\n\n地味な作業です。\nでも、この2つを混ぜたまま設計すると、「動いているはず」の抜けが起きます。\n\nそして、抜けたことに誰も気づかない。\n一番こわいのはここです。\n\nエラーが出れば人は直しに行けます。\n止まったことに気づけない仕組みは、静かに成果だけを削っていきます。\n\nやってみて意外だったのは、ツールの機能を覚えることより、この仕分けのほうがずっと効いたことでした。\n\nどこまでをAIに渡し、どこを人が持つのか。\nそれを先に決めておくと、エージェントに任せた部分を安心して手放せます。\n\nマーケティングの原則を10年やってきて、それをAIに実装するようになってから、一番削れないと感じているのがこの線引きです。\n\nみなさんがいま自動で回したい業務は、PCを開けている時間の中で終わりますか。",
+      "excerpt": "AIエージェントに「仕事やっといて」と任せた業務が、PCを閉じた瞬間に止まっている。 導入前にこの制約をひとつ知っておくだけで、自動化の設計はがらっと変わります。",
+      "hook": "クロードのエージェントはPCを開けてないと動かない",
+      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-10-02/2026-10-02-facebook-cross1.png",
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 0,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-10-02-threads-principle",
+      "channel": "threads",
+      "url": "https://www.threads.com/@kousuke_nishino/post/Dd_GUOKG5oL",
+      "postedAt": "2026-10-02T08:30:00.000Z",
+      "text": "同じテンプレ、同じAIを使っているのに、売れる人と止まる人がいる。\n\n差がつくのは、目に見えるやり方の外側です。\nポイントは3つあります。\n\nほとんどの人は、見えるやり方だけを真似して終わっています。\nコンサルでこの話をすると、毎回全員に驚かれます。\n\nAIに何を渡すかも、この3つで決まります。\n\n続きはリプライに順番に書きました。",
+      "excerpt": "同じテンプレ、同じAIを使っているのに、売れる人と止まる人がいる。 差がつくのは、目に見えるやり方の外側です。 ポイントは3つあります。 ほとんどの人は、見えるやり方だけを真似して終わっています。",
+      "hook": "目に見える手法を真似ても同じ結果は出ない。差は見えない基準・手間・土台にある",
+      "imageUrl": null,
+      "videoUrl": null,
+      "metrics": {
+        "views": 10,
+        "impressions": 10,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "threadViews": [
+          10,
+          4,
+          3,
+          2,
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "id": "2026-10-02-x-principle",
+      "channel": "x",
+      "url": "https://x.com/nishinokousuke/status/2105945255967100931",
+      "postedAt": "2026-10-02T08:00:00.000Z",
+      "text": "テンプレに沿って書いたコピーが、なぜか売れない。\nAIに書かせても同じことが起きます。\n\n差がつくのは、真似した手法の外側にある3つです。\nほとんどの人は、見える手法だけを真似しています。\nコンサルを受ける人は、全員ここで驚きます。\n\n続きはリプライで。",
+      "excerpt": "テンプレに沿って書いたコピーが、なぜか売れない。 AIに書かせても同じことが起きます。 差がつくのは、真似した手法の外側にある3つです。 ほとんどの人は、見える手法だけを真似しています。 コンサルを受ける人は、全員ここで驚きます。",
+      "hook": "目に見える手法を真似ても同じ結果は出ない。差は見えない基準・手間・土台にある",
+      "imageUrl": null,
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 0,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-10-02-threads-1",
+      "channel": "threads",
+      "url": "https://www.threads.com/@kousuke_nishino/post/Dd-XgHniW-P",
+      "postedAt": "2026-10-01T23:00:00.000Z",
+      "text": "今日から30日間、今日からそのまま使える「AIへの仕事の渡し方」を、毎日1つ投稿します。\n\n人脈や紹介に頼る仕事は、実はリスクが高い。時間がかかるうえ、やめどきも見えにくいからです。\nDay 1は、会った人とのつながりを売上に変える案出しをAIに渡します。\n\nSTEP1 会った人の事業と、話した内容をメモする\nSTEP2 AIに「この人と組めること、お互いに紹介し合えることを、相手の得になる順に挙げて」と頼む\nSTEP3 出た案から1つ選び、自分の言葉で連絡する\n\n勘所は、案出しをAIに任せて、どの案を選ぶかを自分で決めることです。\n相手をお金として見ていないかどうかは、選ぶときの自分にしか分かりません。\n\n先月会った人の中で、まず誰のメモから作りますか？\n\n毎日ひとつ、仕事をAIに渡す30日 Day 1/30\n\nAIで、人を増やさずに売れる仕組みをつくる方法を毎日書いています。",
+      "excerpt": "今日から30日間、今日からそのまま使える「AIへの仕事の渡し方」を、毎日1つ投稿します。 人脈や紹介に頼る仕事は、実はリスクが高い。時間がかかるうえ、やめどきも見えにくいからです。",
+      "hook": "人脈に頼る仕事は本当はリスクが高い",
+      "imageUrl": null,
+      "videoUrl": null,
+      "metrics": {
+        "views": 2,
+        "impressions": 2,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "2026-10-02-short1-x",
+      "channel": "x",
+      "url": "https://x.com/nishinokousuke/status/2105780042538049594",
+      "postedAt": "2026-10-01T22:00:00.000Z",
+      "text": "起業がうまくいくかは、\n7〜8割が「ニッチ探し」で決まる。\n\n海外の教材に必ず出てきた言葉、\nファインディング・ニッチ。\n\n僕がサクッと成功しなかった理由も、ここでした。\n\nAIに集客を任せる前に、まず狙う隙間を決める。",
+      "excerpt": "起業がうまくいくかは、 7〜8割が「ニッチ探し」で決まる。 海外の教材に必ず出てきた言葉、 ファインディング・ニッチ。 僕がサクッと成功しなかった理由も、ここでした。 AIに集客を任せる前に、まず狙う隙間を決める。",
+      "hook": "起業の成否の7〜8割はニッチ探しで決まる",
+      "imageUrl": null,
+      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-10-02/short1.mp4",
+      "metrics": {
+        "impressions": 0,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-10-02-short1-threads",
+      "channel": "threads",
+      "url": "https://www.threads.com/@kousuke_nishino/post/Dd-Xhk3D6_M",
+      "postedAt": "2026-10-01T22:00:00.000Z",
+      "text": "起業がうまくいくかは、7〜8割がニッチ探しで決まる。\n\n僕はサクッとうまくいった側じゃない。その理由を、海外の教材に必ず出てきた「ファインディング・ニッチ」という言葉で話しています。\n\nAIで発信を量産する前に、どの隙間を狙うかを決める。ここは人が持つ仕事です。\n\n今のビジネスで狙う隙間、一言で言えますか？",
+      "excerpt": "起業がうまくいくかは、7〜8割がニッチ探しで決まる。 僕はサクッとうまくいった側じゃない。その理由を、海外の教材に必ず出てきた「ファインディング・ニッチ」という言葉で話しています。 AIで発信を量産する前に、どの隙間を狙うかを決める。",
+      "hook": "起業の成否の7〜8割はニッチ探しで決まる",
+      "imageUrl": null,
+      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-10-02/short1.mp4",
+      "metrics": {
+        "views": 7,
+        "impressions": 7,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
     {
       "id": "2026-10-01-news1-x",
       "channel": "x",
@@ -12,7 +128,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/g4_30-09-26_key-art_blog.width-1300.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 0,
+        "impressions": 48,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -30,7 +146,7 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/g4_30-09-26_key-art_blog.width-1300.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 0,
+        "impressions": 10,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -48,8 +164,8 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/g4_30-09-26_key-art_blog.width-1300.png",
       "videoUrl": null,
       "metrics": {
-        "views": 169,
-        "impressions": 169,
+        "views": 170,
+        "impressions": 170,
         "reactions": 1,
         "comments": 0,
         "shares": 0
@@ -84,11 +200,11 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 0,
+        "impressions": 3,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 0
+        "engagementRate": 33.33
       }
     },
     {
@@ -102,11 +218,11 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-10-01/short1.mp4",
       "metrics": {
-        "impressions": 0,
-        "reactions": 0,
+        "impressions": 9,
+        "reactions": 1,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 0
+        "engagementRate": 11.11
       }
     },
     {
@@ -120,7 +236,7 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-10-01/short1.mp4",
       "metrics": {
-        "impressions": 0,
+        "impressions": 4,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -156,7 +272,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-30/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 12,
+        "impressions": 13,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -174,7 +290,7 @@
       "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/1Xa7inzcCfsGE5aV3QqeN3/4f3689ae92e04b18569f9eaf919e7174/GPT-6-1-Sol_16x9.png?w=1600&h=900&fit=fill",
       "videoUrl": null,
       "metrics": {
-        "impressions": 24,
+        "impressions": 25,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -192,7 +308,7 @@
       "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/1Xa7inzcCfsGE5aV3QqeN3/4f3689ae92e04b18569f9eaf919e7174/GPT-6-1-Sol_16x9.png?w=1600&h=900&fit=fill",
       "videoUrl": null,
       "metrics": {
-        "impressions": 13,
+        "impressions": 15,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -264,7 +380,7 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-30/short1.mp4",
       "metrics": {
-        "impressions": 10,
+        "impressions": 11,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -318,11 +434,11 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 18,
+        "impressions": 25,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 5.56
+        "engagementRate": 4
       }
     },
     {
@@ -336,7 +452,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-29/2026-09-29-facebook-cross1.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 9,
+        "impressions": 10,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -354,7 +470,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-29/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 10,
+        "impressions": 11,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -431,122 +547,6 @@
         "reactions": 0,
         "comments": 0,
         "shares": 0
-      }
-    },
-    {
-      "id": "2026-09-28-threads-principle",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/Dd0zdrtmxrX",
-      "postedAt": "2026-09-28T08:30:00.000Z",
-      "text": "AIの要約やニュースを毎日読んで、分かった気にはなる。\nなのに、仕事の成果はあまり変わらない。\n\n分かりやすい情報の裏側を見るためのポイントが3つあります。\n\n多くの人は、世の中の表側だけを見ている。\n仕事柄、言語化は強い方の僕でも、本当に良いものを説明するときは苦戦します。\n\n続きはリプライにまとめました。",
-      "excerpt": "AIの要約やニュースを毎日読んで、分かった気にはなる。 なのに、仕事の成果はあまり変わらない。 分かりやすい情報の裏側を見るためのポイントが3つあります。 多くの人は、世の中の表側だけを見ている。",
-      "hook": "本質は表面ではなく裏側・深層にある",
-      "imageUrl": null,
-      "videoUrl": null,
-      "metrics": {
-        "views": 9,
-        "impressions": 9,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "threadViews": [
-          9,
-          4,
-          2,
-          2,
-          3,
-          1
-        ]
-      }
-    },
-    {
-      "id": "2026-09-28-x-principle",
-      "channel": "x",
-      "url": "https://x.com/nishinokousuke/status/2104496750287335744",
-      "postedAt": "2026-09-28T08:00:00.000Z",
-      "text": "AIに調べさせると、返ってくるのはどこかで読んだ話ばかり。\n多くの人が見ているのは、世の中の表側だけです。\nAIに裏側まで見させるために、先に決めておくことが3つあります。\n続きはこの下のリプライに置きます。",
-      "excerpt": "AIに調べさせると、返ってくるのはどこかで読んだ話ばかり。 多くの人が見ているのは、世の中の表側だけです。 AIに裏側まで見させるために、先に決めておくことが3つあります。 続きはこの下のリプライに置きます。",
-      "hook": "本質は表面ではなく裏側・深層にある",
-      "imageUrl": null,
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 10,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 10
-      }
-    },
-    {
-      "id": "2026-09-28-short1-x",
-      "channel": "x",
-      "url": "https://x.com/nishinokousuke/status/2104407570592977151",
-      "postedAt": "2026-09-28T03:07:00.000Z",
-      "text": "年商1億までは、利益が出づらい。\n\n利益を追うほど、新規客の数は減る。\n伸びるのは、ギリ黒字か赤字を飲み込める人。\n\nAIに集客を任せるときも、\n最初に渡すのは「赤字をどこまで許すか」。\n\n今の許容ライン、決めていますか？",
-      "excerpt": "年商1億までは、利益が出づらい。 利益を追うほど、新規客の数は減る。 伸びるのは、ギリ黒字か赤字を飲み込める人。 AIに集客を任せるときも、 最初に渡すのは「赤字をどこまで許すか」。 今の許容ライン、決めていますか？",
-      "hook": "年商0〜1億は利益より顧客数を優先せよ",
-      "imageUrl": null,
-      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-28/short1.mp4",
-      "metrics": {
-        "impressions": 6,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-09-28-short1-facebook",
-      "channel": "facebook",
-      "url": "https://www.facebook.com/reel/1726185071783581/",
-      "postedAt": "2026-09-28T03:07:00.000Z",
-      "text": "年商0〜1億円のうちは、利益より顧客数を追ったほうが伸びます。\n\n利益を出そうとすると、新規集客の数が減っていく。この板挟みに心当たりがある方に向けて、短い動画で話しました。\n\n売上が立ち始めると、利益を出したくなります。自分の収入も上げたくなる。当然の感情です。\n\nただ、0〜1億円の段階で利益を取りにいくと、新規集客の絶対数は確実に減ります。広告を絞る、手間のかかる新規対応を後回しにする。どれも客数を削る方向に働くからです。\n\nここでグッと飲み込んで、ギリギリ黒字、場合によっては赤字も許容できる人のほうが伸びやすい。逆に、この段階で利益を出そうと頑張っている事業は、見ていてきつそうだなと感じます。これは僕が現場で見てきた経験からの印象です。\n\nこの話は、AIエージェントに集客を任せるときにそのまま効いてきます。\n\nエージェントは、渡された目標に忠実に動きます。「利益を最大化して」と頼めば、いちばん手堅い方法として新規への投資を削りにいきがちです。人間なら迷う場面を、迷わず実行してしまう。\n\nなので0〜1億円の段階では、役割をこう分けて渡すのがおすすめです。\n\n・AIに渡すもの：新規顧客数を増やすという主目標\n・人が持つもの：どこまで赤字を許すかという線引き\n\n赤字の許容ラインは、事業の体力と経営者の覚悟で決まります。ここは人が決める。決めた線をAIに制約として渡し、その内側で顧客数を最大化させる。この形にしておくと、利益と集客の綱引きをAIが勝手に利益側へ倒す事態を防げます。\n\n今日できることは1つです。\n集客に使っているAIへの指示文を開き、目標欄に何と書いてあるかを確認してください。「利益」と書いてあれば「新規顧客数」に書き換え、利益は下限の条件として一行添える。それだけでエージェントの動き方が変わります。\n\nみなさんの事業は今、利益と顧客数、どちらを主目標にしてAIや人に仕事を渡していますか？",
-      "excerpt": "年商0〜1億円のうちは、利益より顧客数を追ったほうが伸びます。 利益を出そうとすると、新規集客の数が減っていく。この板挟みに心当たりがある方に向けて、短い動画で話しました。 売上が立ち始めると、利益を出したくなります。",
-      "hook": "年商0〜1億は利益より顧客数を優先せよ",
-      "imageUrl": null,
-      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-28/short1.mp4",
-      "metrics": {
-        "impressions": 4,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-09-28-short1-threads",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/Dd0he_zgLXE",
-      "postedAt": "2026-09-28T03:07:00.000Z",
-      "text": "年商0〜1億で利益が出ないのは、失敗のサインとは限りません。\n\n利益を取りにいくほど、新規客の数は減る。\nでも自分の収入も上げたい。\nこの葛藤を飲み込めた人ほど伸びる理由を、経験から話しました。\n\nAIに集客を回させるときも、追わせる指標は顧客数に置いています。\n\n今追っている数字は、利益と顧客数のどちらですか？",
-      "excerpt": "年商0〜1億で利益が出ないのは、失敗のサインとは限りません。 利益を取りにいくほど、新規客の数は減る。 でも自分の収入も上げたい。 この葛藤を飲み込めた人ほど伸びる理由を、経験から話しました。",
-      "hook": "年商0〜1億は利益より顧客数を優先せよ",
-      "imageUrl": null,
-      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-28/short1.mp4",
-      "metrics": {
-        "views": 15,
-        "impressions": 15,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
-      "id": "2026-09-28-facebook-1",
-      "channel": "facebook",
-      "url": "https://www.facebook.com/122233359788030234/posts/122558438342030234",
-      "postedAt": "2026-09-28T03:00:00.000Z",
-      "text": "締め切りのない仕事は、いつまでも終わらない。\n人は締め切りがないと動かない。これは真理だと僕は考えています。\n\nここからは、締め切りを「意志」で作るのをやめて、「環境」で作る方法の話です。\n\n以前の僕は、東京ー大阪、東京ー福岡を新幹線で移動していました。\nWi-Fiが不便で、周りとつながらない。集中できるはずの環境です。\nでも実際は、仕事が進まない日の方が多かった。\n\n2025年から飛行機移動に変えました。\nすると、仕事が進むようになったんです。\n\n理由は「短い締め切りが、勝手に何度もやってくる」こと。\n空港まで行く。保安検査場を通る。搭乗まで待つ。\n以前は面倒だった3つの細かい移動が、そのまま締め切りになりました。\n\n保安検査場に入るまでに、メールチェックと記事。\n搭乗前までに、LPのコピー。\n区切りごとに「ここまでに終える」が決まるので、手が止まりません。\n\n時間がたっぷりある新幹線より、細切れの空港のほうが進む。\n長い時間を渡されても、人はうまく使い切れないということです。\n\nAIエージェントに仕事を任せるときも、同じ構造だと感じています。\n「このLPを良くしておいて」と丸ごと渡すと、終わりが見えないまま作業が膨らむか、どこまで進んだのか分からなくなる。\n\nなので僕は、締め切りの設計だけは人が持つようにしています。\nAIに渡すのは、区切ったあとの中身です。\n\n今日から使える頼み方はこうです。\n\n・まず仕事の全体像をAIに書き出させ、どこで区切るかは人が決める\n・区切りごとに「ここまでできたら一度止めて見せて」と指示する\n・区切りの終わりに、人が確認する時間を先にカレンダーへ入れる\n\n人の仕事でも、AIの仕事でも、進むかどうかは締め切りの数と置き方で決まります。\n締め切りを意志で作ろうとすると続きません。\n環境や手順に埋め込んでしまうのが、一番確実です。\n\nみなさんが今抱えている仕事で、締め切りが一つも決まっていないものは何ですか。",
-      "excerpt": "締め切りのない仕事は、いつまでも終わらない。 人は締め切りがないと動かない。これは真理だと僕は考えています。 ここからは、締め切りを「意志」で作るのをやめて、「環境」で作る方法の話です。",
-      "hook": "人は締め切りがないと動かない、これは真理",
-      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-09-28/shared-0-landscape.png",
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 6,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 0
       }
     }
   ]
