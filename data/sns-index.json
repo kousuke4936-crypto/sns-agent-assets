@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-10-03T11:20:07.531Z",
+  "generatedAt": "2026-10-04T12:00:47.937Z",
   "posts": [
+    {
+      "id": "2026-10-04-threads-1",
+      "channel": "threads",
+      "url": "https://www.threads.com/@kousuke_nishino/post/DeDjzLalBS3",
+      "postedAt": "2026-10-03T23:00:00.000Z",
+      "text": "感覚頼みの広告文を、欲求から作り直す手順。\n\nSTEP1 商品説明とお客さんの声をAIに貼る\nSTEP2「この商品を欲しくなる根っこの欲求を挙げて」と頼む\nSTEP3 欲求ごとにLPの見出し案を書かせる\nSTEP4 お客さんの顔が浮かぶ1つを人が選ぶ\n\n感情は枝葉で、幹は欲求。\n幹を先に決めておくと、AIの案が毎回ぶれなくなります。\n\nいま一番売れている商品は、どの欲求に応えていますか？\n\n毎日ひとつ、仕事をAIに渡す30日 Day 3/30\n\nAIで、人を増やさずに売れる仕組みをつくる方法を毎日書いています。",
+      "excerpt": "感覚頼みの広告文を、欲求から作り直す手順。 STEP1 商品説明とお客さんの声をAIに貼る STEP2「この商品を欲しくなる根っこの欲求を挙げて」と頼む STEP3 欲求ごとにLPの見出し案を書かせる STEP4 お客さんの顔が浮かぶ1つを…",
+      "hook": "感覚頼みのマーケは天才しか続かない",
+      "imageUrl": null,
+      "videoUrl": null,
+      "metrics": {
+        "views": 12,
+        "impressions": 12,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "2026-10-04-x-1",
+      "channel": "x",
+      "url": "https://x.com/nishinokousuke/status/2106512137237463140",
+      "postedAt": "2026-10-03T22:30:00.000Z",
+      "text": "自社目線の売り文句を、顧客目線の一言に変える手順。\n\nSTEP1 AIに「誰に・何を」を書いて渡す\nSTEP2 競合の打ち出しを貼る\nSTEP3「顧客の頭にどう残るか、競合と被らない一言を5案」と頼む\n\nコンセプトは自社視点。\nポジショニングは顧客視点。\n\n毎日ひとつ、仕事をAIに渡す30日 Day 3/30",
+      "excerpt": "自社目線の売り文句を、顧客目線の一言に変える手順。 STEP1 AIに「誰に・何を」を書いて渡す STEP2 競合の打ち出しを貼る STEP3「顧客の頭にどう残るか、競合と被らない一言を5案」と頼む コンセプトは自社視点。",
+      "hook": "コンセプトは自社視点、ポジショニングは顧客視点",
+      "imageUrl": null,
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 0,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
     {
       "id": "2026-10-03-threads-1",
       "channel": "threads",
@@ -30,7 +66,7 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 0,
+        "impressions": 5,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -48,7 +84,7 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-10-03/short1.mp4",
       "metrics": {
-        "impressions": 0,
+        "impressions": 3,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -66,7 +102,7 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-10-03/short1.mp4",
       "metrics": {
-        "impressions": 0,
+        "impressions": 6,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -84,8 +120,8 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-10-03/short1.mp4",
       "metrics": {
-        "views": 4,
-        "impressions": 4,
+        "views": 5,
+        "impressions": 5,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -102,9 +138,9 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 94,
-        "impressions": 94,
-        "reactions": 0,
+        "views": 97,
+        "impressions": 97,
+        "reactions": 1,
         "comments": 0,
         "shares": 0
       }
@@ -164,11 +200,11 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 6,
+        "impressions": 9,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 16.67
+        "engagementRate": 11.11
       }
     },
     {
@@ -511,42 +547,6 @@
         "reactions": 1,
         "comments": 0,
         "shares": 0
-      }
-    },
-    {
-      "id": "2026-09-29-threads-thread",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/Dd319_Plh-s",
-      "postedAt": "2026-09-29T12:30:00.000Z",
-      "text": "広告費を下げたい。\n1人あたりの獲得単価、CPAを安くしたい。\n\n広告を回したことがある人なら、一度はこう考えたはずです。\n\nただ、この「CPAを下げれば勝てる」という話には、前提が1つ抜けています。\nテクニックよりも手前にある前提です。\n\nそこが抜けたまま頑張ると、努力の割に数字が動かず、最悪の場合はアカウントごと失います。",
-      "excerpt": "広告費を下げたい。 1人あたりの獲得単価、CPAを安くしたい。 広告を回したことがある人なら、一度はこう考えたはずです。 ただ、この「CPAを下げれば勝てる」という話には、前提が1つ抜けています。 テクニックよりも手前にある前提です。",
-      "hook": "CPAを安くしたい夢は叶いません",
-      "imageUrl": null,
-      "videoUrl": null,
-      "metrics": {
-        "views": 47,
-        "impressions": 47,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
-      "id": "2026-09-29-x-thread",
-      "channel": "x",
-      "url": "https://x.com/nishinokousuke/status/2104904128577061200",
-      "postedAt": "2026-09-29T12:00:00.000Z",
-      "text": "広告のCPAを、あと少し下げたい。\nそう考えて毎月調整している人は多いと思います。\n\nただ「CPAを下げれば利益が出る」という話には、前提が1つ抜けています。\n\n僕がクライアントにこの考え方をやめてもらっている理由から書きます。",
-      "excerpt": "広告のCPAを、あと少し下げたい。 そう考えて毎月調整している人は多いと思います。 ただ「CPAを下げれば利益が出る」という話には、前提が1つ抜けています。 僕がクライアントにこの考え方をやめてもらっている理由から書きます。",
-      "hook": "CPAを安くしたい夢は叶いません",
-      "imageUrl": null,
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 30,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 3.33
       }
     }
   ]
