@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-10-04T12:00:47.937Z",
+  "generatedAt": "2026-10-05T14:02:37.856Z",
   "posts": [
+    {
+      "id": "2026-10-05-facebook-1",
+      "channel": "facebook",
+      "url": "https://www.facebook.com/122233359788030234/posts/122559555230030234",
+      "postedAt": "2026-10-05T03:00:00.000Z",
+      "text": "「意識します」と言った仕事ほど、来週もそのまま残っている。\n\n時間の使い方の話をすると、よく返ってくる言葉があります。\n「意識します」。\n感じのいい返事なので、かえって厄介です。\n\n僕の時間の使い方は、「7つの習慣」のコヴィー博士の講演がもとになっています。\n水槽に小さい石から入れると、大きい石は入る場所を失う。\n大きい石から入れると、隙間に小さい石が収まって、全部入りきる。\n大事な仕事を先に入れる、という話です。\n\nこの話を聞いて成果を出す人は、返事がこう変わります。\n「大事な予定、1つブロックしました」\nその場でカレンダーに入れてしまうんです。\n\n意識しても、人は忘れます。僕も忘れます。\n時間は油断するとすぐ消えていくので、大事な予定ほど先に押さえる。\n意思に頼る代わりに、予定表という仕組みに預けるわけです。\n\nこれは、AIに仕事を任せるときもまったく同じです。\n\nAIへの指示に「品質を意識して」「読者を意識して」と書く人は多いです。\nこれは相手に「意識します」と言わせているのと同じで、何をするかが曖昧なまま残ります。\nAIに渡すなら、その場でブロックした予定と同じ形にします。\n\n・最初にやる仕事（大きい石）を1つ名指しする\n・それを終える期限を決める\n・細かい作業は、その期限までの隙間で片付けさせる\n\n期限を先に置くのには理由があります。\n仕事は、与えられた時間いっぱいまで膨らむ。\n3日で終わる仕事に1週間あげると、1週間かかる、というよく知られた指摘です。\nだから人に頼むときも、AIに頼むときも、順番と期限を最初に渡します。\n\nでは、人が持つものは何か。\n何が大きい石かを決めることです。\nあなたにしかできない仕事は何か。そこだけは自分で決めて、その場でブロックする。\n\n自分以外でも回る作業は、人に任せる。\n僕は以前から、月々5万円くらいで外注できるアシスタントを積極的に使うよう勧めてきました。\nその小さい石は、今ならAIエージェントに渡す候補にもなります。\n\nやっていることは地味です。\n大事な予定を先に入れて、残りを任せる。\nそれだけなので、今日から誰でも同じことができます。\n\n今週の大きい石を1つだけ挙げるなら、何ですか？",
+      "excerpt": "「意識します」と言った仕事ほど、来週もそのまま残っている。 時間の使い方の話をすると、よく返ってくる言葉があります。 「意識します」。 感じのいい返事なので、かえって厄介です。",
+      "hook": "意識しますと言う人は成果を出せない",
+      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-10-05/shared-0-landscape.png",
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 0,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
+    {
+      "id": "2026-10-05-threads-1",
+      "channel": "threads",
+      "url": "https://www.threads.com/@kousuke_nishino/post/DeGDmhkiSQu",
+      "postedAt": "2026-10-04T23:00:00.000Z",
+      "text": "「要点だけ」で真似した施策が、なぜか当たらない人へ。\n成功事例を真似する前に、抜けている背景をAIに洗い出させる手順です。\n\nSTEP1 気になった成功事例の文章を、そのままAIに貼る\nSTEP2「これを真似する前に確認すべき背景を、質問の形で全部挙げて」と頼む\nSTEP3 出てきた質問のうち、自分が答えられないものに印をつける\n\nチラシで成功した整体院の話なら、配った地域、配った時期、使った文面あたりに印がつくはずです。\n\n要点を縮めるのはAIに任せていい。印のついた質問を考え抜くのは、人の仕事です。\n\n毎日ひとつ、仕事をAIに渡す30日 Day 4/30\n\nAIで、人を増やさずに売れる仕組みをつくる方法を毎日書いています。",
+      "excerpt": "「要点だけ」で真似した施策が、なぜか当たらない人へ。 成功事例を真似する前に、抜けている背景をAIに洗い出させる手順です。 STEP1 気になった成功事例の文章を、そのままAIに貼る STEP2「これを真似する前に確認すべき背景を、質問の形…",
+      "hook": "短い文章を求める人はコンサルを受けても成功しない",
+      "imageUrl": null,
+      "videoUrl": null,
+      "metrics": {
+        "views": 8,
+        "impressions": 8,
+        "reactions": 1,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "2026-10-05-x-1",
+      "channel": "x",
+      "url": "https://x.com/nishinokousuke/status/2106874527779103102",
+      "postedAt": "2026-10-04T22:30:00.000Z",
+      "text": "求人票の下書きを、AIに渡す手順。\n\nSTEP1 社内で一番できる人の仕事を箇条書き\nSTEP2 AIに「この人をもう一人採る求人票を」と頼む\nSTEP3 給与と条件だけ社長が直す\n\n勘所は、理想の人材を実在の一人で渡すこと。\n\n毎日ひとつ、仕事をAIに渡す30日 Day 4/30",
+      "excerpt": "求人票の下書きを、AIに渡す手順。 STEP1 社内で一番できる人の仕事を箇条書き STEP2 AIに「この人をもう一人採る求人票を」と頼む STEP3 給与と条件だけ社長が直す 勘所は、理想の人材を実在の一人で渡すこと。",
+      "hook": "社長一人では事業に限界がある",
+      "imageUrl": null,
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 0,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
     {
       "id": "2026-10-04-threads-1",
       "channel": "threads",
@@ -30,7 +84,7 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 0,
+        "impressions": 1,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -66,7 +120,7 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 5,
+        "impressions": 6,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -102,7 +156,7 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-10-03/short1.mp4",
       "metrics": {
-        "impressions": 6,
+        "impressions": 7,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -156,7 +210,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-10-02/2026-10-02-facebook-cross1.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 7,
+        "impressions": 9,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -200,11 +254,11 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 9,
+        "impressions": 10,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 11.11
+        "engagementRate": 10
       }
     },
     {
@@ -218,9 +272,9 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 7,
-        "impressions": 7,
-        "reactions": 0,
+        "views": 8,
+        "impressions": 8,
+        "reactions": 1,
         "comments": 0,
         "shares": 0
       }
@@ -308,8 +362,8 @@
       "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/g4_30-09-26_key-art_blog.width-1300.png",
       "videoUrl": null,
       "metrics": {
-        "views": 170,
-        "impressions": 170,
+        "views": 172,
+        "impressions": 172,
         "reactions": 1,
         "comments": 0,
         "shares": 0
@@ -344,11 +398,11 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 3,
+        "impressions": 4,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 33.33
+        "engagementRate": 25
       }
     },
     {
@@ -362,11 +416,11 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-10-01/short1.mp4",
       "metrics": {
-        "impressions": 9,
+        "impressions": 11,
         "reactions": 1,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 11.11
+        "engagementRate": 9.09
       }
     },
     {
@@ -491,60 +545,6 @@
         "views": 4,
         "impressions": 4,
         "reactions": 0,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
-      "id": "2026-09-30-x-1",
-      "channel": "x",
-      "url": "https://x.com/nishinokousuke/status/2105062668818080233",
-      "postedAt": "2026-09-29T22:30:00.000Z",
-      "text": "AIに投稿を丸投げすると、数字はこうなる。\n\n過去7日、22本。\nリーチ146。いいね0。保存0。\n\n生成から配信まで、ほぼ無人で回した結果です。\n\n最も見られたのは、現場の一言から書いた投稿。\n\nAIに渡すのは作業。ネタの実感は人が持つ。\n\nAIにSNSを任せた30日 Day 29/30",
-      "excerpt": "AIに投稿を丸投げすると、数字はこうなる。 過去7日、22本。 リーチ146。いいね0。保存0。 生成から配信まで、ほぼ無人で回した結果です。 最も見られたのは、現場の一言から書いた投稿。 AIに渡すのは作業。ネタの実感は人が持つ。",
-      "hook": "昨日までのSNS運用の実数を、そのまま公開する",
-      "imageUrl": null,
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 8,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-09-30-short1-x",
-      "channel": "x",
-      "url": "https://x.com/nishinokousuke/status/2105055199786111054",
-      "postedAt": "2026-09-29T22:00:00.000Z",
-      "text": "セミナー1回で売れず、やめた。\nそれは、やったうちに入らない。\n\n何億も稼ぐ人は、2ヶ月半で230回。\n差はスキルより、行動の基準でした。\n\nこの基準こそ、AIエージェントに渡せる。",
-      "excerpt": "セミナー1回で売れず、やめた。 それは、やったうちに入らない。 何億も稼ぐ人は、2ヶ月半で230回。 差はスキルより、行動の基準でした。 この基準こそ、AIエージェントに渡せる。",
-      "hook": "成功者はスキルより行動基準が桁違い",
-      "imageUrl": null,
-      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-30/short1.mp4",
-      "metrics": {
-        "impressions": 13,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-09-30-short1-threads",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/Dd5Mw-NDgNI",
-      "postedAt": "2026-09-29T22:00:00.000Z",
-      "text": "「1回やって売れなかったから、やめた」\n\nそれは、やったうちに入らない。\n何億も売る人は、約2ヶ月半でセミナーを230回やっている。\n\n差がつくのはスキルより、打つ数の基準。\n人の体力で届かない回数は、AIエージェントに回させる。\n文面の作り直しと配信はAIに任せ、何を売るかは人が決める。\n\n次の施策、何回まで試しますか？",
-      "excerpt": "「1回やって売れなかったから、やめた」 それは、やったうちに入らない。 何億も売る人は、約2ヶ月半でセミナーを230回やっている。 差がつくのはスキルより、打つ数の基準。 人の体力で届かない回数は、AIエージェントに回させる。",
-      "hook": "成功者はスキルより行動基準が桁違い",
-      "imageUrl": null,
-      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-09-30/short1.mp4",
-      "metrics": {
-        "views": 12,
-        "impressions": 12,
-        "reactions": 1,
         "comments": 0,
         "shares": 0
       }
