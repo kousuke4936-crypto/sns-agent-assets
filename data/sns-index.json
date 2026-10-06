@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-10-05T14:31:30.737Z",
+  "generatedAt": "2026-10-06T13:02:22.960Z",
   "posts": [
+    {
+      "id": "2026-10-06-threads-1",
+      "channel": "threads",
+      "url": "https://www.threads.com/@kousuke_nishino/post/DeIvcfMjS6H",
+      "postedAt": "2026-10-05T23:00:00.000Z",
+      "text": "毎回お客さんに同じ説明をしているなら、それはもう講座の原稿です。\nAIで講座の目次まで終わらせる手順。\n\nSTEP1 よく聞かれる質問と、自分の答えを箇条書きで貼る\nSTEP2 「初心者が順番に学べる講座の目次にして。各章で何ができるようになるかも書いて」と頼む\nSTEP3 抜けている章と、自分なら言わない言い回しに印をつける\n\n収入の得方は「時間を売る」か「商品を売る」か。\n目次づくりはAIに渡せます。何を教えるかの判断は、人が持つところです。\n\n一番よく聞かれる質問は、何ですか？\n\n毎日ひとつ、仕事をAIに渡す30日 Day 5/30\n\nAIで、人を増やさずに売れる仕組みをつくる方法を毎日書いています。",
+      "excerpt": "毎回お客さんに同じ説明をしているなら、それはもう講座の原稿です。 AIで講座の目次まで終わらせる手順。 STEP1 よく聞かれる質問と、自分の答えを箇条書きで貼る STEP2 「初心者が順番に学べる講座の目次にして。",
+      "hook": "俺の父親、貧乏父さん側だ…と衝撃を受けた",
+      "imageUrl": null,
+      "videoUrl": null,
+      "metrics": {
+        "views": 22,
+        "impressions": 22,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "2026-10-06-x-1",
+      "channel": "x",
+      "url": "https://x.com/nishinokousuke/status/2107236918329024565",
+      "postedAt": "2026-10-05T22:30:00.000Z",
+      "text": "売上の柱が何本あるか、AIに数えさせる手順。\n\nSTEP1 直近の売上を取引先ごとに貼る\nSTEP2「働いて稼ぐ売上と、仕組みで入る売上に分けて」と頼む\nSTEP3 片方が空なら、そこが次に作る柱\n\nビジネスで最悪の数字は「1」。\n\n毎日ひとつ、仕事をAIに渡す30日 Day 5/30",
+      "excerpt": "売上の柱が何本あるか、AIに数えさせる手順。 STEP1 直近の売上を取引先ごとに貼る STEP2「働いて稼ぐ売上と、仕組みで入る売上に分けて」と頼む STEP3 片方が空なら、そこが次に作る柱 ビジネスで最悪の数字は「1」。",
+      "hook": "ビジネスで最悪の数字は「1」である",
+      "imageUrl": null,
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 0,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
     {
       "id": "2026-10-05-facebook-1",
       "channel": "facebook",
@@ -12,7 +48,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-10-05/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 0,
+        "impressions": 4,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -30,8 +66,8 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 8,
-        "impressions": 8,
+        "views": 9,
+        "impressions": 9,
         "reactions": 1,
         "comments": 0,
         "shares": 0
@@ -48,7 +84,7 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 0,
+        "impressions": 2,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -66,9 +102,9 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 12,
-        "impressions": 12,
-        "reactions": 0,
+        "views": 15,
+        "impressions": 15,
+        "reactions": 1,
         "comments": 0,
         "shares": 0
       }
@@ -84,7 +120,7 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 1,
+        "impressions": 2,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -416,11 +452,11 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-10-01/short1.mp4",
       "metrics": {
-        "impressions": 11,
+        "impressions": 13,
         "reactions": 1,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 9.09
+        "engagementRate": 7.69
       }
     },
     {
@@ -511,42 +547,6 @@
         "comments": 0,
         "shares": 0,
         "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-09-30-news1-threads",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/Dd5Mg6cmgW2",
-      "postedAt": "2026-09-30T01:51:00.000Z",
-      "text": "GPT-6.1 Solが出て、キャッシュ入力が100万トークン0.10ドルになった。\n通常入力の2ドルより95%安い。\n\nキャッシュ入力は、毎回同じ前置きを使い回すときの料金。\n商品情報や書き方のルールがこれにあたる。\n\nエージェントに渡す資料を「毎回同じ部分」と「毎回変わる部分」に分けて、同じ部分を先頭に固める。\nこの設計が、運用費に一番効いてくると思う。\n\nみなさんのエージェント、毎回同じ資料を何ページ渡していますか？",
-      "excerpt": "GPT-6.1 Solが出て、キャッシュ入力が100万トークン0.10ドルになった。 通常入力の2ドルより95%安い。 キャッシュ入力は、毎回同じ前置きを使い回すときの料金。 商品情報や書き方のルールがこれにあたる。",
-      "hook": "キャッシュ入力は100万トークン0.10ドル、エージェント運用が安くなる",
-      "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/1Xa7inzcCfsGE5aV3QqeN3/4f3689ae92e04b18569f9eaf919e7174/GPT-6-1-Sol_16x9.png?w=1600&h=900&fit=fill",
-      "videoUrl": null,
-      "metrics": {
-        "views": 60,
-        "impressions": 60,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
-      "id": "2026-09-30-threads-1",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/Dd5MvQ5kVZK",
-      "postedAt": "2026-09-29T23:00:00.000Z",
-      "text": "AIに仕事を奪われる人は、AI以前から奪われていたと思う。\n\nAIでLPを作ったときのこと。\n一度ビデオを見た人には、次から最初に全文を表示する設計になっていた。\n僕は頼んでいない。AIが自分で考えて入れていた。正直、びっくりした。\n\nこれが付加価値だ。\nコーヒーを置いて去る店員と、「午後から雨だから気をつけてね」と添える店員の差。\n\nAIは決め手になるだけ。\n原因は、もともとリピートされない仕事の側にある。\n\n今日の仕事で、頼まれていない一言を足せましたか？\n\nAIエージェントを作って暮らす30日 Day 29/30\n\nAIで、人を増やさずに売れる仕組みをつくる方法を毎日書いています。",
-      "excerpt": "AIに仕事を奪われる人は、AI以前から奪われていたと思う。 AIでLPを作ったときのこと。 一度ビデオを見た人には、次から最初に全文を表示する設計になっていた。 僕は頼んでいない。AIが自分で考えて入れていた。正直、びっくりした。",
-      "hook": "奪われる人はAI以前から競合に奪われていた",
-      "imageUrl": null,
-      "videoUrl": null,
-      "metrics": {
-        "views": 4,
-        "impressions": 4,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0
       }
     }
   ]
