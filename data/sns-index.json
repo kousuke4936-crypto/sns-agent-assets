@@ -1,6 +1,53 @@
 {
-  "generatedAt": "2026-10-09T12:51:34.500Z",
+  "generatedAt": "2026-10-10T12:09:24.973Z",
   "posts": [
+    {
+      "id": "2026-10-10-instagram-1",
+      "channel": "instagram",
+      "url": "https://www.instagram.com/p/DeTtpydFVNF/",
+      "postedAt": "2026-10-10T09:00:00.000Z",
+      "text": "状況は、放っておくと悪くなる。\nその前提で「次の攻めの一手」をAIに毎週出させる手順です。\n\n値上げ、税金、ルール変更、競合の増加。\n災難は一つ片付いても、次が来ます。\n守りを固めるより、攻めの一手を先に用意しておく方が、対応の幅も選択肢も広がります。\n\n今日AIに渡すのは「悪くなる前提の作戦会議」です。\n\nSTEP1｜事業の前提を貼る\n売上の柱、主なお客さん、固定費、集客の方法を箇条書きにしてAIに渡します。\n\nSTEP2｜悪くなるシナリオを出させる\n頼み方の文面はこれです。\n「この事業で、これから状況が悪くなるとしたら何が起きますか。値上げ・税や制度の変更・競合の増加・既存客の離脱の観点で、起きやすい順に挙げてください」\n\nSTEP3｜攻めの一手に変換させる\n「それぞれに対して、新しいお客さんを獲得する・売上を次の投資に回す・必要な情報を仕入れる、のどれかに当たる行動を1つずつ。今週中に着手できる粒度で出してください」\n\nSTEP4｜一つだけ選んで予定に入れる\nAIの案から、今週やるものを一つ選びます。\n選ぶことと、やると決めることは人が持ちます。\n\nSTEP5｜同じ文面で毎週回す\n最近のニュースや売上の変化を書き足して、同じ依頼を週1回。\n慣れたらAIエージェントに定例で実行させ、案だけが手元に届く形にします。\n\n僕の周りでも「顧客獲得に集中してから、仕事が取れるようになった」という声は多いです。\n\n勘所は一つ。\n悪い未来の洗い出しと案出しはAIに任せて、最初の一歩を決めるのは自分でやること。\n\nみなさんの事業で、いま一番起きやすい「悪くなる」は何ですか？\n\n毎日ひとつ、仕事をAIに渡す30日 Day 9/30\n\nAIで、人を増やさずに売れる仕組みをつくる方法を毎日投稿しています。\n\n#AI活用 #AIエージェント #中小企業経営 #個人事業主 #マーケティング #新規顧客獲得 #ChatGPT活用 #業務効率化",
+      "excerpt": "状況は、放っておくと悪くなる。 その前提で「次の攻めの一手」をAIに毎週出させる手順です。 値上げ、税金、ルール変更、競合の増加。 災難は一つ片付いても、次が来ます。",
+      "hook": "「状況は常に悪くなる」を前提に動くべき",
+      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-10-10/2026-10-10-instagram-1.png",
+      "videoUrl": null
+    },
+    {
+      "id": "2026-10-10-threads-1",
+      "channel": "threads",
+      "url": "https://www.threads.com/@kousuke_nishino/post/DeS-nvtm01R",
+      "postedAt": "2026-10-09T23:00:00.000Z",
+      "text": "単発で終わる仕事を、続く仕事に変える。そのための月1報告を、AIで作る手順です。\n\n単発と年間契約では、売上が12倍違います。\n仕事が続くかどうかは、「結果」と「相手の気分」で決まる。\nだから、相手が一番大事にしている集客の数字を、毎月見せます。\n\nSTEP1 広告や問い合わせの数字を、月末にそのままAIへ貼る\nSTEP2 「先月からの変化と、来月やる一手を3行でまとめて」と頼む\nSTEP3 来月の一手だけは自分で書き直してから送る\n\n勘所は、集客を握っている人として毎月思い出してもらうことです。\n\nいま取引先に、毎月何を届けていますか？\n\n毎日ひとつ、仕事をAIに渡す30日 Day 9/30\n\nAIで、人を増やさずに売れる仕組みをつくる方法を毎日書いています。",
+      "excerpt": "単発で終わる仕事を、続く仕事に変える。そのための月1報告を、AIで作る手順です。 単発と年間契約では、売上が12倍違います。 仕事が続くかどうかは、「結果」と「相手の気分」で決まる。",
+      "hook": "年間契約は単発の12倍。継続の価値は底知れない",
+      "imageUrl": null,
+      "videoUrl": null,
+      "metrics": {
+        "views": 14,
+        "impressions": 14,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "2026-10-10-x-1",
+      "channel": "x",
+      "url": "https://x.com/nishinokousuke/status/2108686470043128244",
+      "postedAt": "2026-10-09T22:30:00.000Z",
+      "text": "LPを「受付」から「セールスマン」に変える手順。\n\nSTEP1 LPの全文をAIに貼る\nSTEP2「会社説明の文と、買う理由の文に分けて」と頼む\nSTEP3 買う理由を軸に書き直させる\n\n最後に人が見るのは、お客さんの欲しい気持ちに触れているか。\n\n毎日ひとつ、仕事をAIに渡す30日 Day 9/30",
+      "excerpt": "LPを「受付」から「セールスマン」に変える手順。 STEP1 LPの全文をAIに貼る STEP2「会社説明の文と、買う理由の文に分けて」と頼む STEP3 買う理由を軸に書き直させる 最後に人が見るのは、お客さんの欲しい気持ちに触れているか…",
+      "hook": "LPは受付嬢ではなくセールスマン。売上を生む役割が違う",
+      "imageUrl": null,
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 3,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
     {
       "id": "2026-10-09-instagram-1",
       "channel": "instagram",
@@ -41,11 +88,11 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 15,
-        "reactions": 1,
+        "impressions": 18,
+        "reactions": 2,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 6.67
+        "engagementRate": 11.11
       }
     },
     {
@@ -59,9 +106,9 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-10-08/2026-10-08-instagram-1.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 19,
-        "views": 19,
-        "reach": 9,
+        "impressions": 21,
+        "views": 21,
+        "reach": 10,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -80,7 +127,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-10-08/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 9,
+        "impressions": 11,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -155,7 +202,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-10-07/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 9,
+        "impressions": 10,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -371,7 +418,7 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-10-03/short1.mp4",
       "metrics": {
-        "impressions": 4,
+        "impressions": 5,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -389,7 +436,7 @@
       "imageUrl": null,
       "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-10-03/short1.mp4",
       "metrics": {
-        "impressions": 9,
+        "impressions": 10,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -443,7 +490,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-10-02/2026-10-02-facebook-cross1.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 12,
+        "impressions": 14,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -492,60 +539,6 @@
         "comments": 0,
         "shares": 0,
         "engagementRate": 6.67
-      }
-    },
-    {
-      "id": "2026-10-02-threads-1",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/Dd-XgHniW-P",
-      "postedAt": "2026-10-01T23:00:00.000Z",
-      "text": "今日から30日間、今日からそのまま使える「AIへの仕事の渡し方」を、毎日1つ投稿します。\n\n人脈や紹介に頼る仕事は、実はリスクが高い。時間がかかるうえ、やめどきも見えにくいからです。\nDay 1は、会った人とのつながりを売上に変える案出しをAIに渡します。\n\nSTEP1 会った人の事業と、話した内容をメモする\nSTEP2 AIに「この人と組めること、お互いに紹介し合えることを、相手の得になる順に挙げて」と頼む\nSTEP3 出た案から1つ選び、自分の言葉で連絡する\n\n勘所は、案出しをAIに任せて、どの案を選ぶかを自分で決めることです。\n相手をお金として見ていないかどうかは、選ぶときの自分にしか分かりません。\n\n先月会った人の中で、まず誰のメモから作りますか？\n\n毎日ひとつ、仕事をAIに渡す30日 Day 1/30\n\nAIで、人を増やさずに売れる仕組みをつくる方法を毎日書いています。",
-      "excerpt": "今日から30日間、今日からそのまま使える「AIへの仕事の渡し方」を、毎日1つ投稿します。 人脈や紹介に頼る仕事は、実はリスクが高い。時間がかかるうえ、やめどきも見えにくいからです。",
-      "hook": "人脈に頼る仕事は本当はリスクが高い",
-      "imageUrl": null,
-      "videoUrl": null,
-      "metrics": {
-        "views": 8,
-        "impressions": 8,
-        "reactions": 1,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
-      "id": "2026-10-02-short1-x",
-      "channel": "x",
-      "url": "https://x.com/nishinokousuke/status/2105780042538049594",
-      "postedAt": "2026-10-01T22:00:00.000Z",
-      "text": "起業がうまくいくかは、\n7〜8割が「ニッチ探し」で決まる。\n\n海外の教材に必ず出てきた言葉、\nファインディング・ニッチ。\n\n僕がサクッと成功しなかった理由も、ここでした。\n\nAIに集客を任せる前に、まず狙う隙間を決める。",
-      "excerpt": "起業がうまくいくかは、 7〜8割が「ニッチ探し」で決まる。 海外の教材に必ず出てきた言葉、 ファインディング・ニッチ。 僕がサクッと成功しなかった理由も、ここでした。 AIに集客を任せる前に、まず狙う隙間を決める。",
-      "hook": "起業の成否の7〜8割はニッチ探しで決まる",
-      "imageUrl": null,
-      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-10-02/short1.mp4",
-      "metrics": {
-        "impressions": 4,
-        "reactions": 1,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 25
-      }
-    },
-    {
-      "id": "2026-10-02-short1-threads",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/Dd-Xhk3D6_M",
-      "postedAt": "2026-10-01T22:00:00.000Z",
-      "text": "起業がうまくいくかは、7〜8割がニッチ探しで決まる。\n\n僕はサクッとうまくいった側じゃない。その理由を、海外の教材に必ず出てきた「ファインディング・ニッチ」という言葉で話しています。\n\nAIで発信を量産する前に、どの隙間を狙うかを決める。ここは人が持つ仕事です。\n\n今のビジネスで狙う隙間、一言で言えますか？",
-      "excerpt": "起業がうまくいくかは、7〜8割がニッチ探しで決まる。 僕はサクッとうまくいった側じゃない。その理由を、海外の教材に必ず出てきた「ファインディング・ニッチ」という言葉で話しています。 AIで発信を量産する前に、どの隙間を狙うかを決める。",
-      "hook": "起業の成否の7〜8割はニッチ探しで決まる",
-      "imageUrl": null,
-      "videoUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/videos/2026-10-02/short1.mp4",
-      "metrics": {
-        "views": 10,
-        "impressions": 10,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0
       }
     }
   ]
