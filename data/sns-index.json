@@ -1,6 +1,53 @@
 {
-  "generatedAt": "2026-10-10T12:09:24.973Z",
+  "generatedAt": "2026-10-11T12:23:06.925Z",
   "posts": [
+    {
+      "id": "2026-10-11-instagram-1",
+      "channel": "instagram",
+      "url": "https://www.instagram.com/p/DeWSZzolnoo/",
+      "postedAt": "2026-10-11T09:00:00.000Z",
+      "text": "成果の数字が、上司にも本人にもすごさが伝わらない。\nその報告文を、AIで「伝わる一言」に変える手順です。\n\n「CPAが〇〇円で取れました」\nこれだけだと、聞いた側は良いのか悪いのか判断できません。\n\n数字を出すのが仕事の半分。\nすごさを周りに伝えて、チームの士気や次の予算につなげるのが残り半分です。\nこの残り半分は、AIに渡せます。\n\nSTEP1｜比べる前の数字と、今の数字を並べて書く\n例：以前のCPA〇〇円、今回のCPA〇〇円\n\nSTEP2｜AIにこう頼む\n「この2つの数字を、何分の1・何倍という言い方に直してください。そのうえで、社内チャットで一目で凄さが伝わる報告文を3案ください」\n\nSTEP3｜続けて、誰に効くかを足してもらう\n「この成果で、営業・経営・現場それぞれにとって何が変わるかを1行ずつ書いてください」\n\nSTEP4｜人が最後に見るのは2点だけ\n数字が元データと合っているか。\n言い過ぎて、事実より大きく見せていないか。\n確認できたら、そのまま送る。\n\n以前、クライアントのスタッフがCPAを1/30にしたのに、報告は金額だけで、本人も「そうですか」くらいの受け止めでした。\n10年近くマーケティングをやっていても、なかなか出会えない成果です。\n\n成果は、伝わって初めて次の成果を連れてきます。\n伝え方の下書きはAIに、数字の正しさは人が持つ。\n\nみなさんの直近の成果で、まだ「金額だけ」で報告しているものは何ですか？\n\n毎日ひとつ、仕事をAIに渡す30日 Day 10/30\n\nAIで、人を増やさずに売れる仕組みをつくる方法を毎日投稿しています。\n\n#AI活用 #生成AI #AIエージェント #マーケティング #中小企業 #個人事業主 #業務効率化 #報告書 #CPA",
+      "excerpt": "成果の数字が、上司にも本人にもすごさが伝わらない。 その報告文を、AIで「伝わる一言」に変える手順です。 「CPAが〇〇円で取れました」 これだけだと、聞いた側は良いのか悪いのか判断できません。 数字を出すのが仕事の半分。",
+      "hook": "CPA1/30を達成しても本人はピンときていなかった",
+      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-10-11/2026-10-11-instagram-1.png",
+      "videoUrl": null
+    },
+    {
+      "id": "2026-10-11-threads-1",
+      "channel": "threads",
+      "url": "https://www.threads.com/@kousuke_nishino/post/DeVfx7WGsux",
+      "postedAt": "2026-10-10T23:00:00.000Z",
+      "text": "毎日の小さな目標決めと振り返りを、AIとの朝晩のやりとりだけで回す手順。\n\n業界トップの議論で出た「潰れる会社」の答えは、急拡大した会社でした。\n成長に質が追いつかなくなるからです。\n目標も同じで、効くのは小さな積み重ねです。\n\nSTEP1 大きな目標を一度だけAIに渡す\nSTEP2 朝「この目標に向けて、今日達成することを1つ提案して」と頼む\nSTEP3 夜「できた／できなかった」を一言送り、記録させる\n\n勘所は、AIの提案から今日の1つを選ぶのを自分の役目にしておくこと。\n\n毎日ひとつ、仕事をAIに渡す30日 Day 10/30\n\nAIで、人を増やさずに売れる仕組みをつくる方法を毎日書いています。",
+      "excerpt": "毎日の小さな目標決めと振り返りを、AIとの朝晩のやりとりだけで回す手順。 業界トップの議論で出た「潰れる会社」の答えは、急拡大した会社でした。 成長に質が追いつかなくなるからです。 目標も同じで、効くのは小さな積み重ねです。",
+      "hook": "急拡大した会社ほど潰れる、という業界トップの意外な答え",
+      "imageUrl": null,
+      "videoUrl": null,
+      "metrics": {
+        "views": 21,
+        "impressions": 21,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "2026-10-11-x-1",
+      "channel": "x",
+      "url": "https://x.com/nishinokousuke/status/2109048853097779711",
+      "postedAt": "2026-10-10T22:30:00.000Z",
+      "text": "新しい集客施策を、始める前にAIに止めてもらう手順。\n\nSTEP1 企画メモをそのままAIに貼る\n\nSTEP2「お客さん・伝える言葉・届ける媒体の3つで、曖昧な所を指摘して」と頼む\n\nSTEP3 1つでも空欄なら、始めない\n\n穴を探すのはAI。やめると決めるのは人。\n\n毎日ひとつ、仕事をAIに渡す30日 Day 10/30",
+      "excerpt": "新しい集客施策を、始める前にAIに止めてもらう手順。 STEP1 企画メモをそのままAIに貼る STEP2「お客さん・伝える言葉・届ける媒体の3つで、曖昧な所を指摘して」と頼む STEP3 1つでも空欄なら、始めない 穴を探すのはAI。",
+      "hook": "3つのMが揃わないプロジェクトは絶対にやるな",
+      "imageUrl": null,
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 5,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
     {
       "id": "2026-10-10-instagram-1",
       "channel": "instagram",
@@ -10,7 +57,17 @@
       "excerpt": "状況は、放っておくと悪くなる。 その前提で「次の攻めの一手」をAIに毎週出させる手順です。 値上げ、税金、ルール変更、競合の増加。 災難は一つ片付いても、次が来ます。",
       "hook": "「状況は常に悪くなる」を前提に動くべき",
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-10-10/2026-10-10-instagram-1.png",
-      "videoUrl": null
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 19,
+        "views": 19,
+        "reach": 9,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "engagementRate": 0
+      }
     },
     {
       "id": "2026-10-10-threads-1",
@@ -41,7 +98,7 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 3,
+        "impressions": 15,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -88,11 +145,11 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 18,
+        "impressions": 19,
         "reactions": 2,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 11.11
+        "engagementRate": 10.53
       }
     },
     {
@@ -106,14 +163,14 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-10-08/2026-10-08-instagram-1.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 21,
-        "views": 21,
-        "reach": 10,
+        "impressions": 30,
+        "views": 30,
+        "reach": 12,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
-        "saves": 0,
-        "engagementRate": 0
+        "saves": 1,
+        "engagementRate": 8.33
       }
     },
     {
@@ -163,7 +220,7 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 1,
+        "impressions": 2,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -181,9 +238,9 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-10-07/2026-10-07-instagram-1.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 19,
-        "views": 19,
-        "reach": 9,
+        "impressions": 23,
+        "views": 23,
+        "reach": 10,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -238,7 +295,7 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 1,
+        "impressions": 2,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -274,7 +331,7 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 8,
+        "impressions": 9,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -328,7 +385,7 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 3,
+        "impressions": 4,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -477,68 +534,6 @@
         "reactions": 1,
         "comments": 0,
         "shares": 0
-      }
-    },
-    {
-      "id": "2026-10-02-facebook-cross1",
-      "channel": "facebook",
-      "url": "https://www.facebook.com/122233359788030234/posts/122559118970030234",
-      "postedAt": "2026-10-02T10:00:00.000Z",
-      "text": "AIエージェントに「仕事やっといて」と任せた業務が、PCを閉じた瞬間に止まっている。\n導入前にこの制約をひとつ知っておくだけで、自動化の設計はがらっと変わります。\n\nクロードのエージェント機能（Claude Code / Claude のエージェント）は、細かく指示しなくても最後まで走ってくれます。\n\nメールを巡回して、見るべきものをピックアップする。\n決まった時間に、情報をまとめて出す。\n\nこういう「指示をせずとも動く」仕事は、たしかに任せられます。\n\nただし、動くのはアプリが起動している間だけです。\nPCを閉じれば、そこで止まる。\n\nここを知らずに「全部自動化できる」と思って入れると、確実にズレます。\n\n僕がAIとAIエージェントで売れる仕組みを組むとき、最初にやるのはこの線引きです。\n\n・人がPCを開けている時間に走らせる仕事\n・PCを閉じていても走っていてほしい仕事\n\n手順にすると、こうなります。\n\n1｜自動で回したい業務を書き出す\n2｜それぞれに「いつ動いていてほしいか」を書き添える\n3｜その時間にPCが開いているかどうかで、2つに分ける\n4｜開いている時間に収まるものから、エージェントに渡す\n\n地味な作業です。\nでも、この2つを混ぜたまま設計すると、「動いているはず」の抜けが起きます。\n\nそして、抜けたことに誰も気づかない。\n一番こわいのはここです。\n\nエラーが出れば人は直しに行けます。\n止まったことに気づけない仕組みは、静かに成果だけを削っていきます。\n\nやってみて意外だったのは、ツールの機能を覚えることより、この仕分けのほうがずっと効いたことでした。\n\nどこまでをAIに渡し、どこを人が持つのか。\nそれを先に決めておくと、エージェントに任せた部分を安心して手放せます。\n\nマーケティングの原則を10年やってきて、それをAIに実装するようになってから、一番削れないと感じているのがこの線引きです。\n\nみなさんがいま自動で回したい業務は、PCを開けている時間の中で終わりますか。",
-      "excerpt": "AIエージェントに「仕事やっといて」と任せた業務が、PCを閉じた瞬間に止まっている。 導入前にこの制約をひとつ知っておくだけで、自動化の設計はがらっと変わります。",
-      "hook": "クロードのエージェントはPCを開けてないと動かない",
-      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-10-02/2026-10-02-facebook-cross1.png",
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 14,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-10-02-threads-principle",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/Dd_GUOKG5oL",
-      "postedAt": "2026-10-02T08:30:00.000Z",
-      "text": "同じテンプレ、同じAIを使っているのに、売れる人と止まる人がいる。\n\n差がつくのは、目に見えるやり方の外側です。\nポイントは3つあります。\n\nほとんどの人は、見えるやり方だけを真似して終わっています。\nコンサルでこの話をすると、毎回全員に驚かれます。\n\nAIに何を渡すかも、この3つで決まります。\n\n続きはリプライに順番に書きました。",
-      "excerpt": "同じテンプレ、同じAIを使っているのに、売れる人と止まる人がいる。 差がつくのは、目に見えるやり方の外側です。 ポイントは3つあります。 ほとんどの人は、見えるやり方だけを真似して終わっています。",
-      "hook": "目に見える手法を真似ても同じ結果は出ない。差は見えない基準・手間・土台にある",
-      "imageUrl": null,
-      "videoUrl": null,
-      "metrics": {
-        "views": 13,
-        "impressions": 13,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "threadViews": [
-          13,
-          8,
-          3,
-          2,
-          1,
-          1
-        ]
-      }
-    },
-    {
-      "id": "2026-10-02-x-principle",
-      "channel": "x",
-      "url": "https://x.com/nishinokousuke/status/2105945255967100931",
-      "postedAt": "2026-10-02T08:00:00.000Z",
-      "text": "テンプレに沿って書いたコピーが、なぜか売れない。\nAIに書かせても同じことが起きます。\n\n差がつくのは、真似した手法の外側にある3つです。\nほとんどの人は、見える手法だけを真似しています。\nコンサルを受ける人は、全員ここで驚きます。\n\n続きはリプライで。",
-      "excerpt": "テンプレに沿って書いたコピーが、なぜか売れない。 AIに書かせても同じことが起きます。 差がつくのは、真似した手法の外側にある3つです。 ほとんどの人は、見える手法だけを真似しています。 コンサルを受ける人は、全員ここで驚きます。",
-      "hook": "目に見える手法を真似ても同じ結果は出ない。差は見えない基準・手間・土台にある",
-      "imageUrl": null,
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 15,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 6.67
       }
     }
   ]
