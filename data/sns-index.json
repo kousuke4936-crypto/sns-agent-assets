@@ -1,6 +1,35 @@
 {
-  "generatedAt": "2026-10-12T15:17:14.551Z",
+  "generatedAt": "2026-10-13T13:50:55.513Z",
   "posts": [
+    {
+      "id": "2026-10-13-instagram-1",
+      "channel": "instagram",
+      "url": "https://www.instagram.com/p/DebcJWnnL2L/",
+      "postedAt": "2026-10-13T09:00:00.000Z",
+      "text": "AIに事業アイデアを頼むと、どこかで見た案ばかり返ってくる。\n売れる案に変える手順は、先に「制限」を3つ渡すことです。\n\n「制限なしで自由に考えて」は、AIにも人にも逆効果になりやすい。\n自由にすると、目の前の成功例や自分の都合に引っぱられるからです。\n\nSTEP1｜やらない領域を決める\n強い競合がひしめく領域を書き出し、「ここは除外」とAIに伝える。\n\nSTEP2｜届けられる相手を決める\n今アプローチできるリスト（既存のお客さん、つながりのある人）を書き出す。\n除外した領域とは別の、その人たちの欲求をAIに洗い出させる。\n\nSTEP3｜自分の持ち札を決める\nこれまでの専門スキル・知識・経験を箇条書きにして渡す。\nこの範囲の中だけで案を出させる。\n\nSTEP4｜条件をまとめてAIに投げる\nそのまま使える頼み方です。\n\n「次の条件で、事業アイデアを出してください。\n・除外する領域：〇〇\n・届けられる相手：〇〇\n・使える専門と経験：〇〇\n各案に、相手のどの欲求に応えるかを1行で添えてください。」\n\nSTEP5｜最後は人が選ぶ\nリストの中の顔が浮かぶ相手を思い出し、「この人なら買うか」で絞る。\nここはAIに渡さず、自分で持つ部分です。\n\n先日のコンサルで、ライターの方が僕と同じセールスコピーの領域に進もうとしていました。\nこの3つの制限をかけたら、その場で良い事業案が出ました。\n\n勘所は1つ。\n自分の内省や目標探しは、制限なしで広げていい。\n売るための発想は、制限を書いてからAIに渡す。\n\nあなたが最初に除外する領域は、どこですか？\n\n毎日ひとつ、仕事をAIに渡す30日 Day 12/30\n\nAIで、人を増やさずに売れる仕組みをつくる方法を毎日投稿しています。\n\n#AI活用 #生成AI #ChatGPT活用 #新規事業 #中小企業 #個人事業主 #マーケティング #AIエージェント",
+      "excerpt": "AIに事業アイデアを頼むと、どこかで見た案ばかり返ってくる。 売れる案に変える手順は、先に「制限」を3つ渡すことです。 「制限なしで自由に考えて」は、AIにも人にも逆効果になりやすい。",
+      "hook": "制限がある方が良いアイディアが出るって知ってた？",
+      "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-10-13/2026-10-13-instagram-1.png",
+      "videoUrl": null
+    },
+    {
+      "id": "2026-10-13-x-1",
+      "channel": "x",
+      "url": "https://x.com/nishinokousuke/status/2109773645010624610",
+      "postedAt": "2026-10-12T22:30:00.000Z",
+      "text": "「未来がない」と感じる仕事を、仕分ける手順。\n\nSTEP1 先週の作業を全部書き出す\nSTEP2 AIに「繰り返しと判断に分けて」と頼む\nSTEP3 繰り返し側を1つ、今日AIに渡す\n\n手元に残った判断が、あなたの仕事の未来です。\n\n毎日ひとつ、仕事をAIに渡す30日 Day 12/30",
+      "excerpt": "「未来がない」と感じる仕事を、仕分ける手順。 STEP1 先週の作業を全部書き出す STEP2 AIに「繰り返しと判断に分けて」と頼む STEP3 繰り返し側を1つ、今日AIに渡す 手元に残った判断が、あなたの仕事の未来です。",
+      "hook": "「今の仕事、未来がないんですよね」経営者からも聞く声",
+      "imageUrl": null,
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 1,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "engagementRate": 0
+      }
+    },
     {
       "id": "2026-10-12-instagram-1",
       "channel": "instagram",
@@ -10,7 +39,17 @@
       "excerpt": "自分の商品の「良いところ」が、うまく言葉にならない人へ。 AIに見つけさせて、今日のメールの1行目にするまでの手順です。 マーケティングは、商品の良いところを見つけて、お客さんに伝える仕事です。 人を褒めるのと同じ動きです。",
       "hook": "できる人と知っているだけの人、違いは実践と応用力",
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-10-12/2026-10-12-instagram-1.png",
-      "videoUrl": null
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 15,
+        "views": 15,
+        "reach": 9,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "engagementRate": 0
+      }
     },
     {
       "id": "2026-10-12-facebook-1",
@@ -23,7 +62,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-10-12/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 3,
+        "impressions": 7,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -41,8 +80,8 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 4,
-        "impressions": 4,
+        "views": 5,
+        "impressions": 5,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -59,7 +98,7 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 3,
+        "impressions": 6,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -77,9 +116,9 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-10-11/2026-10-11-instagram-1.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 11,
-        "views": 11,
-        "reach": 6,
+        "impressions": 15,
+        "views": 15,
+        "reach": 10,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -98,8 +137,8 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 22,
-        "impressions": 22,
+        "views": 23,
+        "impressions": 23,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -116,7 +155,7 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 7,
+        "impressions": 9,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -134,9 +173,9 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-10-10/2026-10-10-instagram-1.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 22,
-        "views": 22,
-        "reach": 11,
+        "impressions": 24,
+        "views": 24,
+        "reach": 13,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -155,8 +194,8 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 15,
-        "impressions": 15,
+        "views": 16,
+        "impressions": 16,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -173,7 +212,7 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 16,
+        "impressions": 18,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -202,8 +241,8 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 6,
-        "impressions": 6,
+        "views": 7,
+        "impressions": 7,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -220,11 +259,11 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 23,
+        "impressions": 25,
         "reactions": 2,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 8.7
+        "engagementRate": 8
       }
     },
     {
@@ -238,14 +277,14 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-10-08/2026-10-08-instagram-1.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 33,
-        "views": 33,
-        "reach": 15,
+        "impressions": 41,
+        "views": 41,
+        "reach": 19,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
-        "saves": 1,
-        "engagementRate": 6.67
+        "saves": 2,
+        "engagementRate": 10.53
       }
     },
     {
@@ -259,7 +298,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-10-08/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 12,
+        "impressions": 14,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -277,8 +316,8 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 9,
-        "impressions": 9,
+        "views": 10,
+        "impressions": 10,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -313,9 +352,9 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-10-07/2026-10-07-instagram-1.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 24,
-        "views": 24,
-        "reach": 11,
+        "impressions": 32,
+        "views": 32,
+        "reach": 13,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -334,7 +373,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-10-07/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 11,
+        "impressions": 12,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -352,8 +391,8 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 4,
-        "impressions": 4,
+        "views": 5,
+        "impressions": 5,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -370,7 +409,7 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 3,
+        "impressions": 4,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -424,7 +463,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-10-05/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 5,
+        "impressions": 6,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -497,42 +536,6 @@
       "videoUrl": null,
       "metrics": {
         "impressions": 4,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0,
-        "engagementRate": 0
-      }
-    },
-    {
-      "id": "2026-10-03-threads-1",
-      "channel": "threads",
-      "url": "https://www.threads.com/@kousuke_nishino/post/DeA6bUbCTPT",
-      "postedAt": "2026-10-02T23:00:00.000Z",
-      "text": "「マーケティングが大事な理由」を、自社の数字で言えるようにする手順。\n\nSTEP1 直近の売上を「客数×単価×購入回数」に分けて、AIに貼る\nSTEP2 「この3つのうち、一番動かしやすい数字はどれか。理由つきで順に並べて」と頼む\nSTEP3 出てきた順番を、お客さんを知っている人が見て直す\n\n大事な理由を聞くと、答えはたいてい「集客できるから」で止まります。\n僕が聞いて回ったときも、ほぼそこで止まりました。\n\n掛け算の式にした瞬間、AIに考えさせる材料になる。\nこの手順の勘所は、そこだけです。\n\nみなさんの会社なら、3つのうちどれが一番動きそうですか？\n\n毎日ひとつ、仕事をAIに渡す30日 Day 2/30\n\nAIで、人を増やさずに売れる仕組みをつくる方法を毎日書いています。",
-      "excerpt": "「マーケティングが大事な理由」を、自社の数字で言えるようにする手順。 STEP1 直近の売上を「客数×単価×購入回数」に分けて、AIに貼る STEP2 「この3つのうち、一番動かしやすい数字はどれか。",
-      "hook": "マーケティングが重要な理由、数字で答えられますか？",
-      "imageUrl": null,
-      "videoUrl": null,
-      "metrics": {
-        "views": 14,
-        "impressions": 14,
-        "reactions": 0,
-        "comments": 0,
-        "shares": 0
-      }
-    },
-    {
-      "id": "2026-10-03-x-1",
-      "channel": "x",
-      "url": "https://x.com/nishinokousuke/status/2106149761774424255",
-      "postedAt": "2026-10-02T22:30:00.000Z",
-      "text": "紹介者が、また紹介したくなる報告をAIで回す手順。\n\nSTEP1 案件の進捗メモをAIに渡す\nSTEP2「紹介者が安心する報告文に。感謝を一言」と頼む\nSTEP3 案件が終わるまで定期的に送る\n\n紹介する人は、紹介し続けます。\n会ってお礼を言うのは、人の仕事です。\n\n毎日ひとつ、仕事をAIに渡す30日 Day 2/30",
-      "excerpt": "紹介者が、また紹介したくなる報告をAIで回す手順。 STEP1 案件の進捗メモをAIに渡す STEP2「紹介者が安心する報告文に。感謝を一言」と頼む STEP3 案件が終わるまで定期的に送る 紹介する人は、紹介し続けます。",
-      "hook": "Buyer is Buyer、紹介する人は紹介し続ける",
-      "imageUrl": null,
-      "videoUrl": null,
-      "metrics": {
-        "impressions": 9,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
