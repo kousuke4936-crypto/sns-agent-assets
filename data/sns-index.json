@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T13:50:55.513Z",
+  "generatedAt": "2026-10-14T11:28:21.926Z",
   "posts": [
     {
       "id": "2026-10-13-instagram-1",
@@ -10,7 +10,17 @@
       "excerpt": "AIに事業アイデアを頼むと、どこかで見た案ばかり返ってくる。 売れる案に変える手順は、先に「制限」を3つ渡すことです。 「制限なしで自由に考えて」は、AIにも人にも逆効果になりやすい。",
       "hook": "制限がある方が良いアイディアが出るって知ってた？",
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-10-13/2026-10-13-instagram-1.png",
-      "videoUrl": null
+      "videoUrl": null,
+      "metrics": {
+        "impressions": 7,
+        "views": 7,
+        "reach": 4,
+        "reactions": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "engagementRate": 0
+      }
     },
     {
       "id": "2026-10-13-x-1",
@@ -23,7 +33,7 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 1,
+        "impressions": 4,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -41,9 +51,9 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-10-12/2026-10-12-instagram-1.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 15,
-        "views": 15,
-        "reach": 9,
+        "impressions": 17,
+        "views": 17,
+        "reach": 11,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -62,7 +72,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-10-12/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 7,
+        "impressions": 10,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -98,7 +108,7 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 6,
+        "impressions": 9,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -116,9 +126,9 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-10-11/2026-10-11-instagram-1.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 15,
-        "views": 15,
-        "reach": 10,
+        "impressions": 21,
+        "views": 21,
+        "reach": 12,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -155,7 +165,7 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 9,
+        "impressions": 12,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -173,9 +183,9 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-10-10/2026-10-10-instagram-1.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 24,
-        "views": 24,
-        "reach": 13,
+        "impressions": 25,
+        "views": 25,
+        "reach": 14,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -212,7 +222,7 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 18,
+        "impressions": 20,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -259,11 +269,11 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 25,
+        "impressions": 27,
         "reactions": 2,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 8
+        "engagementRate": 7.41
       }
     },
     {
@@ -277,14 +287,14 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-10-08/2026-10-08-instagram-1.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 41,
-        "views": 41,
-        "reach": 19,
+        "impressions": 42,
+        "views": 42,
+        "reach": 20,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
         "saves": 2,
-        "engagementRate": 10.53
+        "engagementRate": 10
       }
     },
     {
@@ -298,7 +308,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-10-08/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 14,
+        "impressions": 15,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -334,7 +344,7 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 4,
+        "impressions": 5,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -352,9 +362,9 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-10-07/2026-10-07-instagram-1.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 32,
-        "views": 32,
-        "reach": 13,
+        "impressions": 33,
+        "views": 33,
+        "reach": 15,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -373,7 +383,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-10-07/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 12,
+        "impressions": 13,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -409,7 +419,7 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 4,
+        "impressions": 6,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -445,7 +455,7 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 10,
+        "impressions": 11,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -463,7 +473,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-10-05/shared-0-landscape.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 6,
+        "impressions": 8,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -499,7 +509,7 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 5,
+        "impressions": 6,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -535,7 +545,7 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 4,
+        "impressions": 5,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
