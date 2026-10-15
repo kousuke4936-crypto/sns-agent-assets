@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T11:28:21.926Z",
+  "generatedAt": "2026-10-15T11:04:42.992Z",
   "posts": [
     {
       "id": "2026-10-13-instagram-1",
@@ -12,9 +12,9 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-10-13/2026-10-13-instagram-1.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 7,
-        "views": 7,
-        "reach": 4,
+        "impressions": 12,
+        "views": 12,
+        "reach": 7,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -51,9 +51,9 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-10-12/2026-10-12-instagram-1.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 17,
-        "views": 17,
-        "reach": 11,
+        "impressions": 21,
+        "views": 21,
+        "reach": 13,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -90,8 +90,8 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 5,
-        "impressions": 5,
+        "views": 6,
+        "impressions": 6,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -126,9 +126,9 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-10-11/2026-10-11-instagram-1.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 21,
-        "views": 21,
-        "reach": 12,
+        "impressions": 26,
+        "views": 26,
+        "reach": 16,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -147,8 +147,8 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 23,
-        "impressions": 23,
+        "views": 24,
+        "impressions": 24,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -183,9 +183,9 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-10-10/2026-10-10-instagram-1.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 25,
-        "views": 25,
-        "reach": 14,
+        "impressions": 28,
+        "views": 28,
+        "reach": 16,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -204,8 +204,8 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 16,
-        "impressions": 16,
+        "views": 17,
+        "impressions": 17,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -251,8 +251,8 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 7,
-        "impressions": 7,
+        "views": 8,
+        "impressions": 8,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -269,11 +269,11 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 27,
+        "impressions": 28,
         "reactions": 2,
         "comments": 0,
         "shares": 0,
-        "engagementRate": 7.41
+        "engagementRate": 7.14
       }
     },
     {
@@ -326,8 +326,8 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 10,
-        "impressions": 10,
+        "views": 11,
+        "impressions": 11,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -401,8 +401,8 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 5,
-        "impressions": 5,
+        "views": 6,
+        "impressions": 6,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -437,8 +437,8 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 25,
-        "impressions": 25,
+        "views": 26,
+        "impressions": 26,
         "reactions": 0,
         "comments": 0,
         "shares": 0
@@ -491,8 +491,8 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 12,
-        "impressions": 12,
+        "views": 13,
+        "impressions": 13,
         "reactions": 1,
         "comments": 0,
         "shares": 0
@@ -527,8 +527,8 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 17,
-        "impressions": 17,
+        "views": 18,
+        "impressions": 18,
         "reactions": 1,
         "comments": 0,
         "shares": 0
