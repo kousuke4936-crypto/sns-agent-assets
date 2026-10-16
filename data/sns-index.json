@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T11:04:42.992Z",
+  "generatedAt": "2026-10-16T11:00:24.879Z",
   "posts": [
     {
       "id": "2026-10-13-instagram-1",
@@ -12,8 +12,8 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-10-13/2026-10-13-instagram-1.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 12,
-        "views": 12,
+        "impressions": 13,
+        "views": 13,
         "reach": 7,
         "reactions": 0,
         "comments": 0,
@@ -401,8 +401,8 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "views": 6,
-        "impressions": 6,
+        "views": 7,
+        "impressions": 7,
         "reactions": 0,
         "comments": 0,
         "shares": 0
