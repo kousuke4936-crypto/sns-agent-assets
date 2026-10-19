@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T10:38:38.006Z",
+  "generatedAt": "2026-10-19T12:36:11.962Z",
   "posts": [
     {
       "id": "2026-10-13-instagram-1",
@@ -51,9 +51,9 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-10-12/2026-10-12-instagram-1.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 26,
-        "views": 26,
-        "reach": 15,
+        "impressions": 29,
+        "views": 29,
+        "reach": 16,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -108,7 +108,7 @@
       "imageUrl": null,
       "videoUrl": null,
       "metrics": {
-        "impressions": 10,
+        "impressions": 11,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
@@ -287,14 +287,14 @@
       "imageUrl": "https://raw.githubusercontent.com/kousuke4936-crypto/sns-agent-assets/main/images/2026-10-08/2026-10-08-instagram-1.png",
       "videoUrl": null,
       "metrics": {
-        "impressions": 43,
-        "views": 43,
-        "reach": 21,
+        "impressions": 45,
+        "views": 45,
+        "reach": 22,
         "reactions": 0,
         "comments": 0,
         "shares": 0,
         "saves": 2,
-        "engagementRate": 9.52
+        "engagementRate": 9.09
       }
     },
     {
